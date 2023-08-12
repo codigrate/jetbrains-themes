@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Aurora Borealis - IntelliJ Theme
+Aurora Borealis - Jetbrains Theme
 </h1>
 
 <!-- Plugin description -->
