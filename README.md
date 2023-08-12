@@ -21,8 +21,8 @@ Once you have selected one of the theme options, click the OK button to apply th
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="./aurora-borealis"><img src="./aurora-borealis/icon.png" width="150px;" alt=""/>
-      <br /><sub><b>Aurora Borealis</b></sub></a><br />
+    <td align="center"><a href="./aurora-borealis"><img src="./aurora-borealis-theme/icon.png" width="150px;" alt=""/>
+      <br /><sub><b>Aurora Borealis Theme</b></sub></a><br />
     </td>
   </tr>
 </table>
@@ -31,8 +31,6 @@ Once you have selected one of the theme options, click the OK button to apply th
 <!-- prettier-ignore-end -->
 
 <!-- THEMES-LIST:END -->
-
-<img src="./aurora-borealis/icon.png" alt="theme" width=150>
 
 ## Contributors
 
