@@ -9,6 +9,8 @@ Codigrate - Jetbrains Themes
 </h1>
 
 <!-- Plugin description -->
+Codigrate themes for JetBrains.
+
 After installing a theme, go to Preferences | Appearance and Behavior | Appearance and select one of the new themes in the theme dropdown.
 Once you have selected one of the theme options, click the OK button to apply the changes.
 
