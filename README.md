@@ -21,7 +21,7 @@ Once you have selected one of the theme options, click the OK button to apply th
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="./aurora-borealis"><img src="./aurora-borealis-theme/icon.png" width="150px;" alt=""/>
+    <td align="center"><a href="./aurora-borealis-theme"><img src="./aurora-borealis-theme/icon.png" width="150px;" alt=""/>
       <br /><sub><b>Aurora Borealis Theme</b></sub></a><br />
     </td>
   </tr>
