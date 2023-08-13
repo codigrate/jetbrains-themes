@@ -19,6 +19,7 @@ Once you have selected one of the theme options, click the OK button to apply th
 ## Screenshots
 
 <img src="./screenshot-1.png" alt="screenshot">
+<img src="./screenshot-2.png" alt="screenshot">
 
 ## Contributors
 
