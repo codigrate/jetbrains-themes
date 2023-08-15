@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://codigrate.com">
+   <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
