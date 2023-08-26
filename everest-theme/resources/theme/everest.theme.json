@@ -1,25 +1,27 @@
 {
-  "name": "Aurora Borealis",
-  "dark": true,
+  "name": "Everest",
+  "dark": false,
   "author": "Codigrate",
-  "editorScheme": "/theme/aurora_borealis.xml",
+  "editorScheme": "/theme/everest.xml",
   "colors": {
-    "borderColor": "#112733",
-    "primaryBackground": "#1C3847",
-    "secondaryBackground": "#183240",
-    "accentColor": "#7ACEF5",
-    "secondaryAccentColor": "#549EFF",
-    "primaryForeground": "#e0e0e0",
-    "hoverBackground": "#142A36",
-    "selectionBackground": "#425469",
-    "selectionInactiveBackground": "#354354",
-    "separatorColor": "#112733",
+    "borderColor": "#b8cdd7",
+    "primaryBackground": "#dde8ec",
+    "secondaryBackground": "#bfd1d9",
+    "detailsBackground": "#cedde3",
+    "selectionBackground": "#a8c1cc",
+    "selectionInactiveBackground": "#a8c1cc",
+    "separatorColor": "#b8cdd7",
+    "accentColor": "#3981a2",
+    "secondaryAccentColor": "#ED7E5A",
+    "primaryForeground": "#286e8d",
+    "focusAccentColor": "#91b7c7",
+    "hoverBackground": "#f7c6b6",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
     "warningFocused": "#d09136",
-    "tabColor": "#043a33",
-    "tabLineColor": "#049682"
+    "tabColor": "#edf3f5",
+    "tabLineColor": "#ED7E5A"
   },
   "ui": {
     "*": {
@@ -64,16 +66,16 @@
       "endBorderColor": "selectionBackground",
       "startBackground": "selectionBackground",
       "endBackground": "selectionBackground",
-      "focusedBorderColor": "secondaryAccentColor",
+      "focusedBorderColor": "focusAccentColor",
       "disabledBorderColor": "selectionBackground",
       "default": {
         "foreground": "primaryForeground",
         "startBackground": "selectionBackground",
         "endBackground": "selectionBackground",
-        "startBorderColor": "secondaryAccentColor",
-        "endBorderColor": "secondaryAccentColor",
-        "focusColor": "secondaryAccentColor",
-        "focusedBorderColor": "secondaryAccentColor"
+        "startBorderColor": "focusAccentColor",
+        "endBorderColor": "focusAccentColor",
+        "focusColor": "focusAccentColor",
+        "focusedBorderColor": "focusAccentColor"
       }
     },
     "Counter": {
@@ -89,9 +91,9 @@
         "background": "secondaryBackground",
         "nonEditableBackground": "secondaryBackground",
         "disabledIconColor": "selectionInactiveBackground",
-        "iconColor": "secondaryAccentColor"
+        "iconColor": "focusAccentColor"
       },
-      "selectionBackground": "secondaryAccentColor",
+      "selectionBackground": "focusAccentColor",
       "nonEditableBackground": "secondaryBackground"
     },
     "CompletionPopup": {
@@ -100,7 +102,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "secondaryAccentColor",
+      "focusColor": "focusAccentColor",
       "borderColor": "selectionBackground",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionBackground",
@@ -171,14 +173,14 @@
       "hoverBackground": "hoverBackground",
       "lightSelectionBackground": "secondaryBackground",
       "Button": {
-        "installBorderColor": "secondaryAccentColor",
-        "installForeground": "secondaryAccentColor",
+        "installBorderColor": "focusAccentColor",
+        "installForeground": "focusAccentColor",
         "installBackground": "primaryBackground",
         "installFillForeground": "primaryBackground",
-        "installFillBackground": "secondaryAccentColor",
+        "installFillBackground": "focusAccentColor",
         "installFocusedBackground": "primaryBackground",
-        "updateBorderColor": "secondaryAccentColor",
-        "updateForeground": "secondaryAccentColor",
+        "updateBorderColor": "focusAccentColor",
+        "updateForeground": "focusAccentColor",
         "updateBackground": "primaryBackground"
       },
       "Tab": {
@@ -192,8 +194,8 @@
       "failedEndColor": "error",
       "trackColor": "selectionBackground",
       "progressColor": "accentColor",
-      "indeterminateStartColor": "secondaryAccentColor",
-      "indeterminateEndColor": "secondaryAccentColor",
+      "indeterminateStartColor": "focusAccentColor",
+      "indeterminateEndColor": "focusAccentColor",
       "passedColor": "tabLineColor",
       "passedEndColor": "tabLineColor"
     },
@@ -306,19 +308,19 @@
     },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "secondaryBackground"
+        "background": "primaryBackground"
       },
       "separatorColor": "separatorColor",
       "Projects": {
-        "background": "hoverBackground",
-        "selectionBackground": "secondaryBackground",
-        "selectionInactiveBackground": "secondaryBackground",
+        "background": "secondaryBackground",
+        "selectionBackground": "selectionBackground",
+        "selectionInactiveBackground": "selectionBackground",
         "actions": {
           "background": "secondaryBackground"
         }
       },
       "Details": {
-        "background": "hoverBackground"
+        "background": "detailsBackground"
       }
     }
   },
