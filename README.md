@@ -26,6 +26,9 @@ Once you have selected one of the theme options, click the OK button to apply th
     <td align="center"><a href="./aurora-borealis-theme"><img src="./aurora-borealis-theme/icon.png" width="140px;" alt=""/>
       <br /><sub><b>Aurora Borealis Theme</b></sub></a><br />
     </td>
+    <td align="center"><a href="./everest-theme"><img src="./everest-theme/icon.png" width="140px;" alt=""/>
+      <br /><sub><b>Everest Theme</b></sub></a><br />
+    </td>
   </tr>
 </table>
 
