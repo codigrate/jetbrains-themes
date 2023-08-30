@@ -7,10 +7,14 @@
     "borderColor": "#dee7ea",
     "editorBackground": "#ffffff",
     "menuBackground": "#f8fdff",
+    "sidePanelBackground": "#eaf5fa",
     "headerBackground": "#eaf5fa",
+    "inputBackground": "#ffffff",
     "selectionBackground": "#cae7f5",
     "selectionInactiveBackground": "#c2dfec",
     "separatorColor": "#c5dce8",
+    "tabColor": "#ffffff",
+    "tabLineColor": "#ED7E5A",
     "hoverBackground": "#f7c6b6",
     "accentColor": "#3981a2",
     "secondaryAccentColor": "#ED7E5A",
@@ -19,9 +23,7 @@
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
-    "warningFocused": "#d09136",
-    "tabColor": "#edf3f5",
-    "tabLineColor": "#ED7E5A"
+    "warningFocused": "#d09136"
   },
   "ui": {
     "*": {
@@ -88,13 +90,13 @@
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
       "ArrowButton": {
-        "background": "headerBackground",
-        "nonEditableBackground": "headerBackground",
+        "background": "inputBackground",
+        "nonEditableBackground": "inputBackground",
         "disabledIconColor": "selectionInactiveBackground",
         "iconColor": "focusAccentColor"
       },
       "selectionBackground": "focusAccentColor",
-      "nonEditableBackground": "headerBackground"
+      "nonEditableBackground": "inputBackground"
     },
     "CompletionPopup": {
       "selectionBackground": "selectionInactiveBackground",
@@ -120,6 +122,7 @@
     },
     "EditorTabs": {
       "background": "menuBackground",
+      "hoverBackground": "hoverBackground",
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "tabLineColor",
       "underlineColor": "tabLineColor",
@@ -161,7 +164,7 @@
       }
     },
     "PasswordField": {
-      "background": "headerBackground"
+      "background": "inputBackground"
     },
     "Plugins": {
       "SearchField": {
@@ -207,9 +210,9 @@
     },
     "ScrollBar": {
       "Mac": {
-        "hoverThumbColor": "tabLineColor",
+        "hoverThumbColor": "selectionBackground",
         "Transparent": {
-          "hoverThumbColor": "tabLineColor"
+          "hoverThumbColor": "selectionBackground"
         }
       }
     },
@@ -218,7 +221,7 @@
         "background": "editorBackground"
       },
       "Tab": {
-        "selectedBackground": "headerBackground",
+        "selectedBackground": "editorBackground",
         "selectedForeground": "primaryForeground"
       }
     },
@@ -230,7 +233,7 @@
       "separatorColor": "separatorColor"
     },
     "SidePanel": {
-      "background": "menuBackground"
+      "background": "sidePanelBackground"
     },
     "TabbedPane": {
       "tabSelectionHeight": 1,
@@ -248,7 +251,7 @@
       "bottomSeparatorColor": "separatorColor"
     },
     "TextField": {
-      "background": "headerBackground"
+      "background": "editorBackground"
     },
     "ToggleButton": {
       "onBackground": "tabLineColor",
@@ -311,7 +314,7 @@
     },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "menuBackground"
+        "background": "sidePanelBackground"
       },
       "separatorColor": "separatorColor",
       "Projects": {
@@ -321,9 +324,6 @@
         "actions": {
           "background": "menuBackground"
         }
-      },
-      "Details": {
-        "background": "editorBackground"
       }
     }
   },
