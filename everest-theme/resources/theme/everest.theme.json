@@ -4,18 +4,18 @@
   "author": "Codigrate",
   "editorScheme": "/theme/everest.xml",
   "colors": {
-    "borderColor": "#b8cdd7",
-    "primaryBackground": "#dde8ec",
-    "secondaryBackground": "#bfd1d9",
-    "detailsBackground": "#cedde3",
-    "selectionBackground": "#a8c1cc",
-    "selectionInactiveBackground": "#a8c1cc",
-    "separatorColor": "#b8cdd7",
+    "borderColor": "#dee7ea",
+    "editorBackground": "#ffffff",
+    "menuBackground": "#f8fdff",
+    "headerBackground": "#eaf5fa",
+    "selectionBackground": "#cae7f5",
+    "selectionInactiveBackground": "#c2dfec",
+    "separatorColor": "#c5dce8",
+    "hoverBackground": "#f7c6b6",
     "accentColor": "#3981a2",
     "secondaryAccentColor": "#ED7E5A",
     "primaryForeground": "#286e8d",
-    "focusAccentColor": "#91b7c7",
-    "hoverBackground": "#f7c6b6",
+    "focusAccentColor": "#afd6e7",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -26,13 +26,13 @@
   "ui": {
     "*": {
       "arc": "7",
-      "background": "primaryBackground",
+      "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "inactiveBackground": "primaryBackground",
-      "disabledBackground": "primaryBackground",
+      "inactiveBackground": "menuBackground",
+      "disabledBackground": "menuBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor"
     },
@@ -79,7 +79,7 @@
       }
     },
     "Counter": {
-      "foreground": "primaryBackground",
+      "foreground": "menuBackground",
       "background": "accentColor"
     },
     "CheckBoxMenuItem": {
@@ -88,13 +88,13 @@
     "ComboBox": {
       "modifiedItemForeground": "accentColor",
       "ArrowButton": {
-        "background": "secondaryBackground",
-        "nonEditableBackground": "secondaryBackground",
+        "background": "headerBackground",
+        "nonEditableBackground": "headerBackground",
         "disabledIconColor": "selectionInactiveBackground",
         "iconColor": "focusAccentColor"
       },
       "selectionBackground": "focusAccentColor",
-      "nonEditableBackground": "secondaryBackground"
+      "nonEditableBackground": "headerBackground"
     },
     "CompletionPopup": {
       "selectionBackground": "selectionInactiveBackground",
@@ -115,11 +115,11 @@
       "borderColor": "selectionBackground"
     },
     "Editor": {
-      "background": "secondaryBackground",
+      "background": "menuBackground",
       "shortcutForeground": "accentColor"
     },
     "EditorTabs": {
-      "background": "secondaryBackground",
+      "background": "menuBackground",
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "tabLineColor",
       "underlineColor": "tabLineColor",
@@ -137,51 +137,51 @@
     "Notification": {
       "borderColor": "selectionBackground",
       "errorBorderColor": "error",
-      "errorBackground": "primaryBackground",
+      "errorBackground": "menuBackground",
       "errorForeground": "primaryForeground",
       "ToolWindow": {
         "warningForeground": "primaryForeground",
-        "warningBackground": "primaryBackground",
+        "warningBackground": "menuBackground",
         "warningBorderColor": "warning",
         "errorForeground": "primaryForeground",
         "errorBorderColor": "error",
-        "errorBackground": "primaryBackground",
+        "errorBackground": "menuBackground",
         "informativeForeground": "primaryForeground",
-        "informativeBackground": "primaryBackground",
+        "informativeBackground": "menuBackground",
         "informativeBorderColor": "accentColor"
       }
     },
     "NotificationsToolwindow": {
       "newNotification": {
-        "hoverBackground": "secondaryBackground",
-        "background": "secondaryBackground"
+        "hoverBackground": "hoverBackground",
+        "background": "menuBackground"
       },
       "Notification": {
-        "hoverBackground": "secondaryBackground"
+        "hoverBackground": "hoverBackground"
       }
     },
     "PasswordField": {
-      "background": "secondaryBackground"
+      "background": "headerBackground"
     },
     "Plugins": {
       "SearchField": {
-        "background": "secondaryBackground"
+        "background": "editorBackground"
       },
       "SectionHeader": {
         "foreground": "primaryForeground"
       },
       "hoverBackground": "hoverBackground",
-      "lightSelectionBackground": "secondaryBackground",
+      "lightSelectionBackground": "selectionBackground",
       "Button": {
         "installBorderColor": "focusAccentColor",
         "installForeground": "focusAccentColor",
-        "installBackground": "primaryBackground",
-        "installFillForeground": "primaryBackground",
+        "installBackground": "menuBackground",
+        "installFillForeground": "menuBackground",
         "installFillBackground": "focusAccentColor",
-        "installFocusedBackground": "primaryBackground",
+        "installFocusedBackground": "menuBackground",
         "updateBorderColor": "focusAccentColor",
         "updateForeground": "focusAccentColor",
-        "updateBackground": "primaryBackground"
+        "updateBackground": "menuBackground"
       },
       "Tab": {
         "selectedBackground": "hoverBackground",
@@ -201,8 +201,8 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "secondaryBackground",
-        "inactiveBackground": "secondaryBackground"
+        "activeBackground": "headerBackground",
+        "inactiveBackground": "headerBackground"
       }
     },
     "ScrollBar": {
@@ -215,10 +215,10 @@
     },
     "SearchEverywhere": {
       "SearchField": {
-        "background": "secondaryBackground"
+        "background": "editorBackground"
       },
       "Tab": {
-        "selectedBackground": "secondaryBackground",
+        "selectedBackground": "headerBackground",
         "selectedForeground": "primaryForeground"
       }
     },
@@ -230,7 +230,7 @@
       "separatorColor": "separatorColor"
     },
     "SidePanel": {
-      "background": "secondaryBackground"
+      "background": "menuBackground"
     },
     "TabbedPane": {
       "tabSelectionHeight": 1,
@@ -241,14 +241,14 @@
     },
     "Table": {
       "gridColor": "borderColor",
-      "hoverBackground": "selectionBackground",
-      "lightSelectionBackground": "secondaryBackground"
+      "hoverBackground": "hoverBackground",
+      "lightSelectionBackground": "selectionBackground"
     },
     "TableHeader": {
       "bottomSeparatorColor": "separatorColor"
     },
     "TextField": {
-      "background": "secondaryBackground"
+      "background": "headerBackground"
     },
     "ToggleButton": {
       "onBackground": "tabLineColor",
@@ -263,8 +263,8 @@
         "hoverBackground": "hoverBackground"
       },
       "Header": {
-        "background": "primaryBackground",
-        "inactiveBackground": "secondaryBackground"
+        "background": "headerBackground",
+        "inactiveBackground": "headerBackground"
       },
       "HeaderTab": {
         "underlineColor": "tabLineColor",
@@ -286,7 +286,7 @@
     "VersionControl": {
       "FileHistory": {
         "Commit": {
-          "selectedBranchBackground": "secondaryBackground"
+          "selectedBranchBackground": "selectionBackground"
         }
       },
       "GitLog": {
@@ -298,29 +298,32 @@
       },
       "Log": {
         "Commit": {
-          "hoveredBackground": "selectionBackground",
-          "currentBranchBackground": "secondaryBackground"
+          "hoveredBackground": "hoverBackground",
+          "currentBranchBackground": "selectionBackground"
         }
       },
       "RefLabel": {
         "foreground": "primaryForeground"
       }
     },
+    "Menu": {
+      "background": "menuBackground"
+    },
     "WelcomeScreen": {
       "SidePanel": {
-        "background": "primaryBackground"
+        "background": "menuBackground"
       },
       "separatorColor": "separatorColor",
       "Projects": {
-        "background": "secondaryBackground",
+        "background": "menuBackground",
         "selectionBackground": "selectionBackground",
         "selectionInactiveBackground": "selectionBackground",
         "actions": {
-          "background": "secondaryBackground"
+          "background": "menuBackground"
         }
       },
       "Details": {
-        "background": "detailsBackground"
+        "background": "editorBackground"
       }
     }
   },
