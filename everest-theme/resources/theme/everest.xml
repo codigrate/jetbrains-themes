@@ -1,10 +1,9 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-02T19:46:49</property>
-        <property name="ide">Idea</property>
+        <property name="created">2023-09-02T20:10:45</property>
+        <property name="ide">idea</property>
         <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-02T19:47:05</property>
-        <property name="originalScheme">Everest Scheme</property>
+        <property name="modified">2023-09-02T20:10:56</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="71ad93" />
@@ -14,7 +13,7 @@
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
         <option name="DOC_COMMENT_LINK" value="af9353" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="eaf5fa" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="f2f8fb" />
         <option name="ERROR_HINT" value="ffdcdc" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="fefefe" />
