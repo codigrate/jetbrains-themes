@@ -13,11 +13,7 @@ Aurora Borealis - Jetbrains Theme
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
 
 <!-- Plugin description -->
-Aurora Borealis dark theme for JetBrains.
-
-After installing the theme, go to Preferences | Appearance and Behavior | Appearance and select one of the new themes in the theme dropdown.
-Once you have selected one of the theme options, click the OK button to apply the changes.
-
+Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
 <!-- Plugin description end -->
 
 ## Screenshots

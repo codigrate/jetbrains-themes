@@ -18,10 +18,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
-        Everest dark theme for JetBrains.
-
-        After installing the theme, go to Preferences | Appearance and Behavior | Appearance and select one of the new themes in the theme dropdown.
-        Once you have selected one of the theme options, click the OK button to apply the changes.
+        Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
     </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.

@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/22487-everest-theme">
+   <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,16 +8,12 @@
 Everest - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22487-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-everest-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-everest-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-everest-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-everest-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
 
 <!-- Plugin description -->
-Everest dark theme for JetBrains.
-
-After installing the theme, go to Preferences | Appearance and Behavior | Appearance and select one of the new themes in the theme dropdown.
-Once you have selected one of the theme options, click the OK button to apply the changes.
-
+Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
 <!-- Plugin description end -->
 
 ## Screenshots
