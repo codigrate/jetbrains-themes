@@ -176,14 +176,14 @@
       "hoverBackground": "hoverBackground",
       "lightSelectionBackground": "selectionBackground",
       "Button": {
-        "installBorderColor": "focusAccentColor",
-        "installForeground": "focusAccentColor",
+        "installBorderColor": "accentColor",
+        "installForeground": "accentColor",
         "installBackground": "menuBackground",
-        "installFillForeground": "menuBackground",
-        "installFillBackground": "focusAccentColor",
-        "installFocusedBackground": "menuBackground",
-        "updateBorderColor": "focusAccentColor",
-        "updateForeground": "focusAccentColor",
+        "installFillForeground": "accentColor",
+        "installFillBackground": "menuBackground",
+        "installFocusedBackground": "selectionBackground",
+        "updateBorderColor": "accentColor",
+        "updateForeground": "accentColor",
         "updateBackground": "menuBackground"
       },
       "Tab": {

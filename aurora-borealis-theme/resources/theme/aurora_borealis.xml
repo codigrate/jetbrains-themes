@@ -1,9 +1,9 @@
 <scheme name="Aurora Borealis Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-08-13T20:10:16</property>
+        <property name="created">2023-09-04T17:01:49</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.0.0</property>
-        <property name="modified">2023-08-13T20:10:22</property>
+        <property name="ideVersion">2023.2.1.0.0</property>
+        <property name="modified">2023-09-04T17:01:55</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="2b9abc" />
@@ -31,7 +31,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="17303f" />
         <option name="SELECTED_INDENT_GUIDE" value="3a7ea6" />
         <option name="SELECTED_TEARLINE_COLOR" value="3a7ea6" />
-        <option name="SELECTION_BACKGROUND" value="354354" />
+        <option name="SELECTION_BACKGROUND" value="42556c" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="2d5465" />
         <option name="ScrollBar.Mac.thumbColor" value="20414f" />
         <option name="TEARLINE_COLOR" value="17303f" />
