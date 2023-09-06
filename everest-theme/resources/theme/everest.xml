@@ -1,9 +1,9 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-02T20:10:45</property>
+        <property name="created">2023-09-06T14:34:22</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-02T20:10:56</property>
+        <property name="modified">2023-09-06T14:34:29</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="71ad93" />
@@ -439,8 +439,8 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="851691" />
-                <option name="EFFECT_COLOR" value="851691" />
+                <option name="FOREGROUND" value="77589d" />
+                <option name="EFFECT_COLOR" value="77589d" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
