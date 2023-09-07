@@ -29,7 +29,7 @@ Once you have selected one of the theme options, click the OK button to apply th
     <td align="center"><a href="./everest-theme"><img src="./everest-theme/icon.png" width="140px;" alt=""/>
       <br /><sub><b>Everest Theme</b></sub></a><br />
     </td>
-    <td align="center"><a href="./everest-theme"><img src="./autumn-theme/icon.png" width="140px;" alt=""/>
+    <td align="center"><a href="./autumn-theme"><img src="./autumn-theme/icon.png" width="140px;" alt=""/>
       <br /><sub><b>Autumn Theme</b></sub></a><br />
     </td>
   </tr>
