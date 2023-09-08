@@ -12,12 +12,14 @@
     "inputBackground": "#ffffff",
     "selectionBackground": "#cae7f5",
     "selectionInactiveBackground": "#c2dfec",
+    "searchMatchBackground": "#f7c6b6",
     "separatorColor": "#c5dce8",
     "tabColor": "#ffffff",
     "tabLineColor": "#ED7E5A",
-    "hoverBackground": "#f7c6b6",
+    "tabHoverBackground": "#f7c6b6",
     "accentColor": "#3981a2",
     "secondaryAccentColor": "#ED7E5A",
+    "hoverBackground": "#f7c6b6",
     "primaryForeground": "#286e8d",
     "focusAccentColor": "#afd6e7",
     "error": "#CE5E5E",
@@ -122,7 +124,7 @@
     },
     "EditorTabs": {
       "background": "menuBackground",
-      "hoverBackground": "hoverBackground",
+      "hoverBackground": "tabHoverBackground",
       "underlinedTabBackground": "tabColor",
       "inactiveUnderlineColor": "tabLineColor",
       "underlineColor": "tabLineColor",
@@ -226,8 +228,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "accentColor",
-      "endBackground": "accentColor"
+      "startBackground": "searchMatchBackground",
+      "endBackground": "searchMatchBackground"
     },
     "Separator": {
       "separatorColor": "separatorColor"

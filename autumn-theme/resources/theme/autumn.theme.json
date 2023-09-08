@@ -12,15 +12,16 @@
     "inputBackground": "#ffffff",
     "selectionBackground": "#F6D8B6",
     "selectionInactiveBackground": "#f1ddca",
+    "searchMatchBackground": "#DBE9C3",
     "separatorColor": "#CCC0B8",
     "tabColor": "#ffffff",
-    "tabLineColor": "#f5b211",
-    "tabHoverBackground": "#f3ead5",
-    "secondaryAccentColor": "#7da63a",
-    "hoverBackground": "#DBE9C3",
-    "accentColor": "#5d2211",
-    "primaryForeground": "#391105",
-    "focusAccentColor": "#6e3321",
+    "tabLineColor": "#7da63a",
+    "tabHoverBackground": "#DBE9C3",
+    "accentColor": "#775851",
+    "secondaryAccentColor": "#f5b211",
+    "hoverBackground": "#f3ead5",
+    "primaryForeground": "#341911",
+    "focusAccentColor": "#816b65",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -227,8 +228,8 @@
       }
     },
     "SearchMatch": {
-      "startBackground": "accentColor",
-      "endBackground": "accentColor"
+      "startBackground": "searchMatchBackground",
+      "endBackground": "searchMatchBackground"
     },
     "Separator": {
       "separatorColor": "separatorColor"
