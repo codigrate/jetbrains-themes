@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/22653-autumn-theme">
+   <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,9 +8,9 @@
 Autumn - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22653-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-autumn-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22653-autumn-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-autumn-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22653-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-autumn-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
 
 <!-- Plugin description -->
 Autumn-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
