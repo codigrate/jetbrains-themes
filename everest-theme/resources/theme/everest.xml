@@ -1,9 +1,9 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-06T14:34:22</property>
+        <property name="created">2023-09-11T22:45:24</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-06T14:34:29</property>
+        <property name="modified">2023-09-11T22:45:29</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="71ad93" />
@@ -175,7 +175,11 @@
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
-        <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+        <option name="DEFAULT_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="25131d" />
+            </value>
+        </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
                 <option name="FOREGROUND" value="218acc" />

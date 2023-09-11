@@ -1,10 +1,9 @@
 <scheme name="Autumn Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-10T20:39:54</property>
+        <property name="created">2023-09-11T22:47:16</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-10T20:40:02</property>
-        <property name="originalScheme">Autumn Scheme</property>
+        <property name="modified">2023-09-11T22:47:22</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="b29993" />
@@ -176,7 +175,11 @@
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
-        <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+        <option name="DEFAULT_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="251b13" />
+            </value>
+        </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
                 <option name="FOREGROUND" value="b68f3c" />

@@ -1,9 +1,9 @@
 <scheme name="Aurora Borealis Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-09-06T14:37:30</property>
+        <property name="created">2023-09-11T22:46:11</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-06T14:37:38</property>
+        <property name="modified">2023-09-11T22:46:19</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="2b9abc" />
@@ -154,7 +154,12 @@
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
-        <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+        <option name="DEFAULT_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="e0e0e0" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
                 <option name="FOREGROUND" value="7acef5" />
