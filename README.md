@@ -23,16 +23,59 @@ Once you have selected one of the theme options, click the OK button to apply th
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="./aurora-borealis-theme"><img src="./aurora-borealis-theme/icon.png" width="140px;" alt=""/>
-      <br /><sub><b>Aurora Borealis Theme</b></sub></a><br />
+    <td align="center">
+       <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+          <img src="./aurora-borealis-theme/icon.png" width="150px;" alt=""/>
+          <br/>
+          <sub>
+             <b>Aurora Borealis Theme</b>
+          </sub>
+       </a>
     </td>
-    <td align="center"><a href="./everest-theme"><img src="./everest-theme/icon.png" width="140px;" alt=""/>
-      <br /><sub><b>Everest Theme</b></sub></a><br />
+    <td align="left">
+       <img src="https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
     </td>
-    <td align="center"><a href="./autumn-theme"><img src="./autumn-theme/icon.png" width="140px;" alt=""/>
-      <br /><sub><b>Autumn Theme</b></sub></a><br />
+    <td align="center">
+       <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+          <img src="./everest-theme/icon.png" width="150px;" alt=""/>
+          <br/>
+          <sub>
+             <b>Everest Theme</b>
+          </sub>
+       </a>
+    </td>
+    <td align="left">
+       <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
     </td>
   </tr>
+   <tr>
+    <td align="center">
+       <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+          <img src="./autumn-theme/icon.png" width="150px;" alt=""/>
+          <br/>
+          <sub>
+             <b>Autumn Theme</b>
+          </sub>
+       </a>
+    </td>
+    <td align="left">
+       <img src="https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+    </td>
+  </tr>
+
+   
 </table>
 
 <!-- markdownlint-enable -->
