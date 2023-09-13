@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.aurora-borealis.theme</id>
-    <version>1.0.6</version>
+    <version>1.0.7</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -18,13 +18,81 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
-        Aurora Borealis-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
+        Aurora Borealis-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to
+        be easy on the eyes, helping you focus and code more efficiently.
     </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
-        Update identifier background color
+        <![CDATA[
+            <b>1.0.7</b>
+            <ul>
+                <li>
+                    Update icon
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.6</b>
+            <ul>
+                <li>
+                    Update identifier background color
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.5</b>
+            <ul>
+                <li>
+                    Update Search Match Background Colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.4</b>
+            <ul>
+                <li>
+                    Update implicit anonymous class parameter attribute colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.3</b>
+            <ul>
+                <li>
+                    Update install and update button colors
+                </li>
+                <li>
+                    Update selection background color
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.2</b>
+            <ul>
+                <li>
+                    Update docs
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.1</b>
+            <ul>
+                <li>
+                    Update menu colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.0</b>
+            <ul>
+                <li>
+                    Initial version
+                </li>
+            </ul>
+            <br/>
+        ]]>
     </change-notes>
 
     <!-- Product and plugin compatibility requirements.
