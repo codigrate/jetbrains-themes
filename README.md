@@ -39,6 +39,8 @@ Once you have selected one of the theme options, click the OK button to apply th
        <br/>
        <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
     </td>
+  </tr>
+   <tr>
     <td align="center">
        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
           <img src="./everest-theme/icon.png" width="150px;" alt=""/>
