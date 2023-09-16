@@ -25,7 +25,7 @@ Once you have selected one of the theme options, click the OK button to apply th
   <tr>
     <td align="center">
        <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-          <img src="./aurora-borealis-theme/icon.png" width="150px;" alt=""/>
+          <img src="./aurora-borealis-theme/icon.png" width="100px;" alt=""/>
           <br/>
           <sub>
              <b>Aurora Borealis Theme</b>
@@ -43,7 +43,7 @@ Once you have selected one of the theme options, click the OK button to apply th
    <tr>
     <td align="center">
        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-          <img src="./everest-theme/icon.png" width="150px;" alt=""/>
+          <img src="./everest-theme/icon.png" width="100px;" alt=""/>
           <br/>
           <sub>
              <b>Everest Theme</b>
@@ -61,7 +61,7 @@ Once you have selected one of the theme options, click the OK button to apply th
    <tr>
     <td align="center">
        <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-          <img src="./autumn-theme/icon.png" width="150px;" alt=""/>
+          <img src="./autumn-theme/icon.png" width="100px;" alt=""/>
           <br/>
           <sub>
              <b>Autumn Theme</b>
