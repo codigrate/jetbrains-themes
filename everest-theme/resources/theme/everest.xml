@@ -1,10 +1,9 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-17T19:46:20</property>
-        <property name="ide">Idea</property>
-        <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-17T19:47:08</property>
-        <property name="originalScheme">Everest Scheme</property>
+        <property name="created">2023-09-18T20:15:43</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2023.2.2.0.0</property>
+        <property name="modified">2023-09-18T20:15:47</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="71ad93" />
@@ -13,7 +12,7 @@
         <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
-        <option name="DOC_COMMENT_LINK" value="836b2e" />
+        <option name="DOC_COMMENT_LINK" value="6e828f" />
         <option name="EDITOR_GUTTER_BACKGROUND" value="edf3f5" />
         <option name="ERROR_HINT" value="ffdcdc" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -111,7 +110,7 @@
             <value>
                 <option name="FOREGROUND" value="286da6" />
                 <option name="EFFECT_COLOR" value="286da6" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_TYPE" value="-1" />
             </value>
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -139,7 +138,7 @@
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="836b2e" />
+                <option name="FOREGROUND" value="6e828f" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -149,7 +148,7 @@
         <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="836b2e" />
+                <option name="FOREGROUND" value="6e828f" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -172,7 +171,7 @@
         <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="9a267a" />
+                <option name="FOREGROUND" value="8c4069" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -205,13 +204,13 @@
         <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="836b2e" />
+                <option name="FOREGROUND" value="6e828f" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="5f6713" />
+                <option name="FOREGROUND" value="1a6d9f" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -226,11 +225,15 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="5b4281" />
+                <option name="FOREGROUND" value="8f4446" />
             </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
-        <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="1a6d9f" />
+            </value>
+        </option>
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="6b2b2b" />
@@ -239,12 +242,12 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="1a6d9f" />
+                <option name="FOREGROUND" value="83529b" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="1a6d9f" />
+                <option name="FOREGROUND" value="83529b" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -444,8 +447,8 @@
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="41236e" />
-                <option name="EFFECT_COLOR" value="41236e" />
+                <option name="FOREGROUND" value="854673" />
+                <option name="EFFECT_COLOR" value="854673" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -498,6 +501,7 @@
                 <option name="FOREGROUND" value="127596" />
             </value>
         </option>
+        <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="JS.REGEXP">
             <value>
                 <option name="FOREGROUND" value="c57d25" />
@@ -589,7 +593,7 @@
         </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="77009b" />
+                <option name="FOREGROUND" value="83529b" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -609,9 +613,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="836b2e" />
+                <option name="FOREGROUND" value="6e828f" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="836b2e" />
+                <option name="ERROR_STRIPE_COLOR" value="6e828f" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">
