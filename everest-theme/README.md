@@ -22,6 +22,50 @@ Everest-inspired theme for IntelliJ has a simple, colorful interface for better 
 <img src="./screenshot-2.png" alt="screenshot">
 <img src="./screenshot-3.png" alt="screenshot">
 
+## Getting Started
+
+1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
+2. Launch the IDE and open plugin settings.
+3. Search for **Everest Theme** and click install.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Everest Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
+
+## What's Next
+
+#### 1.0.7
+
+* Update icon
+
+## What's New
+
+#### 1.0.6
+
+* Update editor colors
+
+#### 1.0.5
+
+* Update icon
+* Update menu and editor colors
+
+#### 1.0.4
+
+* Update identifier background color
+
+#### 1.0.3
+
+* Update Search Match Background Colors
+
+#### 1.0.2
+
+* Update implicit anonymous class parameter attribute colors
+
+#### 1.0.1
+
+* Update install and update button colors
+
+#### 1.0.0
+
+* Initial version
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
