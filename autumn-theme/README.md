@@ -31,11 +31,15 @@ Autumn-inspired theme for IntelliJ has a simple, colorful interface for better c
 
 ## What's Next
 
+#### 1.0.5
+
+* Update editor colors
+
+## What's New
+
 #### 1.0.4
 
 * Update icon
-
-## What's New
 
 #### 1.0.3
 

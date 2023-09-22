@@ -31,11 +31,15 @@ Everest-inspired theme for IntelliJ has a simple, colorful interface for better 
 
 ## What's Next
 
+#### 1.0.8
+
+* Update editor colors
+
+## What's New
+
 #### 1.0.7
 
 * Update icon
-
-## What's New
 
 #### 1.0.6
 
