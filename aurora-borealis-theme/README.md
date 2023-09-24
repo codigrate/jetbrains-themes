@@ -19,7 +19,13 @@ the Arctic night sky and oceanic depths. Dark blues and teals serve as the backd
 the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
 and code more efficiently.
 
-### Color Palette
+## Screenshots
+
+<img src="./screenshot-1.png" alt="screenshot">
+<img src="./screenshot-2.png" alt="screenshot">
+<img src="./screenshot-3.png" alt="screenshot">
+
+## Color Palette
 
 * Editor Background - #142A36
 * Menu Background - #1C3847
@@ -32,11 +38,7 @@ and code more efficiently.
 * Static Fields - #D193BB
 * Parameters - #BAA5FF
 
-## Screenshots
-
-<img src="./screenshot-1.png" alt="screenshot">
-<img src="./screenshot-2.png" alt="screenshot">
-<img src="./screenshot-3.png" alt="screenshot">
+<img src="./color-palette.png" alt="color palette">
 
 ## Getting Started
 
