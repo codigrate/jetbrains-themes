@@ -21,7 +21,7 @@ Codigrate themes for JetBrains.
 
 <!-- Plugin description end -->
 
-## Themes
+## Nature Themes
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
