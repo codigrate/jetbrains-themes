@@ -14,10 +14,9 @@ Aurora Borealis - Jetbrains Theme
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of
-the Arctic night sky and oceanic depths. Dark blues and teals serve as the backdrop, while lighter accents echo
-the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
-and code more efficiently.
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
+night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
+Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
 
 ## Screenshots
 
@@ -43,9 +42,11 @@ and code more efficiently.
 ## Getting Started
 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
-2. Launch the IDE and open plugin settings. 
-3. Search for **Aurora Borealis Theme** and click install. 
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Aurora Borealis Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
+2. Launch the IDE and open plugin settings.
+3. Search for **Aurora Borealis Theme** and click install.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Aurora Borealis
+   Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
+   changes.
 
 ## What's Next
 
