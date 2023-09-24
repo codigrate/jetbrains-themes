@@ -22,15 +22,15 @@ and code more efficiently.
 ### Color Palette
 
 * Editor Background - #142A36
-* Primary Text - #E0E0E0
-* Selection Background - #42556C
 * Menu Background - #1C3847
-* Side Panel Background - #183240
-* Tab Color - #043A33
-* Header Background - #183240
-* Accent - #7ACEF5
-* Secondary Accent - #3D75BE
-* Focus Accent Color - #C3DCFF
+* Strings and Numbers - #549EFF
+* Instance Fields - #7ACEF5
+* Tab Colors - #043A33
+* Global Variables - #73D379
+* Local Variables - #05C0A6
+* Keywords - #BB719B
+* Static Fields - #D193BB
+* Parameters - #BAA5FF
 
 ## Screenshots
 
