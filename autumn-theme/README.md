@@ -12,9 +12,24 @@ Autumn - Jetbrains Theme
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
 
-<!-- Plugin description -->
-Autumn-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
-<!-- Plugin description end -->
+## Description
+
+Inspired by the warm hues and rustic feel of autumn, this light theme aims to evoke a sense of comfort and
+tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
+afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+
+### Color Palette
+
+* Editor Background - #FFFFFF
+* Primary Text - #341911
+* Selection Background - #F6D8B6
+* Menu Background - #F8F5F4
+* Side Panel Background - #F1ECE8
+* Tab Color - #FFFFFF
+* Header Background - #F6C7B9
+* Accent - #775851
+* Secondary Accent - #F5B211
+* Focus Accent Color - #816B65
 
 ## Screenshots
 
@@ -27,15 +42,20 @@ Autumn-inspired theme for IntelliJ has a simple, colorful interface for better c
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Autumn Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Autumn Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Autumn Theme** in
+   the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
 ## What's Next
 
-#### 1.0.5
+#### 1.0.6
 
 * Update editor colors
 
 ## What's New
+
+#### 1.0.5
+
+* Update description
 
 #### 1.0.4
 

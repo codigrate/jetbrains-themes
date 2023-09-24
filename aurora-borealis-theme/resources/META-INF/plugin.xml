@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.aurora-borealis.theme</id>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -18,14 +18,61 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
-        Aurora Borealis-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to
-        be easy on the eyes, helping you focus and code more efficiently.
+        <![CDATA[
+            Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of
+            the Arctic night sky and oceanic depths. Dark blues and teals serve as the backdrop, while lighter accents echo
+            the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
+            and code more efficiently.
+            <br/>
+            <br/>
+            <b>Color Palette</b>
+            <ul>
+                <li>
+                    Editor Background - #142A36
+                </li>
+                <li>
+                    Primary Text - #E0E0E0
+                </li>
+                <li>
+                    Selection Background - #42556C
+                </li>
+                <li>
+                    Menu Background - #1C3847
+                </li>
+                <li>
+                    Side Panel Background - #183240
+                </li>
+                <li>
+                    Tab Color - #043A33
+                </li>
+                <li>
+                    Header Background - #183240
+                </li>
+                <li>
+                    Accent - #7ACEF5
+                </li>
+                <li>
+                    Secondary Accent - #3D75BE
+                </li>
+                <li>
+                    Focus Accent Color - #C3DCFF
+                </li>
+            </ul>
+        ]]>
     </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.9</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
+            <br/>
+
             <b>1.0.8</b>
             <ul>
                 <li>

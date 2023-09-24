@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.everest.theme</id>
-    <version>1.0.7</version>
+    <version>1.0.8</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -18,14 +18,60 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
-        Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy
-        on the eyes, helping you focus and code more efficiently.
+        <![CDATA[
+            Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a
+            calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints
+            of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
+            <br/>
+            <br/>
+            <b>Color Palette</b>
+            <ul>
+                <li>
+                    Editor Background - #FDFEFF
+                </li>
+                <li>
+                    Primary Text - #1A536E
+                </li>
+                <li>
+                    Selection Background - #B6D8E5
+                </li>
+                <li>
+                    Menu Background - #E4ECEF
+                </li>
+                <li>
+                    Side Panel Background - #D5E2E8
+                </li>
+                <li>
+                    Tab Color - #FDFEFF
+                </li>
+                <li>
+                    Header Background - #C7DAE1
+                </li>
+                <li>
+                    Accent - #1A536E
+                </li>
+                <li>
+                    Secondary Accent - #8586A4
+                </li>
+                <li>
+                    Focus Accent Color - #9CC5D3
+                </li>
+            </ul>
+        ]]>
     </description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.8</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
+            <br/>
+
             <b>1.0.7</b>
             <ul>
                 <li>

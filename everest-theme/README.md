@@ -12,9 +12,24 @@ Everest - Jetbrains Theme
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
 
-<!-- Plugin description -->
-Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
-<!-- Plugin description end -->
+## Description
+
+Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and
+focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke
+the golden hues of dawn breaking over snow-capped peaks.
+
+### Color Palette
+
+* Editor Background - #FDFEFF
+* Primary Text - #1A536E
+* Selection Background - #B6D8E5
+* Menu Background - #E4ECEF
+* Side Panel Background - #D5E2E8
+* Tab Color - #FDFEFF
+* Header Background - #C7DAE1
+* Accent - #1A536E
+* Secondary Accent - #8586A4
+* Focus Accent Color - #9CC5D3
 
 ## Screenshots
 
@@ -27,15 +42,20 @@ Everest-inspired theme for IntelliJ has a simple, colorful interface for better 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Everest Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Everest Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Everest Theme** in
+   the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
 ## What's Next
 
-#### 1.0.8
+#### 1.0.9
 
 * Update editor colors
 
 ## What's New
+
+#### 1.0.8
+
+* Update description
 
 #### 1.0.7
 

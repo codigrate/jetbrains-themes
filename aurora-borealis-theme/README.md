@@ -12,9 +12,25 @@ Aurora Borealis - Jetbrains Theme
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
 
-<!-- Plugin description -->
-Everest-inspired theme for IntelliJ has a simple, colorful interface for better coding. It's designed to be easy on the eyes, helping you focus and code more efficiently.
-<!-- Plugin description end -->
+## Description
+
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of
+the Arctic night sky and oceanic depths. Dark blues and teals serve as the backdrop, while lighter accents echo
+the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
+and code more efficiently.
+
+### Color Palette
+
+* Editor Background - #142A36
+* Primary Text - #E0E0E0
+* Selection Background - #42556C
+* Menu Background - #1C3847
+* Side Panel Background - #183240
+* Tab Color - #043A33
+* Header Background - #183240
+* Accent - #7ACEF5
+* Secondary Accent - #3D75BE
+* Focus Accent Color - #C3DCFF
 
 ## Screenshots
 
@@ -31,11 +47,15 @@ Everest-inspired theme for IntelliJ has a simple, colorful interface for better 
 
 ## What's Next
 
-#### 1.0.9
+#### 1.0.10
 
 * Update editor colors
 
 ## What's New
+
+#### 1.0.9
+
+* Update description
 
 #### 1.0.8
 
