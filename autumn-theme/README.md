@@ -18,24 +18,27 @@ Inspired by the warm hues and rustic feel of autumn, this light theme aims to ev
 tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
 afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
 
-### Color Palette
-
-* Editor Background - #FFFFFF
-* Primary Text - #341911
-* Selection Background - #F6D8B6
-* Menu Background - #F8F5F4
-* Side Panel Background - #F1ECE8
-* Tab Color - #FFFFFF
-* Header Background - #F6C7B9
-* Accent - #775851
-* Secondary Accent - #F5B211
-* Focus Accent Color - #816B65
-
 ## Screenshots
 
 <img src="./screenshot-1.png" alt="screenshot">
 <img src="./screenshot-2.png" alt="screenshot">
 <img src="./screenshot-3.png" alt="screenshot">
+
+## Color Palette
+
+* Editor Background - #FFFFFF
+* Header Background - #F6C7B9
+* Global Variables - #BE553E
+* Metadata - #773918
+* Parameters - #B0633A
+* Instance Fields - #A87F25
+* Secondary Accent - #F5B211
+* Strings and Numbers - #1B591E
+* Local Variables - #0E8113
+* Keywords - #006E83
+
+<img src="./color-palette.png" alt="color palette">
+
 
 ## Getting Started
 
