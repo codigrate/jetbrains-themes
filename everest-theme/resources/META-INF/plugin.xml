@@ -30,31 +30,31 @@
                     Editor Background - #FDFEFF
                 </li>
                 <li>
-                    Primary Text - #1A536E
-                </li>
-                <li>
-                    Selection Background - #B6D8E5
-                </li>
-                <li>
                     Menu Background - #E4ECEF
                 </li>
                 <li>
-                    Side Panel Background - #D5E2E8
+                    Local Variables - #1A6D9F
                 </li>
                 <li>
-                    Tab Color - #FDFEFF
+                    Strings and Numbers - #005E79
                 </li>
                 <li>
-                    Header Background - #C7DAE1
+                    Instance Fields - #007A47
                 </li>
                 <li>
-                    Accent - #1A536E
+                    Keywords - #2E674F
                 </li>
                 <li>
-                    Secondary Accent - #8586A4
+                    Static Fields - #83529B
                 </li>
                 <li>
-                    Focus Accent Color - #9CC5D3
+                    Global Variables - #8C4069
+                </li>
+                <li>
+                    Tab Line Colors - #ED7E5A
+                </li>
+                <li>
+                    Parameters - #8F4446
                 </li>
             </ul>
         ]]>

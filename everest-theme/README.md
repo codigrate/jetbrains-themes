@@ -18,24 +18,26 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
 focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke
 the golden hues of dawn breaking over snow-capped peaks.
 
-### Color Palette
-
-* Editor Background - #FDFEFF
-* Primary Text - #1A536E
-* Selection Background - #B6D8E5
-* Menu Background - #E4ECEF
-* Side Panel Background - #D5E2E8
-* Tab Color - #FDFEFF
-* Header Background - #C7DAE1
-* Accent - #1A536E
-* Secondary Accent - #8586A4
-* Focus Accent Color - #9CC5D3
-
 ## Screenshots
 
 <img src="./screenshot-1.png" alt="screenshot">
 <img src="./screenshot-2.png" alt="screenshot">
 <img src="./screenshot-3.png" alt="screenshot">
+
+## Color Palette
+
+* Editor Background - #FDFEFF
+* Menu Background - #E4ECEF
+* Local Variables - #1A6D9F
+* Strings and Numbers - #005E79
+* Instance Fields - #007A47
+* Keywords - #2E674F
+* Static Fields - #83529B
+* Global Variables - #8C4069
+* Tab Line Colors - #ED7E5A
+* Parameters - #8F4446
+
+<img src="./color-palette.png" alt="color palette">
 
 ## Getting Started
 
