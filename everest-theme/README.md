@@ -26,18 +26,24 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 ## Color Palette
 
-* Editor Background - #FDFEFF
-* Menu Background - #E4ECEF
-* Local Variables - #1A6D9F
-* Strings and Numbers - #005E79
-* Instance Fields - #007A47
-* Keywords - #2E674F
-* Static Fields - #83529B
-* Global Variables - #8C4069
-* Tab Line Colors - #ED7E5A
-* Parameters - #8F4446
-
 <img src="./color-palette.png" alt="color palette">
+
+<table>
+   <tr>
+      <td align="center"><a href="https://www.colorhexa.com/FDFEFF"><img src="https://www.colorhexa.com/FDFEFF.png" alt=""><br/><sub><b>Editor Background<br/>#FDFEFF</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/E4ECEF"><img src="https://www.colorhexa.com/E4ECEF.png" alt=""><br/><sub><b>Menu Background<br/>#E4ECEF</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/1A6D9F"><img src="https://www.colorhexa.com/1A6D9F.png" alt=""><br/><sub><b>Local Variables<br/>#1A6D9F</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/005E79"><img src="https://www.colorhexa.com/005E79.png" alt=""><br/><sub><b>Strings & Numbers<br/>#005E79</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/007A47"><img src="https://www.colorhexa.com/007A47.png" alt=""><br/><sub><b>Instance Fields<br/>#007A47</b></sub></a><br/></td>
+   </tr>
+   <tr>
+      <td align="center"><a href="https://www.colorhexa.com/2E674F"><img src="https://www.colorhexa.com/2E674F.png" alt=""><br/><sub><b>Keywords<br/>#2E674F</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/83529B"><img src="https://www.colorhexa.com/83529B.png" alt=""><br/><sub><b>Static Fields<br/>#83529B</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/8C4069"><img src="https://www.colorhexa.com/8C4069.png" alt=""><br/><sub><b>Global Variables<br/>#8C4069</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/ED7E5A"><img src="https://www.colorhexa.com/ED7E5A.png" alt=""><br/><sub><b>Tab Line Colors<br/>#ED7E5A</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/8F4446"><img src="https://www.colorhexa.com/8F4446.png" alt=""><br/><sub><b>Parameters<br/>#8F4446</b></sub></a><br/></td>
+   </tr>
+</table>
 
 ## Getting Started
 
