@@ -30,18 +30,18 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/FFFFFF"><img src="https://www.colorhexa.com/FFFFFF.png" alt=""><br/><sub><b>Editor Background<br/>#FFFFFF</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/F6C7B9"><img src="https://www.colorhexa.com/F6C7B9.png" alt=""><br/><sub><b>Header Background<br/>#F6C7B9</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/BE553E"><img src="https://www.colorhexa.com/BE553E.png" alt=""><br/><sub><b>Global Variables<br/>#BE553E</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/773918"><img src="https://www.colorhexa.com/773918.png" alt=""><br/><sub><b>Metadata<br/>#773918</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/B0633A"><img src="https://www.colorhexa.com/B0633A.png" alt=""><br/><sub><b>Parameters<br/>#B0633A</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/FFFFFF"><img src="https://www.colorhexa.com/FFFFFF.png" alt=""><br/><sub><b>#FFFFFF</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/F6C7B9"><img src="https://www.colorhexa.com/F6C7B9.png" alt=""><br/><sub><b>#F6C7B9</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/BE553E"><img src="https://www.colorhexa.com/BE553E.png" alt=""><br/><sub><b>#BE553E</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/773918"><img src="https://www.colorhexa.com/773918.png" alt=""><br/><sub><b>#773918</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/B0633A"><img src="https://www.colorhexa.com/B0633A.png" alt=""><br/><sub><b>#B0633A</b></sub></a><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/A87F25"><img src="https://www.colorhexa.com/A87F25.png" alt=""><br/><sub><b>Instance Fields<br/>#A87F25</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/F5B211"><img src="https://www.colorhexa.com/F5B211.png" alt=""><br/><sub><b>Secondary Accent<br/>#F5B211</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/1B591E"><img src="https://www.colorhexa.com/1B591E.png" alt=""><br/><sub><b>Strings & Numbers<br/>#1B591E</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/0E8113"><img src="https://www.colorhexa.com/0E8113.png" alt=""><br/><sub><b>Local Variables<br/>#0E8113</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/006E83"><img src="https://www.colorhexa.com/006E83.png" alt=""><br/><sub><b>Keywords<br/>#006E83</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/A87F25"><img src="https://www.colorhexa.com/A87F25.png" alt=""><br/><sub><b>#A87F25</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/F5B211"><img src="https://www.colorhexa.com/F5B211.png" alt=""><br/><sub><b>#F5B211</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/1B591E"><img src="https://www.colorhexa.com/1B591E.png" alt=""><br/><sub><b>#1B591E</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/0E8113"><img src="https://www.colorhexa.com/0E8113.png" alt=""><br/><sub><b>#0E8113</b></sub></a><br/></td>
+      <td align="center"><a href="https://www.colorhexa.com/006E83"><img src="https://www.colorhexa.com/006E83.png" alt=""><br/><sub><b>#006E83</b></sub></a><br/></td>
    </tr>
 </table>
 
