@@ -22,18 +22,18 @@ soft blues, this theme offers a tranquil coding environment.
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/F8F4E3"><img src="https://www.colorhexa.com/F8F4E3.png" alt=""><br/><sub><b>#F8F4E3</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/D3E5D1"><img src="https://www.colorhexa.com/D3E5D1.png" alt=""><br/><sub><b>#D3E5D1</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/5D7C7B"><img src="https://www.colorhexa.com/5D7C7B.png" alt=""><br/><sub><b>#5D7C7B</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/8E9A89"><img src="https://www.colorhexa.com/8E9A89.png" alt=""><br/><sub><b>#8E9A89</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/F4F1DE"><img src="https://www.colorhexa.com/F4F1DE.png" alt=""><br/><sub><b>#F4F1DE</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/F8F4E3.png" alt="#F8F4E3"><br/><sub><b>#F8F4E3</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D3E5D1.png" alt="#D3E5D1"><br/><sub><b>#D3E5D1</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/5D7C7B.png" alt="#5D7C7B"><br/><sub><b>#5D7C7B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/8E9A89.png" alt="#8E9A89"><br/><sub><b>#8E9A89</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/F4F1DE.png" alt="#F4F1DE"><br/><sub><b>#F4F1DE</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/A9B5A4"><img src="https://www.colorhexa.com/A9B5A4.png" alt=""><br/><sub><b>#A9B5A4</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/779182"><img src="https://www.colorhexa.com/779182.png" alt=""><br/><sub><b>#779182</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/718EA4"><img src="https://www.colorhexa.com/718EA4.png" alt=""><br/><sub><b>#718EA4</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/9AAFB5"><img src="https://www.colorhexa.com/9AAFB5.png" alt=""><br/><sub><b>#9AAFB5</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/6E7F7C"><img src="https://www.colorhexa.com/6E7F7C.png" alt=""><br/><sub><b>#6E7F7C</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A9B5A4.png" alt="#A9B5A4"><br/><sub><b>#A9B5A4</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/779182.png" alt="#779182"><br/><sub><b>#779182</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/718EA4.png" alt="#718EA4"><br/><sub><b>#718EA4</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/9AAFB5.png" alt="#9AAFB5"><br/><sub><b>#9AAFB5</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/6E7F7C.png" alt="#6E7F7C"><br/><sub><b>#6E7F7C</b></sub><br/></td>
    </tr>
 </table>
 

@@ -30,18 +30,18 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/FFFFFF"><img src="https://www.colorhexa.com/FFFFFF.png" alt=""><br/><sub><b>#FFFFFF</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/F6C7B9"><img src="https://www.colorhexa.com/F6C7B9.png" alt=""><br/><sub><b>#F6C7B9</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/BE553E"><img src="https://www.colorhexa.com/BE553E.png" alt=""><br/><sub><b>#BE553E</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/773918"><img src="https://www.colorhexa.com/773918.png" alt=""><br/><sub><b>#773918</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/B0633A"><img src="https://www.colorhexa.com/B0633A.png" alt=""><br/><sub><b>#B0633A</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FFFFFF.png" alt="#FFFFFF"><br/><sub><b>#FFFFFF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/F6C7B9.png" alt="#F6C7B9"><br/><sub><b>#F6C7B9</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/BE553E.png" alt="#BE553E"><br/><sub><b>#BE553E</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/773918.png" alt="#773918"><br/><sub><b>#773918</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/B0633A.png" alt="#B0633A"><br/><sub><b>#B0633A</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/A87F25"><img src="https://www.colorhexa.com/A87F25.png" alt=""><br/><sub><b>#A87F25</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/F5B211"><img src="https://www.colorhexa.com/F5B211.png" alt=""><br/><sub><b>#F5B211</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/1B591E"><img src="https://www.colorhexa.com/1B591E.png" alt=""><br/><sub><b>#1B591E</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/0E8113"><img src="https://www.colorhexa.com/0E8113.png" alt=""><br/><sub><b>#0E8113</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/006E83"><img src="https://www.colorhexa.com/006E83.png" alt=""><br/><sub><b>#006E83</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A87F25.png" alt="#A87F25"><br/><sub><b>#A87F25</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/F5B211.png" alt="#F5B211"><br/><sub><b>#F5B211</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/1B591E.png" alt="#1B591E"><br/><sub><b>#1B591E</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/0E8113.png" alt="#0E8113"><br/><sub><b>#0E8113</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/006E83.png" alt="#006E83"><br/><sub><b>#006E83</b></sub><br/></td>
    </tr>
 </table>
 

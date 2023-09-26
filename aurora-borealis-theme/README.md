@@ -30,18 +30,18 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/142A36"><img src="https://www.colorhexa.com/142A36.png" alt=""><br/><sub><b>#142A36</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/1C3847"><img src="https://www.colorhexa.com/1C3847.png" alt=""><br/><sub><b>#1C3847</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/549EFF"><img src="https://www.colorhexa.com/549EFF.png" alt=""><br/><sub><b>#549EFF</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/7ACEF5"><img src="https://www.colorhexa.com/7ACEF5.png" alt=""><br/><sub><b>#7ACEF5</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/043A33"><img src="https://www.colorhexa.com/043A33.png" alt=""><br/><sub><b>#043A33</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/142A36.png" alt="#142A36"><br/><sub><b>#142A36</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/1C3847.png" alt="#1C3847"><br/><sub><b>#1C3847</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/549EFF.png" alt="#549EFF"><br/><sub><b>#549EFF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/7ACEF5.png" alt="#7ACEF5"><br/><sub><b>#7ACEF5</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/043A33.png" alt="#043A33"><br/><sub><b>#043A33</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/73D379"><img src="https://www.colorhexa.com/73D379.png" alt=""><br/><sub><b>#73D379</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/05C0A6"><img src="https://www.colorhexa.com/05C0A6.png" alt=""><br/><sub><b>#05C0A6</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/BB719B"><img src="https://www.colorhexa.com/BB719B.png" alt=""><br/><sub><b>#BB719B</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/D193BB"><img src="https://www.colorhexa.com/D193BB.png" alt=""><br/><sub><b>#D193BB</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/BAA5FF"><img src="https://www.colorhexa.com/BAA5FF.png" alt=""><br/><sub><b>#BAA5FF</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/73D379.png" alt="#73D379"><br/><sub><b>#73D379</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/05C0A6.png" alt="#05C0A6"><br/><sub><b>#05C0A6</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/BB719B.png" alt="#BB719B"><br/><sub><b>#BB719B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D193BB.png" alt="#D193BB"><br/><sub><b>#D193BB</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/BAA5FF.png" alt="#BAA5FF"><br/><sub><b>#BAA5FF</b></sub><br/></td>
    </tr>
 </table>
 

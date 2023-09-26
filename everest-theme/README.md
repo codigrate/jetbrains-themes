@@ -30,18 +30,18 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/FDFEFF"><img src="https://www.colorhexa.com/FDFEFF.png" alt=""><br/><sub><b>#FDFEFF</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/E4ECEF"><img src="https://www.colorhexa.com/E4ECEF.png" alt=""><br/><sub><b>#E4ECEF</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/1A6D9F"><img src="https://www.colorhexa.com/1A6D9F.png" alt=""><br/><sub><b>#1A6D9F</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/005E79"><img src="https://www.colorhexa.com/005E79.png" alt=""><br/><sub><b>#005E79</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/007A47"><img src="https://www.colorhexa.com/007A47.png" alt=""><br/><sub><b>#007A47</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FDFEFF.png" alt="#FDFEFF"><br/><sub><b>#FDFEFF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/E4ECEF.png" alt="#E4ECEF"><br/><sub><b>#E4ECEF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/1A6D9F.png" alt="#1A6D9F"><br/><sub><b>#1A6D9F</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/005E79.png" alt="#005E79"><br/><sub><b>#005E79</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/007A47.png" alt="#007A47"><br/><sub><b>#007A47</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/2E674F"><img src="https://www.colorhexa.com/2E674F.png" alt=""><br/><sub><b>#2E674F</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/83529B"><img src="https://www.colorhexa.com/83529B.png" alt=""><br/><sub><b>#83529B</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/8C4069"><img src="https://www.colorhexa.com/8C4069.png" alt=""><br/><sub><b>#8C4069</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/ED7E5A"><img src="https://www.colorhexa.com/ED7E5A.png" alt=""><br/><sub><b>#ED7E5A</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/8F4446"><img src="https://www.colorhexa.com/8F4446.png" alt=""><br/><sub><b>#8F4446</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/2E674F.png" alt="#2E674F"><br/><sub><b>#2E674F</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/83529B.png" alt="#83529B"><br/><sub><b>#83529B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/8C4069.png" alt="#8C4069"><br/><sub><b>#8C4069</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/ED7E5A.png" alt="#ED7E5A"><br/><sub><b>#ED7E5A</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/8F4446.png" alt="#8F4446"><br/><sub><b>#8F4446</b></sub><br/></td>
    </tr>
 </table>
 

@@ -22,18 +22,18 @@ palette creates a soothing and uplifting coding experience.
 
 <table>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/FEFAFA"><img src="https://www.colorhexa.com/FEFAFA.png" alt=""><br/><sub><b>#FEFAFA</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FEE3E7"><img src="https://www.colorhexa.com/FEE3E7.png" alt=""><br/><sub><b>#FEE3E7</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FFB2C1"><img src="https://www.colorhexa.com/FFB2C1.png" alt=""><br/><sub><b>#FFB2C1</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FF89A7"><img src="https://www.colorhexa.com/FF89A7.png" alt=""><br/><sub><b>#FF89A7</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FFC3D1"><img src="https://www.colorhexa.com/FFC3D1.png" alt=""><br/><sub><b>#FFC3D1</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FEFAFA.png" alt="#FEFAFA"><br/><sub><b>#FEFAFA</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FEE3E7.png" alt="#FEE3E7"><br/><sub><b>#FEE3E7</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FFB2C1.png" alt="#FFB2C1"><br/><sub><b>#FFB2C1</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF89A7.png" alt="#FF89A7"><br/><sub><b>#FF89A7</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FFC3D1.png" alt="#FFC3D1"><br/><sub><b>#FFC3D1</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><a href="https://www.colorhexa.com/FF628B"><img src="https://www.colorhexa.com/FF628B.png" alt=""><br/><sub><b>#FF628B</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FF4069"><img src="https://www.colorhexa.com/FF4069.png" alt=""><br/><sub><b>#FF4069</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/E60A50"><img src="https://www.colorhexa.com/E60A50.png" alt=""><br/><sub><b>#E60A50</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FF748C"><img src="https://www.colorhexa.com/FF748C.png" alt=""><br/><sub><b>#FF748C</b></sub></a><br/></td>
-      <td align="center"><a href="https://www.colorhexa.com/FF5275"><img src="https://www.colorhexa.com/FF5275.png" alt=""><br/><sub><b>#FF5275</b></sub></a><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF628B.png" alt="#FF628B"><br/><sub><b>#FF628B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF4069.png" alt="#FF4069"><br/><sub><b>#FF4069</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/E60A50.png" alt="#E60A50"><br/><sub><b>#E60A50</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF748C.png" alt="#FF748C"><br/><sub><b>#FF748C</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF5275.png" alt="#FF5275"><br/><sub><b>#FF5275</b></sub><br/></td>
    </tr>
 </table>
 
