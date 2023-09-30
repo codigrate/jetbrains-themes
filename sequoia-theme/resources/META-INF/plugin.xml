@@ -1,0 +1,160 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>com.codigrate.sequoia.theme</id>
+    <version>1.0.9</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+    <name>Sequoia Theme</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="info@codigrate.com" url="https://codigrate.com">Codigrate</vendor>
+
+    <idea-version since-build="222" until-build="232.*"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description>
+        <![CDATA[
+            Inspired by the natural phenomena of the Sequoia, this dark theme captures the majesty and mystery
+            of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the
+            ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
+            and code efficiently.
+            <br/>
+            <br/>
+            <b>Color Palette</b>
+            <ul>
+                <li>
+                    Editor Background - #142A36
+                </li>
+                <li>
+                    Menu Background - #1C3847
+                </li>
+                <li>
+                    Strings and Numbers - #549EFF
+                </li>
+                <li>
+                    Instance Fields - #7ACEF5
+                </li>
+                <li>
+                    Tab Colors - #043A33
+                </li>
+                <li>
+                    Global Variables - #73D379
+                </li>
+                <li>
+                    Local Variables - #05C0A6
+                </li>
+                <li>
+                    Keywords - #BB719B
+                </li>
+                <li>
+                    Static Fields - #D193BB
+                </li>
+                <li>
+                    Parameters - #BAA5FF
+                </li>
+            </ul>
+        ]]>
+    </description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes>
+        <![CDATA[
+            <b>1.0.9</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.8</b>
+            <ul>
+                <li>
+                    Update icon
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.7</b>
+            <ul>
+                <li>
+                    Update icon
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.6</b>
+            <ul>
+                <li>
+                    Update identifier background color
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.5</b>
+            <ul>
+                <li>
+                    Update Search Match Background Colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.4</b>
+            <ul>
+                <li>
+                    Update implicit anonymous class parameter attribute colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.3</b>
+            <ul>
+                <li>
+                    Update install and update button colors
+                </li>
+                <li>
+                    Update selection background color
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.2</b>
+            <ul>
+                <li>
+                    Update docs
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.1</b>
+            <ul>
+                <li>
+                    Update menu colors
+                </li>
+            </ul>
+            <br/>
+
+            <b>1.0.0</b>
+            <ul>
+                <li>
+                    Initial version
+                </li>
+            </ul>
+            <br/>
+        ]]>
+    </change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="5250e9ee-2388-4756-b36b-3ef847b57f5e" path="/theme/sequoia.theme.json"/>
+    </extensions>
+</idea-plugin>
