@@ -14,7 +14,7 @@ greens and browns are accented by softer greens and neutral tones, creating a ha
 * Local Variables - #6B4226
 * Strings and Numbers - #4E8098
 * Instance Fields - #667761
-* Keywords - #D0F4DE
+* Keywords - #176334
 * Static Fields - #8BA1A0
 * Global Variables - #616A6B
 * Tab Line Colors - #374045
@@ -29,7 +29,7 @@ greens and browns are accented by softer greens and neutral tones, creating a ha
       <td align="center"><img src="https://codigrate.com/util/color/667761.png" alt="#667761"><br/><sub><b>#667761</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/D0F4DE.png" alt="#D0F4DE"><br/><sub><b>#D0F4DE</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/176334.png" alt="#176334"><br/><sub><b>#176334</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/8BA1A0.png" alt="#8BA1A0"><br/><sub><b>#8BA1A0</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/616A6B.png" alt="#616A6B"><br/><sub><b>#616A6B</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/374045.png" alt="#374045"><br/><sub><b>#374045</b></sub><br/></td>
@@ -37,4 +37,4 @@ greens and browns are accented by softer greens and neutral tones, creating a ha
    </tr>
 </table>
 
-#### URL: [https://coolors.co/1b262c-2c3539-6b4226-4e8098-667761-d0f4de-8ba1a0-616a6b-374045-8b0000](https://coolors.co/1b262c-2c3539-6b4226-4e8098-667761-d0f4de-8ba1a0-616a6b-374045-8b0000)
+#### URL: [Palette link](https://coolors.co/1b262c-2c3539-6b4226-4e8098-667761-176334-8ba1a0-616a6b-374045-8b0000)
