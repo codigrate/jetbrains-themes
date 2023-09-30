@@ -1,10 +1,9 @@
 <scheme name="Sequoia Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-01T00:47:21</property>
-        <property name="ide">Idea</property>
+        <property name="created">2023-10-01T01:13:54</property>
+        <property name="ide">idea</property>
         <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-01T00:47:32</property>
-        <property name="originalScheme">Sequoia Scheme</property>
+        <property name="modified">2023-10-01T01:14:01</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="7d3725" />
@@ -186,7 +185,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="be8d10" />
+                <option name="FOREGROUND" value="c4a44f" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -197,7 +196,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="3c9f3b" />
+                <option name="FOREGROUND" value="50a553" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -213,7 +212,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="a45133" />
+                <option name="FOREGROUND" value="98533b" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -408,9 +407,16 @@
                 <option name="FOREGROUND" value="e0e0e0" />
             </value>
         </option>
-        <option name="JS.GLOBAL_FUNCTION">
+        <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+        <option name="JS.GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="5abdde" />
+                <option name="FOREGROUND" value="94bdc7" />
+                <option name="FONT_TYPE" value="3" />
+            </value>
+        </option>
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="c7b56b" />
             </value>
         </option>
         <option name="JS.REGEXP">
@@ -472,13 +478,13 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
-        <option name="SASS_COMMENT" baseAttributes="" />
+        <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
         <option name="SASS_MIXIN">
             <value>
                 <option name="FOREGROUND" value="b4b4b4" />
             </value>
         </option>
-        <option name="SASS_VARIABLE" baseAttributes="" />
+        <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="acdcb4" />
