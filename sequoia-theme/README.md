@@ -56,48 +56,11 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 ## What's Next
 
-#### 1.0.10
+#### 1.0.1
 
 * Update editor colors
 
 ## What's New
-
-#### 1.0.9
-
-* Update description
-
-#### 1.0.8
-
-* Update icon
-
-#### 1.0.7
-
-* Update icon
-
-#### 1.0.6
-
-* Update identifier background color
-
-#### 1.0.5
-
-* Update Search Match Background Colors
-
-#### 1.0.4
-
-* Update implicit anonymous class parameter attribute colors
-
-#### 1.0.3
-
-* Update install and update button colors
-* Update selection background color
-
-#### 1.0.2
-
-* Update docs
-
-#### 1.0.1
-
-* Update menu colors
 
 #### 1.0.0
 
