@@ -1,10 +1,12 @@
 *.jar
+screenshots.xcf
+color-palette.xcf
+.idea/
 aurora-borealis-theme/out
 aurora-borealis-theme/.idea
 everest-theme/out
 everest-theme/.idea
 autumn-theme/out
 autumn-theme/.idea
-screenshots.xcf
-color-palette.xcf
-.idea/
+sequoia-theme/out
+sequoia-theme/.idea
