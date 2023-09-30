@@ -349,15 +349,6 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected.Dark": "#e0e0e0",
-      "Checkbox.Border.Default.Dark": "#112733",
-      "Checkbox.Border.Selected.Dark": "#1C3847",
-      "Checkbox.Border.Disabled.Dark": "#354354",
-      "Checkbox.Background.Default.Dark": "#183240",
-      "Checkbox.Background.Disabled.Dark": "#425469",
-      "Checkbox.Focus.Wide.Dark": "#1C3847",
-      "Checkbox.Focus.Thin.Selected.Dark": "#1C3847",
-      "Checkbox.Focus.Thin.Default.Dark": "#1C3847"
     }
   }
 }
