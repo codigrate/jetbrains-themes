@@ -81,6 +81,24 @@ Codigrate themes for JetBrains.
        <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
     </td>
   </tr>
+   <tr>
+    <td align="center">
+       <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+          <img src="./sequoia-theme/icon.png" width="100px;" alt=""/>
+          <br/>
+          <sub>
+             <b>Sequoia Theme</b>
+          </sub>
+       </a>
+    </td>
+    <td align="left">
+       <img src="https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+       <br/>
+       <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+    </td>
+  </tr>
 
    
 </table>
