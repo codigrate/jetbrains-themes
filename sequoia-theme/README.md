@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/22487-sequoia-theme">
+   <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,15 +8,16 @@
 Sequoia - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22487-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-sequoia-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-sequoia-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-sequoia-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-sequoia-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
 
 ## Description
 
-Inspired by the natural phenomena of the Sequoia, this dark theme captures the majesty and mystery of the Arctic
-night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
-Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
+Inspired by the towering presence and serene environment of sequoias, the Sequoia Theme envelops your IDE in deep blacks
+and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly,
+mirroring the vitality of these magnificent trees. Venture into the digital woods with the Sequoia Theme, and let its
+grounded, tranquil palette guide you through the logical forest of your code efficiently.
 
 ## Screenshots
 
@@ -30,20 +31,23 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/142A36.png" alt="#142A36"><br/><sub><b>#142A36</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/1C3847.png" alt="#1C3847"><br/><sub><b>#1C3847</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/549EFF.png" alt="#549EFF"><br/><sub><b>#549EFF</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/7ACEF5.png" alt="#7ACEF5"><br/><sub><b>#7ACEF5</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/043A33.png" alt="#043A33"><br/><sub><b>#043A33</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/181717.png" alt="#181717"><br/><sub><b>#181717</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/302D2D.png" alt="#302D2D"><br/><sub><b>#302D2D</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/6C625A.png" alt="#6C625A"><br/><sub><b>#6C625A</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/7E3C2B.png" alt="#7E3C2B"><br/><sub><b>#7E3C2B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/98533B.png" alt="#98533B"><br/><sub><b>#98533B</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/73D379.png" alt="#73D379"><br/><sub><b>#73D379</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/05C0A6.png" alt="#05C0A6"><br/><sub><b>#05C0A6</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BB719B.png" alt="#BB719B"><br/><sub><b>#BB719B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/D193BB.png" alt="#D193BB"><br/><sub><b>#D193BB</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BAA5FF.png" alt="#BAA5FF"><br/><sub><b>#BAA5FF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A46233.png" alt="#A46233"><br/><sub><b>#A46233</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A67B5B.png" alt="#A67B5B"><br/><sub><b>#A67B5B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/308332.png" alt="#308332"><br/><sub><b>#308332</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/50A553.png" alt="#50A553"><br/><sub><b>#50A553</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/20916F.png" alt="#20916F"><br/><sub><b>#20916F</b></sub><br/></td>
    </tr>
 </table>
+
+#### URL: [Palette link](https://coolors.co/c4a44f-a15252-20916f-a67b5b-201919-181717-302d2d-2a2828-272525-73a621)
+
 
 ## Getting Started
 

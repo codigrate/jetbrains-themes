@@ -1,9 +1,9 @@
 <scheme name="Sequoia Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-01T01:13:54</property>
+        <property name="created">2023-10-01T03:44:31</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-01T01:14:01</property>
+        <property name="modified">2023-10-01T03:44:38</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="7d3725" />
@@ -21,7 +21,7 @@
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
-        <option name="LINE_NUMBERS_COLOR" value="7e3725" />
+        <option name="LINE_NUMBERS_COLOR" value="8a4230" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="31a41f" />
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="3a2018" />
@@ -207,7 +207,7 @@
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="50a553" />
+                <option name="FOREGROUND" value="308332" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
@@ -216,7 +216,12 @@
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
-        <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="308332" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
                 <option name="FOREGROUND" value="a9441f" />

@@ -19,43 +19,43 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
         <![CDATA[
-            Inspired by the natural phenomena of the Sequoia, this dark theme captures the majesty and mystery
-            of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the
-            ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
-            and code efficiently.
+            Inspired by the towering presence and serene environment of sequoias, the Sequoia Theme envelops your IDE in deep blacks
+            and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly,
+            mirroring the vitality of these magnificent trees. Venture into the digital woods with the Sequoia Theme, and let its
+            grounded, tranquil palette guide you through the logical forest of your code efficiently.
             <br/>
             <br/>
             <b>Color Palette</b>
             <ul>
                 <li>
-                    Editor Background - #142A36
+                    Editor Background - #181717
                 </li>
                 <li>
-                    Menu Background - #1C3847
+                    Menu Background - #302D2D
                 </li>
                 <li>
-                    Strings and Numbers - #549EFF
+                    Comments - #6C625A
                 </li>
                 <li>
-                    Instance Fields - #7ACEF5
+                    Focus Accent - #7E3C2B
                 </li>
                 <li>
-                    Tab Colors - #043A33
+                    Parameters - #98533B
                 </li>
                 <li>
-                    Global Variables - #73D379
+                    Html Tags - #A46233
                 </li>
                 <li>
-                    Local Variables - #05C0A6
+                    Instance Fields - #A67B5B
                 </li>
                 <li>
-                    Keywords - #BB719B
+                    Numbers - #308332
                 </li>
                 <li>
-                    Static Fields - #D193BB
+                    Strings - #50A553
                 </li>
                 <li>
-                    Parameters - #BAA5FF
+                    Static Fields - #20916F
                 </li>
             </ul>
         ]]>
