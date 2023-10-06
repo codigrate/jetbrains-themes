@@ -10,31 +10,31 @@ palette creates a soothing and uplifting coding experience.
 ## Color Palette
 
 * Editor Background: #FEFAFA
-* Menu Background: #FEE3E7
-* Strings and Numbers: #FFB2C1
-* Instance Fields: #FF89A7
-* Tab Colors: #FFC3D1
-* Global Variables: #FF628B
-* Local Variables: #FF4069
-* Keywords: #E60A50
-* Static Fields: #FF748C
-* Parameters: #FF5275
+* Menu Background: #FEEBEE
+* Strings and Numbers: #FF99B4
+* Instance Fields: #FF8599
+* Tab Colors: #FF335C
+* Global Variables: #D7094A
+* Local Variables: #AB4220
+* Keywords: #E75F28
+* Static Fields: #90516E
+* Parameters: #B27FC7
 
 <table>
    <tr>
       <td align="center"><img src="https://codigrate.com/util/color/FEFAFA.png" alt="#FEFAFA"><br/><sub><b>#FEFAFA</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FEE3E7.png" alt="#FEE3E7"><br/><sub><b>#FEE3E7</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FFB2C1.png" alt="#FFB2C1"><br/><sub><b>#FFB2C1</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FF89A7.png" alt="#FF89A7"><br/><sub><b>#FF89A7</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FFC3D1.png" alt="#FFC3D1"><br/><sub><b>#FFC3D1</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FEEBEE.png" alt="#FEEBEE"><br/><sub><b>#FEEBEE</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF99B4.png" alt="#FF99B4"><br/><sub><b>#FF99B4</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF8599.png" alt="#FF8599"><br/><sub><b>#FF8599</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FF335C.png" alt="#FF335C"><br/><sub><b>#FF335C</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/FF628B.png" alt="#FF628B"><br/><sub><b>#FF628B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FF4069.png" alt="#FF4069"><br/><sub><b>#FF4069</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/E60A50.png" alt="#E60A50"><br/><sub><b>#E60A50</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FF748C.png" alt="#FF748C"><br/><sub><b>#FF748C</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/FF5275.png" alt="#FF5275"><br/><sub><b>#FF5275</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D7094A.png" alt="#D7094A"><br/><sub><b>#D7094A</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/AB4220.png" alt="#AB4220"><br/><sub><b>#AB4220</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/E75F28.png" alt="#E75F28"><br/><sub><b>#E75F28</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/90516E.png" alt="#90516E"><br/><sub><b>#90516E</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/B27FC7.png" alt="#B27FC7"><br/><sub><b>#B27FC7</b></sub><br/></td>
    </tr>
 </table>
 
-#### URL: [https://coolors.co/fefafa-fee3e7-ffb2c1-ff89a7-ffc3d1-ff628b-ff4069-e60a50-ff748c-ff5275](https://coolors.co/fefafa-fee3e7-ffb2c1-ff89a7-ffc3d1-ff628b-ff4069-e60a50-ff748c-ff5275)
+#### URL: [https://coolors.co/fefafa-feebee-ff99b4-ff8599-ff335c-d7094a-ab4220-e75f28-90516e-b27fc7](https://coolors.co/fefafa-feebee-ff99b4-ff8599-ff335c-d7094a-ab4220-e75f28-90516e-b27fc7)
