@@ -65,46 +65,6 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
-            <b>1.0.5</b>
-            <ul>
-                <li>
-                    Update description
-                </li>
-            </ul>
-            <br/>
-
-            <b>1.0.4</b>
-            <ul>
-                <li>
-                    Update icon
-                </li>
-            </ul>
-            <br/>
-
-            <b>1.0.3</b>
-            <ul>
-                <li>
-                    Update editor colors
-                </li>
-            </ul>
-            <br/>
-
-            <b>1.0.2</b>
-            <ul>
-                <li>
-                    Update icon and editor colors
-                </li>
-            </ul>
-            <br/>
-
-            <b>1.0.1</b>
-            <ul>
-                <li>
-                    Update identifier background color
-                </li>
-            </ul>
-            <br/>
-
             <b>1.0.0</b>
             <ul>
                 <li>
