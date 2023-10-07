@@ -1,10 +1,9 @@
 <scheme name="Sakura Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-10-07T22:42:49</property>
-        <property name="ide">Idea</property>
+        <property name="created">2023-10-07T23:08:17</property>
+        <property name="ide">idea</property>
         <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-07T22:43:27</property>
-        <property name="originalScheme">Sakura Scheme</property>
+        <property name="modified">2023-10-07T23:08:20</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="5d7c7b" />
@@ -198,7 +197,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="ad8e63" />
+                <option name="FOREGROUND" value="9d5a71" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -211,7 +210,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c05d37" />
+                <option name="FOREGROUND" value="6f9a7d" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
@@ -226,7 +225,7 @@
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="bb3971" />
+                <option name="FOREGROUND" value="cb6b91" />
             </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -238,12 +237,12 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="518565" />
+                <option name="FOREGROUND" value="bd765b" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="518565" />
+                <option name="FOREGROUND" value="bd765b" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -592,11 +591,6 @@
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-        <option name="STATIC_METHOD_ATTRIBUTES">
-            <value>
-                <option name="FONT_TYPE" value="2" />
-            </value>
-        </option>
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="77009b" />
