@@ -14,9 +14,10 @@ Sakura - Jetbrains Theme
 
 ## Description
 
-Inspired by the warm hues and rustic feel of sakura, this light theme aims to evoke a sense of comfort and
-tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
-afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
+Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
+complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
+garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
@@ -30,18 +31,18 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/FFFFFF.png" alt="#FFFFFF"><br/><sub><b>#FFFFFF</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/F6C7B9.png" alt="#F6C7B9"><br/><sub><b>#F6C7B9</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BE553E.png" alt="#BE553E"><br/><sub><b>#BE553E</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/773918.png" alt="#773918"><br/><sub><b>#773918</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/B0633A.png" alt="#B0633A"><br/><sub><b>#B0633A</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FEFAFA.png" alt="#FEFAFA"><br/><sub><b>#FEFAFA</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FFD6E0.png" alt="#FFD6E0"><br/><sub><b>#FFD6E0</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/FFBDD2.png" alt="#FFBDD2"><br/><sub><b>#FFBDD2</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/CB6B91.png" alt="#CB6B91"><br/><sub><b>#CB6B91</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/98556C.png" alt="#98556C"><br/><sub><b>#98556C</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/A87F25.png" alt="#A87F25"><br/><sub><b>#A87F25</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/F5B211.png" alt="#F5B211"><br/><sub><b>#F5B211</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/1B591E.png" alt="#1B591E"><br/><sub><b>#1B591E</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/0E8113.png" alt="#0E8113"><br/><sub><b>#0E8113</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/006E83.png" alt="#006E83"><br/><sub><b>#006E83</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D0DECE.png" alt="#D0DECE"><br/><sub><b>#D0DECE</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/618C71.png" alt="#618C71"><br/><sub><b>#618C71</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/69A2BD.png" alt="#69A2BD"><br/><sub><b>#69A2BD</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/607FA9.png" alt="#607FA9"><br/><sub><b>#607FA9</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/687788.png" alt="#687788"><br/><sub><b>#687788</b></sub><br/></td>
    </tr>
 </table>
 

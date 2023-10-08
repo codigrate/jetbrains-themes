@@ -19,43 +19,43 @@
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description>
         <![CDATA[
-            Inspired by the warm hues and rustic feel of the sakura season, this light theme aims to evoke a sense of
-            comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of
-            fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus
-            and productivity.
+            Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
+            Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
+            complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
+            garden, is designed to be easy on the eyes, aiding focus and efficient coding.
             <br/>
             <br/>
             <b>Color Palette</b>
             <ul>
                 <li>
-                    Editor Background - #FFFFFF
+                    Editor Background - #FEFAFA
                 </li>
                 <li>
-                    Header Background - #F6C7B9
+                    Header Background - #FFD6E0
                 </li>
                 <li>
-                    Global Variables - #BE553E
+                    Selection Background - #FFBDD2
                 </li>
                 <li>
-                    Metadata - #773918
+                    Parameters - #CB6B91
                 </li>
                 <li>
-                    Parameters - #B0633A
+                    Keywords - #98556C
                 </li>
                 <li>
-                    Instance Fields - #A87F25
+                    Match Background - #D0DECE
                 </li>
                 <li>
-                    Secondary Accent - #F5B211
+                    Local Variables - #618C71
                 </li>
                 <li>
-                    Strings and Numbers - #1B591E
+                    Hyperlinks - #69A2BD
                 </li>
                 <li>
-                    Local Variables - #0E8113
+                    Instance Fields - #607FA9
                 </li>
                 <li>
-                    Keywords - #006E83
+                    Global Variables - #687788
                 </li>
             </ul>
         ]]>
