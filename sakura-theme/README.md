@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/22700-sakura-theme">
+   <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,9 +8,9 @@
 Sakura - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22700-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-sakura-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22700-sakura-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-sakura-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22700-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-sakura-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
 
 ## Description
 

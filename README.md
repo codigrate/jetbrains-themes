@@ -30,25 +30,27 @@ Codigrate themes for JetBrains.
 <table> 
    <tr>
       <td align="center">
-       <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-          <img src="./aurora-borealis-theme/icon.png" width="100px;" alt=""/>
-          <br/>
-          <sub>
-             <b>Aurora Borealis Theme</b>
-          </sub>
-       </a>
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/aurora-borealis-theme">
+            <img src="./aurora-borealis-theme/icon.png" width="100px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Aurora Borealis Theme</b>
+            </sub>
+         </a>
       </td>
       <td align="left">
-         <img src="https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td>
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/everest-theme">
             <img src="./everest-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -57,16 +59,18 @@ Codigrate themes for JetBrains.
          </a>
       </td>
       <td align="left">
-         <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td> 
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/autumn-theme">
             <img src="./autumn-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -75,16 +79,18 @@ Codigrate themes for JetBrains.
          </a>
       </td>
       <td align="left">
-         <img src="https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td> 
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sequoia-theme">
             <img src="./sequoia-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -93,16 +99,18 @@ Codigrate themes for JetBrains.
          </a>
       </td>
       <td align="left">
-         <img src="https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td>
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sakura-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sakura-theme">
             <img src="./sakura-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -111,11 +119,13 @@ Codigrate themes for JetBrains.
          </a>
       </td>
       <td align="left">
-         <img src="https://img.shields.io/jetbrains/plugin/v/22826-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/d/22826-sakura-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         <br/>
-         <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td>
    </tr>
 </table>
