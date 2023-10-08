@@ -1,9 +1,9 @@
 <scheme name="Sakura Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-10-07T23:08:17</property>
+        <property name="created">2023-10-08T16:17:03</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-07T23:08:20</property>
+        <property name="modified">2023-10-08T16:17:08</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="5d7c7b" />
@@ -22,9 +22,9 @@
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
         <option name="LINE_NUMBERS_COLOR" value="c5a0ba" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c751a2" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cb339e" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="fd8456" />
+        <option name="METHOD_SEPARATORS_COLOR" value="f1edef" />
         <option name="MODIFIED_TAB_ICON" value="" />
         <option name="NOTIFICATION_BACKGROUND" value="e1dac3" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
@@ -35,8 +35,8 @@
         <option name="SELECTION_BACKGROUND" value="e7cfdf" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="b29993" />
-        <option name="ScrollBar.Mac.thumbColor" value="dad1ce" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="fadee1" />
+        <option name="ScrollBar.Mac.thumbColor" value="fadee1b3" />
         <option name="ScrollBar.hoverThumbColor" value="dcd2a9" />
         <option name="ScrollBar.thumbColor" value="dcd9c1" />
         <option name="TEARLINE_COLOR" value="f1edef" />
@@ -171,7 +171,7 @@
         <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="747f8f" />
+                <option name="FOREGROUND" value="687788" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -182,22 +182,22 @@
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="6a8bb9" />
+                <option name="FOREGROUND" value="607fa9" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
-                <option name="FOREGROUND" value="6a8bb9" />
+                <option name="FOREGROUND" value="607fa9" />
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="e34747" />
+                <option name="FOREGROUND" value="c02b2b" />
             </value>
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="9d5a71" />
+                <option name="FOREGROUND" value="98556c" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -210,12 +210,12 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="6f9a7d" />
+                <option name="FOREGROUND" value="618c71" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="bb7795" />
+                <option name="FOREGROUND" value="b46e8d" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
@@ -232,17 +232,17 @@
         <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="DEFAULT_REASSIGNED_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="a12b5e" />
+                <option name="FOREGROUND" value="b24973" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="bd765b" />
+                <option name="FOREGROUND" value="a4664e" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="bd765b" />
+                <option name="FOREGROUND" value="a4664e" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -252,7 +252,7 @@
         </option>
         <option name="DEFAULT_TAG">
             <value>
-                <option name="FOREGROUND" value="bb7795" />
+                <option name="FOREGROUND" value="b46e8d" />
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -424,7 +424,7 @@
         </option>
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="bb7795" />
+                <option name="FOREGROUND" value="b46e8d" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -461,8 +461,8 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="e7e3dd" />
-                <option name="ERROR_STRIPE_COLOR" value="e7e3dd" />
+                <option name="BACKGROUND" value="e7edef" />
+                <option name="ERROR_STRIPE_COLOR" value="e7edef" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -554,8 +554,8 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="fd8456" />
-                <option name="ERROR_STRIPE_COLOR" value="fd8456" />
+                <option name="BACKGROUND" value="ffa381" />
+                <option name="ERROR_STRIPE_COLOR" value="ffa381" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -669,7 +669,7 @@
         </option>
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="bb7795" />
+                <option name="FOREGROUND" value="b46e8d" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
