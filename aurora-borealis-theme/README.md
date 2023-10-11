@@ -56,11 +56,16 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 ## What's Next
 
-#### 1.0.10
+#### 1.0.11
 
 * Update editor colors
 
 ## What's New
+
+#### 1.0.10
+
+* Update icon
+* Update menu colors
 
 #### 1.0.9
 
