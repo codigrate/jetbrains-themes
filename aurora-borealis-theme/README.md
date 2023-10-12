@@ -128,3 +128,4 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 ## LICENSE
 
 The source code for this project is released under the [MIT License](LICENSE).
+
