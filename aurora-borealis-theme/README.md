@@ -54,59 +54,86 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
    Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
-## What's Next
-
-#### 1.0.11
-
-* Update editor colors
-
 ## What's New
 
-#### 1.0.10
-
-* Update icon
-* Update menu colors
-
-#### 1.0.9
-
-* Update description
-
-#### 1.0.8
-
-* Update icon
-
-#### 1.0.7
-
-* Update icon
-
-#### 1.0.6
-
-* Update identifier background color
-
-#### 1.0.5
-
-* Update Search Match Background Colors
-
-#### 1.0.4
-
-* Update implicit anonymous class parameter attribute colors
-
-#### 1.0.3
-
-* Update install and update button colors
-* Update selection background color
-
-#### 1.0.2
-
-* Update docs
-
-#### 1.0.1
-
-* Update menu colors
-
-#### 1.0.0
-
-* Initial version
+<b>1.0.11</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+</ul>
+<b>1.0.10</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.9</b>
+<ul>
+    <li>
+        Update description
+    </li>
+</ul>
+<b>1.0.8</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
+<b>1.0.7</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
+<b>1.0.6</b>
+<ul>
+    <li>
+        Update identifier background color
+    </li>
+</ul>
+<b>1.0.5</b>
+<ul>
+    <li>
+        Update Search Match Background Colors
+    </li>
+</ul>
+<b>1.0.4</b>
+<ul>
+    <li>
+        Update implicit anonymous class parameter attribute colors
+    </li>
+</ul>
+<b>1.0.3</b>
+<ul>
+    <li>
+        Update install and update button colors
+    </li>
+    <li>
+        Update selection background color
+    </li>
+</ul>
+<b>1.0.2</b>
+<ul>
+    <li>
+        Update docs
+    </li>
+</ul>
+<b>1.0.1</b>
+<ul>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.0</b>
+<ul>
+    <li>
+        Initial version
+    </li>
+</ul>
 
 ## Contributors
 

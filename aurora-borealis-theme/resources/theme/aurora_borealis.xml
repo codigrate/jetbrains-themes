@@ -1,13 +1,13 @@
 <scheme name="Aurora Borealis Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-09-11T22:46:11</property>
+        <property name="created">2023-10-13T20:39:09</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.1.0.0</property>
-        <property name="modified">2023-09-11T22:46:19</property>
+        <property name="ideVersion">2023.2.3.0.0</property>
+        <property name="modified">2023-10-13T20:39:18</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="2b9abc" />
-        <option name="CARET_COLOR" value="f0f0f0" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="1f7791" />
+        <option name="CARET_COLOR" value="8dc5e1" />
         <option name="CARET_ROW_COLOR" value="2b3949" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2b2b" />
@@ -24,16 +24,16 @@
         <option name="LINE_NUMBERS_COLOR" value="2b9abc" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="3cd0ff" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="2b9abc" />
+        <option name="METHOD_SEPARATORS_COLOR" value="1f7791" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="574f37" />
+        <option name="NOTIFICATION_BACKGROUND" value="112733" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
         <option name="RIGHT_MARGIN_COLOR" value="17303f" />
-        <option name="SELECTED_INDENT_GUIDE" value="3a7ea6" />
-        <option name="SELECTED_TEARLINE_COLOR" value="3a7ea6" />
-        <option name="SELECTION_BACKGROUND" value="42556c" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="2d5465" />
-        <option name="ScrollBar.Mac.thumbColor" value="20414f" />
+        <option name="SELECTED_INDENT_GUIDE" value="1f7791" />
+        <option name="SELECTED_TEARLINE_COLOR" value="1f7791" />
+        <option name="SELECTION_BACKGROUND" value="3c4e64" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="c7c6a" />
+        <option name="ScrollBar.Mac.thumbColor" value="153c4f" />
         <option name="TEARLINE_COLOR" value="17303f" />
         <option name="VISUAL_INDENT_GUIDE" value="17303f" />
         <option name="WHITESPACES" value="e0e0e0" />
@@ -296,7 +296,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="7202f" />
+                <option name="BACKGROUND" value="143734" />
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -337,7 +337,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="b556e" />
+                <option name="FOREGROUND" value="bbdef5" />
+                <option name="BACKGROUND" value="e4564" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -362,7 +363,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="354038" />
+                <option name="BACKGROUND" value="143733" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -468,7 +469,7 @@
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="dcccac" />
-                <option name="BACKGROUND" value="142a36" />
+                <option name="BACKGROUND" value="142c38" />
                 <option name="EFFECT_COLOR" value="cc9d57" />
                 <option name="ERROR_STRIPE_COLOR" value="cc9d57" />
             </value>
@@ -487,8 +488,8 @@
         </option>
         <option name="TEXT">
             <value>
-                <option name="FOREGROUND" value="e0e0e0" />
-                <option name="BACKGROUND" value="142a36" />
+                <option name="FOREGROUND" value="e0e2e3" />
+                <option name="BACKGROUND" value="142b37" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -547,7 +548,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="195b3d" />
+                <option name="FOREGROUND" value="b9f1da" />
+                <option name="BACKGROUND" value="e6443" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
