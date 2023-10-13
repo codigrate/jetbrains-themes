@@ -15,6 +15,7 @@
     "selectionInactiveBackground": "#2d3b4b",
     "tabColor": "#043a33",
     "lineColor": "#049682",
+    "iconBackground": "#049682",
     "tabHoverBackground": "#112733",
     "searchMatchBackground": "#7ACEF5",
     "accentColor": "#7ACEF5",
@@ -244,7 +245,7 @@
     },
     "ToolWindow": {
       "Button": {
-        "selectedBackground": "lineColor",
+        "selectedBackground": "iconBackground",
         "hoverBackground": "hoverBackground"
       },
       "Header": {

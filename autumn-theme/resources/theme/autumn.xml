@@ -1,12 +1,12 @@
 <scheme name="Autumn Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-21T14:41:56</property>
+        <property name="created">2023-10-14T01:07:39</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-09-21T14:42:02</property>
+        <property name="ideVersion">2023.2.3.0.0</property>
+        <property name="modified">2023-10-14T01:07:45</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="b29993" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="f3e9de" />
         <option name="CARET_COLOR" value="6b9a24" />
         <option name="CARET_ROW_COLOR" value="eef3d1" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
@@ -17,30 +17,30 @@
         <option name="ERROR_HINT" value="ffdcdc" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="fefefe" />
-        <option name="INDENT_GUIDE" value="ecf1e1" />
+        <option name="INDENT_GUIDE" value="f3e9de" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
         <option name="LINE_NUMBERS_COLOR" value="a98837" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="517e21" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="afc485" />
+        <option name="METHOD_SEPARATORS_COLOR" value="f3e9de" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="e1dac3" />
+        <option name="NOTIFICATION_BACKGROUND" value="fffefe" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
-        <option name="RIGHT_MARGIN_COLOR" value="ecf1e1" />
-        <option name="SELECTED_INDENT_GUIDE" value="afc485" />
+        <option name="RIGHT_MARGIN_COLOR" value="f3e9de" />
+        <option name="SELECTED_INDENT_GUIDE" value="f3e9de" />
         <option name="SELECTED_TEARLINE_COLOR" value="d9e7c6" />
         <option name="SELECTION_BACKGROUND" value="dae5cd" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="b29993" />
-        <option name="ScrollBar.Mac.thumbColor" value="dad1ce" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="dae3a4" />
+        <option name="ScrollBar.Mac.thumbColor" value="f5e4c1" />
         <option name="ScrollBar.hoverThumbColor" value="dcd2a9" />
         <option name="ScrollBar.thumbColor" value="dcd9c1" />
-        <option name="TEARLINE_COLOR" value="ecf1e1" />
-        <option name="VISUAL_INDENT_GUIDE" value="ecf1e1" />
+        <option name="TEARLINE_COLOR" value="f3e9de" />
+        <option name="VISUAL_INDENT_GUIDE" value="f3e9de" />
         <option name="WHITESPACES" value="7a796f" />
     </colors>
     <attributes>
@@ -314,7 +314,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="eeede4" />
+                <option name="BACKGROUND" value="f3f2ec" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -437,7 +437,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f6d8b6" />
+                <option name="FOREGROUND" value="206707" />
+                <option name="BACKGROUND" value="cceebf" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -461,8 +462,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="e7e3dd" />
-                <option name="ERROR_STRIPE_COLOR" value="e7e3dd" />
+                <option name="BACKGROUND" value="faeee5" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -555,7 +555,6 @@
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="bfd79c" />
-                <option name="ERROR_STRIPE_COLOR" value="bfd79c" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -654,7 +653,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f6c5b6" />
+                <option name="FOREGROUND" value="806706" />
+                <option name="BACKGROUND" value="f6e9b6" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

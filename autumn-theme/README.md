@@ -31,7 +31,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 <table>
    <tr>
       <td align="center"><img src="https://codigrate.com/util/color/FFFFFF.png" alt="#FFFFFF"><br/><sub><b>#FFFFFF</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/F6C7B9.png" alt="#F6C7B9"><br/><sub><b>#F6C7B9</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/F6D8B6.png" alt="#F6D8B6"><br/><sub><b>#F6D8B6</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/BE553E.png" alt="#BE553E"><br/><sub><b>#BE553E</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/773918.png" alt="#773918"><br/><sub><b>#773918</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/B0633A.png" alt="#B0633A"><br/><sub><b>#B0633A</b></sub><br/></td>
@@ -53,37 +53,53 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Autumn Theme** in
    the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
-## What's Next
-
-#### 1.0.6
-
-* Update editor colors
-
 ## What's New
 
-#### 1.0.5
-
-* Update description
-
-#### 1.0.4
-
-* Update icon
-
-#### 1.0.3
-
-* Update editor colors
-
-#### 1.0.2
-
-* Update icon and editor colors
-
-#### 1.0.1
-
-* Update identifier background color
-
-#### 1.0.0
-
-* Initial version
+<b>1.0.6</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.5</b>
+<ul>
+    <li>
+        Update description
+    </li>
+</ul>
+<b>1.0.4</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
+<b>1.0.3</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+</ul>
+<b>1.0.2</b>
+<ul>
+    <li>
+        Update icon and editor colors
+    </li>
+</ul>
+<b>1.0.1</b>
+<ul>
+    <li>
+        Update identifier background color
+    </li>
+</ul>
+<b>1.0.0</b>
+<ul>
+    <li>
+        Initial version
+    </li>
+</ul>
 
 ## Contributors
 
