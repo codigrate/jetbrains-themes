@@ -1,12 +1,12 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-09-18T20:15:43</property>
+        <property name="created">2023-10-13T22:48:49</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-09-18T20:15:47</property>
+        <property name="ideVersion">2023.2.3.0.0</property>
+        <property name="modified">2023-10-13T22:49:00</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="71ad93" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="c5d1d7" />
         <option name="CARET_COLOR" value="467196" />
         <option name="CARET_ROW_COLOR" value="e6edf5" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
@@ -26,7 +26,7 @@
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="c5d1d7" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="e1dac3" />
+        <option name="NOTIFICATION_BACKGROUND" value="fcfdfe" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
         <option name="RIGHT_MARGIN_COLOR" value="dde7f6" />
@@ -35,8 +35,8 @@
         <option name="SELECTION_BACKGROUND" value="d4dde7" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="b4b4b480" />
-        <option name="ScrollBar.Mac.thumbColor" value="b4b4b44d" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="bfc5e1" />
+        <option name="ScrollBar.Mac.thumbColor" value="edf3f5" />
         <option name="ScrollBar.hoverThumbColor" value="c3dbe5bf" />
         <option name="ScrollBar.thumbColor" value="c3dbe580" />
         <option name="TEARLINE_COLOR" value="dde7f6" />
@@ -110,7 +110,6 @@
             <value>
                 <option name="FOREGROUND" value="286da6" />
                 <option name="EFFECT_COLOR" value="286da6" />
-                <option name="EFFECT_TYPE" value="-1" />
             </value>
         </option>
         <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
@@ -319,7 +318,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="e8e8e8" />
+                <option name="BACKGROUND" value="f0f1f2" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -442,7 +441,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="b3d3c4" />
+                <option name="FOREGROUND" value="8c4e0b" />
+                <option name="BACKGROUND" value="f7dec9" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -466,8 +466,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="fdf3e2" />
-                <option name="ERROR_STRIPE_COLOR" value="fdf3e2" />
+                <option name="BACKGROUND" value="ebe1f3" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -549,8 +548,7 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="cad3dc" />
-                <option name="ERROR_STRIPE_COLOR" value="cad3dc" />
+                <option name="BACKGROUND" value="87bda7" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -651,7 +649,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="f7e3c9" />
+                <option name="FOREGROUND" value="ab7307" />
+                <option name="BACKGROUND" value="f7e8c9" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

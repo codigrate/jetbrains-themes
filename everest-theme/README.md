@@ -53,50 +53,77 @@ the golden hues of dawn breaking over snow-capped peaks.
 4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Everest Theme** in
    the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
-## What's Next
-
-#### 1.0.9
-
-* Update editor colors
-
 ## What's New
 
-#### 1.0.8
+<b>1.0.9</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.8</b>
+<ul>
+    <li>
+        Update description
+    </li>
+</ul>
+<b>1.0.7</b>
+<ul>
+    <li>
+        Update icon
+    </li>
 
-* Update description
+</ul>
+<b>1.0.6</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
 
-#### 1.0.7
+</ul>
+<b>1.0.5</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+    <li>
+        Update menu and editor colors
+    </li>
 
-* Update icon
-
-#### 1.0.6
-
-* Update editor colors
-
-#### 1.0.5
-
-* Update icon
-* Update menu and editor colors
-
-#### 1.0.4
-
-* Update identifier background color
-
-#### 1.0.3
-
-* Update Search Match Background Colors
-
-#### 1.0.2
-
-* Update implicit anonymous class parameter attribute colors
-
-#### 1.0.1
-
-* Update install and update button colors
-
-#### 1.0.0
-
-* Initial version
+</ul>
+<b>1.0.4</b>
+<ul>
+    <li>
+        Update identifier background color
+    </li>
+</ul>
+<b>1.0.3</b>
+<ul>
+    <li>
+        Update Search Match Background Colors
+    </li>
+</ul>
+<b>1.0.2</b>
+<ul>
+    <li>
+        Update implicit anonymous class parameter attribute colors
+    </li>
+</ul>
+<b>1.0.1</b>
+<ul>
+    <li>
+        Update install and update button colors
+    </li>
+</ul>
+<b>1.0.0</b>
+<ul>
+    <li>
+        Initial version
+    </li>
+</ul>
 
 ## Contributors
 
