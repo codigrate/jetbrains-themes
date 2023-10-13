@@ -1,12 +1,12 @@
 <scheme name="Sakura Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-10-08T16:57:38</property>
+        <property name="created">2023-10-14T01:45:25</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-08T16:57:41</property>
+        <property name="ideVersion">2023.2.3.0.0</property>
+        <property name="modified">2023-10-14T01:45:32</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="5d7c7b" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="f1edef" />
         <option name="CARET_COLOR" value="c55ea5" />
         <option name="CARET_ROW_COLOR" value="f1ebef" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
@@ -22,21 +22,21 @@
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
         <option name="LINE_NUMBERS_COLOR" value="c5a0ba" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="cb339e" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d052ab" />
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="f1edef" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="e1dac3" />
+        <option name="NOTIFICATION_BACKGROUND" value="fffeff" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
         <option name="RIGHT_MARGIN_COLOR" value="f1edef" />
-        <option name="SELECTED_INDENT_GUIDE" value="f3cfe0" />
+        <option name="SELECTED_INDENT_GUIDE" value="c5795e" />
         <option name="SELECTED_TEARLINE_COLOR" value="f3cfe0" />
         <option name="SELECTION_BACKGROUND" value="e7cfdf" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="fadee1" />
-        <option name="ScrollBar.Mac.thumbColor" value="fadee1b3" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="fac2d1" />
+        <option name="ScrollBar.Mac.thumbColor" value="fae5eb" />
         <option name="ScrollBar.hoverThumbColor" value="dcd2a9" />
         <option name="ScrollBar.thumbColor" value="dcd9c1" />
         <option name="TEARLINE_COLOR" value="f1edef" />
@@ -314,7 +314,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="e7eee4" />
+                <option name="BACKGROUND" value="d0dece" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -437,7 +437,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="e0efdd" />
+                <option name="FOREGROUND" value="720e34" />
+                <option name="BACKGROUND" value="f8e3eb" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -461,8 +462,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="e7edef" />
-                <option name="ERROR_STRIPE_COLOR" value="e7edef" />
+                <option name="BACKGROUND" value="eae7f6" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -555,7 +555,6 @@
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
                 <option name="BACKGROUND" value="ffa381" />
-                <option name="ERROR_STRIPE_COLOR" value="ffa381" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -649,7 +648,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="d6f3cf" />
+                <option name="FOREGROUND" value="62115d" />
+                <option name="BACKGROUND" value="f1e5f0" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

@@ -54,17 +54,23 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Sakura Theme** in
    the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
-## What's Next
-
-#### 1.0.1
-
-* Update editor colors
-
 ## What's New
 
-#### 1.0.0
-
-* Initial version
+<b>1.0.1</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.0</b>
+<ul>
+    <li>
+        Initial version
+    </li>
+</ul>
 
 ## Contributors
 
