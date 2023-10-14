@@ -1,12 +1,12 @@
 <scheme name="Sequoia Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-01T03:44:31</property>
+        <property name="created">2023-10-14T18:06:01</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.2.0.0</property>
-        <property name="modified">2023-10-01T03:44:38</property>
+        <property name="ideVersion">2023.2.3.0.0</property>
+        <property name="modified">2023-10-14T18:06:09</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="7d3725" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="3a2018" />
         <option name="CARET_COLOR" value="b7e63" />
         <option name="CARET_ROW_COLOR" value="1c251d" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -26,14 +26,14 @@
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="3a2018" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="2d291c" />
+        <option name="NOTIFICATION_BACKGROUND" value="191818" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
         <option name="RIGHT_MARGIN_COLOR" value="3a2018" />
         <option name="SELECTED_INDENT_GUIDE" value="3a2018" />
         <option name="SELECTED_TEARLINE_COLOR" value="562d21" />
         <option name="SELECTION_BACKGROUND" value="28201a" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="2d5465" />
-        <option name="ScrollBar.Mac.thumbColor" value="20414f" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="386528" />
+        <option name="ScrollBar.Mac.thumbColor" value="382c2a" />
         <option name="ScrollBar.hoverThumbColor" value="4b4949b3" />
         <option name="ScrollBar.thumbColor" value="4b494959" />
         <option name="TEARLINE_COLOR" value="3a2018" />
@@ -313,7 +313,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="7202f" />
+                <option name="BACKGROUND" value="3f382d" />
             </value>
         </option>
         <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -359,7 +359,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="53516" />
+                <option name="FOREGROUND" value="d5c3b7" />
+                <option name="BACKGROUND" value="442409" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -384,7 +385,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="425045" />
+                <option name="BACKGROUND" value="382a25" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -572,7 +573,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="a363a" />
+                <option name="FOREGROUND" value="ccc6b4" />
+                <option name="BACKGROUND" value="443609" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

@@ -58,17 +58,23 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
-## What's Next
-
-#### 1.0.1
-
-* Update editor colors
-
 ## What's New
 
-#### 1.0.0
-
-* Initial version
+<b>1.0.1</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+    <li>
+        Update menu colors
+    </li>
+</ul>
+<b>1.0.0</b>
+<ul>
+    <li>
+        Initial version
+    </li>
+</ul>
 
 ## Contributors
 

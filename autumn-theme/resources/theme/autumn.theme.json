@@ -21,7 +21,6 @@
     "accentColor": "#775851",
     "hoverBackground": "#eee4cc",
     "primaryForeground": "#341911",
-    "focusAccentColor": "#816b65",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
