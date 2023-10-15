@@ -37,25 +37,25 @@
                     Comments - #6C625A
                 </li>
                 <li>
-                    Focus Accent - #7E3C2B
+                    Local Variables - #A25B4E
                 </li>
                 <li>
-                    Parameters - #98533B
-                </li>
-                <li>
-                    Html Tags - #A46233
+                    Global Variables - #854F3C
                 </li>
                 <li>
                     Instance Fields - #A67B5B
                 </li>
                 <li>
-                    Numbers - #308332
+                    Keywords - #A88E4D
                 </li>
                 <li>
-                    Strings - #50A553
+                    Hover Background - #374223
                 </li>
                 <li>
-                    Static Fields - #20916F
+                    Numbers - #6B9A58
+                </li>
+                <li>
+                    Strings - #84A975
                 </li>
             </ul>
         ]]>

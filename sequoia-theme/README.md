@@ -34,15 +34,15 @@ grounded, tranquil palette guide you through the logical forest of your code eff
       <td align="center"><img src="https://codigrate.com/util/color/181717.png" alt="#181717"><br/><sub><b>#181717</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/302D2D.png" alt="#302D2D"><br/><sub><b>#302D2D</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/6C625A.png" alt="#6C625A"><br/><sub><b>#6C625A</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/7E3C2B.png" alt="#7E3C2B"><br/><sub><b>#7E3C2B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/98533B.png" alt="#98533B"><br/><sub><b>#98533B</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A25B4E.png" alt="#A25B4E"><br/><sub><b>#A25B4E</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/854F3C.png" alt="#854F3C"><br/><sub><b>#854F3C</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/A46233.png" alt="#A46233"><br/><sub><b>#A46233</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/A67B5B.png" alt="#A67B5B"><br/><sub><b>#A67B5B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/308332.png" alt="#308332"><br/><sub><b>#308332</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/50A553.png" alt="#50A553"><br/><sub><b>#50A553</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/20916F.png" alt="#20916F"><br/><sub><b>#20916F</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/A88E4D.png" alt="#A88E4D"><br/><sub><b>#A88E4D</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/374223.png" alt="#374223"><br/><sub><b>#374223</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/6B9A58.png" alt="#6B9A58"><br/><sub><b>#6B9A58</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/84A975.png" alt="#84A975"><br/><sub><b>#84A975</b></sub><br/></td>
    </tr>
 </table>
 
