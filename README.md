@@ -30,7 +30,7 @@ Codigrate themes for JetBrains.
 <table> 
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/aurora-borealis-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/aurora-borealis-theme">
             <img src="nature-themes/aurora-borealis-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -50,7 +50,7 @@ Codigrate themes for JetBrains.
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/everest-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/everest-theme">
             <img src="nature-themes/everest-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -70,7 +70,7 @@ Codigrate themes for JetBrains.
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/autumn-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/autumn-theme">
             <img src="nature-themes/autumn-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -90,7 +90,7 @@ Codigrate themes for JetBrains.
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sequoia-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/sequoia-theme">
             <img src="nature-themes/sequoia-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -110,7 +110,7 @@ Codigrate themes for JetBrains.
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sakura-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/sakura-theme">
             <img src="nature-themes/sakura-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
@@ -130,7 +130,7 @@ Codigrate themes for JetBrains.
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/roraima-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/roraima-theme">
             <img src="nature-themes/roraima-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
