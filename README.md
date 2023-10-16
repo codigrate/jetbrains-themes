@@ -31,7 +31,7 @@ Codigrate themes for JetBrains.
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/aurora-borealis-theme">
-            <img src="./aurora-borealis-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/aurora-borealis-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
                <b>Aurora Borealis Theme</b>
@@ -51,7 +51,7 @@ Codigrate themes for JetBrains.
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/everest-theme">
-            <img src="./everest-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/everest-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
                <b>Everest Theme</b>
@@ -71,7 +71,7 @@ Codigrate themes for JetBrains.
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/autumn-theme">
-            <img src="./autumn-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/autumn-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
                <b>Autumn Theme</b>
@@ -91,7 +91,7 @@ Codigrate themes for JetBrains.
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sequoia-theme">
-            <img src="./sequoia-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/sequoia-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
                <b>Sequoia Theme</b>
@@ -111,7 +111,7 @@ Codigrate themes for JetBrains.
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/sakura-theme">
-            <img src="./sakura-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/sakura-theme/icon.png" width="100px;" alt=""/>
             <br/>
             <sub>
                <b>Sakura Theme</b>
@@ -125,6 +125,26 @@ Codigrate themes for JetBrains.
             <img src="https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/roraima-theme">
+            <img src="nature-themes/roraima-theme/icon.png" width="100px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Roraima Theme</b>
+            </sub>
+         </a>
+      </td>
+      <td align="left">
+         <a href="https://plugins.jetbrains.com/plugin/22872-roraima-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22872-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22872-roraima-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22872-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td>
    </tr>
