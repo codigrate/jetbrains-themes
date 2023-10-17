@@ -24,6 +24,12 @@ Codigrate themes for JetBrains.
 
 ## Nature Themes
 
+<p align="center">
+   <a href="./nature-themes>
+    <img src="nature-themes/icon.png" alt="Logo" width=200>
+  </a>
+</p>
+
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
