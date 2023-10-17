@@ -20,15 +20,20 @@ Codigrate themes for JetBrains.
    theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
+<br/>
+<br/>
+
 <!-- Plugin description end -->
 
-## Nature Themes
-
 <p align="center">
-   <a href="./nature-themes>
-    <img src="nature-themes/icon.png" alt="Logo" width=200>
+   <a href="./nature-themes">
+    <img src="nature-themes/icon.png" alt="Logo" width=170>
   </a>
 </p>
+
+<h1 align="center">
+Nature Themes
+</h1>
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
