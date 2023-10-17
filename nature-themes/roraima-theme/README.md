@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/22487-roraima-theme">
+   <a href="https://plugins.jetbrains.com/plugin/00000-roraima-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,9 +8,9 @@
 Roraima - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22487-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-roraima-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-roraima-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-roraima-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-roraima-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/00000-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/00000-roraima-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/00000-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
 
 ## Description
 
