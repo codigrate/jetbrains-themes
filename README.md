@@ -150,12 +150,12 @@ Nature Themes
          </a>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/00000-roraima-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/00000-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22961-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/00000-roraima-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22961-roraima-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/00000-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td>
    </tr>

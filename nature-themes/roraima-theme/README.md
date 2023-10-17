@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/00000-roraima-theme">
+   <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
     <img src="./icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,9 +8,9 @@
 Roraima - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/00000-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/00000-roraima-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/00000-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/00000-roraima-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/22961-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22961-roraima-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
 
 ## Description
 
@@ -31,18 +31,18 @@ focused coding experience.
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/142A36.png" alt="#142A36"><br/><sub><b>#142A36</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/1C3847.png" alt="#1C3847"><br/><sub><b>#1C3847</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/549EFF.png" alt="#549EFF"><br/><sub><b>#549EFF</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/7ACEF5.png" alt="#7ACEF5"><br/><sub><b>#7ACEF5</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/043A33.png" alt="#043A33"><br/><sub><b>#043A33</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/1e1a1b.png" alt="#1e1a1b"><br/><sub><b>#1e1a1b</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/322628.png" alt="#322628"><br/><sub><b>#322628</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/522d2d.png" alt="#522d2d"><br/><sub><b>#522d2d</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/ad4836.png" alt="#ad4836"><br/><sub><b>#ad4836</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/cc654e.png" alt="#cc654e"><br/><sub><b>#cc654e</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/73D379.png" alt="#73D379"><br/><sub><b>#73D379</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/05C0A6.png" alt="#05C0A6"><br/><sub><b>#05C0A6</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BB719B.png" alt="#BB719B"><br/><sub><b>#BB719B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/D193BB.png" alt="#D193BB"><br/><sub><b>#D193BB</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BAA5FF.png" alt="#BAA5FF"><br/><sub><b>#BAA5FF</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/de785a.png" alt="#de785a"><br/><sub><b>#de785a</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/d2b05f.png" alt="#d2b05f"><br/><sub><b>#d2b05f</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/d9c496.png" alt="#d9c496"><br/><sub><b>#d9c496</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/8f78b7.png" alt="#8f78b7"><br/><sub><b>#8f78b7</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/9f95c2.png" alt="#9f95c2"><br/><sub><b>#9f95c2</b></sub><br/></td>
    </tr>
 </table>
 

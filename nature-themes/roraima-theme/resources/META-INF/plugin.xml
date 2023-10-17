@@ -28,34 +28,34 @@
             <b>Color Palette</b>
             <ul>
                 <li>
-                    Editor Background - #142A36
+                    Editor Background - #1e1a1b
                 </li>
                 <li>
-                    Menu Background - #1C3847
+                    Menu Background - #322628
                 </li>
                 <li>
-                    Strings and Numbers - #549EFF
+                    Selection Background - #522d2d
                 </li>
                 <li>
-                    Instance Fields - #7ACEF5
+                    Tabline Color - #ad4836
                 </li>
                 <li>
-                    Tab Colors - #043A33
+                    Accent Color - #cc654e
                 </li>
                 <li>
-                    Global Variables - #73D379
+                    Keywords - #de785a
                 </li>
                 <li>
-                    Local Variables - #05C0A6
+                    Strings - #d2b05f
                 </li>
                 <li>
-                    Keywords - #BB719B
+                    Numbers - #d9c496
                 </li>
                 <li>
-                    Static Fields - #D193BB
+                    Tags - #8f78b7
                 </li>
                 <li>
-                    Parameters - #BAA5FF
+                    Static Fields - #9f95c2
                 </li>
             </ul>
         ]]>
