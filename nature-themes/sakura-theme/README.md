@@ -56,6 +56,12 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## What's New
 
+<b>1.0.2</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
 <b>1.0.1</b>
 <ul>
     <li>
