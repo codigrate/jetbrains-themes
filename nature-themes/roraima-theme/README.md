@@ -31,18 +31,18 @@ focused coding experience.
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/1e1a1b.png" alt="#1e1a1b"><br/><sub><b>#1e1a1b</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/1E1A1B.png" alt="#1E1A1B"><br/><sub><b>#1E1A1B</b></sub><br/></td>
       <td align="center"><img src="https://codigrate.com/util/color/322628.png" alt="#322628"><br/><sub><b>#322628</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/522d2d.png" alt="#522d2d"><br/><sub><b>#522d2d</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/ad4836.png" alt="#ad4836"><br/><sub><b>#ad4836</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/cc654e.png" alt="#cc654e"><br/><sub><b>#cc654e</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/522D2D.png" alt="#522D2D"><br/><sub><b>#522D2D</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/AD4836.png" alt="#AD4836"><br/><sub><b>#AD4836</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/CC654E.png" alt="#CC654E"><br/><sub><b>#CC654E</b></sub><br/></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/de785a.png" alt="#de785a"><br/><sub><b>#de785a</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/d2b05f.png" alt="#d2b05f"><br/><sub><b>#d2b05f</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/d9c496.png" alt="#d9c496"><br/><sub><b>#d9c496</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/8f78b7.png" alt="#8f78b7"><br/><sub><b>#8f78b7</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/9f95c2.png" alt="#9f95c2"><br/><sub><b>#9f95c2</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/DE785A.png" alt="#DE785A"><br/><sub><b>#DE785A</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D2B05F.png" alt="#D2B05F"><br/><sub><b>#D2B05F</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/D9C496.png" alt="#D9C496"><br/><sub><b>#D9C496</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/8F78B7.png" alt="#8F78B7"><br/><sub><b>#8F78B7</b></sub><br/></td>
+      <td align="center"><img src="https://codigrate.com/util/color/9F95C2.png" alt="#9F95C2"><br/><sub><b>#9F95C2</b></sub><br/></td>
    </tr>
 </table>
 
