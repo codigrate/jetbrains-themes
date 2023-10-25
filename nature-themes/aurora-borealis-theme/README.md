@@ -20,13 +20,9 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 ## Screenshots
 
-<img src="screenshot-1.png" alt="screenshot">
-<img src="screenshot-2.png" alt="screenshot">
-<img src="screenshot-3.png" alt="screenshot">
+<img src="screenshot-raw.png" alt="screenshot">
 
 ## Color Palette
-
-<img src="color-palette.png" alt="color palette">
 
 <table>
    <tr>
