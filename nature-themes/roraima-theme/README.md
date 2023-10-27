@@ -23,6 +23,7 @@ focused coding experience.
 
 <img src="screenshot-1.png" alt="screenshot">
 <img src="screenshot-2.png" alt="screenshot">
+<img src="screenshot-3.png" alt="screenshot">
 
 ## Color Palette
 
