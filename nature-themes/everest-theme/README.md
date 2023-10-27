@@ -20,7 +20,8 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 ## Screenshots
 
-<img src="screenshot-raw.png" alt="screenshot">
+<img src="screenshot-1.png" alt="screenshot">
+<img src="screenshot-2.png" alt="screenshot">
 
 ## Color Palette
 
