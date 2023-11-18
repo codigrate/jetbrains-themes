@@ -53,6 +53,12 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 ## What's New
 
+<b>1.0.10</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
 <b>1.0.9</b>
 <ul>
     <li>
