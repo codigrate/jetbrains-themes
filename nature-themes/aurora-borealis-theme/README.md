@@ -54,6 +54,12 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 ## What's New
 
+<b>1.0.12</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
 <b>1.0.11</b>
 <ul>
     <li>
