@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.everest.theme</id>
-    <version>1.0.10</version>
+    <version>1.0.11</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="info@codigrate.com" url="https://codigrate.com">Codigrate</vendor>
 
-    <idea-version since-build="222" until-build="232.*"/>
+    <idea-version since-build="222"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
@@ -64,6 +64,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.11</b>
+            <ul>
+                <li>
+                    Fix supported versions
+                </li>
+            </ul>
             <b>1.0.10</b>
             <ul>
                 <li>

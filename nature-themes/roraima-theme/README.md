@@ -55,6 +55,12 @@ focused coding experience.
 
 ## What's New
 
+<b>1.0.1</b>
+<ul>
+    <li>
+        Fix supported versions
+    </li>
+</ul>
 <b>1.0.0</b>
 <ul>
     <li>
