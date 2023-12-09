@@ -1,9 +1,9 @@
 <scheme name="Roraima Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-10-18T01:24:32</property>
+        <property name="created">2023-12-09T17:23:04</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.3.0.0</property>
-        <property name="modified">2023-10-18T01:24:39</property>
+        <property name="ideVersion">2023.3.0.0</property>
+        <property name="modified">2023-12-09T17:23:09</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />

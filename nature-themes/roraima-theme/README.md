@@ -55,6 +55,12 @@ focused coding experience.
 
 ## What's New
 
+<b>1.0.2</b>
+<ul>
+    <li>
+        Update editor color scheme xml
+    </li>
+</ul>
 <b>1.0.1</b>
 <ul>
     <li>
