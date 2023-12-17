@@ -8,7 +8,7 @@
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="f3e9de" />
         <option name="CARET_COLOR" value="6b9a24" />
-        <option name="CARET_ROW_COLOR" value="eef3d1" />
+        <option name="CARET_ROW_COLOR" value="F6EEDB" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
@@ -568,6 +568,7 @@
                 <option name="FOREGROUND" value="83080" />
             </value>
         </option>
+        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="d56666" />

@@ -53,6 +53,12 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 ## What's New
 
+<b>1.0.9</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+</ul>
 <b>1.0.8</b>
 <ul>
     <li>
