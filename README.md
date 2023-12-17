@@ -68,8 +68,6 @@ Nature Themes
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td>
-   </tr>
-   <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/everest-theme">
             <img src="nature-themes/everest-theme/icon.png" width="100px;" alt=""/>
@@ -108,8 +106,6 @@ Nature Themes
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td> 
-   </tr>
-   <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/sequoia-theme">
             <img src="nature-themes/sequoia-theme/icon.png" width="100px;" alt=""/>
@@ -148,8 +144,6 @@ Nature Themes
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td>
-   </tr>
-   <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/roraima-theme">
             <img src="nature-themes/roraima-theme/icon.png" width="100px;" alt=""/>
