@@ -52,6 +52,16 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
    Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
+## Troubleshooting
+
+There is a minor IntelliJ bug that you may face while updating the theme.
+So, to not have that issue, please follow the steps below:
+
+1. If you are using the theme that you want to update, select another theme first.
+2. Then update the theme.
+3. Then restart the ide.
+4. Finally, switch it back to the theme that you updated.
+
 ## What's New
 
 <b>1.0.13</b>

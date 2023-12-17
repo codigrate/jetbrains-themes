@@ -44,9 +44,6 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
 </table>
 
-#### URL: [Palette link](https://coolors.co/c4a44f-a15252-20916f-a67b5b-201919-181717-302d2d-2a2828-272525-73a621)
-
-
 ## Getting Started
 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
@@ -55,6 +52,16 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Sequoia
    Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
+
+## Troubleshooting
+
+There is a minor IntelliJ bug that you may face while updating the theme.
+So, to not have that issue, please follow the steps below:
+
+1. If you are using the theme that you want to update, select another theme first.
+2. Then update the theme.
+3. Then restart the ide.
+4. Finally, switch it back to the theme that you updated.
 
 ## What's New
 
