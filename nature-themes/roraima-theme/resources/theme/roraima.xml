@@ -1,14 +1,14 @@
 <scheme name="Roraima Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2023-12-09T17:23:04</property>
+        <property name="created">2024-01-20T22:07:10</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.3.0.0</property>
-        <property name="modified">2023-12-09T17:23:09</property>
+        <property name="ideVersion">2023.3.2.0.0</property>
+        <property name="modified">2024-01-20T22:07:15</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />
         <option name="CARET_COLOR" value="df6f50" />
-        <option name="CARET_ROW_COLOR" value="442828" />
+        <option name="CARET_ROW_COLOR" value="2a2222" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2b2b" />
         <option name="DOCUMENTATION_COLOR" value="" />
@@ -31,7 +31,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="312624" />
         <option name="SELECTED_INDENT_GUIDE" value="a8604c" />
         <option name="SELECTED_TEARLINE_COLOR" value="a8604c" />
-        <option name="SELECTION_BACKGROUND" value="5e3c38" />
+        <option name="SELECTION_BACKGROUND" value="492a2a" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="b2684c" />
         <option name="ScrollBar.Mac.thumbColor" value="442b31" />
         <option name="TEARLINE_COLOR" value="312624" />
@@ -348,8 +348,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="f1b9ce" />
-                <option name="BACKGROUND" value="643345" />
+                <option name="FOREGROUND" value="d6f1b9" />
+                <option name="BACKGROUND" value="456433" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>

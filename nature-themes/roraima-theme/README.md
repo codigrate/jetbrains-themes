@@ -65,6 +65,15 @@ So, to not have that issue, please follow the steps below:
 
 ## What's New
 
+<b>1.0.3</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+    <li>
+        Update editor colors
+    </li>
+</ul>
 <b>1.0.2</b>
 <ul>
     <li>
