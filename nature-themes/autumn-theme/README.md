@@ -63,6 +63,12 @@ So, to not have that issue, please follow the steps below:
 
 ## What's New
 
+<b>1.0.10</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
 <b>1.0.9</b>
 <ul>
     <li>
