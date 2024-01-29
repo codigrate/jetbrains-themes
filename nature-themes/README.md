@@ -2,6 +2,30 @@
 Nature Themes
 </h1>
 
+<!-- Plugin description -->
+Codigrate themes for JetBrains.
+
+## Getting Started
+
+1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
+2. Launch the IDE and open plugin settings.
+3. Search for **the name of the theme** and click install.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **the name of the
+   theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
+   changes.
+
+## Troubleshooting
+
+There is a minor IntelliJ bug that you may face while updating the theme.
+So, to not have that issue, please follow the steps below:
+
+1. If you are using the theme that you want to update, select another theme first.
+2. Then update the theme.
+3. Then restart the ide.
+4. Finally, switch it back to the theme that you updated.
+
+<br/>
+
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
