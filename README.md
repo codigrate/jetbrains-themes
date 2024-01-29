@@ -31,15 +31,8 @@ So, to not have that issue, please follow the steps below:
 4. Finally, switch it back to the theme that you updated.
 
 <br/>
-<br/>
 
 <!-- Plugin description end -->
-
-<p align="center">
-   <a href="./nature-themes">
-    <img src="nature-themes/icon.png" alt="Logo" width=170>
-  </a>
-</p>
 
 <h1 align="center">
 Nature Themes
