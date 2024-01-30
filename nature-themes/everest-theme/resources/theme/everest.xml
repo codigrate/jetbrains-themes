@@ -1,9 +1,9 @@
 <scheme name="Everest Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2023-10-13T22:48:49</property>
+        <property name="created">2024-01-30T23:17:38</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.2.3.0.0</property>
-        <property name="modified">2023-10-13T22:49:00</property>
+        <property name="ideVersion">2023.3.3.0.0</property>
+        <property name="modified">2024-01-30T23:17:44</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="c5d1d7" />
@@ -466,7 +466,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="ebe1f3" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -494,7 +494,7 @@
                 <option name="FOREGROUND" value="545454" />
             </value>
         </option>
-        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="127596" />
@@ -562,6 +562,11 @@
                 <option name="FOREGROUND" value="83080" />
             </value>
         </option>
+        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="d56666" />
