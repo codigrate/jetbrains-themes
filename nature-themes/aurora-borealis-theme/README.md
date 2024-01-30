@@ -64,6 +64,12 @@ So, to not have that issue, please follow the steps below:
 
 ## What's New
 
+<b>1.0.14</b>
+<ul>
+    <li>
+        Update editor colors
+    </li>
+</ul>
 <b>1.0.13</b>
 <ul>
     <li>
