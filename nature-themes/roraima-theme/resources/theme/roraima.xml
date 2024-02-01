@@ -1,9 +1,9 @@
 <scheme name="Roraima Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2024-01-20T22:07:10</property>
+        <property name="created">2024-01-30T23:17:38</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.3.2.0.0</property>
-        <property name="modified">2024-01-20T22:07:15</property>
+        <property name="ideVersion">2023.3.3.0.0</property>
+        <property name="modified">2024-01-30T23:17:44</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />
@@ -374,7 +374,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="382431" />
+                <option name="FONT_TYPE" value="2" />
             </value>
         </option>
         <option name="INLAY_DEFAULT">
@@ -402,6 +402,7 @@
                 <option name="FOREGROUND" value="e0e0e0" />
             </value>
         </option>
+        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -455,6 +456,12 @@
                 <option name="ERROR_STRIPE_COLOR" value="855a62" />
             </value>
         </option>
+        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="ce5e5e" />
