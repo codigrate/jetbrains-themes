@@ -65,6 +65,12 @@ So, to not have that issue, please follow the steps below:
 
 ## What's New
 
+<b>1.0.5</b>
+<ul>
+    <li>
+        Update icon
+    </li>
+</ul>
 <b>1.0.4</b>
 <ul>
     <li>
