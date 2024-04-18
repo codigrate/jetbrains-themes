@@ -64,6 +64,12 @@ So, to not have that issue, please follow the steps below:
 
 ## What's New
 
+<b>1.0.6</b>
+<ul>
+    <li>
+        Update menu icon colors
+    </li>
+</ul>
 <b>1.0.5</b>
 <ul>
     <li>

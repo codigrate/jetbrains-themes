@@ -311,6 +311,7 @@
   },
   "icons": {
     "ColorPalette": {
+      "Tree.iconColor": "#C5A0BA",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",
