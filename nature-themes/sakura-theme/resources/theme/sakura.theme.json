@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/sakura.xml",
   "colors": {
+    "defaultTextColor": "#6c707e",
     "borderColor": "#F8DDE0",
     "separatorColor": "#F8DDE0",
     "editorBackground": "#FEFAFA",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {

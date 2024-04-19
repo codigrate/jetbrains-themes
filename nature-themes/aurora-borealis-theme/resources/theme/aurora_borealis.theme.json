@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/aurora_borealis.xml",
   "colors": {
+    "defaultTextColor": "#ccced4",
     "borderColor": "#112733",
     "separatorColor": "#112733",
     "editorBackground": "#142A36",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {

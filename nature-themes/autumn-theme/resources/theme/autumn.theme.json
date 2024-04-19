@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/autumn.xml",
   "colors": {
+    "defaultTextColor": "#6c707e",
     "borderColor": "#e8d9d0",
     "separatorColor": "#e8d9d0",
     "editorBackground": "#ffffff",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {

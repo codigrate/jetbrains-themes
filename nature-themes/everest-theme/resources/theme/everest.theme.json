@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/everest.xml",
   "colors": {
+    "defaultTextColor": "#6c707e",
     "borderColor": "#c5d1d7",
     "separatorColor": "#c5d1d7",
     "editorBackground": "#fdfeff",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {

@@ -63,57 +63,6 @@ So, to not have that issue, please follow the steps below:
 3. Then restart the ide.
 4. Finally, switch it back to the theme that you updated.
 
-## What's New
-
-<b>1.0.6</b>
-<ul>
-    <li>
-        Update menu icon colors
-    </li>
-    <li>
-        Update editor colors
-    </li>
-</ul>
-<b>1.0.5</b>
-<ul>
-    <li>
-        Update icon
-    </li>
-</ul>
-<b>1.0.4</b>
-<ul>
-    <li>
-        Update editor colors
-    </li>
-</ul>
-<b>1.0.3</b>
-<ul>
-    <li>
-        Update icon
-    </li>
-    <li>
-        Update editor colors
-    </li>
-</ul>
-<b>1.0.2</b>
-<ul>
-    <li>
-        Update editor color scheme xml
-    </li>
-</ul>
-<b>1.0.1</b>
-<ul>
-    <li>
-        Fix supported versions
-    </li>
-</ul>
-<b>1.0.0</b>
-<ul>
-    <li>
-        Initial version
-    </li>
-</ul>
-
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->

@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/roraima.xml",
   "colors": {
+    "defaultTextColor": "#ccced4",
     "borderColor": "#231d1e",
     "separatorColor": "#231d1e",
     "editorBackground": "#1E1A1B",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {

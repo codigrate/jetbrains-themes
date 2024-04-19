@@ -4,6 +4,7 @@
   "author": "Codigrate",
   "editorScheme": "/theme/sequoia.xml",
   "colors": {
+    "defaultTextColor": "#ccced4",
     "borderColor": "#282222",
     "separatorColor": "#282222",
     "editorBackground": "#181717",
@@ -189,6 +190,9 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
+    },
+    "RunWidget": {
+      "iconColor": "defaultTextColor"
     },
     "ScrollBar": {
       "Mac": {
