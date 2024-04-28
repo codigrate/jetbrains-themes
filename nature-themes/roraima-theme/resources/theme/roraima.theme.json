@@ -4,7 +4,6 @@
   "author": "Codigrate",
   "editorScheme": "/theme/roraima.xml",
   "colors": {
-    "defaultTextColor": "#ccced4",
     "borderColor": "#231d1e",
     "separatorColor": "#231d1e",
     "editorBackground": "#1E1A1B",
@@ -12,15 +11,16 @@
     "sidePanelBackground": "#302426",
     "headerBackground": "#3f2f31",
     "inputBackground": "#1E1A1B",
+    "tabHoverBackground": "#522d31",
+    "hoverBackground": "#73372c",
+    "defaultTextColor": "#ad8080",
     "selectionBackground": "#522d2d",
     "selectionInactiveBackground": "#412d2f",
     "tabColor": "#52342d",
     "lineColor": "#ad4836",
     "iconBackground": "#ad4836",
-    "tabHoverBackground": "#522d31",
     "searchMatchBackground": "#af7d72",
     "accentColor": "#cc654e",
-    "hoverBackground": "#73372c",
     "primaryForeground": "#e2e0e0",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -32,6 +32,7 @@
   "ui": {
     "*": {
       "arc": "7",
+      "foreground": "primaryForeground",
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -91,6 +92,7 @@
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
+      "infoForeground": "defaultTextColor",
       "errorFocusColor": "errorFocused",
       "inactiveErrorFocusColor": "error",
       "warningFocusColor": "warningFocused",
@@ -112,7 +114,8 @@
       "underlineHeight": 3
     },
     "Label": {
-      "errorForeground": "error"
+      "errorForeground": "error",
+      "infoForeground": "defaultTextColor"
     },
     "Link": {
       "activeForeground": "accentColor",
@@ -315,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#884242",
+      "Tree.iconColor": "#ad8080",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",

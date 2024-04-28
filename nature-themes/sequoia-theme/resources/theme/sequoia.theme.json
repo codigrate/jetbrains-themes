@@ -4,7 +4,6 @@
   "author": "Codigrate",
   "editorScheme": "/theme/sequoia.xml",
   "colors": {
-    "defaultTextColor": "#ccced4",
     "borderColor": "#282222",
     "separatorColor": "#282222",
     "editorBackground": "#181717",
@@ -15,12 +14,13 @@
     "selectionBackground": "#324430",
     "selectionInactiveBackground": "#30402e",
     "tabColor": "#2b2d2a",
+    "defaultTextColor": "#6d9368",
+    "hoverBackground": "#374223",
     "lineColor": "#53800d",
     "iconBackground": "#53800d",
     "tabHoverBackground": "#374223",
     "searchMatchBackground": "#85ab76",
     "accentColor": "#73a621",
-    "hoverBackground": "#374223",
     "primaryForeground": "#e2e0e0",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -32,6 +32,7 @@
   "ui": {
     "*": {
       "arc": "7",
+      "foreground": "primaryForeground",
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -91,6 +92,7 @@
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
+      "infoForeground": "defaultTextColor",
       "errorFocusColor": "errorFocused",
       "inactiveErrorFocusColor": "error",
       "warningFocusColor": "warningFocused",
@@ -112,7 +114,8 @@
       "underlineHeight": 3
     },
     "Label": {
-      "errorForeground": "error"
+      "errorForeground": "error",
+      "infoForeground": "defaultTextColor"
     },
     "Link": {
       "activeForeground": "accentColor",
@@ -315,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#406741",
+      "Tree.iconColor": "#6d9368",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",

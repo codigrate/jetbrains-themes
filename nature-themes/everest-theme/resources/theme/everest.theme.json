@@ -4,23 +4,23 @@
   "author": "Codigrate",
   "editorScheme": "/theme/everest.xml",
   "colors": {
-    "defaultTextColor": "#6c707e",
     "borderColor": "#c5d1d7",
     "separatorColor": "#c5d1d7",
     "editorBackground": "#fdfeff",
     "menuBackground": "#e4ecef",
-    "sidePanelBackground": "#d5e2e8",
+    "sidePanelBackground": "#d0e0e8",
     "headerBackground": "#c7dae1",
     "inputBackground": "#fdfeff",
+    "tabHoverBackground": "#f6d4c8",
+    "hoverBackground": "#d5d8e7",
+    "defaultTextColor": "#577580",
     "selectionBackground": "#b6d8e5",
     "selectionInactiveBackground": "#c3dbe5",
     "tabColor": "#fdfeff",
     "lineColor": "#ED7E5A",
     "iconBackground": "#ED7E5A",
-    "tabHoverBackground": "#f6d4c8",
     "searchMatchBackground": "#f6d4c8",
     "accentColor": "#1a536e",
-    "hoverBackground": "#d5d8e7",
     "primaryForeground": "#1a536e",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -32,6 +32,7 @@
   "ui": {
     "*": {
       "arc": "7",
+      "foreground": "primaryForeground",
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -91,6 +92,7 @@
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
+      "infoForeground": "defaultTextColor",
       "errorFocusColor": "errorFocused",
       "inactiveErrorFocusColor": "error",
       "warningFocusColor": "warningFocused",
@@ -112,7 +114,8 @@
       "underlineHeight": 3
     },
     "Label": {
-      "errorForeground": "error"
+      "errorForeground": "error",
+      "infoForeground": "defaultTextColor"
     },
     "Link": {
       "activeForeground": "accentColor",
@@ -315,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#7D9AA6",
+      "Tree.iconColor": "#577580",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",

@@ -4,7 +4,6 @@
   "author": "Codigrate",
   "editorScheme": "/theme/autumn.xml",
   "colors": {
-    "defaultTextColor": "#6c707e",
     "borderColor": "#e8d9d0",
     "separatorColor": "#e8d9d0",
     "editorBackground": "#ffffff",
@@ -12,15 +11,16 @@
     "sidePanelBackground": "#f1ece8",
     "headerBackground": "#F6D8B6",
     "inputBackground": "#ffffff",
+    "tabHoverBackground": "#DBE9C3",
+    "hoverBackground": "#eee4cc",
+    "defaultTextColor": "#8a6745",
     "selectionBackground": "#F6D8B6",
     "selectionInactiveBackground": "#f1ddca",
     "tabColor": "#ffffff",
     "lineColor": "#7da63a",
     "iconBackground": "#F5B211",
-    "tabHoverBackground": "#DBE9C3",
     "searchMatchBackground": "#DBE9C3",
     "accentColor": "#775851",
-    "hoverBackground": "#eee4cc",
     "primaryForeground": "#341911",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
@@ -32,6 +32,7 @@
   "ui": {
     "*": {
       "arc": "7",
+      "foreground": "primaryForeground",
       "background": "menuBackground",
       "selectionForeground": "primaryForeground",
       "selectionInactiveForeground": "primaryForeground",
@@ -92,6 +93,7 @@
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
       "errorFocusColor": "errorFocused",
+      "infoForeground": "defaultTextColor",
       "inactiveErrorFocusColor": "error",
       "warningFocusColor": "warningFocused",
       "inactiveWarningFocusColor": "warning"
@@ -112,7 +114,8 @@
       "underlineHeight": 3
     },
     "Label": {
-      "errorForeground": "error"
+      "errorForeground": "error",
+      "infoForeground": "defaultTextColor"
     },
     "Link": {
       "activeForeground": "accentColor",
@@ -315,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#A98837",
+      "Tree.iconColor": "#8a6745",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",
