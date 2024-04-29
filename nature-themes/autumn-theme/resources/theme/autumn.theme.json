@@ -195,7 +195,7 @@
       }
     },
     "RunWidget": {
-      "iconColor": "secondaryForeground"
+      "iconColor": "primaryForeground"
     },
     "ScrollBar": {
       "Mac": {

@@ -21,7 +21,7 @@
     "searchMatchBackground": "#af7d72",
     "accentColor": "#cc654e",
     "primaryForeground": "#cec1c1",
-    "secondaryForeground": "#af8888",
+    "secondaryForeground": "#ad8a8a",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -195,7 +195,7 @@
       }
     },
     "RunWidget": {
-      "iconColor": "secondaryForeground"
+      "iconColor": "primaryForeground"
     },
     "ScrollBar": {
       "Mac": {
@@ -318,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#af8888",
+      "Tree.iconColor": "#ad8a8a",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",
