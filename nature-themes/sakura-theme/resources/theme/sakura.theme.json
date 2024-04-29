@@ -13,15 +13,15 @@
     "inputBackground": "#FDF5F6",
     "tabHoverBackground": "#f5d7e5",
     "hoverBackground": "#FFD6E0",
-    "defaultTextColor": "#965a6d",
     "selectionBackground": "#ffbdd2",
     "selectionInactiveBackground": "#eedde1",
-    "tabColor": "#ffffff",
     "lineColor": "#b66b8d",
-    "iconBackground": "#b66b8d",
+    "alternateBackground": "#618C71",
+    "tabColor": "#ffffff",
     "searchMatchBackground": "#dfd7ef",
     "accentColor": "#964A6E",
     "primaryForeground": "#3d0013",
+    "secondaryForeground": "#94667d",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -92,7 +92,7 @@
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
-      "infoForeground": "defaultTextColor",
+      "infoForeground": "secondaryForeground",
       "errorFocusColor": "errorFocused",
       "inactiveErrorFocusColor": "error",
       "warningFocusColor": "warningFocused",
@@ -115,7 +115,7 @@
     },
     "Label": {
       "errorForeground": "error",
-      "infoForeground": "defaultTextColor"
+      "infoForeground": "secondaryForeground"
     },
     "Link": {
       "activeForeground": "accentColor",
@@ -195,7 +195,7 @@
       }
     },
     "RunWidget": {
-      "iconColor": "defaultTextColor"
+      "iconColor": "secondaryForeground"
     },
     "ScrollBar": {
       "Mac": {
@@ -251,7 +251,7 @@
     },
     "ToolWindow": {
       "Button": {
-        "selectedBackground": "iconBackground",
+        "selectedBackground": "alternateBackground",
         "hoverBackground": "hoverBackground"
       },
       "Header": {
@@ -318,7 +318,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#965a6d",
+      "Tree.iconColor": "#94667d",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",
