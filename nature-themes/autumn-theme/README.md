@@ -28,19 +28,18 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/FFFFFF.png" alt="#FFFFFF"><br/><sub><b>#FFFFFF</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/F6D8B6.png" alt="#F6D8B6"><br/><sub><b>#F6D8B6</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/BE553E.png" alt="#BE553E"><br/><sub><b>#BE553E</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/773918.png" alt="#773918"><br/><sub><b>#773918</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/B0633A.png" alt="#B0633A"><br/><sub><b>#B0633A</b></sub><br/></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/FFFFFF"><img src="https://codigrate.com/util/color/FFFFFF.png" alt="#FFFFFF"><br/><sub><b>#FFFFFF</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/F6D8B6"><img src="https://codigrate.com/util/color/F6D8B6.png" alt="#F6D8B6"><br/><sub><b>#F6D8B6</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/BE553E"><img src="https://codigrate.com/util/color/BE553E.png" alt="#BE553E"><br/><sub><b>#BE553E</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/773918"><img src="https://codigrate.com/util/color/773918.png" alt="#773918"><br/><sub><b>#773918</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/B0633A"><img src="https://codigrate.com/util/color/B0633A.png" alt="#B0633A"><br/><sub><b>#B0633A</b></sub><br/></a></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/A87F25.png" alt="#A87F25"><br/><sub><b>#A87F25</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/F5B211.png" alt="#F5B211"><br/><sub><b>#F5B211</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/1B591E.png" alt="#1B591E"><br/><sub><b>#1B591E</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/0E8113.png" alt="#0E8113"><br/><sub><b>#0E8113</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/006E83.png" alt="#006E83"><br/><sub><b>#006E83</b></sub><br/></td>
-   </tr>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/A87F25"><img src="https://codigrate.com/util/color/A87F25.png" alt="#A87F25"><br/><sub><b>#A87F25</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/F5B211"><img src="https://codigrate.com/util/color/F5B211.png" alt="#F5B211"><br/><sub><b>#F5B211</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/1B591E"><img src="https://codigrate.com/util/color/1B591E.png" alt="#1B591E"><br/><sub><b>#1B591E</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/0E8113"><img src="https://codigrate.com/util/color/0E8113.png" alt="#0E8113"><br/><sub><b>#0E8113</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/006E83"><img src="https://codigrate.com/util/color/006E83.png" alt="#006E83"><br/><sub><b>#006E83</b></sub><br/></a></td>   </tr>
 </table>
 
 ## Getting Started

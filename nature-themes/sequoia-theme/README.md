@@ -29,19 +29,18 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 
 <table>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/181717.png" alt="#181717"><br/><sub><b>#181717</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/302D2D.png" alt="#302D2D"><br/><sub><b>#302D2D</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/6C625A.png" alt="#6C625A"><br/><sub><b>#6C625A</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/A25B4E.png" alt="#A25B4E"><br/><sub><b>#A25B4E</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/854F3C.png" alt="#854F3C"><br/><sub><b>#854F3C</b></sub><br/></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/181717"><img src="https://codigrate.com/util/color/181717.png" alt="#181717"><br/><sub><b>#181717</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/302D2D"><img src="https://codigrate.com/util/color/302D2D.png" alt="#302D2D"><br/><sub><b>#302D2D</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/6C625A"><img src="https://codigrate.com/util/color/6C625A.png" alt="#6C625A"><br/><sub><b>#6C625A</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/A25B4E"><img src="https://codigrate.com/util/color/A25B4E.png" alt="#A25B4E"><br/><sub><b>#A25B4E</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/854F3C"><img src="https://codigrate.com/util/color/854F3C.png" alt="#854F3C"><br/><sub><b>#854F3C</b></sub><br/></a></td>
    </tr>
    <tr>
-      <td align="center"><img src="https://codigrate.com/util/color/A67B5B.png" alt="#A67B5B"><br/><sub><b>#A67B5B</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/A88E4D.png" alt="#A88E4D"><br/><sub><b>#A88E4D</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/374223.png" alt="#374223"><br/><sub><b>#374223</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/6B9A58.png" alt="#6B9A58"><br/><sub><b>#6B9A58</b></sub><br/></td>
-      <td align="center"><img src="https://codigrate.com/util/color/84A975.png" alt="#84A975"><br/><sub><b>#84A975</b></sub><br/></td>
-   </tr>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/A67B5B"><img src="https://codigrate.com/util/color/A67B5B.png" alt="#A67B5B"><br/><sub><b>#A67B5B</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/A88E4D"><img src="https://codigrate.com/util/color/A88E4D.png" alt="#A88E4D"><br/><sub><b>#A88E4D</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/374223"><img src="https://codigrate.com/util/color/374223.png" alt="#374223"><br/><sub><b>#374223</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/6B9A58"><img src="https://codigrate.com/util/color/6B9A58.png" alt="#6B9A58"><br/><sub><b>#6B9A58</b></sub><br/></a></td>
+      <td align="center"><a href="https://codigrate.com/en-US/tools/color/84A975"><img src="https://codigrate.com/util/color/84A975.png" alt="#84A975"><br/><sub><b>#84A975</b></sub><br/></a></td>   </tr>
 </table>
 
 ## Getting Started
