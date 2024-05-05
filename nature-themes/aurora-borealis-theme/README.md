@@ -28,18 +28,94 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 <table>
    <tr>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/142A36"><img src="https://codigrate.com/util/color/142A36.png" alt="#142A36"><br/><sub><b>#142A36</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/1C3847"><img src="https://codigrate.com/util/color/1C3847.png" alt="#1C3847"><br/><sub><b>#1C3847</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/549EFF"><img src="https://codigrate.com/util/color/549EFF.png" alt="#549EFF"><br/><sub><b>#549EFF</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/7ACEF5"><img src="https://codigrate.com/util/color/7ACEF5.png" alt="#7ACEF5"><br/><sub><b>#7ACEF5</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/043A33"><img src="https://codigrate.com/util/color/043A33.png" alt="#043A33"><br/><sub><b>#043A33</b></sub><br/></a></td>
+      <td><img src="https://codigrate.com/util/color/142A36.png?width=30&height=30" alt="#142A36"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/142A36">#142A36</a>
+      </td>
    </tr>
    <tr>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/73D379"><img src="https://codigrate.com/util/color/73D379.png" alt="#73D379"><br/><sub><b>#73D379</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/05C0A6"><img src="https://codigrate.com/util/color/05C0A6.png" alt="#05C0A6"><br/><sub><b>#05C0A6</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/BB719B"><img src="https://codigrate.com/util/color/BB719B.png" alt="#BB719B"><br/><sub><b>#BB719B</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/D193BB"><img src="https://codigrate.com/util/color/D193BB.png" alt="#D193BB"><br/><sub><b>#D193BB</b></sub><br/></a></td>
-      <td align="center"><a href="https://codigrate.com/en-US/tools/color/BAA5FF"><img src="https://codigrate.com/util/color/BAA5FF.png" alt="#BAA5FF"><br/><sub><b>#BAA5FF</b></sub><br/></a></td>
+      <td><img src="https://codigrate.com/util/color/1C3847.png?width=30&height=30" alt="#1C3847"></td>
+      <td>
+         Menu Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1C3847">#1C3847</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/549EFF">#549EFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7ACEF5">#7ACEF5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
+      <td>
+         Tab Colors
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/043A33">#043A33</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/73D379">#73D379</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/05C0A6">#05C0A6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BB719B">#BB719B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D193BB">#D193BB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BAA5FF">#BAA5FF</a>
+      </td>
    </tr>
 </table>
 

@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.roraima.theme</id>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -26,38 +26,98 @@
             <br/>
             <br/>
             <b>Color Palette</b>
-            <ul>
-                <li>
-                    Editor Background - #1e1a1b
-                </li>
-                <li>
-                    Menu Background - #322628
-                </li>
-                <li>
-                    Selection Background - #522d2d
-                </li>
-                <li>
-                    Tabline Color - #ad4836
-                </li>
-                <li>
-                    Accent Color - #cc654e
-                </li>
-                <li>
-                    Keywords - #de785a
-                </li>
-                <li>
-                    Strings - #d2b05f
-                </li>
-                <li>
-                    Numbers - #d9c496
-                </li>
-                <li>
-                    Tags - #8f78b7
-                </li>
-                <li>
-                    Static Fields - #9f95c2
-                </li>
-            </ul>
+            <table>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/1e1a1b.png?width=30&height=30" alt="#1e1a1b"></td>
+                  <td>
+                     Editor Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/1e1a1b">#1e1a1b</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+                  <td>
+                     Menu Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/322628">#322628</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/522d2d.png?width=30&height=30" alt="#522d2d"></td>
+                  <td>
+                     Selection Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/522d2d">#522d2d</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/ad4836.png?width=30&height=30" alt="#ad4836"></td>
+                  <td>
+                     Tabline Color
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/ad4836">#ad4836</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/cc654e.png?width=30&height=30" alt="#cc654e"></td>
+                  <td>
+                     Accent Color
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/cc654e">#cc654e</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/de785a.png?width=30&height=30" alt="#de785a"></td>
+                  <td>
+                     Keywords
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/de785a">#de785a</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/d2b05f.png?width=30&height=30" alt="#d2b05f"></td>
+                  <td>
+                     Strings
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/d2b05f">#d2b05f</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/d9c496.png?width=30&height=30" alt="#d9c496"></td>
+                  <td>
+                     Numbers
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/d9c496">#d9c496</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/8f78b7.png?width=30&height=30" alt="#8f78b7"></td>
+                  <td>
+                     Tags
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/8f78b7">#8f78b7</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/9f95c2.png?width=30&height=30" alt="#9f95c2"></td>
+                  <td>
+                     Static Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/9f95c2">#9f95c2</a>
+                  </td>
+               </tr>
+            </table>
         ]]>
     </description>
 
@@ -65,6 +125,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.9</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>1.0.8</b>
             <ul>
                 <li>

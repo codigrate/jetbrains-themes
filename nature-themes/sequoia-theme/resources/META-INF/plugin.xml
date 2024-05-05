@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.codigrate.sequoia.theme</id>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -26,38 +26,98 @@
             <br/>
             <br/>
             <b>Color Palette</b>
-            <ul>
-                <li>
-                    Editor Background - #181717
-                </li>
-                <li>
-                    Menu Background - #302D2D
-                </li>
-                <li>
-                    Comments - #6C625A
-                </li>
-                <li>
-                    Local Variables - #A25B4E
-                </li>
-                <li>
-                    Global Variables - #854F3C
-                </li>
-                <li>
-                    Instance Fields - #A67B5B
-                </li>
-                <li>
-                    Keywords - #A88E4D
-                </li>
-                <li>
-                    Hover Background - #374223
-                </li>
-                <li>
-                    Numbers - #6B9A58
-                </li>
-                <li>
-                    Strings - #84A975
-                </li>
-            </ul>
+            <table>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/181717.png?width=30&height=30" alt="#181717"></td>
+                  <td>
+                     Editor Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/181717">#181717</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/302D2D.png?width=30&height=30" alt="#302D2D"></td>
+                  <td>
+                     Menu Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/302D2D">#302D2D</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+                  <td>
+                     Comments
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/6C625A">#6C625A</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A25B4E.png?width=30&height=30" alt="#A25B4E"></td>
+                  <td>
+                     Local Variables
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A25B4E">#A25B4E</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/854F3C.png?width=30&height=30" alt="#854F3C"></td>
+                  <td>
+                     Global Variables
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/854F3C">#854F3C</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
+                  <td>
+                     Instance Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A88E4D.png?width=30&height=30" alt="#A88E4D"></td>
+                  <td>
+                     Keywords
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A88E4D">#A88E4D</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/374223.png?width=30&height=30" alt="#374223"></td>
+                  <td>
+                     Hover Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/374223">#374223</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/6B9A58.png?width=30&height=30" alt="#6B9A58"></td>
+                  <td>
+                     Numbers
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/6B9A58">#6B9A58</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/84A975.png?width=30&height=30" alt="#84A975"></td>
+                  <td>
+                     Strings
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/84A975">#84A975</a>
+                  </td>
+               </tr>
+            </table>
         ]]>
     </description>
 
@@ -65,6 +125,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.9</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>1.0.8</b>
             <ul>
                 <li>
