@@ -41,7 +41,8 @@
       "inactiveBackground": "menuBackground",
       "disabledBackground": "menuBackground",
       "borderColor": "borderColor",
-      "separatorColor": "separatorColor"
+      "separatorColor": "separatorColor",
+      "iconColor": "accentColor"
     },
     "Borders": {
       "color": "borderColor",
@@ -193,9 +194,6 @@
         "activeBackground": "headerBackground",
         "inactiveBackground": "headerBackground"
       }
-    },
-    "RunWidget": {
-      "iconColor": "primaryForeground"
     },
     "ScrollBar": {
       "Mac": {
