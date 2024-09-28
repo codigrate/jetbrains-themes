@@ -145,8 +145,8 @@ So, to not have that issue, please follow the steps below:
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://avatars0.githubusercontent.com/u/2248168?s=460&u=435ef6ade0785a7a135ce56cae751fb3ade1d126&v=4" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/kerimalp"><img src="https://avatars.githubusercontent.com/u/90132495?v=4" width="100px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="100px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
   </tr>
 </table>
 
