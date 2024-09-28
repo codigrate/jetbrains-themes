@@ -42,7 +42,7 @@
       "disabledBackground": "menuBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "accentColor"
+      "iconColor": "secondaryForeground"
     },
     "Borders": {
       "color": "borderColor",

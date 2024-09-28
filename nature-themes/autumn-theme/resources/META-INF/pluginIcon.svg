@@ -6,7 +6,7 @@
      id="svg635"
      xml:space="preserve"
      xmlns:xlink="http://www.w3.org/1999/xlink"
-     xmlns="http://www.w3.org/2000/svg">&#10;
+     xmlns="http://www.w3.org/2000/svg">
  <defs
          id="defs632"><linearGradient
    id="linearGradient62"
@@ -47,33 +47,35 @@
          <stop
                  style="stop-color:#ffc5bc;stop-opacity:1;"
                  offset="0.89178365"
-                 id="stop20271"/></linearGradient>&#10;&#10;
+                 id="stop20271"/></linearGradient>
      <linearGradient
              id="linearGradient11233"
      ><stop
    style="stop-color:#dc719a;stop-opacity:1;"
    offset="0.16032064"
-   id="stop11229" />&#10; <stop
-             style="stop-color:#fe95ae;stop-opacity:1;"
-             offset="0.51803607"
-             id="stop13376"/>&#10;&#10;
+   id="stop11229" />
+         <stop
+                 style="stop-color:#fe95ae;stop-opacity:1;"
+                 offset="0.51803607"
+                 id="stop13376"/>
          <stop
                  style="stop-color:#fdf7f0;stop-opacity:1;"
                  offset="1"
-                 id="stop11231"/></linearGradient>&#10;&#10;
+                 id="stop11231"/></linearGradient>
      <linearGradient
              id="linearGradient3778"
      ><stop
    style="stop-color:#ea6c9e;stop-opacity:1;"
    offset="0.38476956"
-   id="stop3774" />&#10; <stop
-             style="stop-color:#feb0c8;stop-opacity:1;"
-             offset="0.80460918"
-             id="stop8681"/>&#10;&#10;
+   id="stop3774" />
+         <stop
+                 style="stop-color:#feb0c8;stop-opacity:1;"
+                 offset="0.80460918"
+                 id="stop8681"/>
          <stop
                  style="stop-color:#fdedde;stop-opacity:1;"
                  offset="1"
-                 id="stop3776"/></linearGradient>&#10;&#10;
+                 id="stop3776"/></linearGradient>
      <filter
              y="-0.1960436"
              height="1.3920872"
@@ -83,25 +85,28 @@
              width="1.3920872"><feGaussianBlur
    stdDeviation="5"
    result="result6"
-   id="feGaussianBlur3886" />&#10; <feComposite
-             result="result8"
-             in="SourceGraphic"
-             operator="atop"
-             in2="result6"
-             id="feComposite3888"/>&#10; <feComposite
-             result="result9"
-             operator="over"
-             in2="SourceAlpha"
-             in="result8"
-             id="feComposite3890"/>&#10; <feColorMatrix
-             values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
-             result="result10"
-             id="feColorMatrix3892"/>&#10;&#10;
+   id="feGaussianBlur3886" />
+         <feComposite
+                 result="result8"
+                 in="SourceGraphic"
+                 operator="atop"
+                 in2="result6"
+                 id="feComposite3888"/>
+         <feComposite
+                 result="result9"
+                 operator="over"
+                 in2="SourceAlpha"
+                 in="result8"
+                 id="feComposite3890"/>
+         <feColorMatrix
+                 values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+                 result="result10"
+                 id="feColorMatrix3892"/>
          <feBlend
                  in="result10"
                  mode="normal"
                  in2="result6"
-                 id="feBlend3894"/></filter>&#10;
+                 id="feBlend3894"/></filter>
      <linearGradient
 
              xlink:href="#linearGradient166-4"
@@ -423,10 +428,9 @@
              cy="987.8728"
              fx="449.99866"
              fy="987.8728"
-             r="49.422359"/></defs>&#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;&#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;&#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;&#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;&#10;
+             r="49.422359"/></defs>
+
+
     <circle
             style="fill:url(#linearGradient162-4-0);fill-opacity:1;stroke-width:0.350021"
             id="circle62-8-5-4-9"

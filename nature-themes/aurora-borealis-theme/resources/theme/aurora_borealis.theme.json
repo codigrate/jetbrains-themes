@@ -21,7 +21,7 @@
     "searchMatchBackground": "#7ACEF5",
     "accentColor": "#7ACEF5",
     "primaryForeground": "#afb6bd",
-    "secondaryForeground": "#788ea9",
+    "secondaryForeground": "#889db7",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -42,7 +42,7 @@
       "disabledBackground": "menuBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "accentColor"
+      "iconColor": "secondaryForeground"
     },
     "Borders": {
       "color": "borderColor",
@@ -316,7 +316,7 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#788ea9",
+      "Tree.iconColor": "#889db7",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",

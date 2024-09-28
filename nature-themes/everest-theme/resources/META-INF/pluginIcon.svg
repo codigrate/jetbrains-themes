@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
         width="500"
         height="500"
@@ -9,8 +7,7 @@
         id="svg635"
         xml:space="preserve"
         xmlns:xlink="http://www.w3.org/1999/xlink"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:svg="http://www.w3.org/2000/svg">&#10;
+        xmlns="http://www.w3.org/2000/svg">
     <defs
             id="defs632"><linearGradient
    id="linearGradient16"><stop
@@ -45,31 +42,33 @@
             <stop
                     style="stop-color:#ffd4e3;stop-opacity:1;"
                     offset="0.89178365"
-                    id="stop20271"/></linearGradient>&#10;
+                    id="stop20271"/></linearGradient>
         <linearGradient
                 id="linearGradient11233"><stop
    style="stop-color:#dc719a;stop-opacity:1;"
    offset="0.16032064"
-   id="stop11229" />&#10; <stop
-                style="stop-color:#fe95ae;stop-opacity:1;"
-                offset="0.51803607"
-                id="stop13376"/>&#10;
+   id="stop11229" />
+            <stop
+                    style="stop-color:#fe95ae;stop-opacity:1;"
+                    offset="0.51803607"
+                    id="stop13376"/>
             <stop
                     style="stop-color:#fdf7f0;stop-opacity:1;"
                     offset="1"
-                    id="stop11231"/></linearGradient>&#10;
+                    id="stop11231"/></linearGradient>
         <linearGradient
                 id="linearGradient3778"><stop
    style="stop-color:#ea6c9e;stop-opacity:1;"
    offset="0.38476956"
-   id="stop3774" />&#10; <stop
-                style="stop-color:#feb0c8;stop-opacity:1;"
-                offset="0.80460918"
-                id="stop8681"/>&#10;
+   id="stop3774" />
+            <stop
+                    style="stop-color:#feb0c8;stop-opacity:1;"
+                    offset="0.80460918"
+                    id="stop8681"/>
             <stop
                     style="stop-color:#fdedde;stop-opacity:1;"
                     offset="1"
-                    id="stop3776"/></linearGradient>&#10;
+                    id="stop3776"/></linearGradient>
         <filter
                 y="-0.1960436"
                 height="1.3920872"
@@ -79,25 +78,29 @@
                 width="1.3920872"><feGaussianBlur
    stdDeviation="5"
    result="result6"
-   id="feGaussianBlur3886" />&#10; <feComposite
-                result="result8"
-                in="SourceGraphic"
-                operator="atop"
-                in2="result6"
-                id="feComposite3888"/>&#10; <feComposite
-                result="result9"
-                operator="over"
-                in2="SourceAlpha"
-                in="result8"
-                id="feComposite3890"/>&#10; <feColorMatrix
-                values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
-                result="result10"
-                id="feColorMatrix3892"/>&#10;
+   id="feGaussianBlur3886" />
+            <feComposite
+                    result="result8"
+                    in="SourceGraphic"
+                    operator="atop"
+                    in2="result6"
+                    id="feComposite3888"/>
+            <feComposite
+                    result="result9"
+                    operator="over"
+                    in2="SourceAlpha"
+                    in="result8"
+                    id="feComposite3890"/>
+            <feColorMatrix
+                    values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 "
+                    result="result10"
+                    id="feColorMatrix3892"/>
             <feBlend
                     in="result10"
                     mode="normal"
                     in2="result6"
-                    id="feBlend3894"/></filter>&#10; <linearGradient
+                    id="feBlend3894"/></filter>
+        <linearGradient
                 xlink:href="#linearGradient14447"
                 id="linearGradient14449"
                 x1="264.58331"
@@ -105,7 +108,8 @@
                 x2="132.29166"
                 y2="59.531258"
                 gradientUnits="userSpaceOnUse"
-                gradientTransform="translate(-132.29167,-59.531261)"/>&#10; <radialGradient
+                gradientTransform="translate(-132.29167,-59.531261)"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient467"
                 gradientUnits="userSpaceOnUse"
@@ -114,7 +118,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient469"
                 gradientUnits="userSpaceOnUse"
@@ -123,7 +128,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient471"
                 gradientUnits="userSpaceOnUse"
@@ -132,7 +138,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient473"
                 gradientUnits="userSpaceOnUse"
@@ -141,7 +148,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient475"
                 gradientUnits="userSpaceOnUse"
@@ -150,7 +158,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient477"
                 gradientUnits="userSpaceOnUse"
@@ -159,7 +168,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient479"
                 gradientUnits="userSpaceOnUse"
@@ -168,7 +178,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient481"
                 gradientUnits="userSpaceOnUse"
@@ -177,7 +188,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient483"
                 gradientUnits="userSpaceOnUse"
@@ -186,7 +198,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient485"
                 gradientUnits="userSpaceOnUse"
@@ -195,7 +208,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient487"
                 gradientUnits="userSpaceOnUse"
@@ -204,7 +218,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient489"
                 gradientUnits="userSpaceOnUse"
@@ -213,7 +228,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient491"
                 gradientUnits="userSpaceOnUse"
@@ -222,7 +238,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient493"
                 gradientUnits="userSpaceOnUse"
@@ -231,7 +248,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient495"
                 gradientUnits="userSpaceOnUse"
@@ -240,7 +258,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient497"
                 gradientUnits="userSpaceOnUse"
@@ -249,7 +268,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient499"
                 gradientUnits="userSpaceOnUse"
@@ -258,7 +278,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient501"
                 gradientUnits="userSpaceOnUse"
@@ -267,7 +288,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient503"
                 gradientUnits="userSpaceOnUse"
@@ -276,7 +298,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient505"
                 gradientUnits="userSpaceOnUse"
@@ -285,7 +308,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient507"
                 gradientUnits="userSpaceOnUse"
@@ -294,7 +318,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient509"
                 gradientUnits="userSpaceOnUse"
@@ -303,7 +328,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient511"
                 gradientUnits="userSpaceOnUse"
@@ -312,7 +338,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient513"
                 gradientUnits="userSpaceOnUse"
@@ -321,7 +348,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient515"
                 gradientUnits="userSpaceOnUse"
@@ -330,7 +358,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient517"
                 gradientUnits="userSpaceOnUse"
@@ -339,7 +368,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient519"
                 gradientUnits="userSpaceOnUse"
@@ -348,7 +378,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient521"
                 gradientUnits="userSpaceOnUse"
@@ -357,7 +388,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient523"
                 gradientUnits="userSpaceOnUse"
@@ -366,7 +398,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient3778"
                 id="radialGradient525"
                 gradientUnits="userSpaceOnUse"
@@ -375,7 +408,8 @@
                 cy="130.6666"
                 fx="200.13557"
                 fy="130.6666"
-                r="55.989567"/>&#10; <radialGradient
+                r="55.989567"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient527"
                 gradientUnits="userSpaceOnUse"
@@ -384,7 +418,8 @@
                 cy="140.19473"
                 fx="218.8143"
                 fy="140.19473"
-                r="17.991117"/>&#10; <radialGradient
+                r="17.991117"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient529"
                 gradientUnits="userSpaceOnUse"
@@ -393,7 +428,8 @@
                 cy="140.19473"
                 fx="218.8143"
                 fy="140.19473"
-                r="17.991117"/>&#10; <radialGradient
+                r="17.991117"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient531"
                 gradientUnits="userSpaceOnUse"
@@ -402,7 +438,8 @@
                 cy="140.19473"
                 fx="218.8143"
                 fy="140.19473"
-                r="17.991117"/>&#10; <radialGradient
+                r="17.991117"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient533"
                 gradientUnits="userSpaceOnUse"
@@ -411,7 +448,8 @@
                 cy="140.19473"
                 fx="218.8143"
                 fy="140.19473"
-                r="17.991117"/>&#10; <radialGradient
+                r="17.991117"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient535"
                 gradientUnits="userSpaceOnUse"
@@ -420,7 +458,8 @@
                 cy="140.19473"
                 fx="218.8143"
                 fy="140.19473"
-                r="17.991117"/>&#10; <radialGradient
+                r="17.991117"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient537"
                 gradientUnits="userSpaceOnUse"
@@ -429,7 +468,8 @@
                 cy="103.70376"
                 fx="233.50929"
                 fy="103.70376"
-                r="15.033118"/>&#10; <radialGradient
+                r="15.033118"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient539"
                 gradientUnits="userSpaceOnUse"
@@ -438,7 +478,8 @@
                 cy="103.70376"
                 fx="233.50929"
                 fy="103.70376"
-                r="15.033118"/>&#10; <radialGradient
+                r="15.033118"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient541"
                 gradientUnits="userSpaceOnUse"
@@ -447,7 +488,8 @@
                 cy="103.70376"
                 fx="233.50929"
                 fy="103.70376"
-                r="15.033118"/>&#10; <radialGradient
+                r="15.033118"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient543"
                 gradientUnits="userSpaceOnUse"
@@ -456,7 +498,8 @@
                 cy="103.70376"
                 fx="233.50929"
                 fy="103.70376"
-                r="15.033118"/>&#10; <radialGradient
+                r="15.033118"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient545"
                 gradientUnits="userSpaceOnUse"
@@ -465,7 +508,8 @@
                 cy="103.70376"
                 fx="233.50929"
                 fy="103.70376"
-                r="15.033118"/>&#10; <radialGradient
+                r="15.033118"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient547"
                 gradientUnits="userSpaceOnUse"
@@ -474,7 +518,8 @@
                 cy="126.93045"
                 fx="188.42654"
                 fy="126.93045"
-                r="11.709027"/>&#10; <radialGradient
+                r="11.709027"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient549"
                 gradientUnits="userSpaceOnUse"
@@ -483,7 +528,8 @@
                 cy="126.93045"
                 fx="188.42654"
                 fy="126.93045"
-                r="11.709027"/>&#10; <radialGradient
+                r="11.709027"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient551"
                 gradientUnits="userSpaceOnUse"
@@ -492,7 +538,8 @@
                 cy="126.93045"
                 fx="188.42654"
                 fy="126.93045"
-                r="11.709027"/>&#10; <radialGradient
+                r="11.709027"/>
+        <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient553"
                 gradientUnits="userSpaceOnUse"
@@ -501,7 +548,7 @@
                 cy="126.93045"
                 fx="188.42654"
                 fy="126.93045"
-                r="11.709027"/>&#10;
+                r="11.709027"/>
         <radialGradient
                 xlink:href="#linearGradient11233"
                 id="radialGradient555"
@@ -674,11 +721,9 @@
             <stop
                     style="stop-color:#2c0616;stop-opacity:1;"
                     offset="1"
-                    id="stop126"/></linearGradient></defs>&#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;
-    &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10; &#10;
-    &#10; &#10;
+                    id="stop126"/></linearGradient></defs>
+
+
     <circle
             style="display:inline;fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.339084"
             id="circle17"
