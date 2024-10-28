@@ -53,7 +53,7 @@ Nature Themes
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/everest-theme">
-            <img src="nature-themes/everest-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/everest-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Everest Theme</b>
@@ -71,7 +71,7 @@ Nature Themes
       </td> 
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/aurora-borealis-theme">
-            <img src="nature-themes/aurora-borealis-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/aurora-borealis-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Aurora Borealis Theme</b>
@@ -91,7 +91,7 @@ Nature Themes
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/sakura-theme">
-            <img src="nature-themes/sakura-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/sakura-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Sakura Theme</b>
@@ -109,7 +109,7 @@ Nature Themes
       </td>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/sequoia-theme">
-            <img src="nature-themes/sequoia-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/sequoia-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Sequoia Theme</b>
@@ -129,7 +129,7 @@ Nature Themes
    <tr>
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/autumn-theme">
-            <img src="nature-themes/autumn-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/autumn-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Autumn Theme</b>
@@ -147,7 +147,7 @@ Nature Themes
       </td> 
       <td align="center">
          <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature-themes/roraima-theme">
-            <img src="nature-themes/roraima-theme/icon.png" width="100px;" alt=""/>
+            <img src="nature-themes/roraima-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Roraima Theme</b>
@@ -178,8 +178,8 @@ Nature Themes
 <!-- markdownlint-disable -->
 <table>
    <tr>
-      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="100px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="100px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
    </tr>
 </table>
 
