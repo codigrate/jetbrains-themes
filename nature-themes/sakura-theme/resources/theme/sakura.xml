@@ -618,9 +618,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="7f8d78" />
+                <option name="FOREGROUND" value="708D63" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="7f8d78" />
+                <option name="ERROR_STRIPE_COLOR" value="708D63" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">
@@ -699,5 +699,6 @@
                 <option name="FOREGROUND" value="e6" />
             </value>
         </option>
+        <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
     </attributes>
 </scheme>
