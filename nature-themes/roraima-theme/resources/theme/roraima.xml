@@ -531,9 +531,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="9b796a" />
+                <option name="FOREGROUND" value="C9947D" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="9b796a" />
+                <option name="ERROR_STRIPE_COLOR" value="C9947D" />
             </value>
         </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
@@ -593,5 +593,6 @@
                 <option name="FOREGROUND" value="8f78b7" />
             </value>
         </option>
+        <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
     </attributes>
 </scheme>

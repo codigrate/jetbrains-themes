@@ -4,7 +4,7 @@
     <id>com.codigrate.autumn.theme</id>
 
     <!-- SemVer -->
-    <version>1.0.18</version>
+    <version>1.0.19</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -205,6 +205,23 @@
                     </td>
                 </tr>
             </table>
+            <br/>
+            <br/>
+            <b>Company Website</b>
+            <table>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/icon.png"
+                             alt="Codigrate">
+                    </td>
+                    <td>
+                        <a href="https://codigrate.com">
+                            Codigrate
+                        </a>
+                    </td>
+                </tr>
+            </table>
         ]]>
     </description>
 
@@ -212,6 +229,18 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>1.0.19</b>
+            <ul>
+                <li>
+                    Update mutable variable colors
+                </li>
+                <li>
+                    Update todo color
+                </li>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>1.0.18</b>
             <ul>
                 <li>
