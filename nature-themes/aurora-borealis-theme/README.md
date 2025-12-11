@@ -28,12 +28,12 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/142b37.png?width=30&height=30" alt="#142b37"></td>
+      <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/142b37">#142b37</a>
+         <a href="https://codigrate.com/en-US/tools/color/142B37">#142B37</a>
       </td>
    </tr>
    <tr>
