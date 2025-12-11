@@ -503,7 +503,7 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="dcccac" />
-                <option name="BACKGROUND" value="142a36" />
+                <option name="BACKGROUND" value="142b37" />
                 <option name="EFFECT_COLOR" value="cc9d57" />
                 <option name="ERROR_STRIPE_COLOR" value="cc9d57" />
             </value>
@@ -562,7 +562,7 @@
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="dcccac" />
-                <option name="BACKGROUND" value="142a36" />
+                <option name="BACKGROUND" value="142b37" />
                 <option name="EFFECT_COLOR" value="cc9d57" />
                 <option name="ERROR_STRIPE_COLOR" value="cc9d57" />
             </value>
