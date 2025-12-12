@@ -38,7 +38,7 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30" alt="#E4ECEF"></td>
       <td>
-         Menu Background
+         Window Background
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/E4ECEF">#E4ECEF</a>
@@ -101,7 +101,7 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30" alt="#ED7E5A"></td>
       <td>
-         Tab Line Colors
+         Active Border Colors
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/ED7E5A">#ED7E5A</a>
