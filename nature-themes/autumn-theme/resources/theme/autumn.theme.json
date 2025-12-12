@@ -34,7 +34,6 @@
   },
   "ui": {
     "*": {
-      "arc": "7",
       "foreground": "primaryForeground",
       "background": "windowBackground",
       "selectionForeground": "primaryForeground",
