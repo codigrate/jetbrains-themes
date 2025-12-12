@@ -28,21 +28,21 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30" alt="#FFFFFF"></td>
+      <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FFFFFF">#FFFFFF</a>
+         <a href="https://codigrate.com/en-US/tools/color/FDFEFF">#FDFEFF</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F6D8B6.png?width=30&height=30" alt="#F6D8B6"></td>
+      <td><img src="https://codigrate.com/util/color/F6DCBE.png?width=30&height=30" alt="#F6DCBE"></td>
       <td>
-         Header Background
+         Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F6D8B6">#F6D8B6</a>
+         <a href="https://codigrate.com/en-US/tools/color/F6DCBE">#F6DCBE</a>
       </td>
    </tr>
    <tr>
@@ -118,6 +118,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
       </td>
    </tr>
 </table>
+
 ## Getting Started
 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
