@@ -37,12 +37,12 @@ grounded, tranquil palette guide you through the logical forest of your code eff
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/302D2D.png?width=30&height=30" alt="#302D2D"></td>
+      <td><img src="https://codigrate.com/util/color/282626.png?width=30&height=30" alt="#282626"></td>
       <td>
-         Menu Background
+         Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/302D2D">#302D2D</a>
+         <a href="https://codigrate.com/en-US/tools/color/282626">#282626</a>
       </td>
    </tr>
    <tr>
