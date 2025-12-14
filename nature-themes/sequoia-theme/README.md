@@ -28,12 +28,12 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 ## Color Palette
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1D221B.png?width=30&height=30" alt="#1D221B"></td>
+      <td><img src="https://codigrate.com/util/color/1B1F19.png?width=30&height=30" alt="#1B1F19"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1D221B">#1D221B</a>
+         <a href="https://codigrate.com/en-US/tools/color/1B1F19">#1B1F19</a>
       </td>
    </tr>
    <tr>

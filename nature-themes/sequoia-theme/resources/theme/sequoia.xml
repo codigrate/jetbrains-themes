@@ -1,43 +1,41 @@
 <scheme name="Sequoia Scheme" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2024-01-30T23:17:38</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.3.3.0.0</property>
-        <property name="modified">2024-01-30T23:17:44</property>
+        <property name="ideVersion">2025.3.0.0</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="3a2018" />
-        <option name="CARET_COLOR" value="b7e63" />
-        <option name="CARET_ROW_COLOR" value="1d2620" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="3A2018" />
+        <option name="CARET_COLOR" value="0B7E63" />
+        <option name="CARET_ROW_COLOR" value="1D2620" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2b2b" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2B2B" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
-        <option name="DOC_COMMENT_LINK" value="6c625a" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="131212" />
+        <option name="DOC_COMMENT_LINK" value="6C625A" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="171817" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="353535" />
-        <option name="INDENT_GUIDE" value="3a2018" />
+        <option name="INDENT_GUIDE" value="384131" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
         <option name="LINE_NUMBERS_COLOR" value="406741" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="65AF67" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="3a2018" />
+        <option name="METHOD_SEPARATORS_COLOR" value="3A2018" />
         <option name="MODIFIED_TAB_ICON" value="" />
         <option name="NOTIFICATION_BACKGROUND" value="191818" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
-        <option name="RIGHT_MARGIN_COLOR" value="3a2018" />
-        <option name="SELECTED_INDENT_GUIDE" value="3a2018" />
-        <option name="SELECTED_TEARLINE_COLOR" value="562d21" />
-        <option name="SELECTION_BACKGROUND" value="24312d" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="316032" />
-        <option name="ScrollBar.Mac.thumbColor" value="2f2826" />
-        <option name="ScrollBar.hoverThumbColor" value="4b4949b3" />
-        <option name="ScrollBar.thumbColor" value="4b494959" />
-        <option name="TEARLINE_COLOR" value="3a2018" />
-        <option name="VISUAL_INDENT_GUIDE" value="3a2018" />
+        <option name="RIGHT_MARGIN_COLOR" value="384131" />
+        <option name="SELECTED_INDENT_GUIDE" value="384131" />
+        <option name="SELECTED_TEARLINE_COLOR" value="4A5641" />
+        <option name="SELECTION_BACKGROUND" value="24312D" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="495C3D" />
+        <option name="ScrollBar.Mac.thumbColor" value="2F2826" />
+        <option name="ScrollBar.hoverThumbColor" value="4B4949B3" />
+        <option name="ScrollBar.thumbColor" value="4B494959" />
+        <option name="TEARLINE_COLOR" value="384131" />
+        <option name="VISUAL_INDENT_GUIDE" value="384131" />
         <option name="WHITESPACES" value="625149" />
     </colors>
     <attributes>
@@ -408,7 +406,6 @@
                 <option name="FOREGROUND" value="e0e0e0" />
             </value>
         </option>
-        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE">
             <value>
@@ -473,12 +470,6 @@
                 <option name="ERROR_STRIPE_COLOR" value="574d4a" />
             </value>
         </option>
-        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="ce5e5e" />
@@ -516,7 +507,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="dedddc" />
-                <option name="BACKGROUND" value="181717" />
+                <option name="BACKGROUND" value="1b1f19" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -548,9 +539,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="A48871" />
+                <option name="FOREGROUND" value="a48871" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="A48871" />
+                <option name="ERROR_STRIPE_COLOR" value="a48871" />
             </value>
         </option>
         <option name="TYPO">
@@ -611,6 +602,5 @@
                 <option name="FOREGROUND" value="916767" />
             </value>
         </option>
-        <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
     </attributes>
 </scheme>
