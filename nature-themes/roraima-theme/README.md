@@ -28,93 +28,93 @@ focused coding experience.
 ## Color Palette
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1e1a1b.png?width=30&height=30" alt="#1e1a1b"></td>
+      <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1e1a1b">#1e1a1b</a>
+         <a href="https://codigrate.com/en-US/tools/color/1E1A1B">#1E1A1B</a>
       </td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
       <td>
-         Menu Background
+         Window Background
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/322628">#322628</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/522d2d.png?width=30&height=30" alt="#522d2d"></td>
+      <td><img src="https://codigrate.com/util/color/5A261E.png?width=30&height=30" alt="#5A261E"></td>
       <td>
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/522d2d">#522d2d</a>
+         <a href="https://codigrate.com/en-US/tools/color/5A261E">#5A261E</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/ad4836.png?width=30&height=30" alt="#ad4836"></td>
+      <td><img src="https://codigrate.com/util/color/5F2F27.png?width=30&height=30" alt="#5F2F27"></td>
       <td>
-         Tabline Color
+         Hover Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ad4836">#ad4836</a>
+         <a href="https://codigrate.com/en-US/tools/color/5F2F27">#5F2F27</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/cc654e.png?width=30&height=30" alt="#cc654e"></td>
+      <td><img src="https://codigrate.com/util/color/CC654E.png?width=30&height=30" alt="#CC654E"></td>
       <td>
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/cc654e">#cc654e</a>
+         <a href="https://codigrate.com/en-US/tools/color/CC654E">#CC654E</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/de785a.png?width=30&height=30" alt="#de785a"></td>
+      <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/de785a">#de785a</a>
+         <a href="https://codigrate.com/en-US/tools/color/D17458">#D17458</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/d2b05f.png?width=30&height=30" alt="#d2b05f"></td>
+      <td><img src="https://codigrate.com/util/color/BDA057.png?width=30&height=30" alt="#BDA057"></td>
       <td>
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/d2b05f">#d2b05f</a>
+         <a href="https://codigrate.com/en-US/tools/color/BDA057">#BDA057</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/d9c496.png?width=30&height=30" alt="#d9c496"></td>
+      <td><img src="https://codigrate.com/util/color/CFBB8F.png?width=30&height=30" alt="#CFBB8F"></td>
       <td>
          Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/d9c496">#d9c496</a>
+         <a href="https://codigrate.com/en-US/tools/color/CFBB8F">#CFBB8F</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8f78b7.png?width=30&height=30" alt="#8f78b7"></td>
+      <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
       <td>
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8f78b7">#8f78b7</a>
+         <a href="https://codigrate.com/en-US/tools/color/8F78B7">#8F78B7</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/9f95c2.png?width=30&height=30" alt="#9f95c2"></td>
+      <td><img src="https://codigrate.com/util/color/9F95C2.png?width=30&height=30" alt="#9F95C2"></td>
       <td>
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/9f95c2">#9f95c2</a>
+         <a href="https://codigrate.com/en-US/tools/color/9F95C2">#9F95C2</a>
       </td>
    </tr>
 </table>
