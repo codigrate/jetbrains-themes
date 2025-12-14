@@ -1,47 +1,45 @@
 <scheme name="Sakura Scheme" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2024-01-30T23:17:38</property>
         <property name="ide">idea</property>
-        <property name="ideVersion">2023.3.3.0.0</property>
-        <property name="modified">2024-01-30T23:17:44</property>
+        <property name="ideVersion">2025.3.0.0</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="f1edef" />
-        <option name="CARET_COLOR" value="c55ea5" />
-        <option name="CARET_ROW_COLOR" value="f1ebef" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="F1EDEF" />
+        <option name="CARET_COLOR" value="C55EA5" />
+        <option name="CARET_ROW_COLOR" value="F1EBEF" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="EFEFEF" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
-        <option name="DOC_COMMENT_LINK" value="7f8d78" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="fceef0" />
-        <option name="ERROR_HINT" value="ffdcdc" />
+        <option name="DOC_COMMENT_LINK" value="7F8D78" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="FDF7F7" />
+        <option name="ERROR_HINT" value="FFDCDC" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-        <option name="GUTTER_BACKGROUND" value="fefefe" />
-        <option name="INDENT_GUIDE" value="f1edef" />
+        <option name="GUTTER_BACKGROUND" value="FEFEFE" />
+        <option name="INDENT_GUIDE" value="F1EDEF" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
-        <option name="LINE_NUMBERS_COLOR" value="c5a0ba" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d052ab" />
+        <option name="LINE_NUMBERS_COLOR" value="C5A0BA" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D052AB" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="f1edef" />
+        <option name="METHOD_SEPARATORS_COLOR" value="F1EDEF" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="fffeff" />
+        <option name="NOTIFICATION_BACKGROUND" value="FFFEFF" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
-        <option name="RIGHT_MARGIN_COLOR" value="f1edef" />
-        <option name="SELECTED_INDENT_GUIDE" value="c5795e" />
-        <option name="SELECTED_TEARLINE_COLOR" value="f3cfe0" />
-        <option name="SELECTION_BACKGROUND" value="e7cfdf" />
+        <option name="RIGHT_MARGIN_COLOR" value="F1EDEF" />
+        <option name="SELECTED_INDENT_GUIDE" value="C5795E" />
+        <option name="SELECTED_TEARLINE_COLOR" value="F3CFE0" />
+        <option name="SELECTION_BACKGROUND" value="E7CFDF" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="fac2d1" />
-        <option name="ScrollBar.Mac.thumbColor" value="fae5eb" />
-        <option name="ScrollBar.hoverThumbColor" value="dcd2a9" />
-        <option name="ScrollBar.thumbColor" value="dcd9c1" />
-        <option name="TEARLINE_COLOR" value="f1edef" />
-        <option name="VISUAL_INDENT_GUIDE" value="f1edef" />
-        <option name="WHITESPACES" value="7a6f75" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="FAC2D1" />
+        <option name="ScrollBar.Mac.thumbColor" value="FAE5EB" />
+        <option name="ScrollBar.hoverThumbColor" value="DCD2A9" />
+        <option name="ScrollBar.thumbColor" value="DCD9C1" />
+        <option name="TEARLINE_COLOR" value="F1EDEF" />
+        <option name="VISUAL_INDENT_GUIDE" value="F1EDEF" />
+        <option name="WHITESPACES" value="7A6F75" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -490,7 +488,7 @@
                 <option name="FOREGROUND" value="545454" />
             </value>
         </option>
-        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+        <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="JS.GLOBAL_FUNCTION">
             <value>
                 <option name="FOREGROUND" value="5a8593" />
@@ -568,12 +566,6 @@
                 <option name="FOREGROUND" value="83080" />
             </value>
         </option>
-        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="d56666" />
@@ -605,7 +597,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="29000d" />
-                <option name="BACKGROUND" value="ffffff" />
+                <option name="BACKGROUND" value="fefcfc" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -618,9 +610,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="708D63" />
+                <option name="FOREGROUND" value="708d63" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="708D63" />
+                <option name="ERROR_STRIPE_COLOR" value="708d63" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">
@@ -699,6 +691,5 @@
                 <option name="FOREGROUND" value="e6" />
             </value>
         </option>
-        <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
     </attributes>
 </scheme>

@@ -4,7 +4,7 @@
     <id>com.codigrate.sakura.theme</id>
 
     <!-- SemVer -->
-    <version>1.0.14</version>
+    <version>2026.1.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -29,28 +29,24 @@
             <br/>
             <b>Color Palette</b>
             <table>
-                <tr>
-                    <td>
-                        <img src="https://codigrate.com/util/color/FEFAFA.png?width=30&height=30" alt="#FEFAFA">
-                    </td>
-                    <td>
-                        Editor Background
-                    </td>
-                    <td>
-                        <a href="https://codigrate.com/en-US/tools/color/FEFAFA">#FEFAFA</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img src="https://codigrate.com/util/color/FFD6E0.png?width=30&height=30" alt="#FFD6E0">
-                    </td>
-                    <td>
-                        Header Background
-                    </td>
-                    <td>
-                        <a href="https://codigrate.com/en-US/tools/color/FFD6E0">#FFD6E0</a>
-                    </td>
-                </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
+                  <td>
+                     Editor Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/F8DBDF.png?width=30&height=30" alt="#F8DBDF"></td>
+                  <td>
+                     Surface Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/F8DBDF">#F8DBDF</a>
+                  </td>
+               </tr>
                 <tr>
                     <td>
                         <img src="https://codigrate.com/util/color/FFBDD2.png?width=30&height=30" alt="#FFBDD2">
@@ -229,6 +225,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.1</b>
+            <ul>
+                <li>
+                    Islands UI introduced
+                </li>
+            </ul>
             <b>1.0.14</b>
             <ul>
                 <li>

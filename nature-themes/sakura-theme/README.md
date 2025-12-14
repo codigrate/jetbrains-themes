@@ -28,21 +28,21 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 ## Color Palette
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FEFAFA.png?width=30&height=30" alt="#FEFAFA"></td>
+      <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FEFAFA">#FEFAFA</a>
+         <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFD6E0.png?width=30&height=30" alt="#FFD6E0"></td>
+      <td><img src="https://codigrate.com/util/color/F8DBDF.png?width=30&height=30" alt="#F8DBDF"></td>
       <td>
-         Header Background
+         Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FFD6E0">#FFD6E0</a>
+         <a href="https://codigrate.com/en-US/tools/color/F8DBDF">#F8DBDF</a>
       </td>
    </tr>
    <tr>
