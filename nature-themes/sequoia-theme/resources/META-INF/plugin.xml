@@ -30,66 +30,21 @@
             <b>Color Palette</b>
             <table>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/181717.png?width=30&height=30" alt="#181717"></td>
+                  <td><img src="https://codigrate.com/util/color/1D221B.png?width=30&height=30" alt="#1D221B"></td>
                   <td>
                      Editor Background
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/181717">#181717</a>
+                     <a href="https://codigrate.com/en-US/tools/color/1D221B">#1D221B</a>
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/282626.png?width=30&height=30" alt="#282626"></td>
+                  <td><img src="https://codigrate.com/util/color/2F352B.png?width=30&height=30" alt="#2F352B"></td>
                   <td>
                      Window Background
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/282626">#282626</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
-                  <td>
-                     Comments
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/6C625A">#6C625A</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/A25B4E.png?width=30&height=30" alt="#A25B4E"></td>
-                  <td>
-                     Local Variables
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/A25B4E">#A25B4E</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/854F3C.png?width=30&height=30" alt="#854F3C"></td>
-                  <td>
-                     Global Variables
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/854F3C">#854F3C</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
-                  <td>
-                     Instance Fields
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/A88E4D.png?width=30&height=30" alt="#A88E4D"></td>
-                  <td>
-                     Keywords
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/A88E4D">#A88E4D</a>
+                     <a href="https://codigrate.com/en-US/tools/color/2F352B">#2F352B</a>
                   </td>
                </tr>
                <tr>
@@ -117,6 +72,51 @@
                   </td>
                   <td>
                      <a href="https://codigrate.com/en-US/tools/color/84A975">#84A975</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A88E4D.png?width=30&height=30" alt="#A88E4D"></td>
+                  <td>
+                     Keywords
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A88E4D">#A88E4D</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
+                  <td>
+                     Instance Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/854F3C.png?width=30&height=30" alt="#854F3C"></td>
+                  <td>
+                     Global Variables
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/854F3C">#854F3C</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A25B4E.png?width=30&height=30" alt="#A25B4E"></td>
+                  <td>
+                     Local Variables
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A25B4E">#A25B4E</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+                  <td>
+                     Comments
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/6C625A">#6C625A</a>
                   </td>
                </tr>
             </table>
@@ -213,6 +213,9 @@
             <ul>
                 <li>
                     Islands UI introduced
+                </li>
+                <li>
+                    Window colors switched to green
                 </li>
             </ul>
             <b>1.0.12</b>
