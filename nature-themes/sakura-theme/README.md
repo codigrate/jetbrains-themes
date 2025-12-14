@@ -46,12 +46,12 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FFBDD2.png?width=30&height=30" alt="#FFBDD2"></td>
+      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
       <td>
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FFBDD2">#FFBDD2</a>
+         <a href="https://codigrate.com/en-US/tools/color/FFC9DC">#FFC9DC</a>
       </td>
    </tr>
    <tr>
