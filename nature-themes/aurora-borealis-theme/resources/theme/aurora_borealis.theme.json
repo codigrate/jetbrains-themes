@@ -54,7 +54,7 @@
     },
     "Islands": 1,
     "Island": {
-      "arc": "20",
+      "arc": 20,
       "arc.companct": 16,
       "borderWidth": 5,
       "borderWidth.compact": 4,
