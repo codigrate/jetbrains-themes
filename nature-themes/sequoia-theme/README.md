@@ -46,12 +46,12 @@ grounded, tranquil palette guide you through the logical forest of your code eff
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/374223.png?width=30&height=30" alt="#374223"></td>
+      <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
       <td>
-         Hover Background
+         Active Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/374223">#374223</a>
+         <a href="https://codigrate.com/en-US/tools/color/405133">#405133</a>
       </td>
    </tr>
    <tr>
