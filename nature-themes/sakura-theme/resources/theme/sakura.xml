@@ -1,7 +1,7 @@
-<scheme name="Sakura Scheme" version="142" parent_scheme="Default">
+<scheme name="Sakura (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.0.0</property>
+        <property name="ideVersion">2025.3.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="F1EDEF" />
@@ -436,7 +436,7 @@
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="720e34" />
-                <option name="BACKGROUND" value="f8e3eb" />
+                <option name="BACKGROUND" value="edceda" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -647,7 +647,7 @@
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="62115d" />
-                <option name="BACKGROUND" value="f1e5f0" />
+                <option name="BACKGROUND" value="e5cce3" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">

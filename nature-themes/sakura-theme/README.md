@@ -37,12 +37,12 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F8DBDF.png?width=30&height=30" alt="#F8DBDF"></td>
+      <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
       <td>
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8DBDF">#F8DBDF</a>
+         <a href="https://codigrate.com/en-US/tools/color/F8DBE6">#F8DBE6</a>
       </td>
    </tr>
    <tr>
