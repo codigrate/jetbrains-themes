@@ -22,8 +22,6 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 ## Screenshots
 
 <img src="screenshot-1.png" alt="screenshot">
-<img src="screenshot-2.png" alt="screenshot">
-<img src="screenshot-3.png" alt="screenshot">
 
 ## Color Palette
 <table>
