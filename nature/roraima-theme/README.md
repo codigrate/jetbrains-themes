@@ -53,15 +53,6 @@ focused coding experience.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5F2F27.png?width=30&height=30" alt="#5F2F27"></td>
-      <td>
-         Hover Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/5F2F27">#5F2F27</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
       <td>
          Keywords
@@ -80,12 +71,12 @@ focused coding experience.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F4BF94.png?width=30&height=30" alt="#F4BF94"></td>
+      <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
       <td>
-         Parameters
+         Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F4BF94">#F4BF94</a>
+         <a href="https://codigrate.com/en-US/tools/color/D1BA46">#D1BA46</a>
       </td>
    </tr>
    <tr>
@@ -113,6 +104,15 @@ focused coding experience.
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/8F78B7">#8F78B7</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Tag Name
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7E6AA3">#7E6AA3</a>
       </td>
    </tr>
 </table>
