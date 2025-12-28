@@ -16,3 +16,7 @@ nature-themes/roraima-theme/out
 nature-themes/roraima-theme/.idea
 /out
 .DS_Store
+all-in-one-themes/all-in-one-themes.iml
+all-in-one-themes/resources/META-INF/plugin.xml
+all-in-one-themes/resources/META-INF/pluginIcon.svg
+all-in-one-themes/resources/theme/nature/deep_ocean.*
