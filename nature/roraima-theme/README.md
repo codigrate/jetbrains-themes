@@ -62,15 +62,6 @@ focused coding experience.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CC654E.png?width=30&height=30" alt="#CC654E"></td>
-      <td>
-         Accent Color
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/CC654E">#CC654E</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
       <td>
          Keywords
@@ -80,39 +71,48 @@ focused coding experience.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/BDA057.png?width=30&height=30" alt="#BDA057"></td>
+      <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D69568">#D69568</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4BF94.png?width=30&height=30" alt="#F4BF94"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F4BF94">#F4BF94</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
       <td>
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BDA057">#BDA057</a>
+         <a href="https://codigrate.com/en-US/tools/color/DDBE6D">#DDBE6D</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CFBB8F.png?width=30&height=30" alt="#CFBB8F"></td>
+      <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
       <td>
-         Numbers
+         Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CFBB8F">#CFBB8F</a>
+         <a href="https://codigrate.com/en-US/tools/color/ED8B8B">#ED8B8B</a>
       </td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
       <td>
-         Tags
+         Local Variables
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/8F78B7">#8F78B7</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/9F95C2.png?width=30&height=30" alt="#9F95C2"></td>
-      <td>
-         Static Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/9F95C2">#9F95C2</a>
       </td>
    </tr>
 </table>
