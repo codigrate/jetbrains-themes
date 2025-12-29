@@ -52,7 +52,7 @@ Nature Themes
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/everest-theme">
+         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
             <img src="nature/everest-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
@@ -70,7 +70,7 @@ Nature Themes
          </a>
       </td> 
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/aurora-borealis-theme">
+         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
             <img src="nature/aurora-borealis-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
@@ -90,7 +90,7 @@ Nature Themes
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/sakura-theme">
+         <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
             <img src="nature/sakura-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
@@ -99,7 +99,7 @@ Nature Themes
          </a>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
+         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/sequoia-theme">
             <img src="https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
             <img src="https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
@@ -128,7 +128,7 @@ Nature Themes
    </tr>
    <tr>
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/autumn-theme">
+         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
             <img src="nature/autumn-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
@@ -146,7 +146,7 @@ Nature Themes
          </a>
       </td> 
       <td align="center">
-         <a href="https://github.com/codigrate/jetbrains-themes/tree/main/nature/roraima-theme">
+         <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
             <img src="nature/roraima-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
@@ -163,6 +163,30 @@ Nature Themes
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td>
+   </tr>
+   <tr>
+      <td align="center">
+      </td>
+      <td align="left">
+      </td> 
+      <td align="center">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="nature/deep-ocean-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Deep Ocean Theme</b>
+            </sub>
+         </a>
+      </td>
+      <td align="left">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-deep-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-deep-ocean-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-deep-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
+      </td> 
    </tr>
 </table>
 
