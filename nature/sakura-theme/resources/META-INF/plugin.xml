@@ -4,7 +4,7 @@
     <id>com.codigrate.sakura.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.4</version>
+    <version>2026.1.5</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -141,7 +141,7 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/roraima-theme/icon.png"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/roraima-theme/icon.png"
                              alt="Roraima Theme">
                     </td>
                     <td>
@@ -153,7 +153,7 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/aurora-borealis-theme/icon.png"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png"
                              alt="Aurora Borealis Theme">
                     </td>
                     <td>
@@ -165,7 +165,7 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/everest-theme/icon.png"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/everest-theme/icon.png"
                              alt="Everest Theme">
                     </td>
                     <td>
@@ -177,7 +177,7 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/autumn-theme/icon.png"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/autumn-theme/icon.png"
                              alt="Autumn Theme">
                     </td>
                     <td>
@@ -189,7 +189,7 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature-themes/sequoia-theme/icon.png"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sequoia-theme/icon.png"
                              alt="Sequoia Theme">
                     </td>
                     <td>
@@ -223,6 +223,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.5</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>2026.1.4</b>
             <ul>
                 <li>
