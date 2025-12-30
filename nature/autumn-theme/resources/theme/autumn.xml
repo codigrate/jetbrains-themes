@@ -81,24 +81,6 @@
         <option name="CODE_LENS_BORDER_COLOR">
             <value />
         </option>
-        <option name="CSS.COLOR">
-            <value>
-                <option name="FOREGROUND" value="b87626" />
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
-        <option name="CSS.IMPORTANT">
-            <value>
-                <option name="FOREGROUND" value="b87626" />
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
-        <option name="CSS.UNICODE.RANGE">
-            <value>
-                <option name="FOREGROUND" value="b87626" />
-                <option name="FONT_TYPE" value="1" />
-            </value>
-        </option>
         <option name="CSS.URL">
             <value>
                 <option name="FOREGROUND" value="9acd" />

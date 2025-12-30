@@ -82,21 +82,6 @@
                 <option name="EFFECT_COLOR" value="2b9abc" />
             </value>
         </option>
-        <option name="CSS.COLOR">
-            <value>
-                <option name="FOREGROUND" value="73d379" />
-            </value>
-        </option>
-        <option name="CSS.IMPORTANT">
-            <value>
-                <option name="FOREGROUND" value="73d379" />
-            </value>
-        </option>
-        <option name="CSS.UNICODE.RANGE">
-            <value>
-                <option name="FOREGROUND" value="73d379" />
-            </value>
-        </option>
         <option name="CSS.URL">
             <value>
                 <option name="FOREGROUND" value="9acd" />
