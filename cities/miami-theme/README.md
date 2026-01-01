@@ -16,8 +16,7 @@ Miami - Jetbrains Theme
 
 Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents 
 to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, 
-and tropical teals bring energy and clarity to key syntax elements. The palette is designed to feel lively without being 
-overwhelming—keeping your focus sharp while adding a touch of Miami’s unmistakable nightlife glow to your workflow.
+and tropical teals bring energy and clarity to key syntax elements.
 
 ## Screenshots
 
