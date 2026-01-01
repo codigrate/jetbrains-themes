@@ -2,7 +2,7 @@
   "name": "Miami",
   "dark": true,
   "author": "Codigrate",
-  "editorScheme": "/theme/miami.xml",
+  "editorScheme": "/theme/cities/miami.xml",
   "parentTheme": "Islands Dark",
   "colors": {
     "surface": "#5d263a",
