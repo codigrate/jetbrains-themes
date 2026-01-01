@@ -204,6 +204,48 @@ Nature Themes
    </tr>
 </table>
 
+<h1 align="center">
+City Themes
+</h1>
+
+<!-- THEMES-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table> 
+   <tr>
+      <td colspan="2" align="center">
+         Light Themes ☀️
+      </td>
+      <td colspan="2" align="center">
+         Dark Themes 🌑
+      </td>
+   </tr>
+   <tr>
+      <td align="center">
+      </td>
+      <td align="left">
+      </td> 
+      <td align="center">
+         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+            <img src="cities/miami-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Miami Theme</b>
+            </sub>
+         </a>
+      </td>
+      <td align="left">
+         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/29582-miami-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29582-miami-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
+      </td>
+   </tr>
+</table>
+
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 
