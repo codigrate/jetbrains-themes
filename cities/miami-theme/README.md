@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/TBD-miami-theme">
+   <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
     <img src="icon.png" alt="Logo" width=200>
   </a>
 </p>
@@ -8,9 +8,9 @@
 Miami - Jetbrains Theme
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/29582-miami-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/29582-miami-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
 
 ## Description
 
