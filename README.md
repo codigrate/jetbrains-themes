@@ -166,8 +166,22 @@ Nature Themes
    </tr>
    <tr>
       <td align="center">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="nature/salda-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Salda Theme</b>
+            </sub>
+         </a>
       </td>
       <td align="left">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-salda-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-salda-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-salda-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
       </td> 
       <td align="center">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
