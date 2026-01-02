@@ -1,12 +1,12 @@
 <scheme name="Miami" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ide">WebStorm</property>
+        <property name="ideVersion">2025.3.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="953357" />
         <option name="CARET_COLOR" value="E17CBF" />
-        <option name="CARET_ROW_COLOR" value="5A2C3B" />
+        <option name="CARET_ROW_COLOR" value="452630" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2B2B" />
         <option name="DOCUMENTATION_COLOR" value="" />
@@ -29,7 +29,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="5D263A" />
         <option name="SELECTED_INDENT_GUIDE" value="5D263A" />
         <option name="SELECTED_TEARLINE_COLOR" value="80334F" />
-        <option name="SELECTION_BACKGROUND" value="2A4D7F" />
+        <option name="SELECTION_BACKGROUND" value="561D2F" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="80334F" />
         <option name="ScrollBar.Mac.thumbColor" value="5D263A" />
         <option name="TEARLINE_COLOR" value="5D263A" />
@@ -37,7 +37,7 @@
         <option name="WHITESPACES" value="E0E0E0" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="573f3f" />

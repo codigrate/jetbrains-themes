@@ -4,7 +4,7 @@
     <id>com.codigrate.autumn.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.6</version>
+    <version>2026.1.8</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -127,6 +127,30 @@
                 <tr>
                     <td>
                         <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png"
+                             alt="Aurora Borealis Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+                            Aurora Borealis Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/everest-theme/icon.png"
+                             alt="Everest Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+                            Everest Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
                              src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sequoia-theme/icon.png"
                              alt="Sequoia Theme">
                     </td>
@@ -163,24 +187,12 @@
                 <tr>
                     <td>
                         <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png"
-                             alt="Aurora Borealis Theme">
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/miami-theme/icon.png"
+                             alt="Miami Theme">
                     </td>
                     <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-                            Aurora Borealis Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/everest-theme/icon.png"
-                             alt="Everest Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-                            Everest Theme
+                        <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+                            Miami Theme
                         </a>
                     </td>
                 </tr>
@@ -209,6 +221,18 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.8</b>
+            <ul>
+                <li>
+                    Update editor colors
+                </li>
+            </ul>
+            <b>2026.1.7</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>2026.1.6</b>
             <ul>
                 <li>

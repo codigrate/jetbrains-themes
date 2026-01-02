@@ -1,7 +1,7 @@
 <scheme name="Roraima" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ide">WebStorm</property>
+        <property name="ideVersion">2025.3.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />
@@ -29,7 +29,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="312624" />
         <option name="SELECTED_INDENT_GUIDE" value="A8604C" />
         <option name="SELECTED_TEARLINE_COLOR" value="A8604C" />
-        <option name="SELECTION_BACKGROUND" value="492A2A" />
+        <option name="SELECTION_BACKGROUND" value="562F2F" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="B2684C" />
         <option name="ScrollBar.Mac.thumbColor" value="442B31" />
         <option name="TEARLINE_COLOR" value="312624" />
@@ -42,7 +42,7 @@
                 <option name="FOREGROUND" value="9ac781" />
             </value>
         </option>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="935757" />
@@ -455,7 +455,7 @@
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="c0b2de" />
-                <option name="BACKGROUND" value="453c57" />
+                <option name="BACKGROUND" value="362e47" />
                 <option name="EFFECT_COLOR" value="63577c" />
                 <option name="ERROR_STRIPE_COLOR" value="63577c" />
             </value>
@@ -482,7 +482,7 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="c0b2de" />
-                <option name="BACKGROUND" value="453c57" />
+                <option name="BACKGROUND" value="362e47" />
                 <option name="EFFECT_COLOR" value="63577c" />
                 <option name="ERROR_STRIPE_COLOR" value="63577c" />
             </value>
@@ -544,7 +544,7 @@
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="c0b2de" />
-                <option name="BACKGROUND" value="453c57" />
+                <option name="BACKGROUND" value="362e47" />
                 <option name="EFFECT_COLOR" value="63577c" />
                 <option name="ERROR_STRIPE_COLOR" value="63577c" />
             </value>

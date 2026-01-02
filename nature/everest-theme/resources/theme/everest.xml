@@ -1,47 +1,45 @@
 <scheme name="Everest (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
-        <property name="created">2024-01-30T23:17:38</property>
-        <property name="ide">idea</property>
-        <property name="ideVersion">2023.3.3.0.0</property>
-        <property name="modified">2024-01-30T23:17:44</property>
+        <property name="ide">WebStorm</property>
+        <property name="ideVersion">2025.3.0.0</property>
     </metaInfo>
     <colors>
-        <option name="BREADCRUMBS_BORDER_COLOR" value="c5d1d7" />
+        <option name="BREADCRUMBS_BORDER_COLOR" value="C5D1D7" />
         <option name="CARET_COLOR" value="467196" />
-        <option name="CARET_ROW_COLOR" value="e6edf5" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="efefef" />
+        <option name="CARET_ROW_COLOR" value="E6EDF5" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="EFEFEF" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
-        <option name="DOC_COMMENT_LINK" value="6e828f" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="edf3f5" />
-        <option name="ERROR_HINT" value="ffdcdc" />
+        <option name="DOC_COMMENT_LINK" value="6E828F" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="EDF3F5" />
+        <option name="ERROR_HINT" value="FFDCDC" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-        <option name="GUTTER_BACKGROUND" value="fefefe" />
-        <option name="INDENT_GUIDE" value="dde7f6" />
+        <option name="GUTTER_BACKGROUND" value="FEFEFE" />
+        <option name="INDENT_GUIDE" value="DDE7F6" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
-        <option name="LINE_NUMBERS_COLOR" value="7d9aa6" />
+        <option name="LINE_NUMBERS_COLOR" value="7D9AA6" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="114156" />
         <option name="LOOKUP_COLOR" value="" />
-        <option name="METHOD_SEPARATORS_COLOR" value="c5d1d7" />
+        <option name="METHOD_SEPARATORS_COLOR" value="C5D1D7" />
         <option name="MODIFIED_TAB_ICON" value="" />
-        <option name="NOTIFICATION_BACKGROUND" value="fcfdfe" />
+        <option name="NOTIFICATION_BACKGROUND" value="FCFDFE" />
         <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
         <option name="RECENT_LOCATIONS_SELECTION" value="" />
-        <option name="RIGHT_MARGIN_COLOR" value="dde7f6" />
-        <option name="SELECTED_INDENT_GUIDE" value="a2bae2" />
-        <option name="SELECTED_TEARLINE_COLOR" value="a2bae2" />
-        <option name="SELECTION_BACKGROUND" value="d4dde7" />
+        <option name="RIGHT_MARGIN_COLOR" value="DDE7F6" />
+        <option name="SELECTED_INDENT_GUIDE" value="A2BAE2" />
+        <option name="SELECTED_TEARLINE_COLOR" value="A2BAE2" />
+        <option name="SELECTION_BACKGROUND" value="CADFE8" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
-        <option name="ScrollBar.Mac.hoverThumbColor" value="bfc5e1" />
-        <option name="ScrollBar.Mac.thumbColor" value="edf3f5" />
-        <option name="ScrollBar.hoverThumbColor" value="c3dbe5bf" />
-        <option name="ScrollBar.thumbColor" value="c3dbe580" />
-        <option name="TEARLINE_COLOR" value="dde7f6" />
-        <option name="VISUAL_INDENT_GUIDE" value="dde7f6" />
-        <option name="WHITESPACES" value="bec5c7" />
+        <option name="ScrollBar.Mac.hoverThumbColor" value="BFC5E1" />
+        <option name="ScrollBar.Mac.thumbColor" value="EDF3F5" />
+        <option name="ScrollBar.hoverThumbColor" value="C3DBE5BF" />
+        <option name="ScrollBar.thumbColor" value="C3DBE580" />
+        <option name="TEARLINE_COLOR" value="DDE7F6" />
+        <option name="VISUAL_INDENT_GUIDE" value="DDE7F6" />
+        <option name="WHITESPACES" value="BEC5C7" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -49,7 +47,7 @@
                 <option name="FOREGROUND" value="7d8383" />
             </value>
         </option>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="f5dddd" />
@@ -544,12 +542,6 @@
                 <option name="FOREGROUND" value="83080" />
             </value>
         </option>
-        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-        <option name="PY.SELF_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="d56666" />
@@ -565,13 +557,13 @@
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="287586" />
-                <option name="BACKGROUND" value="dcedf8" />
-                <option name="EFFECT_COLOR" value="287586" />
-                <option name="ERROR_STRIPE_COLOR" value="287586" />
+                <option name="BACKGROUND" value="d9f1f6" />
+                <option name="EFFECT_COLOR" value="154f5c" />
+                <option name="ERROR_STRIPE_COLOR" value="154f5c" />
             </value>
         </option>
-        <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-        <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+        <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
+        <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
         <option name="STATIC_METHOD_ATTRIBUTES">
             <value>
                 <option name="FONT_TYPE" value="2" />
@@ -592,16 +584,16 @@
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="287586" />
-                <option name="BACKGROUND" value="dcedf8" />
-                <option name="EFFECT_COLOR" value="287586" />
-                <option name="ERROR_STRIPE_COLOR" value="287586" />
+                <option name="BACKGROUND" value="d9f1f6" />
+                <option name="EFFECT_COLOR" value="154f5c" />
+                <option name="ERROR_STRIPE_COLOR" value="154f5c" />
             </value>
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="497EA0" />
+                <option name="FOREGROUND" value="497ea0" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="497EA0" />
+                <option name="ERROR_STRIPE_COLOR" value="497ea0" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">
@@ -644,9 +636,9 @@
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="287586" />
-                <option name="BACKGROUND" value="dcedf8" />
-                <option name="EFFECT_COLOR" value="287586" />
-                <option name="ERROR_STRIPE_COLOR" value="287586" />
+                <option name="BACKGROUND" value="d9f1f6" />
+                <option name="EFFECT_COLOR" value="154f5c" />
+                <option name="ERROR_STRIPE_COLOR" value="154f5c" />
             </value>
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
@@ -682,6 +674,5 @@
                 <option name="FOREGROUND" value="e6" />
             </value>
         </option>
-        <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_REASSIGNED_LOCAL_VARIABLE" />
     </attributes>
 </scheme>
