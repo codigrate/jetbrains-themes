@@ -56,7 +56,7 @@ Nature Themes
             <img src="nature/everest-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Everest Theme</b>
+               <b>Everest </b>
             </sub>
          </a>
       </td>
@@ -74,7 +74,7 @@ Nature Themes
             <img src="nature/aurora-borealis-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Aurora Borealis Theme</b>
+               <b>Aurora Borealis </b>
             </sub>
          </a>
       </td>
@@ -94,7 +94,7 @@ Nature Themes
             <img src="nature/sakura-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Sakura Theme</b>
+               <b>Sakura </b>
             </sub>
          </a>
       </td>
@@ -112,7 +112,7 @@ Nature Themes
             <img src="nature/sequoia-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Sequoia Theme</b>
+               <b>Sequoia </b>
             </sub>
          </a>
       </td>
@@ -132,7 +132,7 @@ Nature Themes
             <img src="nature/autumn-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Autumn Theme</b>
+               <b>Autumn </b>
             </sub>
          </a>
       </td>
@@ -150,7 +150,7 @@ Nature Themes
             <img src="nature/roraima-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Roraima Theme</b>
+               <b>Roraima </b>
             </sub>
          </a>
       </td>
@@ -170,7 +170,7 @@ Nature Themes
             <img src="nature/salda-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Salda Theme</b>
+               <b>Salda </b>
             </sub>
          </a>
       </td>
@@ -188,7 +188,7 @@ Nature Themes
             <img src="nature/deep-ocean-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Deep Ocean Theme</b>
+               <b>Deep Ocean </b>
             </sub>
          </a>
       </td>
@@ -226,7 +226,7 @@ City Themes
             <img src="cities/istanbul-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Istanbul Theme</b>
+               <b>Istanbul </b>
             </sub>
          </a>
       </td>
@@ -244,7 +244,7 @@ City Themes
             <img src="cities/miami-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Miami Theme</b>
+               <b>Miami </b>
             </sub>
          </a>
       </td>
