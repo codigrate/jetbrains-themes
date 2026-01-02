@@ -222,9 +222,23 @@ City Themes
    </tr>
    <tr>
       <td align="center">
+         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
+            <img src="cities/istanbul-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Istanbul Theme</b>
+            </sub>
+         </a>
       </td>
       <td align="left">
-      </td> 
+         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/29590-istanbul-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/29590-istanbul-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29590-istanbul-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
+      </td>
       <td align="center">
          <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
             <img src="cities/miami-theme/icon.png" width="90px;" alt=""/>
