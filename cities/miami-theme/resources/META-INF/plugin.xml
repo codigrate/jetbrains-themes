@@ -4,7 +4,7 @@
     <id>com.codigrate.miami.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.1</version>
+    <version>2026.1.2</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -23,9 +23,7 @@
         <![CDATA[
             Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant
             neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor,
-            while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements. The palette
-            is designed to feel lively without being overwhelming—keeping your focus sharp while adding a touch of
-            Miami’s unmistakable nightlife glow to your workflow.
+            while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
             <br/>
             <br/>
             <b>Color Palette</b>
@@ -222,6 +220,15 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.2</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+                <li>
+                    Update editor colors
+                </li>
+            </ul>
             <b>2026.1.1</b>
             <ul>
                 <li>
