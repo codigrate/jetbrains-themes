@@ -1,7 +1,7 @@
 <scheme name="Miami (Lite)" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="ide">WebStorm</property>
-        <property name="ideVersion">2025.3.0.0</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2025.3.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="953357" />
@@ -37,7 +37,7 @@
         <option name="WHITESPACES" value="E0E0E0" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="573f3f" />
@@ -460,8 +460,8 @@
             <value>
                 <option name="FOREGROUND" value="a6cfd1" />
                 <option name="BACKGROUND" value="184043" />
-                <option name="EFFECT_COLOR" value="a6cfd1" />
-                <option name="ERROR_STRIPE_COLOR" value="a6cfd1" />
+                <option name="EFFECT_COLOR" value="88bec1" />
+                <option name="ERROR_STRIPE_COLOR" value="88bec1" />
             </value>
         </option>
         <option name="TAB_SELECTED">
@@ -487,8 +487,8 @@
             <value>
                 <option name="FOREGROUND" value="a6cfd1" />
                 <option name="BACKGROUND" value="184043" />
-                <option name="EFFECT_COLOR" value="a6cfd1" />
-                <option name="ERROR_STRIPE_COLOR" value="a6cfd1" />
+                <option name="EFFECT_COLOR" value="88bec1" />
+                <option name="ERROR_STRIPE_COLOR" value="88bec1" />
             </value>
         </option>
         <option name="TEXT_STYLE_ERROR">
@@ -546,8 +546,8 @@
             <value>
                 <option name="FOREGROUND" value="a6cfd1" />
                 <option name="BACKGROUND" value="184043" />
-                <option name="EFFECT_COLOR" value="a6cfd1" />
-                <option name="ERROR_STRIPE_COLOR" value="a6cfd1" />
+                <option name="EFFECT_COLOR" value="88bec1" />
+                <option name="ERROR_STRIPE_COLOR" value="88bec1" />
             </value>
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">

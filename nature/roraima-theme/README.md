@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Roraima - Jetbrains Theme
+Roraima Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22961-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)

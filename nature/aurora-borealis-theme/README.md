@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Aurora Borealis - Jetbrains Theme
+Aurora Borealis Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)

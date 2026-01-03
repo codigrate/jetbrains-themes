@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Sakura - Jetbrains Theme
+Sakura Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)

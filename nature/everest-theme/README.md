@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Everest - Jetbrains Theme
+Everest Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)

@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Istanbul - Jetbrains Theme
+Istanbul Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29590-istanbul-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29590-istanbul-theme)

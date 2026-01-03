@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Miami Theme
+Paris Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
@@ -14,9 +14,10 @@ Miami Theme
 
 ## Description
 
-Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents 
-to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, 
-and tropical teals bring energy and clarity to key syntax elements.
+Inspired by the candlelit cafés, stone boulevards, and golden glow of Paris, this theme blends deep
+espresso shadows with refined champagne accents to create a cinematic yet comfortable coding environment.
+Dark, moody backgrounds keep the editor grounded, while warm golds, muted olives, and a subtle wine-red
+bring clarity and elegance to key syntax elements.
 
 ## Screenshots
 
@@ -26,93 +27,93 @@ and tropical teals bring energy and clarity to key syntax elements.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
+      <td><img src="https://codigrate.com/util/color/201E19.png?width=30&height=30" alt="#201E19"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/33121D">#33121D</a>
+         <a href="https://codigrate.com/en-US/tools/color/201E19">#201E19</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td><img src="https://codigrate.com/util/color/433F38.png?width=30&height=30" alt="#433F38"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/532033">#532033</a>
+         <a href="https://codigrate.com/en-US/tools/color/433F38">#433F38</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
+      <td><img src="https://codigrate.com/util/color/B5A674.png?width=30&height=30" alt="#B5A674"></td>
       <td>
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FF5FA2">#FF5FA2</a>
+         <a href="https://codigrate.com/en-US/tools/color/B5A674">#B5A674</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td><img src="https://codigrate.com/util/color/D5CFC6.png?width=30&height=30" alt="#D5CFC6"></td>
       <td>
          Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FE788C">#FE788C</a>
+         <a href="https://codigrate.com/en-US/tools/color/D5CFC6">#D5CFC6</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
+      <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
       <td>
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FE8078">#FE8078</a>
+         <a href="https://codigrate.com/en-US/tools/color/F3B7A9">#F3B7A9</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td><img src="https://codigrate.com/util/color/D89578.png?width=30&height=30" alt="#D89578"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F2A4A0">#F2A4A0</a>
+         <a href="https://codigrate.com/en-US/tools/color/D89578">#D89578</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
+      <td><img src="https://codigrate.com/util/color/DCC79D.png?width=30&height=30" alt="#DCC79D"></td>
       <td>
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/92B5E8">#92B5E8</a>
+         <a href="https://codigrate.com/en-US/tools/color/DCC79D">#DCC79D</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30" alt="#F1C970"></td>
       <td>
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/00D1C1">#00D1C1</a>
+         <a href="https://codigrate.com/en-US/tools/color/F1C970">#F1C970</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
+      <td><img src="https://codigrate.com/util/color/C4AFED.png?width=30&height=30" alt="#C4AFED"></td>
       <td>
          Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/82D59F">#82D59F</a>
+         <a href="https://codigrate.com/en-US/tools/color/C4AFED">#C4AFED</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
       <td>
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8D273">#F8D273</a>
+         <a href="https://codigrate.com/en-US/tools/color/DF7583">#DF7583</a>
       </td>
    </tr>
 </table>
@@ -121,8 +122,8 @@ and tropical teals bring energy and clarity to key syntax elements.
 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
-3. Search for **Miami Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Miami
+3. Search for **Paris Theme** and click install.
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Paris
    Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 

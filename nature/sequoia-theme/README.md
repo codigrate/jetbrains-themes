@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Sequoia - Jetbrains Theme
+Sequoia Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)

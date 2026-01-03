@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Autumn - Jetbrains Theme
+Autumn Theme
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
