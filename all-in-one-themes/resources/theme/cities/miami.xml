@@ -458,10 +458,10 @@
         <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ecc8a1" />
-                <option name="BACKGROUND" value="815422" />
-                <option name="EFFECT_COLOR" value="ecc8a1" />
-                <option name="ERROR_STRIPE_COLOR" value="ecc8a1" />
+                <option name="FOREGROUND" value="a6cfd1" />
+                <option name="BACKGROUND" value="184043" />
+                <option name="EFFECT_COLOR" value="a6cfd1" />
+                <option name="ERROR_STRIPE_COLOR" value="a6cfd1" />
             </value>
         </option>
         <option name="TAB_SELECTED">
