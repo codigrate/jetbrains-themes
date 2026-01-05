@@ -1,34 +1,34 @@
 {
-  "name": "Paris",
-  "dark": true,
+  "name": "Rio de Janeiro (Lite)",
+  "dark": false,
   "author": "Codigrate",
-  "editorScheme": "/theme/cities/paris.xml",
-  "parentTheme": "Islands Dark",
+  "editorScheme": "/theme/rio_de_janeiro.xml",
+  "parentTheme": "Islands Light",
   "colors": {
-    "surface": "#5b564b",
-    "borderColor": "#5b564b",
-    "separatorColor": "#5b564b",
-    "windowBackground": "#433f38",
-    "editorBackground": "#201E19",
-    "inputBackground": "#1a1914",
-    "hoverBackground": "#38362e",
-    "activeBackground": "#4c452d",
-    "activeBorderColor": "#a59664",
-    "selectionBackground": "#5f584b",
-    "selectionBorderColor": "#b3a281",
-    "selectionInactiveBackground": "#5f5d57",
-    "selectionInactiveBorderColor": "#aca494",
-    "alternateBackground": "#7B1E2B",
-    "searchMatchBackground": "#b5a674",
-    "accentColor": "#b5a674",
-    "primaryForeground": "#e8e3d8",
-    "secondaryForeground": "#c8b99d",
+    "surface": "#b3daa8",
+    "borderColor": "#b3daa8",
+    "separatorColor": "#b3daa8",
+    "windowBackground": "#e1f3dd",
+    "editorBackground": "#f7faf6",
+    "inputBackground": "#ffffff",
+    "hoverBackground": "#dbedd6",
+    "activeBackground": "#d0ecef",
+    "activeBorderColor": "#41afba",
+    "selectionBackground": "#b9e5ae",
+    "selectionBorderColor": "#42c51d",
+    "selectionInactiveBackground": "#d4eacf",
+    "selectionInactiveBorderColor": "#a0c596",
+    "alternateBackground": "#2e7fdc",
+    "searchMatchBackground": "#7e9577",
+    "accentColor": "#1f660b",
+    "primaryForeground": "#143f08",
+    "secondaryForeground": "#25760e",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
     "warningFocused": "#d09136",
-    "info": "#4693d2",
-    "success": "#46d27e",
+    "info": "#397fb7",
+    "success": "#30a25e",
     "transparent": "#00000000"
   },
   "ui": {
@@ -215,8 +215,8 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "windowBackground",
-        "inactiveBackground": "windowBackground"
+        "activeBackground": "headerBackground",
+        "inactiveBackground": "headerBackground"
       }
     },
     "ScrollBar": {
@@ -318,15 +318,15 @@
       },
       "RefLabel": {
         "foreground": "primaryForeground"
+      },
+      "StatusBar": {
+        "borderColor": "transparent"
       }
-    },
-    "StatusBar": {
-      "borderColor": "transparent"
     }
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#889db7",
+      "Tree.iconColor": "#567b8a",
       "Actions.Blue": "#5da3f4",
       "Actions.Green": "#2fc864",
       "Actions.Grey": "#858994",
@@ -345,17 +345,17 @@
       "Objects.Yellow": "#f1fa8c",
       "Objects.YellowDark": "#f1fa8c",
       "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected.Dark": "#FF5FA2",
-      "Checkbox.Focus.Wide.Dark": "#059086",
-      "Checkbox.Focus.Thin.Default.Dark": "#059086",
-      "Checkbox.Focus.Thin.Selected.Dark": "#059086",
-      "Checkbox.Background.Default.Dark": "#270D16",
-      "Checkbox.Background.Selected.Dark": "#065B55",
-      "Checkbox.Background.Disabled.Dark": "#431827",
-      "Checkbox.Foreground.Disabled": "#CCA2B6",
-      "Checkbox.Border.Default.Dark": "#5D263A",
-      "Checkbox.Border.Selected.Dark": "#8D0537",
-      "Checkbox.Border.Disabled.Dark": "#431827"
+      "Checkbox.Foreground.Selected": "#70c1e3",
+      "Checkbox.Focus.Wide": "#c7d8df",
+      "Checkbox.Focus.Thin.Default": "#c7d8df",
+      "Checkbox.Focus.Thin.Selected": "#c7d8df",
+      "Checkbox.Background.Default": "#7ebbd5",
+      "Checkbox.Background.Selected": "#e4ecef",
+      "Checkbox.Background.Disabled": "#142b37",
+      "Checkbox.Foreground.Disabled": "#c7d8df",
+      "Checkbox.Border.Default": "#7ebbd5",
+      "Checkbox.Border.Selected": "#e4ecef",
+      "Checkbox.Border.Disabled": "#142b37"
     }
   }
 }

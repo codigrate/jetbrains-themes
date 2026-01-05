@@ -6,11 +6,11 @@
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C5D6D7" />
         <option name="CARET_COLOR" value="42858E" />
-        <option name="CARET_ROW_COLOR" value="E5F3F4" />
+        <option name="CARET_ROW_COLOR" value="DEF0F3" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="EFEFEF" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
-        <option name="DOC_COMMENT_LINK" value="959A8A" />
+        <option name="DOC_COMMENT_LINK" value="5FA652" />
         <option name="EDITOR_GUTTER_BACKGROUND" value="E8F2F3" />
         <option name="ERROR_HINT" value="FFDCDC" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
@@ -117,7 +117,7 @@
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
             <value>
-                <option name="FOREGROUND" value="959a8a" />
+                <option name="FOREGROUND" value="5fa652" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -127,7 +127,7 @@
         <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_DOC_COMMENT">
             <value>
-                <option name="FOREGROUND" value="959a8a" />
+                <option name="FOREGROUND" value="5fa652" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -183,7 +183,7 @@
         <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_LINE_COMMENT">
             <value>
-                <option name="FOREGROUND" value="959a8a" />
+                <option name="FOREGROUND" value="5fa652" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -275,8 +275,8 @@
         </option>
         <option name="DOC_TIPS_SHORTCUT">
             <value>
-                <option name="FOREGROUND" value="959a8a" />
-                <option name="EFFECT_COLOR" value="959a8a" />
+                <option name="FOREGROUND" value="5fa652" />
+                <option name="EFFECT_COLOR" value="5fa652" />
             </value>
         </option>
         <option name="DUPLICATE_FROM_SERVER">
@@ -588,9 +588,9 @@
         </option>
         <option name="TODO_DEFAULT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="959a8a" />
+                <option name="FOREGROUND" value="5fa652" />
                 <option name="FONT_TYPE" value="2" />
-                <option name="ERROR_STRIPE_COLOR" value="959a8a" />
+                <option name="ERROR_STRIPE_COLOR" value="5fa652" />
             </value>
         </option>
         <option name="TS.TYPE_GUARD">

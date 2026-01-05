@@ -1,12 +1,12 @@
 <scheme name="Roraima (Lite)" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="ide">WebStorm</property>
-        <property name="ideVersion">2025.3.0.0</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2025.3.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />
         <option name="CARET_COLOR" value="DF6F50" />
-        <option name="CARET_ROW_COLOR" value="2A2222" />
+        <option name="CARET_ROW_COLOR" value="372C2F" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2B2B" />
         <option name="DOCUMENTATION_COLOR" value="" />
@@ -42,7 +42,7 @@
                 <option name="FOREGROUND" value="9ac781" />
             </value>
         </option>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="935757" />

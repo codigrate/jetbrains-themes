@@ -1,12 +1,12 @@
 <scheme name="Sequoia (Lite)" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="ide">WebStorm</property>
-        <property name="ideVersion">2025.3.0.0</property>
+        <property name="ide">idea</property>
+        <property name="ideVersion">2025.3.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="3A2018" />
         <option name="CARET_COLOR" value="0B7E63" />
-        <option name="CARET_ROW_COLOR" value="202C20" />
+        <option name="CARET_ROW_COLOR" value="2E3527" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2B2B" />
         <option name="DOCUMENTATION_COLOR" value="" />
@@ -44,7 +44,7 @@
                 <option name="FOREGROUND" value="50a0a8" />
             </value>
         </option>
-        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+        <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="573f3f" />
