@@ -14,7 +14,7 @@ Rio de Janeiro Theme
 
 ## Description
 
-Inspired by Rio’s lush hills, soft morning light, and ocean air, this theme blends airy minty
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty
 backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and
 calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
 

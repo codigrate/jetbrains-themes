@@ -1,0 +1,240 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>com.codigrate.tokyo.theme</id>
+
+    <!-- SemVer -->
+    <version>2026.1.1</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
+    <name>Tokyo Theme</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor email="info@codigrate.com" url="https://codigrate.com">Codigrate</vendor>
+
+    <idea-version since-build="252"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <description>
+        <![CDATA[
+            Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme
+            blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere.
+            Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add
+            clarity and energy to key syntax elements.
+            <br/>
+            <br/>
+            <b>Color Palette</b>
+            <table>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
+                  <td>
+                     Editor Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/1A1F35">#1A1F35</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30" alt="#2A3051"></td>
+                  <td>
+                     Window Background
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/2A3051">#2A3051</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/8597E6.png?width=30&height=30" alt="#8597E6"></td>
+                  <td>
+                     Accent Color
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/8597E6">#8597E6</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30" alt="#7FA0DD"></td>
+                  <td>
+                     Tag Colors
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/7FA0DD">#7FA0DD</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
+                  <td>
+                     Instance Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/ECA1EB">#ECA1EB</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
+                  <td>
+                     Keywords
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/7B89C8">#7B89C8</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30" alt="#D3B690"></td>
+                  <td>
+                     Static Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/D3B690">#D3B690</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/DD9B7F.png?width=30&height=30" alt="#DD9B7F"></td>
+                  <td>
+                     Parameters
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/DD9B7F">#DD9B7F</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30" alt="#5CC19D"></td>
+                  <td>
+                     Variables
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/5CC19D">#5CC19D</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30" alt="#5DC8D6"></td>
+                  <td>
+                     Strings
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/5DC8D6">#5DC8D6</a>
+                  </td>
+               </tr>
+            </table>
+            <br/>
+            <br/>
+            <b>More Themes by Codigrate</b>
+            <table>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png"
+                             alt="Aurora Borealis Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+                            Aurora Borealis Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/everest-theme/icon.png"
+                             alt="Everest Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+                            Everest Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/autumn-theme/icon.png"
+                             alt="Autumn Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+                            Autumn Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sequoia-theme/icon.png"
+                             alt="Sequoia Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+                            Sequoia Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sakura-theme/icon.png"
+                             alt="Sakura Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
+                            Sakura Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/roraima-theme/icon.png"
+                             alt="Roraima Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
+                            Roraima Theme
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <br/>
+            <br/>
+            <b>Company Website</b>
+            <table>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/icon.png"
+                             alt="Codigrate">
+                    </td>
+                    <td>
+                        <a href="https://codigrate.com">
+                            Codigrate
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        ]]>
+    </description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes>
+        <![CDATA[
+            <b>2026.1.1</b>
+            <ul>
+                <li>
+                    Initial version
+                </li>
+            </ul>
+        ]]>
+    </change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="ce2b1d07-cc0f-417f-acdb-eb37a244c2fa" path="/theme/tokyo.theme.json"/>
+    </extensions>
+</idea-plugin>

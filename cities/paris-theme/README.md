@@ -14,7 +14,7 @@ Paris Theme
 
 ## Description
 
-Inspired by the candlelit cafés, stone boulevards, and golden glow of Paris, this theme blends deep
+Inspired by the candlelit cafes, stone boulevards, and golden glow of Paris, this theme blends deep
 espresso shadows with refined champagne accents to create a cinematic yet comfortable coding environment.
 Dark, moody backgrounds keep the editor grounded, while warm golds, muted olives, and a subtle wine-red
 bring clarity and elegance to key syntax elements.
