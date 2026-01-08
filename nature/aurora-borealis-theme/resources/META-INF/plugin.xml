@@ -4,7 +4,7 @@
     <id>com.codigrate.aurora-borealis.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.7</version>
+    <version>2026.1.8</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -196,6 +196,66 @@
                         </a>
                     </td>
                 </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/istanbul-theme/icon.png"
+                             alt="Istanbul Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
+                            Istanbul Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/paris-theme/icon.png"
+                             alt="Paris Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
+                            Paris Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/rio-de-janeiro-theme/icon.png"
+                             alt="Rio de Janeiro Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme">
+                            Rio de Janeiro Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/tokyo-theme/icon.png"
+                             alt="Tokyo Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
+                            Tokyo Theme
+                        </a>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/tallinn-theme/icon.png"
+                             alt="Tallinn Theme">
+                    </td>
+                    <td>
+                        <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
+                            Tallinn Theme
+                        </a>
+                    </td>
+                </tr>
             </table>
             <br/>
             <br/>
@@ -221,6 +281,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.8</b>
+            <ul>
+                <li>
+                    Update editor colors
+                </li>
+            </ul>
             <b>2026.1.7</b>
             <ul>
                 <li>
