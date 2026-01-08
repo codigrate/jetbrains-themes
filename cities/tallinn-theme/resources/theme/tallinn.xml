@@ -1,4 +1,4 @@
-<scheme name="Tallinn" version="142" parent_scheme="Default">
+<scheme name="Tallinn (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
         <property name="ideVersion">2025.3.1.0.0</property>
