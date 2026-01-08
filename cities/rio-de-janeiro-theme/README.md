@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Rio de Janeiro Theme
+Rio de Janeiro
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29621-rio-de-janeiro-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme)
@@ -122,8 +122,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Rio de Janeiro Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Rio de Janeiro
-   Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Rio de Janeiro** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
 ## Troubleshooting

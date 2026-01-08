@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Miami Theme
+Miami
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
@@ -122,8 +122,7 @@ and tropical teals bring energy and clarity to key syntax elements.
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Miami Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Miami
-   Theme** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Miami** in the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the
    changes.
 
 ## Troubleshooting

@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Autumn Theme
+Autumn
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
@@ -122,7 +122,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Autumn Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Autumn Theme** in
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Autumn** in
    the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
 ## Troubleshooting

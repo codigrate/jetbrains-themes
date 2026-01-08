@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Sakura Theme
+Sakura
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
@@ -122,7 +122,7 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 1. Install a compatible JetBrains IDE, such as IntelliJ IDEA, CLion, PyCharm, or other IntelliJ-based IDEs.
 2. Launch the IDE and open plugin settings.
 3. Search for **Sakura Theme** and click install.
-4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Sakura Theme** in
+4. After installing the theme, go to **Settings | Appearance and Behavior | Appearance** and select **Sakura** in
    the theme dropdown. Once you have selected one of the theme options, click the OK button to apply the changes.
 
 ## Troubleshooting
