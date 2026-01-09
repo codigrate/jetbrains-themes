@@ -26,21 +26,21 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
+      <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
       <td>
-         Editor Background
+         Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDFEFF">#FDFEFF</a>
+         <a href="https://codigrate.com/en-US/tools/color/F8F4F1">#F8F4F1</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F6DCBE.png?width=30&height=30" alt="#F6DCBE"></td>
+      <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
       <td>
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F6DCBE">#F6DCBE</a>
+         <a href="https://codigrate.com/en-US/tools/color/F4D3BD">#F4D3BD</a>
       </td>
    </tr>
    <tr>
