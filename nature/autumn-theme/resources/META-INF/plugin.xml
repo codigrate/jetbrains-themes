@@ -257,6 +257,23 @@
                     </td>
                 </tr>
             </table>
+            <br/>
+            <br/>
+            <b>Company Website</b>
+            <table>
+                <tr>
+                    <td>
+                        <img height="40"
+                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/icon.png"
+                             alt="Codigrate">
+                    </td>
+                    <td>
+                        <a href="https://codigrate.com">
+                            Codigrate
+                        </a>
+                    </td>
+                </tr>
+            </table>
         ]]>
     </description>
 

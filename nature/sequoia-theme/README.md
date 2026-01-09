@@ -26,84 +26,84 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 ## Color Palette
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1B1F19.png?width=30&height=30" alt="#1B1F19"></td>
+      <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1B1F19">#1B1F19</a>
+         <a href="https://codigrate.com/en-US/tools/color/20231C">#20231C</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/2F352B.png?width=30&height=30" alt="#2F352B"></td>
+      <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2F352B">#2F352B</a>
+         <a href="https://codigrate.com/en-US/tools/color/32382C">#32382C</a>
       </td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
       <td>
-         Active Background
+         Selection Background
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/405133">#405133</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/6B9A58.png?width=30&height=30" alt="#6B9A58"></td>
+      <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
       <td>
-         Numbers
+         Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/6B9A58">#6B9A58</a>
+         <a href="https://codigrate.com/en-US/tools/color/6E9F56">#6E9F56</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/84A975.png?width=30&height=30" alt="#84A975"></td>
+      <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/369772">#369772</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
       <td>
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/84A975">#84A975</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A88E4D.png?width=30&height=30" alt="#A88E4D"></td>
-      <td>
-         Keywords
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/A88E4D">#A88E4D</a>
+         <a href="https://codigrate.com/en-US/tools/color/A68F59">#A68F59</a>
       </td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
       <td>
-         Instance Fields
+         Keywords
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/854F3C.png?width=30&height=30" alt="#854F3C"></td>
-      <td>
-         Global Variables
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/854F3C">#854F3C</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A25B4E.png?width=30&height=30" alt="#A25B4E"></td>
+      <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
       <td>
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A25B4E">#A25B4E</a>
+         <a href="https://codigrate.com/en-US/tools/color/A86255">#A86255</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/986969">#986969</a>
       </td>
    </tr>
    <tr>
