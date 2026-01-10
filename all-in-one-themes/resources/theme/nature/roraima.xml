@@ -1,7 +1,7 @@
 <scheme name="Roraima" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ideVersion">2025.3.1.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="312624" />
@@ -19,7 +19,7 @@
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
-        <option name="LINE_NUMBERS_COLOR" value="884242" />
+        <option name="LINE_NUMBERS_COLOR" value="9B4848" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="F5673C" />
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="312624" />
@@ -37,11 +37,7 @@
         <option name="WHITESPACES" value="E4E0E1" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="9ac781" />
-            </value>
-        </option>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
@@ -49,6 +45,10 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BOOKMARKS_ATTRIBUTES">
             <value />
         </option>
@@ -77,16 +77,12 @@
         </option>
         <option name="CONSOLE_RANGE_TO_EXECUTE">
             <value>
-                <option name="EFFECT_COLOR" value="2b9abc" />
+                <option name="EFFECT_COLOR" value="6e5058" />
             </value>
         </option>
-        <option name="CSS.URL">
-            <value>
-                <option name="FOREGROUND" value="6f8dd9" />
-                <option name="EFFECT_COLOR" value="6f8dd9" />
-                <option name="EFFECT_TYPE" value="1" />
-            </value>
-        </option>
+        <option name="CSS.COLOR" baseAttributes="CSS.IDENT" />
+        <option name="CSS.IMPORTANT" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
         <option name="CTRL_CLICKABLE">
             <value>
                 <option name="FOREGROUND" value="6f8dd9" />
@@ -94,6 +90,8 @@
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
+        <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+        <option name="Closure braces" baseAttributes="Braces" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="ca6158" />
@@ -312,6 +310,7 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
         <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="HTML_CUSTOM_TAG_NAME" baseAttributes="HTML_TAG_NAME" />
@@ -390,7 +389,13 @@
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+        <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
         <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+        <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+        <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
+        <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+        <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+        <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
         <option name="LINE_FULL_COVERAGE">
             <value>
                 <option name="FOREGROUND" value="3d7b3d" />
@@ -419,6 +424,7 @@
                 <option name="FOREGROUND" value="93d193" />
             </value>
         </option>
+        <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="cc9d57" />
@@ -432,12 +438,24 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="NG.SIGNAL" baseAttributes="TS.INSTANCE_MEMBER_FUNCTION" />
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="855a62" />
                 <option name="ERROR_STRIPE_COLOR" value="855a62" />
             </value>
         </option>
+        <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+        <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+        <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+        <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+        <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+        <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="RUNTIME_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="ce5e5e" />
@@ -460,6 +478,9 @@
                 <option name="ERROR_STRIPE_COLOR" value="63577c" />
             </value>
         </option>
+        <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+        <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+        <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
         <option name="TAB_SELECTED">
             <value />
         </option>
@@ -512,9 +533,7 @@
                 <option name="ERROR_STRIPE_COLOR" value="c9947d" />
             </value>
         </option>
-        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-            <value />
-        </option>
+        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
         <option name="TYPO">
             <value>
                 <option name="EFFECT_COLOR" value="2b9abc" />
@@ -528,6 +547,10 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="VELOCITY_DIRECTIVE" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="VELOCITY_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="VELOCITY_REFERENCE" baseAttributes="DEFAULT_ATTRIBUTE" />
+        <option name="VELOCITY_SCRIPTING_BACKGROUND" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
         <option name="WARNING_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="cc9d57" />
@@ -559,9 +582,7 @@
         <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
         <option name="XML_CUSTOM_TAG_NAME" baseAttributes="XML_TAG_NAME" />
         <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-        <option name="XML_PROLOGUE">
-            <value />
-        </option>
+        <option name="XML_PROLOGUE" baseAttributes="TEXT" />
         <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
         <option name="XML_TAG_DATA" baseAttributes="TEXT" />
         <option name="XML_TAG_NAME">
@@ -569,5 +590,10 @@
                 <option name="FOREGROUND" value="7e6aa3" />
             </value>
         </option>
+        <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+        <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     </attributes>
 </scheme>
