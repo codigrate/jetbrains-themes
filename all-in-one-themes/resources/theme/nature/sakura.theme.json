@@ -12,15 +12,15 @@
     "editorBackground": "#FEFCFC",
     "inputBackground": "#FFFFFF",
     "hoverBackground": "#FFD6E0",
-    "activeBackground": "#dbeacb",
+    "activeBackground": "#DBEACB",
     "activeBorderColor": "#aec09b",
     "selectionBackground": "#FFC9DC",
-    "selectionBorderColor": "#ffaac2",
+    "selectionBorderColor": "#de849e",
     "selectionInactiveBackground": "#e6d1d6",
     "selectionInactiveBorderColor": "#d5a9b4",
     "alternateBackground": "#618C71",
     "searchMatchBackground": "#dfd7ef",
-    "accentColor": "#964A6E",
+    "accentColor": "#b54b66",
     "primaryForeground": "#3d0013",
     "secondaryForeground": "#94667d",
     "error": "#CE5E5E",
@@ -43,7 +43,8 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground"
+      "iconColor": "secondaryForeground",
+      "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
@@ -54,11 +55,16 @@
     "Islands": 1,
     "Island": {
       "arc": 20,
-      "arc.companct": 16,
+      "arc.compact": 16,
       "borderWidth": 5,
       "borderWidth.compact": 4,
       "borderColor": "windowBackground",
-      "inactiveAlpha": 0.44
+      "inactiveAlpha": 0.44,
+      "inactiveAlphaInStatusBar": {
+        "os.mac": 0.2,
+        "os.windows": 0.2,
+        "os.linux": 0.15
+      }
     },
     "Editor": {
       "background": "windowBackground",
@@ -66,12 +72,12 @@
     },
     "EditorTabs": {
       "background": "windowBackground",
+      "underlinedTabBackground": "activeBackground",
+      "underlinedBorderColor": "activeBorderColor",
       "hoverBackground": "selectionBackground",
       "hoverBorderColor": "selectionBorderColor",
-      "underlinedBorderColor": "activeBorderColor",
-      "underlinedTabBackground": "activeBackground",
-      "inactiveUnderlinedTabBorderColor": "selectionInactiveBorderColor",
       "inactiveUnderlinedTabBackground": "selectionInactiveBackground",
+      "inactiveUnderlinedTabBorderColor": "selectionInactiveBorderColor",
       "underTabsBorderColor": "borderColor"
     },
     "Panel": {
@@ -93,7 +99,7 @@
       "endBorderColor": "borderColor",
       "startBackground": "inputBackground",
       "endBackground": "inputBackground",
-      "focusedBorderColor": "activeBorderColor",
+      "focusedBorderColor": "selectionBorderColor",
       "disabledBorderColor": "borderColor",
       "default": {
         "foreground": "primaryForeground",
@@ -101,8 +107,8 @@
         "endBackground": "inputBackground",
         "startBorderColor": "borderColor",
         "endBorderColor": "borderColor",
-        "focusColor": "activeBorderColor",
-        "focusedBorderColor": "activeBorderColor"
+        "focusColor": "selectionBorderColor",
+        "focusedBorderColor": "selectionBorderColor"
       }
     },
     "ComboBox": {
@@ -122,7 +128,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "activeBorderColor",
+      "focusColor": "selectionBorderColor",
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
@@ -215,8 +221,8 @@
     },
     "Popup": {
       "Header": {
-        "activeBackground": "headerBackground",
-        "inactiveBackground": "headerBackground"
+        "activeBackground": "windowBackground",
+        "inactiveBackground": "windowBackground"
       }
     },
     "ScrollBar": {
@@ -288,21 +294,16 @@
       }
     },
     "Tree": {
-      "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "hash": "hoverBackground"
+      "rowHeight": 24,
+      "border": "8,8,4,8"
     },
     "ValidationTooltip": {
       "errorBackground": "error",
       "warningBackground": "warning"
     },
     "VersionControl": {
-      "FileHistory": {
-        "Commit": {
-          "selectedBranchBackground": "selectionBackground"
-        }
-      },
       "GitLog": {
         "headIconColor": "warning",
         "localBranchIconColor": "accentColor",
@@ -313,49 +314,28 @@
       "Log": {
         "Commit": {
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "selectionBackground"
+          "currentBranchBackground": "windowBackground",
+          "selectionBackground": "selectionBackground"
         }
       },
       "RefLabel": {
         "foreground": "primaryForeground"
-      },
-      "StatusBar": {
-        "borderColor": "transparent"
       }
+    },
+    "StatusBar": {
+      "borderColor": "transparent"
     }
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#94667d",
-      "Actions.Blue": "#5da3f4",
-      "Actions.Green": "#2fc864",
-      "Actions.Grey": "#858994",
-      "Actions.GreyInline.Dark": "#2fc864",
-      "Actions.GreyInline": "#2fc864",
-      "Actions.Red": "#CE5E5E",
-      "Actions.Yellow": "#f1fa8c",
-      "Objects.Blue": "#5da3f4",
-      "Objects.Green": "#2fc864",
-      "Objects.GreenAndroid": "#2fc864",
-      "Objects.Grey": "#858994",
-      "Objects.Pink": "#ff79c6",
-      "Objects.Purple": "#bd93f9",
-      "Objects.Red": "#CE5E5E",
-      "Objects.RedStatus": "#CE5E5E",
-      "Objects.Yellow": "#f1fa8c",
-      "Objects.YellowDark": "#f1fa8c",
-      "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected": "#aec09b",
-      "Checkbox.Focus.Wide": "#e6d1d6",
-      "Checkbox.Focus.Thin.Default": "#e6d1d6",
-      "Checkbox.Focus.Thin.Selected": "#e6d1d6",
-      "Checkbox.Background.Default": "#aec09b",
-      "Checkbox.Background.Selected": "#f8f1f3",
-      "Checkbox.Background.Disabled": "#37141c",
-      "Checkbox.Foreground.Disabled": "#e6d1d6",
-      "Checkbox.Border.Default": "#aec09b",
-      "Checkbox.Border.Selected": "#f4e3d6",
-      "Checkbox.Border.Disabled": "#37141c"
+      "Checkbox.Background.Default": "inputBackground",
+      "Checkbox.Background.Selected": "inputBackground",
+      "Checkbox.Background.Disabled": "inputBackground",
+      "Checkbox.Border.Default": "borderColor",
+      "Checkbox.Border.Selected": "selectionBorderColor",
+      "Checkbox.Border.Disabled": "selectionInactiveBorderColor",
+      "Checkbox.Foreground.Selected": "accentColor",
+      "Checkbox.Foreground.Disabled": "selectionInactiveBorderColor"
     }
   }
 }

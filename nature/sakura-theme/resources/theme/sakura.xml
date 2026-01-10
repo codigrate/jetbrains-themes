@@ -1,7 +1,7 @@
 <scheme name="Sakura (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ideVersion">2025.3.1.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="F1EDEF" />
@@ -11,7 +11,7 @@
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
         <option name="DOC_COMMENT_LINK" value="7F8D78" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="FBF7F9" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="FDF7F7" />
         <option name="ERROR_HINT" value="FFDCDC" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="FEFEFE" />
@@ -42,17 +42,16 @@
         <option name="WHITESPACES" value="7A6F75" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="875a9d" />
-            </value>
-        </option>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="f6cdcd" />
             </value>
         </option>
+        <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+        <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BOOKMARKS_ATTRIBUTES">
             <value />
         </option>
@@ -79,17 +78,15 @@
         <option name="CODE_LENS_BORDER_COLOR">
             <value />
         </option>
-        <option name="CSS.URL">
+        <option name="CONSOLE_RANGE_TO_EXECUTE">
             <value>
-                <option name="FOREGROUND" value="9acd" />
-                <option name="EFFECT_COLOR" value="9acd" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="dab2c2" />
             </value>
         </option>
         <option name="CTRL_CLICKABLE">
             <value>
-                <option name="FOREGROUND" value="69a2bd" />
-                <option name="EFFECT_COLOR" value="69a2bd" />
+                <option name="FOREGROUND" value="6981bd" />
+                <option name="EFFECT_COLOR" value="6981bd" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -111,9 +108,10 @@
         </option>
         <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+        <option name="Closure braces" baseAttributes="Braces" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="5c7a9f" />
+                <option name="FOREGROUND" value="3a8e74" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -217,12 +215,12 @@
         </option>
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="a4664e" />
+                <option name="FOREGROUND" value="69a2bd" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="a4664e" />
+                <option name="FOREGROUND" value="69a2bd" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
@@ -402,16 +400,18 @@
                 <option name="FOREGROUND" value="336ecc" />
             </value>
         </option>
+        <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
         <option name="HTML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="b46e8d" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
         <option name="HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="69a2bd" />
-                <option name="EFFECT_COLOR" value="69a2bd" />
+                <option name="FOREGROUND" value="6981bd" />
+                <option name="EFFECT_COLOR" value="6981bd" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -471,27 +471,16 @@
             </value>
         </option>
         <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-        <option name="JS.GLOBAL_FUNCTION">
-            <value>
-                <option name="FOREGROUND" value="5a8593" />
-            </value>
-        </option>
-        <option name="JS.GLOBAL_VARIABLE">
-            <value>
-                <option name="FOREGROUND" value="6e1f03" />
-                <option name="FONT_TYPE" value="3" />
-            </value>
-        </option>
-        <option name="JS.REGEXP">
-            <value>
-                <option name="FOREGROUND" value="c57d25" />
-            </value>
-        </option>
-        <option name="JSON.PROPERTY_KEY">
-            <value>
-                <option name="FOREGROUND" value="bb7795" />
-            </value>
-        </option>
+        <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
+        <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+        <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+        <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+        <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+        <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
         <option name="LINE_FULL_COVERAGE">
             <value>
                 <option name="FOREGROUND" value="93d193" />
@@ -520,11 +509,7 @@
                 <option name="FOREGROUND" value="2c7586" />
             </value>
         </option>
-        <option name="List/map to object conversion">
-            <value>
-                <option name="FOREGROUND" value="ff" />
-            </value>
-        </option>
+        <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="bf9f3e" />
@@ -541,11 +526,6 @@
             <value>
                 <option name="FOREGROUND" value="779182" />
                 <option name="ERROR_STRIPE_COLOR" value="779182" />
-            </value>
-        </option>
-        <option name="PROPERTIES.KEY">
-            <value>
-                <option name="FOREGROUND" value="83080" />
             </value>
         </option>
         <option name="RUNTIME_ERROR">
@@ -570,6 +550,7 @@
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+        <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="77009b" />
@@ -619,6 +600,13 @@
                 <option name="ERROR_STRIPE_COLOR" value="efc7c7" />
             </value>
         </option>
+        <option name="Unresolved reference access">
+            <value>
+                <option name="FOREGROUND" value="808080" />
+                <option name="EFFECT_COLOR" value="808080" />
+                <option name="EFFECT_TYPE" value="5" />
+            </value>
+        </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="d6b140" />
@@ -647,6 +635,7 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="XML_PROLOGUE" baseAttributes="TEXT" />
         <option name="XML_TAG_NAME">
             <value>
                 <option name="FOREGROUND" value="b46e8d" />

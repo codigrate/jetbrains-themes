@@ -71,12 +71,12 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D0DECE.png?width=30&height=30" alt="#D0DECE"></td>
+      <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
       <td>
-         Folded Text
+         Active Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D0DECE">#D0DECE</a>
+         <a href="https://codigrate.com/en-US/tools/color/DBEACB">#DBEACB</a>
       </td>
    </tr>
    <tr>
@@ -91,7 +91,7 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
    <tr>
       <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
       <td>
-         Hyperlinks
+         Static Fields
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/69A2BD">#69A2BD</a>
