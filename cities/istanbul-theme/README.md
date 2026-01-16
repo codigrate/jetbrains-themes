@@ -14,10 +14,10 @@ Istanbul
 
 ## Description
 
-Inspired by the soft daylight, sea breezes, and timeless layers of Istanbul, this theme blends calm
-turquoise tones with warm historical accents to create a serene yet expressive coding environment.
-Light, airy backgrounds keep the editor clean and comfortable, while subtle teals, aquas, and muted
-golden hues add clarity and focus to essential syntax elements.
+Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm 
+historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the
+editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential 
+syntax elements.
 
 ## Screenshots
 
