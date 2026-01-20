@@ -14,10 +14,10 @@ Paris
 
 ## Description
 
-Inspired by the candlelit cafes, stone boulevards, and golden glow of Paris, this theme blends deep
-espresso shadows with refined champagne accents to create a cinematic yet comfortable coding environment.
-Dark, moody backgrounds keep the editor grounded, while warm golds, muted olives, and a subtle wine-red
-bring clarity and elegance to key syntax elements.
+Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme trades bright
+champagne for dusty rose accents over deep plum-espresso shadows. Near-black editor tones keep focus
+locked in, while mauve surfaces and wine-tinted hovers bring clarity, with a soft blush accent guiding
+focus across the interface.
 
 ## Screenshots
 
@@ -27,39 +27,48 @@ bring clarity and elegance to key syntax elements.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/201E19.png?width=30&height=30" alt="#201E19"></td>
+      <td><img src="https://codigrate.com/util/color/271F20.png?width=30&height=30" alt="#271F20"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/201E19">#201E19</a>
+         <a href="https://codigrate.com/en-US/tools/color/271F20">#271F20</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/433F38.png?width=30&height=30" alt="#433F38"></td>
+      <td><img src="https://codigrate.com/util/color/3F3033.png?width=30&height=30" alt="#3F3033"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/433F38">#433F38</a>
+         <a href="https://codigrate.com/en-US/tools/color/3F3033">#3F3033</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B5A674.png?width=30&height=30" alt="#B5A674"></td>
+      <td><img src="https://codigrate.com/util/color/564245.png?width=30&height=30" alt="#564245"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/564245">#564245</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DF7583">#DF7583</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D39199.png?width=30&height=30" alt="#D39199"></td>
       <td>
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B5A674">#B5A674</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D5CFC6.png?width=30&height=30" alt="#D5CFC6"></td>
-      <td>
-         Tag Colors
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/D5CFC6">#D5CFC6</a>
+         <a href="https://codigrate.com/en-US/tools/color/D39199">#D39199</a>
       </td>
    </tr>
    <tr>
@@ -81,12 +90,12 @@ bring clarity and elegance to key syntax elements.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DCC79D.png?width=30&height=30" alt="#DCC79D"></td>
+      <td><img src="https://codigrate.com/util/color/D5CFC6.png?width=30&height=30" alt="#D5CFC6"></td>
       <td>
-         Static Fields
+         Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DCC79D">#DCC79D</a>
+         <a href="https://codigrate.com/en-US/tools/color/D5CFC6">#D5CFC6</a>
       </td>
    </tr>
    <tr>
@@ -99,21 +108,12 @@ bring clarity and elegance to key syntax elements.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C4AFED.png?width=30&height=30" alt="#C4AFED"></td>
+      <td><img src="https://codigrate.com/util/color/DCC79D.png?width=30&height=30" alt="#DCC79D"></td>
       <td>
-         Variables
+         Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/C4AFED">#C4AFED</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
-      <td>
-         Strings
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/DF7583">#DF7583</a>
+         <a href="https://codigrate.com/en-US/tools/color/DCC79D">#DCC79D</a>
       </td>
    </tr>
 </table>
