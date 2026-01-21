@@ -47,7 +47,7 @@ focus across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/564245.png?width=30&height=30" alt="#564245"></td>
       <td>
-         Metadata
+         Surface Background
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/564245">#564245</a>
