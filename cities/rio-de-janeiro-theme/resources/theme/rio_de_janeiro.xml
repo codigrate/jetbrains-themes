@@ -1,7 +1,7 @@
 <scheme name="Rio de Janeiro (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ideVersion">2025.3.1.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C8D8C5" />
@@ -42,11 +42,7 @@
         <option name="WHITESPACES" value="BEC5C7" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="7d8383" />
-            </value>
-        </option>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
@@ -194,7 +190,7 @@
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="6e779c" />
+                <option name="FOREGROUND" value="a80b3" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">

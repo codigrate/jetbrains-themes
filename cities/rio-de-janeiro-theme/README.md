@@ -35,21 +35,21 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E1F3DD.png?width=30&height=30" alt="#E1F3DD"></td>
+      <td><img src="https://codigrate.com/util/color/DAEAD6.png?width=30&height=30" alt="#DAEAD6"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/E1F3DD">#E1F3DD</a>
+         <a href="https://codigrate.com/en-US/tools/color/DAEAD6">#DAEAD6</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CADFC2.png?width=30&height=30" alt="#CADFC2"></td>
+      <td><img src="https://codigrate.com/util/color/94B98B.png?width=30&height=30" alt="#94B98B"></td>
       <td>
-         Selection Background
+         Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CADFC2">#CADFC2</a>
+         <a href="https://codigrate.com/en-US/tools/color/94B98B">#94B98B</a>
       </td>
    </tr>
    <tr>
@@ -71,12 +71,21 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30" alt="#0887B5"></td>
+      <td><img src="https://codigrate.com/util/color/10569C.png?width=30&height=30" alt="#10569C"></td>
       <td>
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0887B5">#0887B5</a>
+         <a href="https://codigrate.com/en-US/tools/color/10569C">#10569C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/0A80B3">#0A80B3</a>
       </td>
    </tr>
    <tr>
@@ -98,21 +107,12 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A3620D.png?width=30&height=30" alt="#A3620D"></td>
+      <td><img src="https://codigrate.com/util/color/E6C41A.png?width=30&height=30" alt="#E6C41A"></td>
       <td>
-         Parameters
+         Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A3620D">#A3620D</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B65653.png?width=30&height=30" alt="#B65653"></td>
-      <td>
-         Static Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/B65653">#B65653</a>
+         <a href="https://codigrate.com/en-US/tools/color/E6C41A">#E6C41A</a>
       </td>
    </tr>
 </table>
