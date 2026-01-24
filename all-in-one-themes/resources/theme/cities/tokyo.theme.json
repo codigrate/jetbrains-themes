@@ -11,7 +11,7 @@
     "windowBackground": "#2a3051",
     "editorBackground": "#1A1F35",
     "inputBackground": "#0c0f1c",
-    "hoverBackground": "#1e2543",
+    "hoverBackground": "#212848",
     "activeBackground": "#542d58",
     "activeBorderColor": "#8e2795",
     "selectionBackground": "#354172",
@@ -20,9 +20,9 @@
     "selectionInactiveBorderColor": "#435087",
     "alternateBackground": "#8e2795",
     "searchMatchBackground": "#967aea",
-    "accentColor": "#8597e6",
-    "primaryForeground": "#aaadba",
-    "secondaryForeground": "#858db2",
+    "accentColor": "#7285dc",
+    "primaryForeground": "#aeb2c3",
+    "secondaryForeground": "#858eb7",
     "error": "#CE5E5E",
     "errorFocused": "#cb4848",
     "warning": "#CC9D57",
@@ -43,7 +43,8 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground"
+      "iconColor": "secondaryForeground",
+      "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
@@ -54,11 +55,16 @@
     "Islands": 1,
     "Island": {
       "arc": 20,
-      "arc.companct": 16,
+      "arc.compact": 16,
       "borderWidth": 5,
       "borderWidth.compact": 4,
       "borderColor": "windowBackground",
-      "inactiveAlpha": 0.44
+      "inactiveAlpha": 0.44,
+      "inactiveAlphaInStatusBar": {
+        "os.mac": 0.2,
+        "os.windows": 0.2,
+        "os.linux": 0.15
+      }
     },
     "Editor": {
       "background": "windowBackground",
@@ -66,12 +72,12 @@
     },
     "EditorTabs": {
       "background": "windowBackground",
+      "underlinedTabBackground": "activeBackground",
+      "underlinedBorderColor": "activeBorderColor",
       "hoverBackground": "selectionBackground",
       "hoverBorderColor": "selectionBorderColor",
-      "underlinedBorderColor": "activeBorderColor",
-      "underlinedTabBackground": "activeBackground",
-      "inactiveUnderlinedTabBorderColor": "selectionInactiveBorderColor",
       "inactiveUnderlinedTabBackground": "selectionInactiveBackground",
+      "inactiveUnderlinedTabBorderColor": "selectionInactiveBorderColor",
       "underTabsBorderColor": "borderColor"
     },
     "Panel": {
@@ -93,7 +99,7 @@
       "endBorderColor": "borderColor",
       "startBackground": "inputBackground",
       "endBackground": "inputBackground",
-      "focusedBorderColor": "activeBorderColor",
+      "focusedBorderColor": "selectionBorderColor",
       "disabledBorderColor": "borderColor",
       "default": {
         "foreground": "primaryForeground",
@@ -101,8 +107,8 @@
         "endBackground": "inputBackground",
         "startBorderColor": "borderColor",
         "endBorderColor": "borderColor",
-        "focusColor": "activeBorderColor",
-        "focusedBorderColor": "activeBorderColor"
+        "focusColor": "selectionBorderColor",
+        "focusedBorderColor": "selectionBorderColor"
       }
     },
     "ComboBox": {
@@ -122,7 +128,7 @@
       "matchForeground": "accentColor"
     },
     "Component": {
-      "focusColor": "activeBorderColor",
+      "focusColor": "selectionBorderColor",
       "borderColor": "borderColor",
       "focusedBorderColor": "selectionBackground",
       "disabledBorderColor": "selectionInactiveBackground",
@@ -288,21 +294,16 @@
       }
     },
     "Tree": {
-      "modifiedItemForeground": "accentColor",
       "selectionBackground": "selectionBackground",
       "selectionInactiveBackground": "selectionInactiveBackground",
-      "hash": "hoverBackground"
+      "rowHeight": 24,
+      "border": "8,8,4,8"
     },
     "ValidationTooltip": {
       "errorBackground": "error",
       "warningBackground": "warning"
     },
     "VersionControl": {
-      "FileHistory": {
-        "Commit": {
-          "selectedBranchBackground": "selectionBackground"
-        }
-      },
       "GitLog": {
         "headIconColor": "warning",
         "localBranchIconColor": "accentColor",
@@ -313,7 +314,8 @@
       "Log": {
         "Commit": {
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "selectionBackground"
+          "currentBranchBackground": "windowBackground",
+          "selectionBackground": "selectionBackground"
         }
       },
       "RefLabel": {
@@ -326,36 +328,14 @@
   },
   "icons": {
     "ColorPalette": {
-      "Tree.iconColor": "#889db7",
-      "Actions.Blue": "#5da3f4",
-      "Actions.Green": "#2fc864",
-      "Actions.Grey": "#858994",
-      "Actions.GreyInline.Dark": "#2fc864",
-      "Actions.GreyInline": "#2fc864",
-      "Actions.Red": "#CE5E5E",
-      "Actions.Yellow": "#f1fa8c",
-      "Objects.Blue": "#5da3f4",
-      "Objects.Green": "#2fc864",
-      "Objects.GreenAndroid": "#2fc864",
-      "Objects.Grey": "#858994",
-      "Objects.Pink": "#ff79c6",
-      "Objects.Purple": "#bd93f9",
-      "Objects.Red": "#CE5E5E",
-      "Objects.RedStatus": "#CE5E5E",
-      "Objects.Yellow": "#f1fa8c",
-      "Objects.YellowDark": "#f1fa8c",
-      "Objects.BlackText": "#112733",
-      "Checkbox.Foreground.Selected.Dark": "#7ACEF5",
-      "Checkbox.Focus.Wide.Dark": "#049682",
-      "Checkbox.Focus.Thin.Default.Dark": "#049682",
-      "Checkbox.Focus.Thin.Selected.Dark": "#049682",
-      "Checkbox.Background.Default.Dark": "#183240",
-      "Checkbox.Background.Selected.Dark": "#1C3847",
-      "Checkbox.Background.Disabled.Dark": "#142b37",
-      "Checkbox.Foreground.Disabled": "#049682",
-      "Checkbox.Border.Default.Dark": "#183240",
-      "Checkbox.Border.Selected.Dark": "#1C3847",
-      "Checkbox.Border.Disabled.Dark": "#142b37"
+      "Checkbox.Background.Default": "inputBackground",
+      "Checkbox.Background.Selected": "inputBackground",
+      "Checkbox.Background.Disabled": "inputBackground",
+      "Checkbox.Border.Default": "borderColor",
+      "Checkbox.Border.Selected": "selectionBorderColor",
+      "Checkbox.Border.Disabled": "selectionInactiveBorderColor",
+      "Checkbox.Foreground.Selected": "accentColor",
+      "Checkbox.Foreground.Disabled": "selectionInactiveBorderColor"
     }
   }
 }

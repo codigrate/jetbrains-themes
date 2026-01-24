@@ -45,12 +45,12 @@ clarity and energy to key syntax elements.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8597E6.png?width=30&height=30" alt="#8597E6"></td>
+      <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
       <td>
-         Accent Color
+         Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8597E6">#8597E6</a>
+         <a href="https://codigrate.com/en-US/tools/color/7B89C8">#7B89C8</a>
       </td>
    </tr>
    <tr>
@@ -63,21 +63,21 @@ clarity and energy to key syntax elements.
       </td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7285DC">#7285DC</a>
+      </td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
       <td>
          Instance Fields
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/ECA1EB">#ECA1EB</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
-      <td>
-         Keywords
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/7B89C8">#7B89C8</a>
       </td>
    </tr>
    <tr>
