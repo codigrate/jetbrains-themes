@@ -1,7 +1,7 @@
 <scheme name="Tallinn" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.0.0</property>
+        <property name="ideVersion">2025.3.1.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C3CBD7" />
@@ -42,17 +42,16 @@
         <option name="WHITESPACES" value="BEC5C7" />
     </colors>
     <attributes>
-        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="7d8383" />
-            </value>
-        </option>
+        <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
         <option name="BAD_CHARACTER">
             <value>
                 <option name="BACKGROUND" value="f5dddd" />
             </value>
         </option>
+        <option name="BASH.EXTERNAL_COMMAND" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+        <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
         <option name="BOOKMARKS_ATTRIBUTES">
             <value />
         </option>
@@ -79,11 +78,9 @@
         <option name="CODE_LENS_BORDER_COLOR">
             <value />
         </option>
-        <option name="CSS.URL">
+        <option name="CONSOLE_RANGE_TO_EXECUTE">
             <value>
-                <option name="FOREGROUND" value="9acd" />
-                <option name="EFFECT_COLOR" value="9acd" />
-                <option name="EFFECT_TYPE" value="1" />
+                <option name="EFFECT_COLOR" value="b9afdf" />
             </value>
         </option>
         <option name="CTRL_CLICKABLE">
@@ -110,6 +107,7 @@
         </option>
         <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+        <option name="Closure braces" baseAttributes="Braces" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="6584ac" />
@@ -194,7 +192,7 @@
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="7c773a" />
+                <option name="FOREGROUND" value="3d6a14" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
@@ -227,7 +225,7 @@
         </option>
         <option name="DEFAULT_TAG">
             <value>
-                <option name="FOREGROUND" value="3b8e46" />
+                <option name="FOREGROUND" value="b1544b" />
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
@@ -403,12 +401,14 @@
                 <option name="FOREGROUND" value="336ecc" />
             </value>
         </option>
+        <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="3b8e46" />
+                <option name="FOREGROUND" value="b1544b" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
         <option name="HYPERLINK_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="286da6" />
@@ -472,18 +472,16 @@
             </value>
         </option>
         <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-        <option name="JS.GLOBAL_FUNCTION">
-            <value>
-                <option name="FOREGROUND" value="127596" />
-            </value>
-        </option>
+        <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
+        <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-        <option name="JS.REGEXP">
-            <value>
-                <option name="FOREGROUND" value="c57d25" />
-            </value>
-        </option>
+        <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+        <option name="JavaScript:INJECTED_LANGUAGE_FRAGMENT" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+        <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER" baseAttributes="KOTLIN_PARAMETER" />
+        <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
         <option name="LINE_FULL_COVERAGE">
             <value>
                 <option name="FOREGROUND" value="93d193" />
@@ -512,11 +510,7 @@
                 <option name="FOREGROUND" value="346470" />
             </value>
         </option>
-        <option name="List/map to object conversion">
-            <value>
-                <option name="FOREGROUND" value="ff" />
-            </value>
-        </option>
+        <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
         <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="bf9f3e" />
@@ -533,11 +527,6 @@
             <value>
                 <option name="FOREGROUND" value="7a988b" />
                 <option name="ERROR_STRIPE_COLOR" value="7a988b" />
-            </value>
-        </option>
-        <option name="PROPERTIES.KEY">
-            <value>
-                <option name="FOREGROUND" value="83080" />
             </value>
         </option>
         <option name="RUNTIME_ERROR">
@@ -562,11 +551,7 @@
         </option>
         <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
         <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-        <option name="STATIC_METHOD_ATTRIBUTES">
-            <value>
-                <option name="FONT_TYPE" value="2" />
-            </value>
-        </option>
+        <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="83529b" />
@@ -600,11 +585,7 @@
         <option name="TS.TYPE_PARAMETER">
             <value />
         </option>
-        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
-            <value>
-                <option name="FOREGROUND" value="843c93" />
-            </value>
-        </option>
+        <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
         <option name="TYPO">
             <value>
                 <option name="EFFECT_COLOR" value="6cc4e2" />
@@ -616,6 +597,13 @@
             <value>
                 <option name="BACKGROUND" value="deb8b8" />
                 <option name="ERROR_STRIPE_COLOR" value="deb8b8" />
+            </value>
+        </option>
+        <option name="Unresolved reference access">
+            <value>
+                <option name="FOREGROUND" value="808080" />
+                <option name="EFFECT_COLOR" value="808080" />
+                <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
         <option name="WARNING_ATTRIBUTES">
@@ -646,31 +634,16 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="XML_PROLOGUE" baseAttributes="TEXT" />
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="3b8e46" />
+                <option name="FOREGROUND" value="b1544b" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
-        <option name="XPATH.FUNCTION">
-            <value>
-                <option name="FOREGROUND" value="174ad4" />
-            </value>
-        </option>
-        <option name="XPATH.KEYWORD">
-            <value>
-                <option name="FOREGROUND" value="174ad4" />
-            </value>
-        </option>
-        <option name="XPATH.XPATH_NAME">
-            <value>
-                <option name="FOREGROUND" value="33b3" />
-            </value>
-        </option>
-        <option name="YAML_ANCHOR">
-            <value>
-                <option name="FOREGROUND" value="e6" />
-            </value>
-        </option>
+        <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
+        <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     </attributes>
 </scheme>

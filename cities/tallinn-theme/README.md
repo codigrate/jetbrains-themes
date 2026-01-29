@@ -14,10 +14,10 @@ Tallinn
 
 ## Description
 
-Inspired by Tallinn's crisp winter light, pale stone walls, and the calm of Baltic skies, this theme blends airy
-porcelain backgrounds with cool nordic blues to create a clean, focused, and quietly elegant coding environment.
-Soft cloud-like surfaces keep the editor bright and readable, while deep ink accents, muted lavender tones, and a
-gentle rose highlight bring structure and warmth to key syntax elements without losing the minimal Northern feel.
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool 
+Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep 
+ink accents and subtle lavender-rose highlights add clarity and warmth without losing its minimal 
+Northern character.
 
 ## Screenshots
 
@@ -81,30 +81,12 @@ gentle rose highlight bring structure and warmth to key syntax elements without 
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
-      <td>
-         Static Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/548A64">#548A64</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/3B8E46.png?width=30&height=30" alt="#3B8E46"></td>
+      <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
       <td>
          Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3B8E46">#3B8E46</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A87C47.png?width=30&height=30" alt="#A87C47"></td>
-      <td>
-         Variables
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/A87C47">#A87C47</a>
+         <a href="https://codigrate.com/en-US/tools/color/B1544B">#B1544B</a>
       </td>
    </tr>
    <tr>
@@ -114,6 +96,24 @@ gentle rose highlight bring structure and warmth to key syntax elements without 
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/B6564B">#B6564B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3D6A14.png?width=30&height=30" alt="#3D6A14"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/3D6A14">#3D6A14</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/548A64">#548A64</a>
       </td>
    </tr>
 </table>
