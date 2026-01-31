@@ -81,15 +81,6 @@ Northern character.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
-      <td>
-         Tag Colors
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/B1544B">#B1544B</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30" alt="#B6564B"></td>
       <td>
          Parameters
@@ -99,12 +90,12 @@ Northern character.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/3D6A14.png?width=30&height=30" alt="#3D6A14"></td>
+      <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
       <td>
-         Metadata
+         Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3D6A14">#3D6A14</a>
+         <a href="https://codigrate.com/en-US/tools/color/B1544B">#B1544B</a>
       </td>
    </tr>
    <tr>
@@ -114,6 +105,15 @@ Northern character.
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/548A64">#548A64</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30" alt="#1E7857"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1E7857">#1E7857</a>
       </td>
    </tr>
 </table>

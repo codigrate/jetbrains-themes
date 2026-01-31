@@ -1,7 +1,7 @@
 <scheme name="Tallinn" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.1.0.0</property>
+        <property name="ideVersion">2025.3.2.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C3CBD7" />
@@ -187,12 +187,12 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="a87c47" />
+                <option name="FOREGROUND" value="1e7857" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="3d6a14" />
+                <option name="FOREGROUND" value="8e6433" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
