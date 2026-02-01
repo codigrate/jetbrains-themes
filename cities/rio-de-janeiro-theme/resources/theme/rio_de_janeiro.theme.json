@@ -1,5 +1,5 @@
 {
-  "name": "Rio de Janeiro (Lite)",
+  "name": "Codigrate Rio de Janeiro (Lite)",
   "dark": false,
   "author": "Codigrate",
   "editorScheme": "/theme/rio_de_janeiro.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
