@@ -1,5 +1,5 @@
 {
-  "name": "Tallinn",
+  "name": "Codigrate Tallinn",
   "dark": false,
   "author": "Codigrate",
   "editorScheme": "/theme/cities/tallinn.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
