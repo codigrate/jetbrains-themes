@@ -1,5 +1,5 @@
 {
-  "name": "Miami (Lite)",
+  "name": "Codigrate Miami (Lite)",
   "dark": true,
   "author": "Codigrate",
   "editorScheme": "/theme/miami.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
