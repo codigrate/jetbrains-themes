@@ -1,5 +1,5 @@
 {
-  "name": "Everest",
+  "name": "Codigrate Everest",
   "dark": false,
   "author": "Codigrate",
   "editorScheme": "/theme/nature/everest.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
