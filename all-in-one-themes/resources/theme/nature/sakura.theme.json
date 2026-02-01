@@ -1,5 +1,5 @@
 {
-  "name": "Sakura",
+  "name": "Codigrate Sakura",
   "dark": false,
   "author": "Codigrate",
   "editorScheme": "/theme/nature/sakura.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
