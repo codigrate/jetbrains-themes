@@ -1,5 +1,5 @@
 {
-  "name": "Paris (Lite)",
+  "name": "Codigrate Paris (Lite)",
   "dark": true,
   "author": "Codigrate",
   "editorScheme": "/theme/paris.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
