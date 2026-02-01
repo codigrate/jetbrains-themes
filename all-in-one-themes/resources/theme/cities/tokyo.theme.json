@@ -1,5 +1,5 @@
 {
-  "name": "Tokyo",
+  "name": "Codigrate Tokyo",
   "dark": true,
   "author": "Codigrate",
   "editorScheme": "/theme/cities/tokyo.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
