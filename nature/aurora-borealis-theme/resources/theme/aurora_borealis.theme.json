@@ -314,7 +314,7 @@
       "Log": {
         "Commit": {
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
+          "currentBranchBackground": "activeBackground",
           "selectionBackground": "selectionBackground"
         }
       },
