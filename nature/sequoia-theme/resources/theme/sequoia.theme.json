@@ -1,5 +1,5 @@
 {
-  "name": "Sequoia (Lite)",
+  "name": "Codigrate Sequoia (Lite)",
   "dark": true,
   "author": "Codigrate",
   "editorScheme": "/theme/sequoia.xml",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
