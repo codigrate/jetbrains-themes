@@ -1,5 +1,5 @@
 {
-  "name": "Aurora Borealis",
+  "name": "Codigrate Aurora Borealis",
   "dark": true,
   "author": "Codigrate",
   "editorScheme": "/theme/nature/aurora_borealis.xml",
@@ -11,7 +11,7 @@
     "windowBackground": "#183240",
     "editorBackground": "#142b37",
     "inputBackground": "#112733",
-    "hoverBackground": "#142A36",
+    "hoverBackground": "#112631",
     "activeBackground": "#043a33",
     "activeBorderColor": "#049682",
     "selectionBackground": "#214051",
@@ -313,9 +313,10 @@
       },
       "Log": {
         "Commit": {
+          "selectionBackground": "selectionBackground",
+          "selectionInactiveBackground": "selectionInactiveBackground",
           "hoveredBackground": "hoverBackground",
-          "currentBranchBackground": "windowBackground",
-          "selectionBackground": "selectionBackground"
+          "currentBranchBackground": "editorBackground"
         }
       },
       "RefLabel": {
