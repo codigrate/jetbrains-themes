@@ -33,26 +33,7 @@ So, to not have that issue, please follow the steps below:
 3. Then restart the ide.
 4. Finally, switch it back to the theme that you updated.
 
-<h1 align="center">
-Nature
-</h1>
-
-<table> 
-   <tr>
-      <td align="center">
-            <img src="nature/everest-theme/screenshot-1.png" alt="everest"/>
-            <br/>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-      </td> 
-   </tr>
-</table>
-
+## Nature
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -191,13 +172,7 @@ Nature
          </a>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-salda-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-salda-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-salda-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         </a>
+            Premium
       </td> 
       <td align="center">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
@@ -209,20 +184,12 @@ Nature
          </a>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-ocean-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         </a>
+            Premium
       </td> 
    </tr>
 </table>
 
-<h1 align="center">
-Cities
-</h1>
+## Cities
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
