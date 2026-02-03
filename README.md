@@ -43,14 +43,12 @@ Nature
             <img src="nature/everest-theme/screenshot-1.png" alt="everest"/>
             <br/>
       </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+   </tr>
+   <tr>
+      <td align="center">
             <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
             <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-            <br/>
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
-         </a>
       </td> 
    </tr>
 </table>
