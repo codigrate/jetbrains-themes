@@ -40,7 +40,7 @@ Nature
 <table> 
    <tr>
       <td align="center">
-            <img src="nature/everest-theme/screenshot.png" alt="everest"/>
+            <img src="nature/everest-theme/screenshot-1.png" alt="everest"/>
             <br/>
       </td>
       <td align="left">
