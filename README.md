@@ -5,11 +5,14 @@
 </p>
 
 <h1 align="center">
-Codigrate - Jetbrains Themes
+Codigrate Themes
 </h1>
 
-<!-- Plugin description -->
-Codigrate themes for JetBrains.
+A carefully crafted collection of themes inspired by nature and iconic cities around the world.
+Each theme is designed with balance, readability, and long coding sessions in mind—blending distinctive atmospheres
+with thoughtfully tuned colors that reduce eye strain and enhance focus.
+Whether you prefer calm, light environments or deep, immersive dark palettes,
+these themes aim to make your workspace both visually inspiring and comfortably productive.
 
 ## Getting Started
 
@@ -30,13 +33,28 @@ So, to not have that issue, please follow the steps below:
 3. Then restart the ide.
 4. Finally, switch it back to the theme that you updated.
 
-<br/>
-
-<!-- Plugin description end -->
-
 <h1 align="center">
-Nature Themes
+Nature
 </h1>
+
+<table> 
+   <tr>
+      <td align="center">
+            <img src="nature/everest-theme/screenshot.png" alt="everest"/>
+            <br/>
+      </td>
+      <td align="left">
+         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+            <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <br/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+         </a>
+      </td> 
+   </tr>
+</table>
+
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -185,27 +203,27 @@ Nature Themes
       </td> 
       <td align="center">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="nature/deep-ocean-theme/icon.png" width="90px;" alt=""/>
+            <img src="nature/ocean-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
-               <b>Deep Ocean</b>
+               <b>Ocean</b>
             </sub>
          </a>
       </td>
       <td align="left">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-deep-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <img src="https://img.shields.io/jetbrains/plugin/v/TBD-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-deep-ocean-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <img src="https://img.shields.io/jetbrains/plugin/d/TBD-ocean-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-deep-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
+            <img src="https://img.shields.io/jetbrains/plugin/r/rating/TBD-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt=""/>
          </a>
       </td> 
    </tr>
 </table>
 
 <h1 align="center">
-City Themes
+Cities
 </h1>
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
