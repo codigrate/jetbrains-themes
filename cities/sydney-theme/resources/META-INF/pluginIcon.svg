@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000px" height="1000px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1001.43 1001.43"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="666" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Helvetica">
+		<font-face-src>
+			<font-face-name name="Helvetica"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="P" horiz-adv-x="666" d="M85 717l323 0c64,0 115,-18 155,-54 39,-36 58,-86 58,-151 0,-56 -17,-105 -52,-147 -35,-41 -89,-62 -161,-62l-225 0 0 -303 -98 0 0 717zm438 -206c0,53 -20,89 -59,108 -21,10 -51,15 -88,15l-193 0 0 -249 193 0c44,0 79,10 106,28 27,19 41,51 41,98z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Helvetica";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil1 {fill:white}
+    .fil0 {fill:url(#id0);fill-rule:nonzero}
+    .fnt0 {font-weight:normal;font-size:954.34px;font-family:'Helvetica'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="494.95" y1="1000.81" x2="500.72" y2="0">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ECB256"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#13365F"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0F1B28"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M1001.43 500.72c0,-276.54 -224.18,-500.72 -500.71,-500.72 -276.54,0 -500.72,224.18 -500.72,500.72 0,276.53 224.18,500.71 500.72,500.71 276.53,0 500.71,-224.18 500.71,-500.71z"/>
+  <text x="163.52" y="843.01"  class="fil1 fnt0">P</text>
+ </g>
+</svg>
