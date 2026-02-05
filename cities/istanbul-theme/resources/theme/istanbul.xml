@@ -1,7 +1,7 @@
 <scheme name="Codigrate Istanbul (Lite)" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.1.0.0</property>
+        <property name="ideVersion">2025.3.2.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C5D6D7" />
@@ -475,6 +475,7 @@
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
         <option name="JS.REGEXP">
             <value>
                 <option name="FOREGROUND" value="c57d25" />
