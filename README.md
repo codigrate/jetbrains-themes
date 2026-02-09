@@ -317,6 +317,32 @@ So, to not have that issue, please follow the steps below:
          </a>
       </td>
    </tr>
+   <tr>
+      <td align="center">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="nature/sydney-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Sydney</b>
+            </sub>
+         </a>
+      </td>
+      <td align="left">
+            Premium
+      </td> 
+      <td align="center">
+         <a href="https://plugins.jetbrains.com/vendor/Codigrate">
+            <img src="nature/prague-theme/icon.png" width="90px;" alt=""/>
+            <br/>
+            <sub>
+               <b>Prague</b>
+            </sub>
+         </a>
+      </td>
+      <td align="left">
+            Premium
+      </td> 
+   </tr>
 </table>
 
 <!-- markdownlint-enable -->
