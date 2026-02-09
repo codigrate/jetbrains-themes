@@ -374,4 +374,3 @@ The source code for this project is released under the [MIT License](LICENSE).
 <br/>
 
 <table align="right"><tr><td><a href="https://codigrate.com"><img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/main/assets/logo/brand-logo.png" width="50px" alt="logo"/></a></td><td><b>Codigrate © 2024</b></td></tr></table>
-
