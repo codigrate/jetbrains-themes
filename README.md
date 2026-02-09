@@ -320,7 +320,7 @@ So, to not have that issue, please follow the steps below:
    <tr>
       <td align="center">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="nature/sydney-theme/icon.png" width="90px;" alt=""/>
+            <img src="cities/sydney-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Sydney</b>
@@ -332,7 +332,7 @@ So, to not have that issue, please follow the steps below:
       </td> 
       <td align="center">
          <a href="https://plugins.jetbrains.com/vendor/Codigrate">
-            <img src="nature/prague-theme/icon.png" width="90px;" alt=""/>
+            <img src="cities/prague-theme/icon.png" width="90px;" alt=""/>
             <br/>
             <sub>
                <b>Prague</b>
