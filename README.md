@@ -34,7 +34,7 @@ So, to not have that issue, please follow the steps below:
 4. Finally, switch it back to the theme that you updated.
 
 
-## Nature Themes
+## Nature
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -174,7 +174,7 @@ So, to not have that issue, please follow the steps below:
    </tr>
 </table>
 
-## City Themes
+## Cities
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -314,7 +314,7 @@ So, to not have that issue, please follow the steps below:
    </tr>
 </table>
 
-## Premium Themes
+## Collections
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
