@@ -29,7 +29,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="384131" />
         <option name="SELECTED_INDENT_GUIDE" value="384131" />
         <option name="SELECTED_TEARLINE_COLOR" value="4A5641" />
-        <option name="SELECTION_BACKGROUND" value="41342D" />
+        <option name="SELECTION_BACKGROUND" value="453A34" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="495C3D" />
         <option name="ScrollBar.Mac.thumbColor" value="2F2826" />
         <option name="ScrollBar.hoverThumbColor" value="4B4949B3" />
@@ -388,7 +388,11 @@
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="31a333" />
+            </value>
+        </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
         <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -568,8 +572,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="cebdb1" />
-                <option name="BACKGROUND" value="503d30" />
+                <option name="FOREGROUND" value="edd6d6" />
+                <option name="BACKGROUND" value="5a2f2f" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
