@@ -325,8 +325,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="bbdef5" />
-                <option name="BACKGROUND" value="e4564" />
+                <option name="FOREGROUND" value="edd8ff" />
+                <option name="BACKGROUND" value="6d3d9c" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -381,7 +381,11 @@
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="4ca7ea" />
+            </value>
+        </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
         <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
