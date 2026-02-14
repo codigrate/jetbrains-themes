@@ -11,7 +11,7 @@
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
         <option name="DOC_COMMENT_LINK" value="5FA652" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="E8F2F3" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="E7FAFA" />
         <option name="ERROR_HINT" value="FFDCDC" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="FEFEFE" />
@@ -30,7 +30,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="C5D6D8" />
         <option name="SELECTED_INDENT_GUIDE" value="B5D7DA" />
         <option name="SELECTED_TEARLINE_COLOR" value="9CD4DA" />
-        <option name="SELECTION_BACKGROUND" value="C5E3E3" />
+        <option name="SELECTION_BACKGROUND" value="BADFDE" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="9CD4DA" />
@@ -475,7 +475,11 @@
             </value>
         </option>
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="cc6748" />
+            </value>
+        </option>
         <option name="JS.REGEXP">
             <value>
                 <option name="FOREGROUND" value="c57d25" />
