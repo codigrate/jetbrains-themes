@@ -29,7 +29,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="564245" />
         <option name="SELECTED_INDENT_GUIDE" value="765A5E" />
         <option name="SELECTED_TEARLINE_COLOR" value="765A5E" />
-        <option name="SELECTION_BACKGROUND" value="7B1E2B" />
+        <option name="SELECTION_BACKGROUND" value="722832" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="765A5E" />
         <option name="ScrollBar.Mac.thumbColor" value="564245" />
         <option name="TEARLINE_COLOR" value="564245" />
@@ -331,8 +331,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="ddbcb9" />
-                <option name="BACKGROUND" value="5e3e3b" />
+                <option name="FOREGROUND" value="d0d3f3" />
+                <option name="BACKGROUND" value="343650" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -387,7 +387,11 @@
         </option>
         <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
         <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
-        <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+        <option name="JS.INSTANCE_MEMBER_FUNCTION">
+            <value>
+                <option name="FOREGROUND" value="f39a8f" />
+            </value>
+        </option>
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
         <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -561,8 +565,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="e6ded1" />
-                <option name="BACKGROUND" value="61533e" />
+                <option name="FOREGROUND" value="e2d8f3" />
+                <option name="BACKGROUND" value="3e3350" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
