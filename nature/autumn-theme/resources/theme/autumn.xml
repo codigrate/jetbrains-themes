@@ -30,7 +30,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="F3E9DE" />
         <option name="SELECTED_INDENT_GUIDE" value="F3E9DE" />
         <option name="SELECTED_TEARLINE_COLOR" value="D9E7C6" />
-        <option name="SELECTION_BACKGROUND" value="D4E8BC" />
+        <option name="SELECTION_BACKGROUND" value="DFEFCB" />
         <option name="SELECTION_FOREGROUND" value="" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="DAE3A4" />
@@ -416,8 +416,8 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="206707" />
-                <option name="BACKGROUND" value="cceebf" />
+                <option name="FOREGROUND" value="670707" />
+                <option name="BACKGROUND" value="f6cccc" />
             </value>
         </option>
         <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -615,8 +615,8 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="806706" />
-                <option name="BACKGROUND" value="f6e9b6" />
+                <option name="FOREGROUND" value="804706" />
+                <option name="BACKGROUND" value="f6d9b7" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
