@@ -2,18 +2,15 @@
 *.idea/
 */out
 .DS_Store
+/out
+/media
+
+all-in-one-themes/License.txt
 all-in-one-themes/all-in-one-themes.iml
 all-in-one-themes/resources/META-INF/plugin.xml
 all-in-one-themes/resources/META-INF/pluginIcon.svg
-media-*.png
-pinterest.png
 
 ocean.*
 salda.*
 prague.*
 sydney.*
-
-/other
-/out
-media/
-all-in-one-themes/License.txt
