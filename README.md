@@ -38,7 +38,7 @@ So, to not have that issue, please follow the steps below:
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-    <img src="nature/everest-theme/icon.png" alt="Logo" width=120>
+    <img src="nature/everest-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
 
@@ -158,7 +158,7 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-    <img src="nature/aurora-borealis-theme/icon.png" alt="Logo" width=120>
+    <img src="nature/aurora-borealis-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
 
@@ -285,40 +285,6 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
       </td>
       <td colspan="2" align="center">
          Dark Themes 🌑
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-            <img src="nature/everest-theme/icon.png" width="90px;" alt="Everest"/>
-         </a>
-         <br/>
-         <sub><b>Everest</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-            <img src="nature/aurora-borealis-theme/icon.png" width="90px;" alt="Aurora Borealis"/>
-         </a>
-         <br/>
-         <sub><b>Aurora Borealis</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
       </td>
    </tr>
    <tr>
