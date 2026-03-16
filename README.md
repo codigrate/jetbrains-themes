@@ -36,8 +36,6 @@ So, to not have that issue, please follow the steps below:
 
 ## Themes
 
----
-
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
     <img src="nature/everest-theme/icon.png" alt="Logo" width=160>
@@ -519,6 +517,248 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+    <img src="nature/autumn-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+Autumn
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
+
+## Description
+
+Inspired by the warm hues and rustic feel of autumn, this light theme aims to evoke a sense of comfort and
+tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
+afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+
+## Screenshots
+
+<img src="nature/autumn-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F8F4F1">#F8F4F1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F4D3BD">#F4D3BD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30" alt="#BE553E"></td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BE553E">#BE553E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/773918.png?width=30&height=30" alt="#773918"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/773918">#773918</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30" alt="#B0633A"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B0633A">#B0633A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30" alt="#A87F25"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A87F25">#A87F25</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F5B211.png?width=30&height=30" alt="#F5B211"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F5B211">#F5B211</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1B591E">#1B591E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E8113.png?width=30&height=30" alt="#0E8113"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/0E8113">#0E8113</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30" alt="#006E83"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/006E83">#006E83</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
+    <img src="nature/roraima-theme/icon.png" alt="Logo" width=200>
+  </a>
+</p>
+
+<h1 align="center">
+   Roraima
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/22961-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22961-roraima-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22961-roraima-theme)
+
+## Description
+
+Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of
+blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day
+transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and
+focused coding experience.
+
+## Screenshots
+
+<img src="nature/roraima-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1E1A1B">#1E1A1B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/322628">#322628</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5A261E.png?width=30&height=30" alt="#5A261E"></td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/5A261E">#5A261E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D17458">#D17458</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D69568">#D69568</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D1BA46">#D1BA46</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DDBE6D">#DDBE6D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/ED8B8B">#ED8B8B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/8F78B7">#8F78B7</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Tag Name
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7E6AA3">#7E6AA3</a>
+      </td>
+   </tr>
+</table>
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -530,40 +770,6 @@ grounded, tranquil palette guide you through the logical forest of your code eff
       </td>
       <td colspan="2" align="center">
          Dark Themes 🌑
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-            <img src="nature/autumn-theme/icon.png" width="90px;" alt="Autumn"/>
-         </a>
-         <br/>
-         <sub><b>Autumn</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
-            <img src="nature/roraima-theme/icon.png" width="90px;" alt="Roraima"/>
-         </a>
-         <br/>
-         <sub><b>Roraima</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22961-roraima-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22961-roraima-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
       </td>
    </tr>
    <tr>
