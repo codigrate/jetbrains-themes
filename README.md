@@ -1768,93 +1768,93 @@ teal accent and warm sandstone highlights add contrast across tabs, borders, and
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FDFCFA.png?width=30&height=30" alt="#FDFCFA"></td>
+      <td><img src="https://codigrate.com/util/color/F6F9FA.png?width=30&height=30" alt="#F6F9FA"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDFCFA">#FDFCFA</a>
+         <a href="https://codigrate.com/en-US/tools/color/F6F9FA">#F6F9FA</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FDF6E7.png?width=30&height=30" alt="#FDF6E7"></td>
+      <td><img src="https://codigrate.com/util/color/CAE4EC.png?width=30&height=30" alt="#CAE4EC"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDF6E7">#FDF6E7</a>
+         <a href="https://codigrate.com/en-US/tools/color/CAE4EC">#CAE4EC</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/ECE1C9.png?width=30&height=30" alt="#ECE1C9"></td>
+      <td><img src="https://codigrate.com/util/color/73B9D0.png?width=30&height=30" alt="#73B9D0"></td>
       <td>
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ECE1C9">#ECE1C9</a>
+         <a href="https://codigrate.com/en-US/tools/color/73B9D0">#73B9D0</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A59379.png?width=30&height=30" alt="#A59379"></td>
+      <td><img src="https://codigrate.com/util/color/169DC5.png?width=30&height=30" alt="#169DC5"></td>
       <td>
-         Metadata
+         Selection Border
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A59379">#A59379</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/8F6055.png?width=30&height=30" alt="#8F6055"></td>
-      <td>
-         Instance Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/8F6055">#8F6055</a>
+         <a href="https://codigrate.com/en-US/tools/color/169DC5">#169DC5</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B8E4EC.png?width=30&height=30" alt="#B8E4EC"></td>
-      <td>
-         Search Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/B8E4EC">#B8E4EC</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/1397AE.png?width=30&height=30" alt="#1397AE"></td>
-      <td>
-         Strings
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/1397AE">#1397AE</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/44849F.png?width=30&height=30" alt="#44849F"></td>
+      <td><img src="https://codigrate.com/util/color/2E89A6.png?width=30&height=30" alt="#2E89A6"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/44849F">#44849F</a>
+         <a href="https://codigrate.com/en-US/tools/color/2E89A6">#2E89A6</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/277878.png?width=30&height=30" alt="#277878"></td>
+      <td><img src="https://codigrate.com/util/color/2F9383.png?width=30&height=30" alt="#2F9383"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/2F9383">#2F9383</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCAD42.png?width=30&height=30" alt="#DCAD42"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DCAD42">#DCAD42</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AF8427.png?width=30&height=30" alt="#AF8427"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/AF8427">#AF8427</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D17F51.png?width=30&height=30" alt="#D17F51"></td>
+      <td>
+         Active Border
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D17F51">#D17F51</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BA7347.png?width=30&height=30" alt="#BA7347"></td>
       <td>
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/277878">#277878</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/0F9363.png?width=30&height=30" alt="#0F9363"></td>
-      <td>
-         Parameters
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/0F9363">#0F9363</a>
+         <a href="https://codigrate.com/en-US/tools/color/BA7347">#BA7347</a>
       </td>
    </tr>
 </table>
@@ -1981,37 +1981,6 @@ keep focus sharp, while a bright sky-blue accent and subtle golden highlights ad
       </td>
    </tr>
 </table>
-
-## Collections
-
-<!-- THEMES-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table> 
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="all-in-one-themes/icon.png" width="90px;" alt="All In One"/>
-         </a>
-         <br/>
-         <sub><b>All In One</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td>
-   </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
-<!-- THEMES-LIST:END -->
 
 ## Contributors
 
