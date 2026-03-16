@@ -178,7 +178,7 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
 
 ## Screenshots
 
-<img src="nature/autumn-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
 
 ## Color Palette
 
@@ -275,6 +275,249 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
    </tr>
 </table>
 
+<br>
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
+    <img src="nature/sakura-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+Sakura
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
+
+## Description
+
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
+Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
+complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
+garden, is designed to be easy on the eyes, aiding focus and efficient coding.
+
+## Screenshots
+
+<img src="nature/sakura-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F8DBE6">#F8DBE6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FFC9DC">#FFC9DC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CB6B91.png?width=30&height=30" alt="#CB6B91"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/CB6B91">#CB6B91</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30" alt="#98556C"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/98556C">#98556C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
+      <td>
+         Active Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DBEACB">#DBEACB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30" alt="#618C71"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/618C71">#618C71</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/69A2BD">#69A2BD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30" alt="#607FA9"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/607FA9">#607FA9</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30" alt="#687788"></td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/687788">#687788</a>
+      </td>
+   </tr>
+</table>
+
+<br>
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+    <img src="nature/sequoia-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+Sequoia
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
+
+## Description
+
+Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks
+and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly,
+mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its
+grounded, tranquil palette guide you through the logical forest of your code efficiently.
+
+## Screenshots
+
+<img src="nature/sequoia-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/20231C">#20231C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/32382C">#32382C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/405133">#405133</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/6E9F56">#6E9F56</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/369772">#369772</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A68F59">#A68F59</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A86255">#A86255</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/986969">#986969</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+      <td>
+         Comments
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/6C625A">#6C625A</a>
+      </td>
+   </tr>
+</table>
+
+
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -285,40 +528,6 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
       </td>
       <td colspan="2" align="center">
          Dark Themes 🌑
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
-            <img src="nature/sakura-theme/icon.png" width="90px;" alt="Sakura"/>
-         </a>
-         <br/>
-         <sub><b>Sakura</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22872-sakura-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22872-sakura-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
-            <img src="nature/sequoia-theme/icon.png" width="90px;" alt="Sequoia"/>
-         </a>
-         <br/>
-         <sub><b>Sequoia</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
       </td>
    </tr>
    <tr>
