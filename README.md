@@ -769,8 +769,11 @@ focused coding experience.
 </p>
 
 <h1 align="center">
-   Salda <span> (Premium)</span>
+   Salda
 </h1>
+<h2 align="center">
+   (Premium)
+</h2>
 
 ## Description
 
