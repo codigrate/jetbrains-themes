@@ -36,6 +36,8 @@ So, to not have that issue, please follow the steps below:
 
 ## Themes
 
+---
+
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
     <img src="nature/everest-theme/icon.png" alt="Logo" width=160>
@@ -154,7 +156,7 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
 </table>
 
-<br>
+---
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
@@ -275,7 +277,7 @@ Lights. The palette is designed to be easy on the eyes, helping you focus, and c
    </tr>
 </table>
 
-<br>
+---
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
@@ -396,7 +398,7 @@ garden, is designed to be easy on the eyes, aiding focus and efficient coding.
    </tr>
 </table>
 
-<br>
+---
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
