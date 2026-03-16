@@ -38,7 +38,7 @@ So, to not have that issue, please follow the steps below:
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-    <img src="nature/everest-theme/icon.png" alt="Logo" width=200>
+    <img src="nature/everest-theme/icon.png" alt="Logo" width=120>
   </a>
 </p>
 
