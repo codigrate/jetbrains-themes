@@ -174,7 +174,7 @@ Aurora Borealis
 
 Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
 night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
-Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
+Lights. The palette is designed to be straightforward on the eyes, helping you focus and code efficiently.
 
 ## Screenshots
 
@@ -296,7 +296,7 @@ Sakura
 Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
 Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
 complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
-garden, is designed to be easy on the eyes, aiding focus and efficient coding.
+garden, is designed to be straightforward on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
@@ -416,7 +416,7 @@ Sequoia
 
 Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks
 and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly,
-mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its
+mirroring the vitality of these magnificent trees. Venture into the digital woods and let its
 grounded, tranquil palette guide you through the logical forest of your code efficiently.
 
 ## Screenshots
@@ -780,8 +780,8 @@ focused coding experience.
 
 ## Description
 
-Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings a fresh, airy calm to your IDE.
-Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keep everything crisp and readable.
+Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings fresh, airy calm to your IDE.
+Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keeps everything crisp and readable.
 The palette is designed to be gentle on the eyes, helping you stay focused and code with clarity.
 
 ## Screenshots
@@ -1512,8 +1512,7 @@ Tallinn
 
 Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool
 Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep
-ink accents and subtle lavender-rose highlights add clarity and warmth without losing its minimal
-Northern character.
+ink accents and subtle lavender-rose highlights add clarity and warmth without losing their minimal Northern character.
 
 ## Screenshots
 
@@ -1756,7 +1755,7 @@ clarity and energy to key syntax elements.
 
 ## Description
 
-Inspired by Sydney’s bright harbour mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean 
+Inspired by Sydney’s bright harbor mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean 
 and airy with porcelain whites and misty blues. Gentle ocean surfaces and clear selections preserve focus, while a deep 
 teal accent and warm sandstone highlights add contrast across tabs, borders, and search matches without losing the calm, sunlit feel.
 
