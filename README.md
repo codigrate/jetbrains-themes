@@ -642,7 +642,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
-    <img src="nature/roraima-theme/icon.png" alt="Logo" width=200>
+    <img src="nature/roraima-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
 
@@ -756,6 +756,123 @@ focused coding experience.
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/7E6AA3">#7E6AA3</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="nature/salda-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Salda <span> (Premium)</span>
+</h1>
+
+## Description
+
+Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings a fresh, airy calm to your IDE. 
+Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keep everything crisp and readable. 
+The palette is designed to be gentle on the eyes, helping you stay focused and code with clarity.
+
+## Screenshots
+
+<img src="nature/salda-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FDFCFA.png?width=30&height=30" alt="#FDFCFA"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FDFCFA">#FDFCFA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FDF6E7.png?width=30&height=30" alt="#FDF6E7"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FDF6E7">#FDF6E7</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECE1C9.png?width=30&height=30" alt="#ECE1C9"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/ECE1C9">#ECE1C9</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A59379.png?width=30&height=30" alt="#A59379"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A59379">#A59379</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F6055.png?width=30&height=30" alt="#8F6055"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/8F6055">#8F6055</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B8E4EC.png?width=30&height=30" alt="#B8E4EC"></td>
+      <td>
+         Search Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B8E4EC">#B8E4EC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1397AE.png?width=30&height=30" alt="#1397AE"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1397AE">#1397AE</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/44849F.png?width=30&height=30" alt="#44849F"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/44849F">#44849F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/277878.png?width=30&height=30" alt="#277878"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/277878">#277878</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F9363.png?width=30&height=30" alt="#0F9363"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/0F9363">#0F9363</a>
       </td>
    </tr>
 </table>
