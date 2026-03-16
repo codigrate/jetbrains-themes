@@ -771,14 +771,15 @@ focused coding experience.
 <h1 align="center">
    Salda
 </h1>
-<h2 align="center">
-   (Premium)
-</h2>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
 
 ## Description
 
-Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings a fresh, airy calm to your IDE. 
-Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keep everything crisp and readable. 
+Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings a fresh, airy calm to your IDE.
+Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keep everything crisp and readable.
 The palette is designed to be gentle on the eyes, helping you stay focused and code with clarity.
 
 ## Screenshots
@@ -880,39 +881,124 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
 </table>
 
-<!-- THEMES-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table> 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="nature/ocean-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Ocean
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by the deep and tranquil world of the ocean, this dark theme seamlessly blends layered dark teal tones with soft 
+cyan highlights and subtle bioluminescent accents. This balanced palette offers a calm and immersive backdrop, 
+ensuring an optimal and focused coding experience.
+
+## Screenshots
+
+<img src="nature/ocean-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
    <tr>
-      <td colspan="2" align="center">
-         Light Themes ☀️
+      <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30" alt="#102B2E"></td>
+      <td>
+         Editor Background
       </td>
-      <td colspan="2" align="center">
-         Dark Themes 🌑
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/102B2E">#102B2E</a>
       </td>
    </tr>
    <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="nature/salda-theme/icon.png" width="90px;" alt="Salda"/>
-         </a>
-         <br/>
-         <sub><b>Salda</b></sub>
+      <td><img src="https://codigrate.com/util/color/18383C.png?width=30&height=30" alt="#18383C"></td>
+      <td>
+         Window Background
       </td>
-      <td align="left">
-            Premium
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="nature/ocean-theme/icon.png" width="90px;" alt="Ocean"/>
-         </a>
-         <br/>
-         <sub><b>Ocean</b></sub>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/18383C">#18383C</a>
       </td>
-      <td align="left">
-            Premium
-      </td> 
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30" alt="#1C4247"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1C4247">#1C4247</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30" alt="#5AB590"></td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/5AB590">#5AB590</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30" alt="#3FB4D8"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/3FB4D8">#3FB4D8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30" alt="#B88BDA"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B88BDA">#B88BDA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30" alt="#EE8EBF"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EE8EBF">#EE8EBF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30" alt="#DC7783"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DC7783">#DC7783</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30" alt="#DC9577"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DC9577">#DC9577</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30" alt="#EAC089"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EAC089">#EAC089</a>
+      </td>
    </tr>
 </table>
 
