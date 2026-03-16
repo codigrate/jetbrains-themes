@@ -1,6 +1,6 @@
 <p align="center">
    <a href="https://codigrate.com">
-    <img src="./icon.png" alt="Logo" width=200>
+    <img src="./icon.png" alt="Logo" width=160>
   </a>
 </p>
 
@@ -1006,7 +1006,7 @@ ensuring an optimal and focused coding experience.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-    <img src="cities/istanbul-theme/icon.png" alt="Logo" width=200>
+    <img src="cities/istanbul-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
 
@@ -1124,6 +1124,248 @@ syntax elements.
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+    <img src="cities/miami-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+Miami
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/29582-miami-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/29582-miami-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
+
+## Description
+
+Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents
+to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals,
+and tropical teals bring energy and clarity to key syntax elements.
+
+## Screenshots
+
+<img src="cities/miami-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/33121D">#33121D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/532033">#532033</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FF5FA2">#FF5FA2</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td>
+         Tag Colors
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FE788C">#FE788C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FE8078">#FE8078</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F2A4A0">#F2A4A0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/92B5E8">#92B5E8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/00D1C1">#00D1C1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
+      <td>
+         Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/82D59F">#82D59F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F8D273">#F8D273</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme">
+    <img src="cities/rio-de-janeiro-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+Rio de Janeiro
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/29621-rio-de-janeiro-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/29621-rio-de-janeiro-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/29621-rio-de-janeiro-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme)
+
+## Description
+
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty
+backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and
+calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
+
+## Screenshots
+
+<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F7FAF6">#F7FAF6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DAEAD6.png?width=30&height=30" alt="#DAEAD6"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DAEAD6">#DAEAD6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/94B98B.png?width=30&height=30" alt="#94B98B"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/94B98B">#94B98B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5F9849.png?width=30&height=30" alt="#5F9849"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/5F9849">#5F9849</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/247A4C.png?width=30&height=30" alt="#247A4C"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/247A4C">#247A4C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/10569C.png?width=30&height=30" alt="#10569C"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/10569C">#10569C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/0A80B3">#0A80B3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7A6D14.png?width=30&height=30" alt="#7A6D14"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7A6D14">#7A6D14</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/938920.png?width=30&height=30" alt="#938920"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/938920">#938920</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E6C41A.png?width=30&height=30" alt="#E6C41A"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/E6C41A">#E6C41A</a>
+      </td>
+   </tr>
+</table>
+
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -1134,40 +1376,6 @@ syntax elements.
       </td>
       <td colspan="2" align="center">
          Dark Themes 🌑
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-            <img src="cities/istanbul-theme/icon.png" width="90px;" alt="Istanbul"/>
-         </a>
-         <br/>
-         <sub><b>Istanbul</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29590-istanbul-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29590-istanbul-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29590-istanbul-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
-            <img src="cities/miami-theme/icon.png" width="90px;" alt="Miami"/>
-         </a>
-         <br/>
-         <sub><b>Miami</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29582-miami-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29582-miami-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
       </td>
    </tr>
    <tr>
