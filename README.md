@@ -1891,93 +1891,93 @@ keep focus sharp, while a bright sky-blue accent and subtle golden highlights ad
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30" alt="#102B2E"></td>
+      <td><img src="https://codigrate.com/util/color/0D1D2E.png?width=30&height=30" alt="#0D1D2E"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/102B2E">#102B2E</a>
+         <a href="https://codigrate.com/en-US/tools/color/0D1D2E">#0D1D2E</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/18383C.png?width=30&height=30" alt="#18383C"></td>
+      <td><img src="https://codigrate.com/util/color/123151.png?width=30&height=30" alt="#123151"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/18383C">#18383C</a>
+         <a href="https://codigrate.com/en-US/tools/color/123151">#123151</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30" alt="#1C4247"></td>
+      <td><img src="https://codigrate.com/util/color/113E6B.png?width=30&height=30" alt="#113E6B"></td>
       <td>
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1C4247">#1C4247</a>
+         <a href="https://codigrate.com/en-US/tools/color/113E6B">#113E6B</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30" alt="#5AB590"></td>
-      <td>
-         Tags
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/5AB590">#5AB590</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30" alt="#3FB4D8"></td>
+      <td><img src="https://codigrate.com/util/color/74ADF8.png?width=30&height=30" alt="#74ADF8"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3FB4D8">#3FB4D8</a>
+         <a href="https://codigrate.com/en-US/tools/color/74ADF8">#74ADF8</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30" alt="#B88BDA"></td>
+      <td><img src="https://codigrate.com/util/color/89C5F8.png?width=30&height=30" alt="#89C5F8"></td>
       <td>
-         Static Fields
+         Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B88BDA">#B88BDA</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30" alt="#EE8EBF"></td>
-      <td>
-         Local Variables
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/EE8EBF">#EE8EBF</a>
+         <a href="https://codigrate.com/en-US/tools/color/89C5F8">#89C5F8</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30" alt="#DC7783"></td>
+      <td><img src="https://codigrate.com/util/color/92A3B3.png?width=30&height=30" alt="#92A3B3"></td>
       <td>
-         Instance Fields
+         Comments
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DC7783">#DC7783</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30" alt="#DC9577"></td>
-      <td>
-         Attributes
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/DC9577">#DC9577</a>
+         <a href="https://codigrate.com/en-US/tools/color/92A3B3">#92A3B3</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30" alt="#EAC089"></td>
+      <td><img src="https://codigrate.com/util/color/DF865B.png?width=30&height=30" alt="#DF865B"></td>
       <td>
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EAC089">#EAC089</a>
+         <a href="https://codigrate.com/en-US/tools/color/DF865B">#DF865B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EFBA5A.png?width=30&height=30" alt="#EFBA5A"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EFBA5A">#EFBA5A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E3CA77.png?width=30&height=30" alt="#E3CA77"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/E3CA77">#E3CA77</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCCF9D.png?width=30&height=30" alt="#DCCF9D"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DCCF9D">#DCCF9D</a>
       </td>
    </tr>
 </table>
