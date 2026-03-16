@@ -1736,73 +1736,249 @@ clarity and energy to key syntax elements.
    </tr>
 </table>
 
-<!-- THEMES-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table> 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="cities/sydney-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Sydney
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by Sydney’s bright harbour mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean 
+and airy with porcelain whites and misty blues. Gentle ocean surfaces and clear selections preserve focus, while a deep 
+teal accent and warm sandstone highlights add contrast across tabs, borders, and search matches without losing the calm, sunlit feel.
+
+## Screenshots
+
+<img src="cities/sydney-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
    <tr>
-      <td colspan="2" align="center">
-         Light Themes ☀️
+      <td><img src="https://codigrate.com/util/color/FDFCFA.png?width=30&height=30" alt="#FDFCFA"></td>
+      <td>
+         Editor Background
       </td>
-      <td colspan="2" align="center">
-         Dark Themes 🌑
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FDFCFA">#FDFCFA</a>
       </td>
    </tr>
    <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
-            <img src="cities/tallinn-theme/icon.png" width="90px;" alt="Tallinn"/>
-         </a>
-         <br/>
-         <sub><b>Tallinn</b></sub>
+      <td><img src="https://codigrate.com/util/color/FDF6E7.png?width=30&height=30" alt="#FDF6E7"></td>
+      <td>
+         Window Background
       </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29671-tallinn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29671-tallinn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29671-tallinn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
-            <img src="cities/tokyo-theme/icon.png" width="90px;" alt="Tokyo"/>
-         </a>
-         <br/>
-         <sub><b>Tokyo</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29646-tokyo-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29646-tokyo-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29646-tokyo-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/FDF6E7">#FDF6E7</a>
       </td>
    </tr>
    <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="cities/sydney-theme/icon.png" width="90px;" alt="Sydney"/>
-         </a>
-         <br/>
-         <sub><b>Sydney</b></sub>
+      <td><img src="https://codigrate.com/util/color/ECE1C9.png?width=30&height=30" alt="#ECE1C9"></td>
+      <td>
+         Surface Background
       </td>
-      <td align="left">
-            Premium
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="cities/prague-theme/icon.png" width="90px;" alt="Prague"/>
-         </a>
-         <br/>
-         <sub><b>Prague</b></sub>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/ECE1C9">#ECE1C9</a>
       </td>
-      <td align="left">
-            Premium
-      </td> 
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A59379.png?width=30&height=30" alt="#A59379"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/A59379">#A59379</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F6055.png?width=30&height=30" alt="#8F6055"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/8F6055">#8F6055</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B8E4EC.png?width=30&height=30" alt="#B8E4EC"></td>
+      <td>
+         Search Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B8E4EC">#B8E4EC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1397AE.png?width=30&height=30" alt="#1397AE"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1397AE">#1397AE</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/44849F.png?width=30&height=30" alt="#44849F"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/44849F">#44849F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/277878.png?width=30&height=30" alt="#277878"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/277878">#277878</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F9363.png?width=30&height=30" alt="#0F9363"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/0F9363">#0F9363</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="cities/prague-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Prague
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by Prague’s midnight river reflections, gothic silhouettes, and warm lamplight on old stone, this theme pairs 
+deep cobalt-navy shadows with cool steel blues for a calm, cinematic coding mood. Rich surfaces and crisp selections 
+keep focus sharp, while a bright sky-blue accent and subtle golden highlights add contrast across tabs, hovers, and search matches.
+
+## Screenshots
+
+<img src="cities/prague-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30" alt="#102B2E"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/102B2E">#102B2E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/18383C.png?width=30&height=30" alt="#18383C"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/18383C">#18383C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30" alt="#1C4247"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/1C4247">#1C4247</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30" alt="#5AB590"></td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/5AB590">#5AB590</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30" alt="#3FB4D8"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/3FB4D8">#3FB4D8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30" alt="#B88BDA"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B88BDA">#B88BDA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30" alt="#EE8EBF"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EE8EBF">#EE8EBF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30" alt="#DC7783"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DC7783">#DC7783</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30" alt="#DC9577"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DC9577">#DC9577</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30" alt="#EAC089"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EAC089">#EAC089</a>
+      </td>
    </tr>
 </table>
 
