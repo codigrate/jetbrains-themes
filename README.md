@@ -154,6 +154,126 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
 </table>
 
+<br>
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+    <img src="nature/aurora-borealis-theme/icon.png" alt="Logo" width=120>
+  </a>
+</p>
+
+<h1 align="center">
+Aurora Borealis
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
+
+## Description
+
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
+night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
+Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
+
+## Screenshots
+
+<img src="nature/autumn-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/142B37">#142B37</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/183240.png?width=30&height=30" alt="#183240"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/183240">#183240</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/549EFF">#549EFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7ACEF5">#7ACEF5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
+      <td>
+         Tab Colors
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/043A33">#043A33</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/73D379">#73D379</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/05C0A6">#05C0A6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BB719B">#BB719B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D193BB">#D193BB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BAA5FF">#BAA5FF</a>
+      </td>
+   </tr>
+</table>
 
 <!-- THEMES-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
