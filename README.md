@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-Codigrate Themes
+Codigrate Jetbrains Themes
 </h1>
 
 A carefully crafted collection of themes inspired by nature and iconic cities around the world.
