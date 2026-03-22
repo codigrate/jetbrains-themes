@@ -33,7 +33,6 @@ So, to not have that issue, please follow the steps below:
 3. Then restart the ide.
 4. Finally, switch it back to the theme that you updated.
 
-
 ## Nature
 
 <p align="center">
@@ -61,6 +60,7 @@ the golden hues of dawn breaking over snow-capped peaks.
 <img src="nature/everest-theme/screenshot-1.png" alt="screenshot">
 
 ## Color Palette
+
 <table>
    <tr>
       <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
@@ -303,6 +303,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
 <img src="nature/sakura-theme/screenshot-1.png" alt="screenshot">
 
 ## Color Palette
+
 <table>
    <tr>
       <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
@@ -424,6 +425,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 <img src="nature/sequoia-theme/screenshot-1.png" alt="screenshot">
 
 ## Color Palette
+
 <table>
    <tr>
       <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
@@ -780,8 +782,10 @@ focused coding experience.
 
 ## Description
 
-Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings fresh, airy calm to your IDE.
-Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keeps everything crisp and readable.
+Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings fresh, airy calm to
+your IDE.
+Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keeps everything crisp
+and readable.
 The palette is designed to be gentle on the eyes, helping you stay focused and code with clarity.
 
 ## Screenshots
@@ -903,8 +907,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
 
 ## Description
 
-Inspired by the deep and tranquil world of the ocean, this dark theme seamlessly blends layered dark teal tones with soft 
-cyan highlights and subtle bioluminescent accents. This balanced palette offers a calm and immersive backdrop, 
+Inspired by the deep and tranquil world of the ocean, this dark theme seamlessly blends layered dark teal tones with
+soft
+cyan highlights and subtle bioluminescent accents. This balanced palette offers a calm and immersive backdrop,
 ensuring an optimal and focused coding experience.
 
 ## Screenshots
@@ -1755,9 +1760,10 @@ clarity and energy to key syntax elements.
 
 ## Description
 
-Inspired by Sydney’s bright harbor mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean 
-and airy with porcelain whites and misty blues. Gentle ocean surfaces and clear selections preserve focus, while a deep 
-teal accent and warm sandstone highlights add contrast across tabs, borders, and search matches without losing the calm, sunlit feel.
+Inspired by Sydney’s bright harbor mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean
+and airy with porcelain whites and misty blues. Gentle ocean surfaces and clear selections preserve focus, while a deep
+teal accent and warm sandstone highlights add contrast across tabs, borders, and search matches without losing the calm,
+sunlit feel.
 
 ## Screenshots
 
@@ -1878,9 +1884,10 @@ teal accent and warm sandstone highlights add contrast across tabs, borders, and
 
 ## Description
 
-Inspired by Prague’s midnight river reflections, gothic silhouettes, and warm lamplight on old stone, this theme pairs 
-deep cobalt-navy shadows with cool steel blues for a calm, cinematic coding mood. Rich surfaces and crisp selections 
-keep focus sharp, while a bright sky-blue accent and subtle golden highlights add contrast across tabs, hovers, and search matches.
+Inspired by Prague’s midnight river reflections, gothic silhouettes, and warm lamplight on old stone, this theme pairs
+deep cobalt-navy shadows with cool steel blues for a calm, cinematic coding mood. Rich surfaces and crisp selections
+keep focus sharp, while a bright sky-blue accent and subtle golden highlights add contrast across tabs, hovers, and
+search matches.
 
 ## Screenshots
 
@@ -1980,6 +1987,42 @@ keep focus sharp, while a bright sky-blue accent and subtle golden highlights ad
       </td>
    </tr>
 </table>
+
+## Collections
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="all-in-one-themes/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+All In One Themes
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+All in One Themes is the complete theme experience in a single package, 
+bringing together all Codigrate themes into one unified collection for JetBrains IDEs. 
+From calm, light environments inspired by natural landscapes to rich, 
+cinematic dark themes shaped by iconic cities, this bundle lets you switch moods, lighting, 
+and atmosphere without disrupting your workflow.
+
+## Screenshots
+
+<img src="all-in-one-themes/screenshot-1.png" alt="screenshot">
+
+## Discount Community Programs
+
+- Students and teachers (Free)
+- Open Source Projects (Free)
+- Universities and educational organizations (50% Off)
+- Startups (50% Off)
+- Non-profit organizations (50% Off)
 
 ## Contributors
 
