@@ -1011,6 +1011,129 @@ ensuring an optimal and focused coding experience.
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="nature/reynisfjara-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Reynisfjara
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by the dramatic and windswept shores of Reynisfjara, this dark theme blends deep charcoal surfaces with cool 
+steel-blue tones and subtle icy highlights. The layered contrast between shadowy backgrounds and soft gray-blue accents 
+creates a calm yet striking visual balance, offering a focused and immersive coding environment.
+
+## Screenshots
+
+<img src="nature/reynisfjara-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/060709.png?width=30&height=30" alt="#060709"></td>
+      <td>
+         Input Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/060709">#060709</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/151A20.png?width=30&height=30" alt="#151A20"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/151A20">#151A20</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/20262C.png?width=30&height=30" alt="#20262C"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/20262C">#20262C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2A3138.png?width=30&height=30" alt="#2A3138"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/2A3138">#2A3138</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7D848D.png?width=30&height=30" alt="#7D848D"></td>
+      <td>
+         Selection Border
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/7D848D">#7D848D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8E8276.png?width=30&height=30" alt="#8E8276"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/8E8276">#8E8276</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AC8563.png?width=30&height=30" alt="#AC8563"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/AC8563">#AC8563</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C5A98F.png?width=30&height=30" alt="#C5A98F"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/C5A98F">#C5A98F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C3B9AD.png?width=30&height=30" alt="#C3B9AD"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/C3B9AD">#C3B9AD</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B1AC9B.png?width=30&height=30" alt="#B1AC9B"></td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B1AC9B">#B1AC9B</a>
+      </td>
+   </tr>
+</table>
+
 ## Cities
 
 <p align="center">
