@@ -1202,39 +1202,21 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/4D9A27.png?width=30&height=30" alt="#4D9A27"></td>
+      <td><img src="https://codigrate.com/util/color/5E9AAE.png?width=30&height=30" alt="#5E9AAE"></td>
       <td>
-         Metadata
+         Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/4D9A27">#4D9A27</a>
+         <a href="https://codigrate.com/en-US/tools/color/5E9AAE">#5E9AAE</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/AE7D68.png?width=30&height=30" alt="#AE7D68"></td>
+      <td><img src="https://codigrate.com/util/color/527FB6.png?width=30&height=30" alt="#527FB6"></td>
       <td>
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/AE7D68">#AE7D68</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BD7070.png?width=30&height=30" alt="#BD7070"></td>
-      <td>
-         Attributes
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/BD7070">#BD7070</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
-      <td>
-         Keywords
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
+         <a href="https://codigrate.com/en-US/tools/color/527FB6">#527FB6</a>
       </td>
    </tr>
    <tr>
@@ -1253,6 +1235,24 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/8C68AC">#8C68AC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD7070.png?width=30&height=30" alt="#BD7070"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BD7070">#BD7070</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
       </td>
    </tr>
 </table>
