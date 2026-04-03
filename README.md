@@ -1134,6 +1134,129 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="nature/spring-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Spring
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by the vibrant and refreshing essence of the spring season, this light theme brings a sense of renewal to your 
+coding environment. Soft greens, floral pinks, and warm earth tones work together to create a bright yet soothing 
+palette, designed to enhance focus and provide a pleasant visual experience during long development sessions.
+
+## Screenshots
+
+<img src="nature/spring-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4FFF1.png?width=30&height=30" alt="#F4FFF1"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F4FFF1">#F4FFF1</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C8EAB9.png?width=30&height=30" alt="#C8EAB9"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/C8EAB9">#C8EAB9</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/559569.png?width=30&height=30" alt="#559569"></td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/559569">#559569</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3C8F63.png?width=30&height=30" alt="#3C8F63"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/3C8F63">#3C8F63</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/4D9A27.png?width=30&height=30" alt="#4D9A27"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/4D9A27">#4D9A27</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AE7D68.png?width=30&height=30" alt="#AE7D68"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/AE7D68">#AE7D68</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD7070.png?width=30&height=30" alt="#BD7070"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BD7070">#BD7070</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AD91D0.png?width=30&height=30" alt="#AD91D0"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/AD91D0">#AD91D0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8C68AC.png?width=30&height=30" alt="#8C68AC"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/8C68AC">#8C68AC</a>
+      </td>
+   </tr>
+</table>
+
 ## Cities
 
 <p align="center">
