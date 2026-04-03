@@ -1202,39 +1202,12 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5E9AAE.png?width=30&height=30" alt="#5E9AAE"></td>
+      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
       <td>
-         Parameters
+         Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5E9AAE">#5E9AAE</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/527FB6.png?width=30&height=30" alt="#527FB6"></td>
-      <td>
-         Local Variables
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/527FB6">#527FB6</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/AD91D0.png?width=30&height=30" alt="#AD91D0"></td>
-      <td>
-         Alternate Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/AD91D0">#AD91D0</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/8C68AC.png?width=30&height=30" alt="#8C68AC"></td>
-      <td>
-         Strings
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/8C68AC">#8C68AC</a>
+         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
       </td>
    </tr>
    <tr>
@@ -1247,12 +1220,39 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
+      <td><img src="https://codigrate.com/util/color/8C68AC.png?width=30&height=30" alt="#8C68AC"></td>
       <td>
-         Keywords
+         Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
+         <a href="https://codigrate.com/en-US/tools/color/8C68AC">#8C68AC</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AD91D0.png?width=30&height=30" alt="#AD91D0"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/AD91D0">#AD91D0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/527FB6.png?width=30&height=30" alt="#527FB6"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/527FB6">#527FB6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5E9AAE.png?width=30&height=30" alt="#5E9AAE"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/5E9AAE">#5E9AAE</a>
       </td>
    </tr>
 </table>
