@@ -5,16 +5,16 @@
   "editorScheme": "/theme/nature/aurora_borealis.xml",
   "parentTheme": "Islands Dark",
   "colors": {
-    "surface": "#1C3847",
+    "surface": "#1a3746",
     "borderColor": "#1C3847",
     "separatorColor": "#1C3847",
-    "windowBackground": "#183240",
+    "windowBackground": "#123243",
     "editorBackground": "#142B37",
     "inputBackground": "#112733",
     "hoverBackground": "#112631",
     "activeBackground": "#043A33",
     "activeBorderColor": "#049682",
-    "selectionBackground": "#214051",
+    "selectionBackground": "#1e3f53",
     "selectionBorderColor": "#427FA0",
     "selectionInactiveBackground": "#233C4A",
     "selectionInactiveBorderColor": "#3F6579",
@@ -43,14 +43,17 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground",
+      "iconColor": "primaryForeground",
       "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
     },
     "MainToolbar": {
-      "borderColor": "transparent"
+      "borderColor": "transparent",
+      "Dropdown": {
+        "transparentHoverBackground": "hoverBackground"
+      }
     },
     "Islands": 1,
     "Island": {
