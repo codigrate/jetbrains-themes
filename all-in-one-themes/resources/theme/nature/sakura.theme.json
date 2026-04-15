@@ -18,7 +18,7 @@
     "selectionBorderColor": "#DE849E",
     "selectionInactiveBackground": "#E6D1D6",
     "selectionInactiveBorderColor": "#D5A9B4",
-    "alternateBackground": "#618C71",
+    "alternateBackground": "#80B594",
     "searchMatchBackground": "#DFD7EF",
     "accentColor": "#B54B66",
     "primaryForeground": "#3D0013",
@@ -43,14 +43,17 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground",
+      "iconColor": "primaryForeground",
       "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
     },
     "MainToolbar": {
-      "borderColor": "transparent"
+      "borderColor": "transparent",
+      "Dropdown": {
+        "transparentHoverBackground": "hoverBackground"
+      }
     },
     "Islands": 1,
     "Island": {
