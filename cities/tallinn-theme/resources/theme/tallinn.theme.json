@@ -11,7 +11,7 @@
     "windowBackground": "#D0DCEF",
     "editorBackground": "#EDF2FA",
     "inputBackground": "#FFFFFF",
-    "hoverBackground": "#D0DCEF",
+    "hoverBackground": "#b8d0f3",
     "activeBackground": "#ECC2C2",
     "activeBorderColor": "#C17777",
     "selectionBackground": "#BECCEC",
@@ -21,8 +21,8 @@
     "alternateBackground": "#7865B0",
     "searchMatchBackground": "#D8BEBE",
     "accentColor": "#3F4494",
-    "primaryForeground": "#0C1E45",
-    "secondaryForeground": "#163980",
+    "primaryForeground": "#0f244f",
+    "secondaryForeground": "#184092",
     "error": "#CE5E5E",
     "errorFocused": "#CB4848",
     "warning": "#CC9D57",
@@ -43,14 +43,17 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground",
+      "iconColor": "primaryForeground",
       "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
     },
     "MainToolbar": {
-      "borderColor": "transparent"
+      "borderColor": "transparent",
+      "Dropdown": {
+        "transparentHoverBackground": "hoverBackground"
+      }
     },
     "Islands": 1,
     "Island": {

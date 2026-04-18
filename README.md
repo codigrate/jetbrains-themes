@@ -1763,7 +1763,7 @@ Tallinn
 
 Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool
 Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep
-ink accents and subtle lavender-rose highlights add clarity and warmth without losing their minimal Northern character.
+ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 
 ## Screenshots
 
