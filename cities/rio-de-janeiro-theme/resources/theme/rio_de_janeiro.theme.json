@@ -5,24 +5,24 @@
   "editorScheme": "/theme/rio_de_janeiro.xml",
   "parentTheme": "Islands Light",
   "colors": {
-    "surface": "#94B98B",
-    "borderColor": "#94B98B",
-    "separatorColor": "#94B98B",
-    "windowBackground": "#DAEAD6",
+    "surface": "#85B778",
+    "borderColor": "#85B778",
+    "separatorColor": "#85B778",
+    "windowBackground": "#D9EFD2",
     "editorBackground": "#F7FAF6",
     "inputBackground": "#FFFFFF",
-    "hoverBackground": "#DBEDD6",
+    "hoverBackground": "#b4dea8",
     "activeBackground": "#D0ECEF",
     "activeBorderColor": "#41AFBA",
-    "selectionBackground": "#B3DEA9",
-    "selectionBorderColor": "#359917",
-    "selectionInactiveBackground": "#C3DEBD",
-    "selectionInactiveBorderColor": "#9AC78C",
+    "selectionBackground": "#b8e5ad",
+    "selectionBorderColor": "#47a731",
+    "selectionInactiveBackground": "#c9dfc2",
+    "selectionInactiveBorderColor": "#9dc192",
     "alternateBackground": "#E6C41A",
     "searchMatchBackground": "#EAE7A8",
     "accentColor": "#375B2E",
-    "primaryForeground": "#143F08",
-    "secondaryForeground": "#25760E",
+    "primaryForeground": "#1a510a",
+    "secondaryForeground": "#2d7b18",
     "error": "#CE5E5E",
     "errorFocused": "#CB4848",
     "warning": "#CC9D57",
@@ -43,14 +43,17 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground",
+      "iconColor": "primaryForeground",
       "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
     },
     "MainToolbar": {
-      "borderColor": "transparent"
+      "borderColor": "transparent",
+      "Dropdown": {
+        "transparentHoverBackground": "hoverBackground"
+      }
     },
     "Islands": 1,
     "Island": {

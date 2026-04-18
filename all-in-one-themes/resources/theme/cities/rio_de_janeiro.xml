@@ -1,7 +1,7 @@
 <scheme name="Codigrate Rio de Janeiro" version="142" parent_scheme="Default">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.1.0.0</property>
+        <property name="ideVersion">2026.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="C8D8C5" />
@@ -110,7 +110,7 @@
         <option name="Closure braces" baseAttributes="Braces" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
-                <option name="FOREGROUND" value="938920" />
+                <option name="FOREGROUND" value="9c830d" />
             </value>
         </option>
         <option name="DEFAULT_BLOCK_COMMENT">
@@ -148,7 +148,7 @@
         <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="2c8784" />
+                <option name="FOREGROUND" value="42875b" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -159,12 +159,12 @@
         </option>
         <option name="DEFAULT_INSTANCE_FIELD">
             <value>
-                <option name="FOREGROUND" value="7a6d14" />
+                <option name="FOREGROUND" value="a3860a" />
             </value>
         </option>
         <option name="DEFAULT_INSTANCE_METHOD">
             <value>
-                <option name="FOREGROUND" value="7a6d14" />
+                <option name="FOREGROUND" value="a3860a" />
             </value>
         </option>
         <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -174,7 +174,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="5f9849" />
+                <option name="FOREGROUND" value="13a166" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -187,22 +187,22 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="247a4c" />
+                <option name="FOREGROUND" value="78a8a" />
             </value>
         </option>
         <option name="DEFAULT_METADATA">
             <value>
-                <option name="FOREGROUND" value="a80b3" />
+                <option name="FOREGROUND" value="739e4b" />
             </value>
         </option>
         <option name="DEFAULT_NUMBER">
             <value>
-                <option name="FOREGROUND" value="10569c" />
+                <option name="FOREGROUND" value="28134" />
             </value>
         </option>
         <option name="DEFAULT_PARAMETER">
             <value>
-                <option name="FOREGROUND" value="a3620d" />
+                <option name="FOREGROUND" value="bc8650" />
             </value>
         </option>
         <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -210,28 +210,28 @@
         <option name="DEFAULT_REASSIGNED_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
         <option name="DEFAULT_STATIC_FIELD">
             <value>
-                <option name="FOREGROUND" value="b65653" />
+                <option name="FOREGROUND" value="a80b3" />
             </value>
         </option>
         <option name="DEFAULT_STATIC_METHOD">
             <value>
-                <option name="FOREGROUND" value="b65653" />
+                <option name="FOREGROUND" value="a80b3" />
             </value>
         </option>
         <option name="DEFAULT_STRING">
             <value>
-                <option name="FOREGROUND" value="10569c" />
+                <option name="FOREGROUND" value="28134" />
             </value>
         </option>
         <option name="DEFAULT_TAG">
             <value>
-                <option name="FOREGROUND" value="568a23" />
+                <option name="FOREGROUND" value="1065b8" />
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="10569c" />
+                <option name="FOREGROUND" value="28134" />
             </value>
         </option>
         <option name="DELETED_TEXT_ATTRIBUTES">
@@ -404,7 +404,7 @@
         <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
         <option name="HTML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="568a23" />
+                <option name="FOREGROUND" value="1065b8" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -641,7 +641,7 @@
         <option name="XML_PROLOGUE" baseAttributes="TEXT" />
         <option name="XML_TAG_NAME">
             <value>
-                <option name="FOREGROUND" value="568a23" />
+                <option name="FOREGROUND" value="1065b8" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>

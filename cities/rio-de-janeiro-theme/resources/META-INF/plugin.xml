@@ -4,7 +4,7 @@
     <id>com.codigrate.rio-de-janeiro.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.7</version>
+    <version>2026.1.8</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -38,75 +38,48 @@
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/DAEAD6.png?width=30&height=30" alt="#DAEAD6"></td>
+                  <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30" alt="#D9EFD2"></td>
                   <td>
                      Window Background
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/DAEAD6">#DAEAD6</a>
+                     <a href="https://codigrate.com/en-US/tools/color/D9EFD2">#D9EFD2</a>
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/94B98B.png?width=30&height=30" alt="#94B98B"></td>
+                  <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30" alt="#85B778"></td>
                   <td>
                      Surface Background
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/94B98B">#94B98B</a>
+                     <a href="https://codigrate.com/en-US/tools/color/85B778">#85B778</a>
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/5F9849.png?width=30&height=30" alt="#5F9849"></td>
+                  <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30" alt="#13A166"></td>
                   <td>
                      Keywords
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/5F9849">#5F9849</a>
+                     <a href="https://codigrate.com/en-US/tools/color/13A166">#13A166</a>
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/247A4C.png?width=30&height=30" alt="#247A4C"></td>
-                  <td>
-                     Local Variables
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/247A4C">#247A4C</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/10569C.png?width=30&height=30" alt="#10569C"></td>
+                  <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30" alt="#028134"></td>
                   <td>
                      Strings
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/10569C">#10569C</a>
+                     <a href="https://codigrate.com/en-US/tools/color/028134">#028134</a>
                   </td>
                </tr>
                <tr>
-                  <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
+                  <td><img src="https://codigrate.com/util/color/739E4B.png?width=30&height=30" alt="#739E4B"></td>
                   <td>
                      Metadata
                   </td>
                   <td>
-                     <a href="https://codigrate.com/en-US/tools/color/0A80B3">#0A80B3</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/7A6D14.png?width=30&height=30" alt="#7A6D14"></td>
-                  <td>
-                     Instance Fields
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/7A6D14">#7A6D14</a>
-                  </td>
-               </tr>
-               <tr>
-                  <td><img src="https://codigrate.com/util/color/938920.png?width=30&height=30" alt="#938920"></td>
-                  <td>
-                     Attributes
-                  </td>
-                  <td>
-                     <a href="https://codigrate.com/en-US/tools/color/938920">#938920</a>
+                     <a href="https://codigrate.com/en-US/tools/color/739E4B">#739E4B</a>
                   </td>
                </tr>
                <tr>
@@ -118,143 +91,217 @@
                      <a href="https://codigrate.com/en-US/tools/color/E6C41A">#E6C41A</a>
                   </td>
                </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
+                  <td>
+                     Instance Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/A3860A">#A3860A</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
+                  <td>
+                     Static Fields
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/0A80B3">#0A80B3</a>
+                  </td>
+               </tr>
+               <tr>
+                  <td><img src="https://codigrate.com/util/color/1065B8.png?width=30&height=30" alt="#1065B8"></td>
+                  <td>
+                     Tags
+                  </td>
+                  <td>
+                     <a href="https://codigrate.com/en-US/tools/color/1065B8">#1065B8</a>
+                  </td>
+               </tr>
             </table>
             <br/>
             <br/>
             <b>More Themes by Codigrate</b>
             <table>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/aurora-borealis-theme/icon.png"
-                             alt="Aurora Borealis Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-                            Aurora Borealis Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/everest-theme/icon.png"
-                             alt="Everest Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-                            Everest Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/autumn-theme/icon.png"
-                             alt="Autumn Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-                            Autumn Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sequoia-theme/icon.png"
-                             alt="Sequoia Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
-                            Sequoia Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/sakura-theme/icon.png"
-                             alt="Sakura Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
-                            Sakura Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/nature/roraima-theme/icon.png"
-                             alt="Roraima Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
-                            Roraima Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/miami-theme/icon.png"
-                             alt="Miami Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
-                            Miami Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/istanbul-theme/icon.png"
-                             alt="Istanbul Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-                            Istanbul Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/paris-theme/icon.png"
-                             alt="Paris Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
-                            Paris Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/tokyo-theme/icon.png"
-                             alt="Tokyo Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
-                            Tokyo Theme
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img height="40"
-                             src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/cities/tallinn-theme/icon.png"
-                             alt="Tallinn Theme">
-                    </td>
-                    <td>
-                        <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
-                            Tallinn Theme
-                        </a>
-                    </td>
-                </tr>
+              <!-- Nature -->
+              <tr>
+                <td colspan="4" align="center"><b>Nature</b></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><b>Light</b></td>
+                <td colspan="2" align="center"><b>Dark</b></td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+                        Everest
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+                        Aurora Borealis
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
+                        Sakura
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sequoia-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+                        Sequoia
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+                        Autumn
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/roraima-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
+                        Roraima
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/salda-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Salda
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Ocean
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/spring-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Spring
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/reynisfjara-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Reynisfjara
+                    </a>
+                </td>
+              </tr>
+
+              <!-- Cities -->
+              <tr>
+                <td colspan="4" align="center"><b>Cities</b></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><b>Light</b></td>
+                <td colspan="2" align="center"><b>Dark</b></td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
+                        Istanbul
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+                        Miami
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/rio-de-janeiro-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme">
+                        Rio de Janeiro
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
+                        Paris
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tallinn-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
+                        Tallinn
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
+                        Tokyo
+                    </a>
+                </td>
+              </tr>
+              <tr>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/sydney-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Sydney
+                    </a>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/prague-theme/icon.png" width="70">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Prague
+                    </a>
+                </td>
+              </tr>
             </table>
             <br/>
             <br/>
@@ -280,6 +327,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.8</b>
+            <ul>
+                <li>
+                    Update menu colors
+                </li>
+            </ul>
             <b>2026.1.7</b>
             <ul>
                 <li>
@@ -292,7 +345,7 @@
                     Update naming
                 </li>
                 <li>
-                    Update current branch color
+                    Update the current branch color
                 </li>
             </ul>
             <b>2026.1.5</b>
