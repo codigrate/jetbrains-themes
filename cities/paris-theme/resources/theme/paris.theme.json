@@ -5,24 +5,24 @@
   "editorScheme": "/theme/paris.xml",
   "parentTheme": "Islands Dark",
   "colors": {
-    "surface": "#564245",
-    "borderColor": "#564245",
-    "separatorColor": "#564245",
-    "windowBackground": "#3F3033",
-    "editorBackground": "#271F20",
-    "inputBackground": "#131010",
-    "hoverBackground": "#5A494B",
+    "surface": "#6a3c4d",
+    "borderColor": "#6a3c4d",
+    "separatorColor": "#6a3c4d",
+    "windowBackground": "#4f303c",
+    "editorBackground": "#281d22",
+    "inputBackground": "#100d0e",
+    "hoverBackground": "#3c252d",
     "activeBackground": "#532D33",
     "activeBorderColor": "#994753",
-    "selectionBackground": "#644A4D",
-    "selectionBorderColor": "#A26B72",
-    "selectionInactiveBackground": "#624D50",
-    "selectionInactiveBorderColor": "#9E7176",
-    "alternateBackground": "#5B232A",
-    "searchMatchBackground": "#B5748B",
-    "accentColor": "#D39199",
-    "primaryForeground": "#E8D8DA",
-    "secondaryForeground": "#CAA2A6",
+    "selectionBackground": "#5d3f49",
+    "selectionBorderColor": "#9b6479",
+    "selectionInactiveBackground": "#5b494f",
+    "selectionInactiveBorderColor": "#9b7885",
+    "alternateBackground": "#5E7BB3",
+    "searchMatchBackground": "#b9708c",
+    "accentColor": "#d18fa8",
+    "primaryForeground": "#e6d7dd",
+    "secondaryForeground": "#c79fae",
     "error": "#CE5E5E",
     "errorFocused": "#CB4848",
     "warning": "#CC9D57",
@@ -43,14 +43,17 @@
       "disabledBackground": "windowBackground",
       "borderColor": "borderColor",
       "separatorColor": "separatorColor",
-      "iconColor": "secondaryForeground",
+      "iconColor": "primaryForeground",
       "hoverBackground": "hoverBackground"
     },
     "MainWindow": {
       "background": "surface"
     },
     "MainToolbar": {
-      "borderColor": "transparent"
+      "borderColor": "transparent",
+      "Dropdown": {
+        "transparentHoverBackground": "hoverBackground"
+      }
     },
     "Islands": 1,
     "Island": {

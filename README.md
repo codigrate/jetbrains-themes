@@ -1639,10 +1639,10 @@ Paris
 
 ## Description
 
-Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme trades bright
-champagne for dusty rose accents over deep plum-espresso shadows. Near-black editor tones keep focus
-locked in, while mauve surfaces and wine-tinted hovers bring clarity, with a soft blush accent guiding
-focus across the interface.
+Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty
+rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve
+surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention
+across the interface.
 
 ## Screenshots
 
@@ -1652,30 +1652,39 @@ focus across the interface.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/271F20.png?width=30&height=30" alt="#271F20"></td>
+      <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30" alt="#281D22"></td>
       <td>
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/271F20">#271F20</a>
+         <a href="https://codigrate.com/en-US/tools/color/281D22">#281D22</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/3F3033.png?width=30&height=30" alt="#3F3033"></td>
+      <td><img src="https://codigrate.com/util/color/4F303C.png?width=30&height=30" alt="#4F303C"></td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3F3033">#3F3033</a>
+         <a href="https://codigrate.com/en-US/tools/color/4F303C">#4F303C</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/564245.png?width=30&height=30" alt="#564245"></td>
+      <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30" alt="#6A3C4D"></td>
       <td>
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/564245">#564245</a>
+         <a href="https://codigrate.com/en-US/tools/color/6A3C4D">#6A3C4D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30" alt="#D584A3"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D584A3">#D584A3</a>
       </td>
    </tr>
    <tr>
@@ -1688,15 +1697,6 @@ focus across the interface.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D39199.png?width=30&height=30" alt="#D39199"></td>
-      <td>
-         Accent Color
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/D39199">#D39199</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
       <td>
          Instance Fields
@@ -1706,21 +1706,12 @@ focus across the interface.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D89578.png?width=30&height=30" alt="#D89578"></td>
+      <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30" alt="#FBBA77"></td>
       <td>
-         Keywords
+         Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D89578">#D89578</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/D5CFC6.png?width=30&height=30" alt="#D5CFC6"></td>
-      <td>
-         Tag Colors
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/D5CFC6">#D5CFC6</a>
+         <a href="https://codigrate.com/en-US/tools/color/FBBA77">#FBBA77</a>
       </td>
    </tr>
    <tr>
@@ -1733,12 +1724,21 @@ focus across the interface.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DCC79D.png?width=30&height=30" alt="#DCC79D"></td>
+      <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
-         Static Fields
+         Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DCC79D">#DCC79D</a>
+         <a href="https://codigrate.com/en-US/tools/color/5E7BB3">#5E7BB3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30" alt="#87A1D3"></td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/87A1D3">#87A1D3</a>
       </td>
    </tr>
 </table>

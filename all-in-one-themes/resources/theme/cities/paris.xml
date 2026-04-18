@@ -1,26 +1,26 @@
 <scheme name="Codigrate Paris" version="142" parent_scheme="Darcula">
     <metaInfo>
         <property name="ide">idea</property>
-        <property name="ideVersion">2025.3.1.1.0.0</property>
+        <property name="ideVersion">2026.1.0.0</property>
     </metaInfo>
     <colors>
         <option name="BREADCRUMBS_BORDER_COLOR" value="6B5155" />
-        <option name="CARET_COLOR" value="C88C95" />
-        <option name="CARET_ROW_COLOR" value="4D3D3F" />
+        <option name="CARET_COLOR" value="C38AA4" />
+        <option name="CARET_ROW_COLOR" value="4C3943" />
         <option name="CONSOLE_BACKGROUND_KEY" value="" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2B2B" />
         <option name="DOCUMENTATION_COLOR" value="" />
         <option name="DOC_COMMENT_GUIDE" value="" />
         <option name="DOC_COMMENT_LINK" value="89909F" />
-        <option name="EDITOR_GUTTER_BACKGROUND" value="1E1819" />
+        <option name="EDITOR_GUTTER_BACKGROUND" value="1C1719" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
         <option name="GUTTER_BACKGROUND" value="353535" />
         <option name="INDENT_GUIDE" value="564245" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="" />
-        <option name="LINE_NUMBERS_COLOR" value="9E8185" />
-        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="CE98A0" />
+        <option name="LINE_NUMBERS_COLOR" value="9B7E8B" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="C791AA" />
         <option name="LOOKUP_COLOR" value="" />
         <option name="METHOD_SEPARATORS_COLOR" value="615B46" />
         <option name="MODIFIED_TAB_ICON" value="" />
@@ -136,7 +136,7 @@
         <option name="DEFAULT_FUNCTION_DECLARATION" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="DEFAULT_GLOBAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="a8c7ea" />
+                <option name="FOREGROUND" value="fbba77" />
             </value>
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE" baseAttributes="DEFAULT_STRING" />
@@ -164,7 +164,7 @@
         </option>
         <option name="DEFAULT_KEYWORD">
             <value>
-                <option name="FOREGROUND" value="d89578" />
+                <option name="FOREGROUND" value="d584a3" />
             </value>
         </option>
         <option name="DEFAULT_LINE_COMMENT">
@@ -175,7 +175,7 @@
         </option>
         <option name="DEFAULT_LOCAL_VARIABLE">
             <value>
-                <option name="FOREGROUND" value="c4afed" />
+                <option name="FOREGROUND" value="87a1d3" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -501,7 +501,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="e8e5e5" />
-                <option name="BACKGROUND" value="271f20" />
+                <option name="BACKGROUND" value="281d22" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
