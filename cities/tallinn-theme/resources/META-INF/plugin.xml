@@ -4,7 +4,7 @@
     <id>com.codigrate.tallinn.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.8</version>
+    <version>2026.1.9</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -133,7 +133,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
@@ -141,7 +141,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
@@ -151,7 +151,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
@@ -159,7 +159,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sequoia-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sequoia-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
@@ -169,7 +169,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
@@ -177,7 +177,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/roraima-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/roraima-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
@@ -187,7 +187,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/salda-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/salda-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -195,7 +195,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -205,7 +205,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/spring-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/spring-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -213,7 +213,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/reynisfjara-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/reynisfjara-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -232,7 +232,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
@@ -240,7 +240,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
@@ -250,7 +250,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/rio-de-janeiro-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/rio-de-janeiro-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme">
@@ -258,7 +258,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
@@ -268,7 +268,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tallinn-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tallinn-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
@@ -276,7 +276,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
@@ -286,7 +286,7 @@
               </tr>
               <tr>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/sydney-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/sydney-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -294,7 +294,7 @@
                     </a>
                 </td>
                 <td align="center">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/prague-theme/icon.png" width="70">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/prague-theme/icon.png" width="60">
                 </td>
                 <td>
                     <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
@@ -302,7 +302,27 @@
                     </a>
                 </td>
               </tr>
+              <tr>
+                <td align="center">
+                </td>
+                <td>
+                </td>
+                <td align="center">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/vienna-theme/icon.png" width="60">
+                </td>
+                <td>
+                    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+                        Vienna
+                    </a>
+                </td>
+              </tr>
             </table>
+            <br/>
+            <br/>
+                Enjoying our theme? Giving us a <b>5-star</b> rating on the JetBrains Marketplace helps us grow and create more themes!
+            <br/>
+            <br/>
+                Have feedback or found an issue? Please report it on our <a href="https://github.com/codigrate/jetbrains-themes/issues"><b>Issue Tracker</b></a>.
             <br/>
             <br/>
             <b>Company Website</b>
@@ -327,6 +347,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.9</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>2026.1.8</b>
             <ul>
                 <li>
