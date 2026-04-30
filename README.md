@@ -2254,10 +2254,9 @@ search matches.
 
 ## Description
 
-Inspired by Vienna's royal elegance and its timeless cultural heritage, this theme creates a rich and immersive coding
-atmosphere. Deep velvet reds and dark burgundy tones set a warm, focused stage, while subtle gold and soft rose accents
-reflect a sense of refinement and prestige. The overall balance feels composed yet expressive, offering a calm, intimate
-environment designed for long and uninterrupted coding sessions.
+Inspired by Vienna's refined elegance and cultural heritage, this theme creates a rich, immersive coding atmosphere. 
+Deep velvet reds and burgundy tones set a warm, focused stage, while subtle gold and soft rose accents add a sense of 
+quiet prestige. The result is a calm, intimate environment built for long, uninterrupted sessions.
 
 ## Screenshots
 
