@@ -2234,6 +2234,130 @@ search matches.
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="cities/vienna-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Vienna
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by Vienna's royal elegance and its timeless cultural heritage, this theme creates a rich and immersive coding
+atmosphere. Deep velvet reds and dark burgundy tones set a warm, focused stage, while subtle gold and soft rose accents
+reflect a sense of refinement and prestige. The overall balance feels composed yet expressive, offering a calm, intimate
+environment designed for long and uninterrupted coding sessions.
+
+## Screenshots
+
+<img src="cities/vienna-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2C1D1D.png?width=30&height=30" alt="#2C1D1D"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/2C1D1D">#2C1D1D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/4B2226.png?width=30&height=30" alt="#4B2226"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/4B2226">#4B2226</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/6A2F34.png?width=30&height=30" alt="#6A2F34"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/6A2F34">#6A2F34</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCA826.png?width=30&height=30" alt="#DCA826"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/DCA826">#DCA826</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EACF8C.png?width=30&height=30" alt="#EACF8C"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/EACF8C">#EACF8C</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECC39A.png?width=30&height=30" alt="#ECC39A"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/ECC39A">#ECC39A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F4D8B3.png?width=30&height=30" alt="#F4D8B3"></td>
+      <td>
+         Strings
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/F4D8B3">#F4D8B3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B6A498.png?width=30&height=30" alt="#B6A498"></td>
+      <td>
+         Comments
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B6A498">#B6A498</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/98A67D.png?width=30&height=30" alt="#98A67D"></td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/98A67D">#98A67D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B6C39C.png?width=30&height=30" alt="#B6C39C"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/B6C39C">#B6C39C</a>
+      </td>
+   </tr>
+</table>
+
 ## Collections
 
 <p align="center">
