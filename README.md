@@ -2294,6 +2294,15 @@ environment designed for long and uninterrupted coding sessions.
       </td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/D7999F.png?width=30&height=30" alt="#D7999F"></td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/en-US/tools/color/D7999F">#D7999F</a>
+      </td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/DCA826.png?width=30&height=30" alt="#DCA826"></td>
       <td>
          Keywords
@@ -2327,15 +2336,6 @@ environment designed for long and uninterrupted coding sessions.
       </td>
       <td>
          <a href="https://codigrate.com/en-US/tools/color/F4D8B3">#F4D8B3</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/B6A498.png?width=30&height=30" alt="#B6A498"></td>
-      <td>
-         Comments
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/B6A498">#B6A498</a>
       </td>
    </tr>
    <tr>
