@@ -68,7 +68,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDFEFF">#FDFEFF</a>
+         <a href="https://codigrate.com/tools/color/FDFEFF">#FDFEFF</a>
       </td>
    </tr>
    <tr>
@@ -77,7 +77,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/E4ECEF">#E4ECEF</a>
+         <a href="https://codigrate.com/tools/color/E4ECEF">#E4ECEF</a>
       </td>
    </tr>
    <tr>
@@ -86,7 +86,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1A6D9F">#1A6D9F</a>
+         <a href="https://codigrate.com/tools/color/1A6D9F">#1A6D9F</a>
       </td>
    </tr>
    <tr>
@@ -95,7 +95,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Strings and Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/005E79">#005E79</a>
+         <a href="https://codigrate.com/tools/color/005E79">#005E79</a>
       </td>
    </tr>
    <tr>
@@ -104,7 +104,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/007A47">#007A47</a>
+         <a href="https://codigrate.com/tools/color/007A47">#007A47</a>
       </td>
    </tr>
    <tr>
@@ -113,7 +113,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2E674F">#2E674F</a>
+         <a href="https://codigrate.com/tools/color/2E674F">#2E674F</a>
       </td>
    </tr>
    <tr>
@@ -122,7 +122,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/83529B">#83529B</a>
+         <a href="https://codigrate.com/tools/color/83529B">#83529B</a>
       </td>
    </tr>
    <tr>
@@ -131,7 +131,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8C4069">#8C4069</a>
+         <a href="https://codigrate.com/tools/color/8C4069">#8C4069</a>
       </td>
    </tr>
    <tr>
@@ -140,7 +140,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Active Border Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ED7E5A">#ED7E5A</a>
+         <a href="https://codigrate.com/tools/color/ED7E5A">#ED7E5A</a>
       </td>
    </tr>
    <tr>
@@ -149,7 +149,7 @@ the golden hues of dawn breaking over snow-capped peaks.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8F4446">#8F4446</a>
+         <a href="https://codigrate.com/tools/color/8F4446">#8F4446</a>
       </td>
    </tr>
 </table>
@@ -189,7 +189,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/142B37">#142B37</a>
+         <a href="https://codigrate.com/tools/color/142B37">#142B37</a>
       </td>
    </tr>
    <tr>
@@ -198,7 +198,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/183240">#183240</a>
+         <a href="https://codigrate.com/tools/color/183240">#183240</a>
       </td>
    </tr>
    <tr>
@@ -207,7 +207,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Strings and Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/549EFF">#549EFF</a>
+         <a href="https://codigrate.com/tools/color/549EFF">#549EFF</a>
       </td>
    </tr>
    <tr>
@@ -216,7 +216,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7ACEF5">#7ACEF5</a>
+         <a href="https://codigrate.com/tools/color/7ACEF5">#7ACEF5</a>
       </td>
    </tr>
    <tr>
@@ -225,7 +225,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Tab Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/043A33">#043A33</a>
+         <a href="https://codigrate.com/tools/color/043A33">#043A33</a>
       </td>
    </tr>
    <tr>
@@ -234,7 +234,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/73D379">#73D379</a>
+         <a href="https://codigrate.com/tools/color/73D379">#73D379</a>
       </td>
    </tr>
    <tr>
@@ -243,7 +243,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/05C0A6">#05C0A6</a>
+         <a href="https://codigrate.com/tools/color/05C0A6">#05C0A6</a>
       </td>
    </tr>
    <tr>
@@ -252,7 +252,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BB719B">#BB719B</a>
+         <a href="https://codigrate.com/tools/color/BB719B">#BB719B</a>
       </td>
    </tr>
    <tr>
@@ -261,7 +261,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D193BB">#D193BB</a>
+         <a href="https://codigrate.com/tools/color/D193BB">#D193BB</a>
       </td>
    </tr>
    <tr>
@@ -270,7 +270,7 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BAA5FF">#BAA5FF</a>
+         <a href="https://codigrate.com/tools/color/BAA5FF">#BAA5FF</a>
       </td>
    </tr>
 </table>
@@ -311,7 +311,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
+         <a href="https://codigrate.com/tools/color/FEFCFC">#FEFCFC</a>
       </td>
    </tr>
    <tr>
@@ -320,7 +320,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8DBE6">#F8DBE6</a>
+         <a href="https://codigrate.com/tools/color/F8DBE6">#F8DBE6</a>
       </td>
    </tr>
    <tr>
@@ -329,7 +329,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FFC9DC">#FFC9DC</a>
+         <a href="https://codigrate.com/tools/color/FFC9DC">#FFC9DC</a>
       </td>
    </tr>
    <tr>
@@ -338,7 +338,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CB6B91">#CB6B91</a>
+         <a href="https://codigrate.com/tools/color/CB6B91">#CB6B91</a>
       </td>
    </tr>
    <tr>
@@ -347,7 +347,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/98556C">#98556C</a>
+         <a href="https://codigrate.com/tools/color/98556C">#98556C</a>
       </td>
    </tr>
    <tr>
@@ -356,7 +356,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Active Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DBEACB">#DBEACB</a>
+         <a href="https://codigrate.com/tools/color/DBEACB">#DBEACB</a>
       </td>
    </tr>
    <tr>
@@ -365,7 +365,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/618C71">#618C71</a>
+         <a href="https://codigrate.com/tools/color/618C71">#618C71</a>
       </td>
    </tr>
    <tr>
@@ -374,7 +374,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/69A2BD">#69A2BD</a>
+         <a href="https://codigrate.com/tools/color/69A2BD">#69A2BD</a>
       </td>
    </tr>
    <tr>
@@ -383,7 +383,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/607FA9">#607FA9</a>
+         <a href="https://codigrate.com/tools/color/607FA9">#607FA9</a>
       </td>
    </tr>
    <tr>
@@ -392,7 +392,7 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/687788">#687788</a>
+         <a href="https://codigrate.com/tools/color/687788">#687788</a>
       </td>
    </tr>
 </table>
@@ -433,7 +433,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/20231C">#20231C</a>
+         <a href="https://codigrate.com/tools/color/20231C">#20231C</a>
       </td>
    </tr>
    <tr>
@@ -442,7 +442,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/32382C">#32382C</a>
+         <a href="https://codigrate.com/tools/color/32382C">#32382C</a>
       </td>
    </tr>
    <tr>
@@ -451,7 +451,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/405133">#405133</a>
+         <a href="https://codigrate.com/tools/color/405133">#405133</a>
       </td>
    </tr>
    <tr>
@@ -460,7 +460,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/6E9F56">#6E9F56</a>
+         <a href="https://codigrate.com/tools/color/6E9F56">#6E9F56</a>
       </td>
    </tr>
    <tr>
@@ -469,7 +469,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/369772">#369772</a>
+         <a href="https://codigrate.com/tools/color/369772">#369772</a>
       </td>
    </tr>
    <tr>
@@ -478,7 +478,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A68F59">#A68F59</a>
+         <a href="https://codigrate.com/tools/color/A68F59">#A68F59</a>
       </td>
    </tr>
    <tr>
@@ -487,7 +487,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A67B5B">#A67B5B</a>
+         <a href="https://codigrate.com/tools/color/A67B5B">#A67B5B</a>
       </td>
    </tr>
    <tr>
@@ -496,7 +496,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A86255">#A86255</a>
+         <a href="https://codigrate.com/tools/color/A86255">#A86255</a>
       </td>
    </tr>
    <tr>
@@ -505,7 +505,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/986969">#986969</a>
+         <a href="https://codigrate.com/tools/color/986969">#986969</a>
       </td>
    </tr>
    <tr>
@@ -514,7 +514,7 @@ grounded, tranquil palette guide you through the logical forest of your code eff
          Comments
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/6C625A">#6C625A</a>
+         <a href="https://codigrate.com/tools/color/6C625A">#6C625A</a>
       </td>
    </tr>
 </table>
@@ -554,7 +554,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8F4F1">#F8F4F1</a>
+         <a href="https://codigrate.com/tools/color/F8F4F1">#F8F4F1</a>
       </td>
    </tr>
    <tr>
@@ -563,7 +563,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F4D3BD">#F4D3BD</a>
+         <a href="https://codigrate.com/tools/color/F4D3BD">#F4D3BD</a>
       </td>
    </tr>
    <tr>
@@ -572,7 +572,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BE553E">#BE553E</a>
+         <a href="https://codigrate.com/tools/color/BE553E">#BE553E</a>
       </td>
    </tr>
    <tr>
@@ -581,7 +581,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/773918">#773918</a>
+         <a href="https://codigrate.com/tools/color/773918">#773918</a>
       </td>
    </tr>
    <tr>
@@ -590,7 +590,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B0633A">#B0633A</a>
+         <a href="https://codigrate.com/tools/color/B0633A">#B0633A</a>
       </td>
    </tr>
    <tr>
@@ -599,7 +599,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A87F25">#A87F25</a>
+         <a href="https://codigrate.com/tools/color/A87F25">#A87F25</a>
       </td>
    </tr>
    <tr>
@@ -608,7 +608,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F5B211">#F5B211</a>
+         <a href="https://codigrate.com/tools/color/F5B211">#F5B211</a>
       </td>
    </tr>
    <tr>
@@ -617,7 +617,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Strings and Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1B591E">#1B591E</a>
+         <a href="https://codigrate.com/tools/color/1B591E">#1B591E</a>
       </td>
    </tr>
    <tr>
@@ -626,7 +626,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0E8113">#0E8113</a>
+         <a href="https://codigrate.com/tools/color/0E8113">#0E8113</a>
       </td>
    </tr>
    <tr>
@@ -635,7 +635,7 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/006E83">#006E83</a>
+         <a href="https://codigrate.com/tools/color/006E83">#006E83</a>
       </td>
    </tr>
 </table>
@@ -676,7 +676,7 @@ focused coding experience.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1E1A1B">#1E1A1B</a>
+         <a href="https://codigrate.com/tools/color/1E1A1B">#1E1A1B</a>
       </td>
    </tr>
    <tr>
@@ -685,7 +685,7 @@ focused coding experience.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/322628">#322628</a>
+         <a href="https://codigrate.com/tools/color/322628">#322628</a>
       </td>
    </tr>
    <tr>
@@ -694,7 +694,7 @@ focused coding experience.
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5A261E">#5A261E</a>
+         <a href="https://codigrate.com/tools/color/5A261E">#5A261E</a>
       </td>
    </tr>
    <tr>
@@ -703,7 +703,7 @@ focused coding experience.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D17458">#D17458</a>
+         <a href="https://codigrate.com/tools/color/D17458">#D17458</a>
       </td>
    </tr>
    <tr>
@@ -712,7 +712,7 @@ focused coding experience.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D69568">#D69568</a>
+         <a href="https://codigrate.com/tools/color/D69568">#D69568</a>
       </td>
    </tr>
    <tr>
@@ -721,7 +721,7 @@ focused coding experience.
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D1BA46">#D1BA46</a>
+         <a href="https://codigrate.com/tools/color/D1BA46">#D1BA46</a>
       </td>
    </tr>
    <tr>
@@ -730,7 +730,7 @@ focused coding experience.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DDBE6D">#DDBE6D</a>
+         <a href="https://codigrate.com/tools/color/DDBE6D">#DDBE6D</a>
       </td>
    </tr>
    <tr>
@@ -739,7 +739,7 @@ focused coding experience.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ED8B8B">#ED8B8B</a>
+         <a href="https://codigrate.com/tools/color/ED8B8B">#ED8B8B</a>
       </td>
    </tr>
    <tr>
@@ -748,7 +748,7 @@ focused coding experience.
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8F78B7">#8F78B7</a>
+         <a href="https://codigrate.com/tools/color/8F78B7">#8F78B7</a>
       </td>
    </tr>
    <tr>
@@ -757,7 +757,7 @@ focused coding experience.
          Tag Name
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7E6AA3">#7E6AA3</a>
+         <a href="https://codigrate.com/tools/color/7E6AA3">#7E6AA3</a>
       </td>
    </tr>
 </table>
@@ -801,7 +801,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDFCFA">#FDFCFA</a>
+         <a href="https://codigrate.com/tools/color/FDFCFA">#FDFCFA</a>
       </td>
    </tr>
    <tr>
@@ -810,7 +810,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDF6E7">#FDF6E7</a>
+         <a href="https://codigrate.com/tools/color/FDF6E7">#FDF6E7</a>
       </td>
    </tr>
    <tr>
@@ -819,7 +819,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ECE1C9">#ECE1C9</a>
+         <a href="https://codigrate.com/tools/color/ECE1C9">#ECE1C9</a>
       </td>
    </tr>
    <tr>
@@ -828,7 +828,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A59379">#A59379</a>
+         <a href="https://codigrate.com/tools/color/A59379">#A59379</a>
       </td>
    </tr>
    <tr>
@@ -837,7 +837,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8F6055">#8F6055</a>
+         <a href="https://codigrate.com/tools/color/8F6055">#8F6055</a>
       </td>
    </tr>
    <tr>
@@ -846,7 +846,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Search Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B8E4EC">#B8E4EC</a>
+         <a href="https://codigrate.com/tools/color/B8E4EC">#B8E4EC</a>
       </td>
    </tr>
    <tr>
@@ -855,7 +855,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1397AE">#1397AE</a>
+         <a href="https://codigrate.com/tools/color/1397AE">#1397AE</a>
       </td>
    </tr>
    <tr>
@@ -864,7 +864,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/44849F">#44849F</a>
+         <a href="https://codigrate.com/tools/color/44849F">#44849F</a>
       </td>
    </tr>
    <tr>
@@ -873,7 +873,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/277878">#277878</a>
+         <a href="https://codigrate.com/tools/color/277878">#277878</a>
       </td>
    </tr>
    <tr>
@@ -882,7 +882,7 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0F9363">#0F9363</a>
+         <a href="https://codigrate.com/tools/color/0F9363">#0F9363</a>
       </td>
    </tr>
 </table>
@@ -925,7 +925,7 @@ ensuring an optimal and focused coding experience.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/102B2E">#102B2E</a>
+         <a href="https://codigrate.com/tools/color/102B2E">#102B2E</a>
       </td>
    </tr>
    <tr>
@@ -934,7 +934,7 @@ ensuring an optimal and focused coding experience.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/18383C">#18383C</a>
+         <a href="https://codigrate.com/tools/color/18383C">#18383C</a>
       </td>
    </tr>
    <tr>
@@ -943,7 +943,7 @@ ensuring an optimal and focused coding experience.
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1C4247">#1C4247</a>
+         <a href="https://codigrate.com/tools/color/1C4247">#1C4247</a>
       </td>
    </tr>
    <tr>
@@ -952,7 +952,7 @@ ensuring an optimal and focused coding experience.
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5AB590">#5AB590</a>
+         <a href="https://codigrate.com/tools/color/5AB590">#5AB590</a>
       </td>
    </tr>
    <tr>
@@ -961,7 +961,7 @@ ensuring an optimal and focused coding experience.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3FB4D8">#3FB4D8</a>
+         <a href="https://codigrate.com/tools/color/3FB4D8">#3FB4D8</a>
       </td>
    </tr>
    <tr>
@@ -970,7 +970,7 @@ ensuring an optimal and focused coding experience.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B88BDA">#B88BDA</a>
+         <a href="https://codigrate.com/tools/color/B88BDA">#B88BDA</a>
       </td>
    </tr>
    <tr>
@@ -979,7 +979,7 @@ ensuring an optimal and focused coding experience.
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EE8EBF">#EE8EBF</a>
+         <a href="https://codigrate.com/tools/color/EE8EBF">#EE8EBF</a>
       </td>
    </tr>
    <tr>
@@ -988,7 +988,7 @@ ensuring an optimal and focused coding experience.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DC7783">#DC7783</a>
+         <a href="https://codigrate.com/tools/color/DC7783">#DC7783</a>
       </td>
    </tr>
    <tr>
@@ -997,7 +997,7 @@ ensuring an optimal and focused coding experience.
          Attributes
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DC9577">#DC9577</a>
+         <a href="https://codigrate.com/tools/color/DC9577">#DC9577</a>
       </td>
    </tr>
    <tr>
@@ -1006,7 +1006,7 @@ ensuring an optimal and focused coding experience.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EAC089">#EAC089</a>
+         <a href="https://codigrate.com/tools/color/EAC089">#EAC089</a>
       </td>
    </tr>
 </table>
@@ -1048,7 +1048,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Input Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/060709">#060709</a>
+         <a href="https://codigrate.com/tools/color/060709">#060709</a>
       </td>
    </tr>
    <tr>
@@ -1057,7 +1057,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/151A20">#151A20</a>
+         <a href="https://codigrate.com/tools/color/151A20">#151A20</a>
       </td>
    </tr>
    <tr>
@@ -1066,7 +1066,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/20262C">#20262C</a>
+         <a href="https://codigrate.com/tools/color/20262C">#20262C</a>
       </td>
    </tr>
    <tr>
@@ -1075,7 +1075,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2A3138">#2A3138</a>
+         <a href="https://codigrate.com/tools/color/2A3138">#2A3138</a>
       </td>
    </tr>
    <tr>
@@ -1084,7 +1084,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Selection Border
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7D848D">#7D848D</a>
+         <a href="https://codigrate.com/tools/color/7D848D">#7D848D</a>
       </td>
    </tr>
    <tr>
@@ -1093,7 +1093,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8E8276">#8E8276</a>
+         <a href="https://codigrate.com/tools/color/8E8276">#8E8276</a>
       </td>
    </tr>
    <tr>
@@ -1102,7 +1102,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/AC8563">#AC8563</a>
+         <a href="https://codigrate.com/tools/color/AC8563">#AC8563</a>
       </td>
    </tr>
    <tr>
@@ -1111,7 +1111,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/C5A98F">#C5A98F</a>
+         <a href="https://codigrate.com/tools/color/C5A98F">#C5A98F</a>
       </td>
    </tr>
    <tr>
@@ -1120,7 +1120,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/C3B9AD">#C3B9AD</a>
+         <a href="https://codigrate.com/tools/color/C3B9AD">#C3B9AD</a>
       </td>
    </tr>
    <tr>
@@ -1129,7 +1129,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B1AC9B">#B1AC9B</a>
+         <a href="https://codigrate.com/tools/color/B1AC9B">#B1AC9B</a>
       </td>
    </tr>
 </table>
@@ -1171,7 +1171,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F4FFF1">#F4FFF1</a>
+         <a href="https://codigrate.com/tools/color/F4FFF1">#F4FFF1</a>
       </td>
    </tr>
    <tr>
@@ -1180,7 +1180,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/C8EAB9">#C8EAB9</a>
+         <a href="https://codigrate.com/tools/color/C8EAB9">#C8EAB9</a>
       </td>
    </tr>
    <tr>
@@ -1189,7 +1189,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/559569">#559569</a>
+         <a href="https://codigrate.com/tools/color/559569">#559569</a>
       </td>
    </tr>
    <tr>
@@ -1198,7 +1198,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3C8F63">#3C8F63</a>
+         <a href="https://codigrate.com/tools/color/3C8F63">#3C8F63</a>
       </td>
    </tr>
    <tr>
@@ -1207,7 +1207,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BA6173">#BA6173</a>
+         <a href="https://codigrate.com/tools/color/BA6173">#BA6173</a>
       </td>
    </tr>
    <tr>
@@ -1216,7 +1216,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Attributes
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BD7070">#BD7070</a>
+         <a href="https://codigrate.com/tools/color/BD7070">#BD7070</a>
       </td>
    </tr>
    <tr>
@@ -1225,7 +1225,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/8C68AC">#8C68AC</a>
+         <a href="https://codigrate.com/tools/color/8C68AC">#8C68AC</a>
       </td>
    </tr>
    <tr>
@@ -1234,7 +1234,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/AD91D0">#AD91D0</a>
+         <a href="https://codigrate.com/tools/color/AD91D0">#AD91D0</a>
       </td>
    </tr>
    <tr>
@@ -1243,7 +1243,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/527FB6">#527FB6</a>
+         <a href="https://codigrate.com/tools/color/527FB6">#527FB6</a>
       </td>
    </tr>
    <tr>
@@ -1252,7 +1252,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5E9AAE">#5E9AAE</a>
+         <a href="https://codigrate.com/tools/color/5E9AAE">#5E9AAE</a>
       </td>
    </tr>
 </table>
@@ -1293,7 +1293,7 @@ syntax elements.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FAFDFD">#FAFDFD</a>
+         <a href="https://codigrate.com/tools/color/FAFDFD">#FAFDFD</a>
       </td>
    </tr>
    <tr>
@@ -1302,7 +1302,7 @@ syntax elements.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DBF0F1">#DBF0F1</a>
+         <a href="https://codigrate.com/tools/color/DBF0F1">#DBF0F1</a>
       </td>
    </tr>
    <tr>
@@ -1311,7 +1311,7 @@ syntax elements.
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A3DDE5">#A3DDE5</a>
+         <a href="https://codigrate.com/tools/color/A3DDE5">#A3DDE5</a>
       </td>
    </tr>
    <tr>
@@ -1320,7 +1320,7 @@ syntax elements.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1190A1">#1190A1</a>
+         <a href="https://codigrate.com/tools/color/1190A1">#1190A1</a>
       </td>
    </tr>
    <tr>
@@ -1329,7 +1329,7 @@ syntax elements.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0887B5">#0887B5</a>
+         <a href="https://codigrate.com/tools/color/0887B5">#0887B5</a>
       </td>
    </tr>
    <tr>
@@ -1338,7 +1338,7 @@ syntax elements.
          Active Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EFEAD0">#EFEAD0</a>
+         <a href="https://codigrate.com/tools/color/EFEAD0">#EFEAD0</a>
       </td>
    </tr>
    <tr>
@@ -1347,7 +1347,7 @@ syntax elements.
          Attributes
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B87958">#B87958</a>
+         <a href="https://codigrate.com/tools/color/B87958">#B87958</a>
       </td>
    </tr>
    <tr>
@@ -1356,7 +1356,7 @@ syntax elements.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B8514D">#B8514D</a>
+         <a href="https://codigrate.com/tools/color/B8514D">#B8514D</a>
       </td>
    </tr>
    <tr>
@@ -1365,7 +1365,7 @@ syntax elements.
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/C16979">#C16979</a>
+         <a href="https://codigrate.com/tools/color/C16979">#C16979</a>
       </td>
    </tr>
    <tr>
@@ -1374,7 +1374,7 @@ syntax elements.
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/9C6E7C">#9C6E7C</a>
+         <a href="https://codigrate.com/tools/color/9C6E7C">#9C6E7C</a>
       </td>
    </tr>
 </table>
@@ -1414,7 +1414,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/33121D">#33121D</a>
+         <a href="https://codigrate.com/tools/color/33121D">#33121D</a>
       </td>
    </tr>
    <tr>
@@ -1423,7 +1423,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/532033">#532033</a>
+         <a href="https://codigrate.com/tools/color/532033">#532033</a>
       </td>
    </tr>
    <tr>
@@ -1432,7 +1432,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FF5FA2">#FF5FA2</a>
+         <a href="https://codigrate.com/tools/color/FF5FA2">#FF5FA2</a>
       </td>
    </tr>
    <tr>
@@ -1441,7 +1441,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FE788C">#FE788C</a>
+         <a href="https://codigrate.com/tools/color/FE788C">#FE788C</a>
       </td>
    </tr>
    <tr>
@@ -1450,7 +1450,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FE8078">#FE8078</a>
+         <a href="https://codigrate.com/tools/color/FE8078">#FE8078</a>
       </td>
    </tr>
    <tr>
@@ -1459,7 +1459,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F2A4A0">#F2A4A0</a>
+         <a href="https://codigrate.com/tools/color/F2A4A0">#F2A4A0</a>
       </td>
    </tr>
    <tr>
@@ -1468,7 +1468,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/92B5E8">#92B5E8</a>
+         <a href="https://codigrate.com/tools/color/92B5E8">#92B5E8</a>
       </td>
    </tr>
    <tr>
@@ -1477,7 +1477,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/00D1C1">#00D1C1</a>
+         <a href="https://codigrate.com/tools/color/00D1C1">#00D1C1</a>
       </td>
    </tr>
    <tr>
@@ -1486,7 +1486,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/82D59F">#82D59F</a>
+         <a href="https://codigrate.com/tools/color/82D59F">#82D59F</a>
       </td>
    </tr>
    <tr>
@@ -1495,7 +1495,7 @@ and tropical teals bring energy and clarity to key syntax elements.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8D273">#F8D273</a>
+         <a href="https://codigrate.com/tools/color/F8D273">#F8D273</a>
       </td>
    </tr>
 </table>
@@ -1535,7 +1535,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F7FAF6">#F7FAF6</a>
+         <a href="https://codigrate.com/tools/color/F7FAF6">#F7FAF6</a>
       </td>
    </tr>
    <tr>
@@ -1544,7 +1544,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D9EFD2">#D9EFD2</a>
+         <a href="https://codigrate.com/tools/color/D9EFD2">#D9EFD2</a>
       </td>
    </tr>
    <tr>
@@ -1553,7 +1553,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/85B778">#85B778</a>
+         <a href="https://codigrate.com/tools/color/85B778">#85B778</a>
       </td>
    </tr>
    <tr>
@@ -1562,7 +1562,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/13A166">#13A166</a>
+         <a href="https://codigrate.com/tools/color/13A166">#13A166</a>
       </td>
    </tr>
    <tr>
@@ -1571,7 +1571,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/028134">#028134</a>
+         <a href="https://codigrate.com/tools/color/028134">#028134</a>
       </td>
    </tr>
    <tr>
@@ -1580,7 +1580,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/739E4B">#739E4B</a>
+         <a href="https://codigrate.com/tools/color/739E4B">#739E4B</a>
       </td>
    </tr>
    <tr>
@@ -1589,7 +1589,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/E6C41A">#E6C41A</a>
+         <a href="https://codigrate.com/tools/color/E6C41A">#E6C41A</a>
       </td>
    </tr>
    <tr>
@@ -1598,7 +1598,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A3860A">#A3860A</a>
+         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
       </td>
    </tr>
    <tr>
@@ -1607,7 +1607,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0A80B3">#0A80B3</a>
+         <a href="https://codigrate.com/tools/color/0A80B3">#0A80B3</a>
       </td>
    </tr>
    <tr>
@@ -1616,7 +1616,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
          Tags
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1065B8">#1065B8</a>
+         <a href="https://codigrate.com/tools/color/1065B8">#1065B8</a>
       </td>
    </tr>
 </table>
@@ -1657,7 +1657,7 @@ across the interface.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/281D22">#281D22</a>
+         <a href="https://codigrate.com/tools/color/281D22">#281D22</a>
       </td>
    </tr>
    <tr>
@@ -1666,7 +1666,7 @@ across the interface.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/4F303C">#4F303C</a>
+         <a href="https://codigrate.com/tools/color/4F303C">#4F303C</a>
       </td>
    </tr>
    <tr>
@@ -1675,7 +1675,7 @@ across the interface.
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/6A3C4D">#6A3C4D</a>
+         <a href="https://codigrate.com/tools/color/6A3C4D">#6A3C4D</a>
       </td>
    </tr>
    <tr>
@@ -1684,7 +1684,7 @@ across the interface.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D584A3">#D584A3</a>
+         <a href="https://codigrate.com/tools/color/D584A3">#D584A3</a>
       </td>
    </tr>
    <tr>
@@ -1693,7 +1693,7 @@ across the interface.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DF7583">#DF7583</a>
+         <a href="https://codigrate.com/tools/color/DF7583">#DF7583</a>
       </td>
    </tr>
    <tr>
@@ -1702,7 +1702,7 @@ across the interface.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F3B7A9">#F3B7A9</a>
+         <a href="https://codigrate.com/tools/color/F3B7A9">#F3B7A9</a>
       </td>
    </tr>
    <tr>
@@ -1711,7 +1711,7 @@ across the interface.
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FBBA77">#FBBA77</a>
+         <a href="https://codigrate.com/tools/color/FBBA77">#FBBA77</a>
       </td>
    </tr>
    <tr>
@@ -1720,7 +1720,7 @@ across the interface.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F1C970">#F1C970</a>
+         <a href="https://codigrate.com/tools/color/F1C970">#F1C970</a>
       </td>
    </tr>
    <tr>
@@ -1729,7 +1729,7 @@ across the interface.
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5E7BB3">#5E7BB3</a>
+         <a href="https://codigrate.com/tools/color/5E7BB3">#5E7BB3</a>
       </td>
    </tr>
    <tr>
@@ -1738,7 +1738,7 @@ across the interface.
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/87A1D3">#87A1D3</a>
+         <a href="https://codigrate.com/tools/color/87A1D3">#87A1D3</a>
       </td>
    </tr>
 </table>
@@ -1778,7 +1778,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EDF2FA">#EDF2FA</a>
+         <a href="https://codigrate.com/tools/color/EDF2FA">#EDF2FA</a>
       </td>
    </tr>
    <tr>
@@ -1787,7 +1787,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D0DCEF">#D0DCEF</a>
+         <a href="https://codigrate.com/tools/color/D0DCEF">#D0DCEF</a>
       </td>
    </tr>
    <tr>
@@ -1796,7 +1796,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/377CC1">#377CC1</a>
+         <a href="https://codigrate.com/tools/color/377CC1">#377CC1</a>
       </td>
    </tr>
    <tr>
@@ -1805,7 +1805,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/425EB8">#425EB8</a>
+         <a href="https://codigrate.com/tools/color/425EB8">#425EB8</a>
       </td>
    </tr>
    <tr>
@@ -1814,7 +1814,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/324979">#324979</a>
+         <a href="https://codigrate.com/tools/color/324979">#324979</a>
       </td>
    </tr>
    <tr>
@@ -1823,7 +1823,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/81549C">#81549C</a>
+         <a href="https://codigrate.com/tools/color/81549C">#81549C</a>
       </td>
    </tr>
    <tr>
@@ -1832,7 +1832,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B6564B">#B6564B</a>
+         <a href="https://codigrate.com/tools/color/B6564B">#B6564B</a>
       </td>
    </tr>
    <tr>
@@ -1841,7 +1841,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B1544B">#B1544B</a>
+         <a href="https://codigrate.com/tools/color/B1544B">#B1544B</a>
       </td>
    </tr>
    <tr>
@@ -1850,7 +1850,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/548A64">#548A64</a>
+         <a href="https://codigrate.com/tools/color/548A64">#548A64</a>
       </td>
    </tr>
    <tr>
@@ -1859,7 +1859,7 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1E7857">#1E7857</a>
+         <a href="https://codigrate.com/tools/color/1E7857">#1E7857</a>
       </td>
    </tr>
 </table>
@@ -1900,7 +1900,7 @@ clarity and energy to key syntax elements.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1A1F35">#1A1F35</a>
+         <a href="https://codigrate.com/tools/color/1A1F35">#1A1F35</a>
       </td>
    </tr>
    <tr>
@@ -1909,7 +1909,7 @@ clarity and energy to key syntax elements.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2A3051">#2A3051</a>
+         <a href="https://codigrate.com/tools/color/2A3051">#2A3051</a>
       </td>
    </tr>
    <tr>
@@ -1918,7 +1918,7 @@ clarity and energy to key syntax elements.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7B89C8">#7B89C8</a>
+         <a href="https://codigrate.com/tools/color/7B89C8">#7B89C8</a>
       </td>
    </tr>
    <tr>
@@ -1927,7 +1927,7 @@ clarity and energy to key syntax elements.
          Tag Colors
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7FA0DD">#7FA0DD</a>
+         <a href="https://codigrate.com/tools/color/7FA0DD">#7FA0DD</a>
       </td>
    </tr>
    <tr>
@@ -1936,7 +1936,7 @@ clarity and energy to key syntax elements.
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7285DC">#7285DC</a>
+         <a href="https://codigrate.com/tools/color/7285DC">#7285DC</a>
       </td>
    </tr>
    <tr>
@@ -1945,7 +1945,7 @@ clarity and energy to key syntax elements.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ECA1EB">#ECA1EB</a>
+         <a href="https://codigrate.com/tools/color/ECA1EB">#ECA1EB</a>
       </td>
    </tr>
    <tr>
@@ -1954,7 +1954,7 @@ clarity and energy to key syntax elements.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D3B690">#D3B690</a>
+         <a href="https://codigrate.com/tools/color/D3B690">#D3B690</a>
       </td>
    </tr>
    <tr>
@@ -1963,7 +1963,7 @@ clarity and energy to key syntax elements.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DD9B7F">#DD9B7F</a>
+         <a href="https://codigrate.com/tools/color/DD9B7F">#DD9B7F</a>
       </td>
    </tr>
    <tr>
@@ -1972,7 +1972,7 @@ clarity and energy to key syntax elements.
          Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5CC19D">#5CC19D</a>
+         <a href="https://codigrate.com/tools/color/5CC19D">#5CC19D</a>
       </td>
    </tr>
    <tr>
@@ -1981,7 +1981,7 @@ clarity and energy to key syntax elements.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5DC8D6">#5DC8D6</a>
+         <a href="https://codigrate.com/tools/color/5DC8D6">#5DC8D6</a>
       </td>
    </tr>
 </table>
@@ -2024,7 +2024,7 @@ sunlit feel.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F6F9FA">#F6F9FA</a>
+         <a href="https://codigrate.com/tools/color/F6F9FA">#F6F9FA</a>
       </td>
    </tr>
    <tr>
@@ -2033,7 +2033,7 @@ sunlit feel.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CAE4EC">#CAE4EC</a>
+         <a href="https://codigrate.com/tools/color/CAE4EC">#CAE4EC</a>
       </td>
    </tr>
    <tr>
@@ -2042,7 +2042,7 @@ sunlit feel.
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/73B9D0">#73B9D0</a>
+         <a href="https://codigrate.com/tools/color/73B9D0">#73B9D0</a>
       </td>
    </tr>
    <tr>
@@ -2051,7 +2051,7 @@ sunlit feel.
          Selection Border
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/169DC5">#169DC5</a>
+         <a href="https://codigrate.com/tools/color/169DC5">#169DC5</a>
       </td>
    </tr>
    <tr>
@@ -2060,7 +2060,7 @@ sunlit feel.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2E89A6">#2E89A6</a>
+         <a href="https://codigrate.com/tools/color/2E89A6">#2E89A6</a>
       </td>
    </tr>
    <tr>
@@ -2069,7 +2069,7 @@ sunlit feel.
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2F9383">#2F9383</a>
+         <a href="https://codigrate.com/tools/color/2F9383">#2F9383</a>
       </td>
    </tr>
    <tr>
@@ -2078,7 +2078,7 @@ sunlit feel.
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DCAD42">#DCAD42</a>
+         <a href="https://codigrate.com/tools/color/DCAD42">#DCAD42</a>
       </td>
    </tr>
    <tr>
@@ -2087,7 +2087,7 @@ sunlit feel.
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/AF8427">#AF8427</a>
+         <a href="https://codigrate.com/tools/color/AF8427">#AF8427</a>
       </td>
    </tr>
    <tr>
@@ -2096,7 +2096,7 @@ sunlit feel.
          Active Border
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D17F51">#D17F51</a>
+         <a href="https://codigrate.com/tools/color/D17F51">#D17F51</a>
       </td>
    </tr>
    <tr>
@@ -2105,7 +2105,7 @@ sunlit feel.
          Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/BA7347">#BA7347</a>
+         <a href="https://codigrate.com/tools/color/BA7347">#BA7347</a>
       </td>
    </tr>
 </table>
@@ -2148,7 +2148,7 @@ search matches.
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/0D1D2E">#0D1D2E</a>
+         <a href="https://codigrate.com/tools/color/0D1D2E">#0D1D2E</a>
       </td>
    </tr>
    <tr>
@@ -2157,7 +2157,7 @@ search matches.
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/123151">#123151</a>
+         <a href="https://codigrate.com/tools/color/123151">#123151</a>
       </td>
    </tr>
    <tr>
@@ -2166,7 +2166,7 @@ search matches.
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/113E6B">#113E6B</a>
+         <a href="https://codigrate.com/tools/color/113E6B">#113E6B</a>
       </td>
    </tr>
    <tr>
@@ -2175,7 +2175,7 @@ search matches.
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/74ADF8">#74ADF8</a>
+         <a href="https://codigrate.com/tools/color/74ADF8">#74ADF8</a>
       </td>
    </tr>
    <tr>
@@ -2184,7 +2184,7 @@ search matches.
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/89C5F8">#89C5F8</a>
+         <a href="https://codigrate.com/tools/color/89C5F8">#89C5F8</a>
       </td>
    </tr>
    <tr>
@@ -2193,7 +2193,7 @@ search matches.
          Comments
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/92A3B3">#92A3B3</a>
+         <a href="https://codigrate.com/tools/color/92A3B3">#92A3B3</a>
       </td>
    </tr>
    <tr>
@@ -2202,7 +2202,7 @@ search matches.
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DF865B">#DF865B</a>
+         <a href="https://codigrate.com/tools/color/DF865B">#DF865B</a>
       </td>
    </tr>
    <tr>
@@ -2211,7 +2211,7 @@ search matches.
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EFBA5A">#EFBA5A</a>
+         <a href="https://codigrate.com/tools/color/EFBA5A">#EFBA5A</a>
       </td>
    </tr>
    <tr>
@@ -2220,7 +2220,7 @@ search matches.
          Attributes
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/E3CA77">#E3CA77</a>
+         <a href="https://codigrate.com/tools/color/E3CA77">#E3CA77</a>
       </td>
    </tr>
    <tr>
@@ -2229,7 +2229,7 @@ search matches.
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DCCF9D">#DCCF9D</a>
+         <a href="https://codigrate.com/tools/color/DCCF9D">#DCCF9D</a>
       </td>
    </tr>
 </table>
@@ -2271,7 +2271,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/2C1D1D">#2C1D1D</a>
+         <a href="https://codigrate.com/tools/color/2C1D1D">#2C1D1D</a>
       </td>
    </tr>
    <tr>
@@ -2280,7 +2280,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/4B2226">#4B2226</a>
+         <a href="https://codigrate.com/tools/color/4B2226">#4B2226</a>
       </td>
    </tr>
    <tr>
@@ -2289,7 +2289,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/6A2F34">#6A2F34</a>
+         <a href="https://codigrate.com/tools/color/6A2F34">#6A2F34</a>
       </td>
    </tr>
    <tr>
@@ -2298,7 +2298,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Accent Color
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D7999F">#D7999F</a>
+         <a href="https://codigrate.com/tools/color/D7999F">#D7999F</a>
       </td>
    </tr>
    <tr>
@@ -2307,7 +2307,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/DCA826">#DCA826</a>
+         <a href="https://codigrate.com/tools/color/DCA826">#DCA826</a>
       </td>
    </tr>
    <tr>
@@ -2316,7 +2316,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EACF8C">#EACF8C</a>
+         <a href="https://codigrate.com/tools/color/EACF8C">#EACF8C</a>
       </td>
    </tr>
    <tr>
@@ -2325,7 +2325,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/ECC39A">#ECC39A</a>
+         <a href="https://codigrate.com/tools/color/ECC39A">#ECC39A</a>
       </td>
    </tr>
    <tr>
@@ -2334,7 +2334,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Strings
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F4D8B3">#F4D8B3</a>
+         <a href="https://codigrate.com/tools/color/F4D8B3">#F4D8B3</a>
       </td>
    </tr>
    <tr>
@@ -2343,7 +2343,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Global Variables
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/98A67D">#98A67D</a>
+         <a href="https://codigrate.com/tools/color/98A67D">#98A67D</a>
       </td>
    </tr>
    <tr>
@@ -2352,7 +2352,7 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
          Static Fields
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B6C39C">#B6C39C</a>
+         <a href="https://codigrate.com/tools/color/B6C39C">#B6C39C</a>
       </td>
    </tr>
 </table>
@@ -2400,8 +2400,8 @@ and atmosphere without disrupting your workflow.
 <!-- markdownlint-disable -->
 <table>
    <tr>
-      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
    </tr>
 </table>
 
