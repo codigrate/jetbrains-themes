@@ -610,5 +610,6 @@
         <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
         <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+            <option name="GO_PACKAGE" baseAttributes="DEFAULT_STRING" />
     </attributes>
 </scheme>
