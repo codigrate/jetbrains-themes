@@ -375,11 +375,7 @@
                 <option name="FOREGROUND" value="8a91" />
             </value>
         </option>
-        <option name="GO_PACKAGE">
-            <value>
-                <option name="FOREGROUND" value="805900" />
-            </value>
-        </option>
+        <option name="GO_PACKAGE" baseAttributes="DEFAULT_STRING" />
         <option name="GO_PACKAGE_EXPORTED_CONSTANT">
             <value>
                 <option name="FOREGROUND" value="871094" />
