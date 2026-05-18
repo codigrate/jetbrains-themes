@@ -1624,7 +1624,7 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+   <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
     <img src="cities/paris-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
