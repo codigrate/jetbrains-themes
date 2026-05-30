@@ -2357,6 +2357,130 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="cities/madrid-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Madrid
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by Madrid's sunlit limestone facades, the saffron afternoon light along Gran Vía, and the carmín flash of a
+flamenco dress, this theme creates a warm, luminous coding atmosphere. Cream surfaces and saffron borders set a calm,
+sunlit stage, while terracotta roofs, azulejo teal, olive grove greens, and bougainvillea pinks weave Spanish summer
+into syntax. The result is a bright, elegant environment built for long, focused sessions.
+
+## Screenshots
+
+<img src="cities/madrid-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FBFAF2.png?width=30&height=30" alt="#FBFAF2"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FBFAF2">#FBFAF2</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FDF5DF.png?width=30&height=30" alt="#FDF5DF"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FDF5DF">#FDF5DF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E8C25D.png?width=30&height=30" alt="#E8C25D"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/E8C25D">#E8C25D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DCA225.png?width=30&height=30" alt="#DCA225"></td>
+      <td>
+         Tags
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DCA225">#DCA225</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/976F03.png?width=30&height=30" alt="#976F03"></td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/976F03">#976F03</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD503F.png?width=30&height=30" alt="#BD503F"></td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BD503F">#BD503F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B84440.png?width=30&height=30" alt="#B84440"></td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B84440">#B84440</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/AF6274.png?width=30&height=30" alt="#AF6274"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/AF6274">#AF6274</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/4A8E59.png?width=30&height=30" alt="#4A8E59"></td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/4A8E59">#4A8E59</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/349590.png?width=30&height=30" alt="#349590"></td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/349590">#349590</a>
+      </td>
+   </tr>
+</table>
+
 ## Collections
 
 <p align="center">
