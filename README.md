@@ -2390,15 +2390,6 @@ into syntax. The result is a bright, elegant environment built for long, focused
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FBFAF2.png?width=30&height=30" alt="#FBFAF2"></td>
-      <td>
-         Editor Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/FBFAF2">#FBFAF2</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/FDF5DF.png?width=30&height=30" alt="#FDF5DF"></td>
       <td>
          Window Background
@@ -2426,18 +2417,9 @@ into syntax. The result is a bright, elegant environment built for long, focused
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/976F03.png?width=30&height=30" alt="#976F03"></td>
-      <td>
-         Accent Color
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/976F03">#976F03</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/BD503F.png?width=30&height=30" alt="#BD503F"></td>
       <td>
-         Strings and Numbers
+         Strings
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/BD503F">#BD503F</a>
@@ -2453,21 +2435,39 @@ into syntax. The result is a bright, elegant environment built for long, focused
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/AF6274.png?width=30&height=30" alt="#AF6274"></td>
+      <td><img src="https://codigrate.com/util/color/B36358.png?width=30&height=30" alt="#B36358"></td>
       <td>
          Metadata
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/AF6274">#AF6274</a>
+         <a href="https://codigrate.com/tools/color/B36358">#B36358</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/4A8E59.png?width=30&height=30" alt="#4A8E59"></td>
+      <td><img src="https://codigrate.com/util/color/9F5F58.png?width=30&height=30" alt="#9F5F58"></td>
       <td>
-         Static Fields
+         Local Variables
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/4A8E59">#4A8E59</a>
+         <a href="https://codigrate.com/tools/color/9F5F58">#9F5F58</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7190A6.png?width=30&height=30" alt="#7190A6"></td>
+      <td>
+         Comments
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7190A6">#7190A6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5A91A8.png?width=30&height=30" alt="#5A91A8"></td>
+      <td>
+         Attributes
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5A91A8">#5A91A8</a>
       </td>
    </tr>
    <tr>
