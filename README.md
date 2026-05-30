@@ -2416,6 +2416,24 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
       </td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/A57F02.png?width=30&height=30" alt="#A57F02"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A57F02">#A57F02</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D37969.png?width=30&height=30" alt="#D37969"></td>
+      <td>
+         Metadata
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D37969">#D37969</a>
+      </td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/BD503F.png?width=30&height=30" alt="#BD503F"></td>
       <td>
          Strings
@@ -2434,30 +2452,12 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B36358.png?width=30&height=30" alt="#B36358"></td>
+      <td><img src="https://codigrate.com/util/color/8C2724.png?width=30&height=30" alt="#8C2724"></td>
       <td>
-         Metadata
+         Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/B36358">#B36358</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/9F5F58.png?width=30&height=30" alt="#9F5F58"></td>
-      <td>
-         Local Variables
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/9F5F58">#9F5F58</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/7190A6.png?width=30&height=30" alt="#7190A6"></td>
-      <td>
-         Comments
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/7190A6">#7190A6</a>
+         <a href="https://codigrate.com/tools/color/8C2724">#8C2724</a>
       </td>
    </tr>
    <tr>
