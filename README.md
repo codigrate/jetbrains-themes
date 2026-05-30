@@ -2377,10 +2377,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
 
 ## Description
 
-Inspired by Madrid's sunlit limestone facades, the saffron afternoon light along Gran Vía, and the carmín flash of a
-flamenco dress, this theme creates a warm, luminous coding atmosphere. Cream surfaces and saffron borders set a calm,
-sunlit stage, while terracotta roofs, azulejo teal, olive grove greens, and bougainvillea pinks weave Spanish summer
-into syntax. The result is a bright, elegant environment built for long, focused sessions.
+Inspired by Madrid's sunlit limestone and the carmín flash of a flamenco dress, this theme creates a warm, luminous
+coding atmosphere. Saffron surfaces and terracotta accents set a sunlit stage, while azulejo teal and bougainvillea
+touches add Spanish summer warmth. The result is an elegant, vivid environment built for long, focused sessions.
 
 ## Screenshots
 
