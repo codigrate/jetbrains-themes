@@ -4,7 +4,7 @@
     <id>com.codigrate.autumn.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.14</version>
+    <version>2026.1.15</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -377,6 +377,24 @@
               </tr>
 
               <tr>
+                <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/madrid-theme/icon.png" width="52"></td>
+                <td width="220"><a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes"><b>Madrid</b></a><br/><sub>City - Light</sub></td>
+                <td>
+                  <img src="https://codigrate.com/util/color/FDF5DF.png?width=18&height=18" alt="#FDF5DF">
+                  <img src="https://codigrate.com/util/color/E8C25D.png?width=18&height=18" alt="#E8C25D">
+                  <img src="https://codigrate.com/util/color/DCA225.png?width=18&height=18" alt="#DCA225">
+                  <img src="https://codigrate.com/util/color/A57F02.png?width=18&height=18" alt="#A57F02">
+                  <img src="https://codigrate.com/util/color/D37969.png?width=18&height=18" alt="#D37969">
+                  <img src="https://codigrate.com/util/color/BD503F.png?width=18&height=18" alt="#BD503F">
+                  <img src="https://codigrate.com/util/color/B84440.png?width=18&height=18" alt="#B84440">
+                  <img src="https://codigrate.com/util/color/8C2724.png?width=18&height=18" alt="#8C2724">
+                  <img src="https://codigrate.com/util/color/5A91A8.png?width=18&height=18" alt="#5A91A8">
+                  <img src="https://codigrate.com/util/color/349590.png?width=18&height=18" alt="#349590"><br/>
+                  <sub>Warm - Energetic - Mediterranean</sub>
+                </td>
+              </tr>
+
+              <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29582-miami-theme"><b>Miami</b></a><br/><sub>City – Dark</sub></td>
                 <td>
@@ -496,6 +514,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[ ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.15</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>2026.1.14</b>
             <ul>
                 <li>
