@@ -18,3 +18,4 @@ spring.*
 vienna.*
 madrid.*
 /media
+*-test.json
