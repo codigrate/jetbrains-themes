@@ -1200,12 +1200,12 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E01F2D.png?width=30&height=30" alt="#E01F2D"></td>
+      <td><img src="https://codigrate.com/util/color/D74C57.png?width=30&height=30" alt="#D74C57"></td>
       <td>
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/E01F2D">#E01F2D</a>
+         <a href="https://codigrate.com/tools/color/D74C57">#D74C57</a>
       </td>
    </tr>
    <tr>
@@ -1227,12 +1227,12 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C6BC39.png?width=30&height=30" alt="#C6BC39"></td>
+      <td><img src="https://codigrate.com/util/color/E2BF79.png?width=30&height=30" alt="#E2BF79"></td>
       <td>
-         Warning
+         Parameter
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/C6BC39">#C6BC39</a>
+         <a href="https://codigrate.com/tools/color/E2BF79">#E2BF79</a>
       </td>
    </tr>
    <tr>
