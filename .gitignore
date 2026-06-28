@@ -3,6 +3,8 @@
 */out
 .DS_Store
 /out
+/media
+/test
 
 all-in-one-themes/License.txt
 all-in-one-themes/all-in-one-themes.iml
@@ -17,5 +19,4 @@ reynisfjara.*
 spring.*
 vienna.*
 madrid.*
-/media
-/test
+etna.*

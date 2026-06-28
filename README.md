@@ -1138,6 +1138,127 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+    <img src="nature/etna-theme/icon.png" alt="Logo" width=160>
+  </a>
+</p>
+
+<h1 align="center">
+   Etna
+   <br>
+   (Premium)
+</h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+
+## Description
+
+Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen basalt grey base and layers in the incandescent reds, oranges, and golds of molten lava. The near-neutral charcoal surface keeps long sessions calm, while the warm lava accents draw the eye to what matters.
+
+## Screenshots
+
+<img src="nature/etna-theme/screenshot-1.png" alt="screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/080808.png?width=30&height=30" alt="#080808"></td>
+      <td>
+         Input Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/080808">#080808</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/121111.png?width=30&height=30" alt="#121111"></td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/121111">#121111</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1E1D1D.png?width=30&height=30" alt="#1E1D1D"></td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1E1D1D">#1E1D1D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/222121.png?width=30&height=30" alt="#222121"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/222121">#222121</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E01F2D.png?width=30&height=30" alt="#E01F2D"></td>
+      <td>
+         Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/E01F2D">#E01F2D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C66439.png?width=30&height=30" alt="#C66439"></td>
+      <td>
+         Alternate Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/C66439">#C66439</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E67748.png?width=30&height=30" alt="#E67748"></td>
+      <td>
+         Search Match
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/E67748">#E67748</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C6BC39.png?width=30&height=30" alt="#C6BC39"></td>
+      <td>
+         Warning
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/C6BC39">#C6BC39</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/B3AEAE.png?width=30&height=30" alt="#B3AEAE"></td>
+      <td>
+         Secondary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/B3AEAE">#B3AEAE</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D5CFCF.png?width=30&height=30" alt="#D5CFCF"></td>
+      <td>
+         Primary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D5CFCF">#D5CFCF</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
     <img src="nature/spring-theme/icon.png" alt="Logo" width=160>
   </a>
 </p>
