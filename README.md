@@ -1202,7 +1202,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/F1735F.png?width=30&height=30" alt="#F1735F"></td>
       <td>
-         Function
+         Global Variable
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/F1735F">#F1735F</a>
