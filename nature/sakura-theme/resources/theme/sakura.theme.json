@@ -18,17 +18,19 @@
     "selectionBorderColor": "#DE849E",
     "selectionInactiveBackground": "#E6D1D6",
     "selectionInactiveBorderColor": "#D5A9B4",
-    "alternateBackground": "#80B594",
     "searchMatchBackground": "#DFD7EF",
     "accentColor": "#B54B66",
+    "secondaryAccentColor": "#EFA5BF",
     "primaryForeground": "#3D0013",
     "secondaryForeground": "#94667D",
-    "error": "#CE5E5E",
-    "errorFocused": "#CB4848",
-    "warning": "#CC9D57",
-    "warningFocused": "#D09136",
+    "error": "#BE5C55",
+    "errorFocused": "#C64238",
+    "warning": "#BC9C5C",
+    "warningFocused": "#C49840",
     "info": "#397FB7",
+    "infoFocused": "#2876B4",
     "success": "#30A25E",
+    "successFocused": "#219D53",
     "transparent": "#00000000"
   },
   "ui": {
@@ -216,11 +218,13 @@
       "trackColor": "inputBackground",
       "indeterminateStartColor": "inputBackground",
       "indeterminateEndColor": "inputBackground",
-      "progressColor": "activeBorderColor",
-      "passedColor": "activeBorderColor",
-      "passedEndColor": "activeBorderColor",
+      "progressColor": "secondaryAccentColor",
       "failedColor": "error",
-      "failedEndColor": "error"
+      "failedEndColor": "errorFocused",
+      "warningColor": "warning",
+      "warningEndColor": "warningFocused",
+      "passedColor": "success",
+      "passedEndColor": "successFocused"
     },
     "Popup": {
       "Header": {
@@ -280,7 +284,7 @@
     "ToolWindow": {
       "background": "windowBackground",
       "Button": {
-        "selectedBackground": "alternateBackground",
+        "selectedBackground": "secondaryAccentColor",
         "hoverBackground": "hoverBackground"
       },
       "Header": {
