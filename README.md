@@ -689,12 +689,12 @@ focused coding experience.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5A261E.png?width=30&height=30" alt="#5A261E"></td>
+      <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30" alt="#582F29"></td>
       <td>
          Selection Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/5A261E">#5A261E</a>
+         <a href="https://codigrate.com/tools/color/582F29">#582F29</a>
       </td>
    </tr>
    <tr>
