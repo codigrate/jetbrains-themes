@@ -1191,21 +1191,21 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/222121.png?width=30&height=30" alt="#222121"></td>
-      <td>
-         Surface Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/222121">#222121</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/D74C57.png?width=30&height=30" alt="#D74C57"></td>
       <td>
          Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/D74C57">#D74C57</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F1735F.png?width=30&height=30" alt="#F1735F"></td>
+      <td>
+         Function
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F1735F">#F1735F</a>
       </td>
    </tr>
    <tr>
