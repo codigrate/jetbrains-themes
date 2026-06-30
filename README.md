@@ -1164,15 +1164,6 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/080808.png?width=30&height=30" alt="#080808"></td>
-      <td>
-         Input Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/080808">#080808</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/121111.png?width=30&height=30" alt="#121111"></td>
       <td>
          Editor Background
@@ -1188,6 +1179,15 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/1E1D1D">#1E1D1D</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/222121.png?width=30&height=30" alt="#222121"></td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/222121">#222121</a>
       </td>
    </tr>
    <tr>
