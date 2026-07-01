@@ -1350,12 +1350,12 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D37487.png?width=30&height=30" alt="#D37487"></td>
+      <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30" alt="#DC8395"></td>
       <td>
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/D37487">#D37487</a>
+         <a href="https://codigrate.com/tools/color/DC8395">#DC8395</a>
       </td>
    </tr>
    <tr>
