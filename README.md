@@ -603,12 +603,12 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F5B211.png?width=30&height=30" alt="#F5B211"></td>
+      <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F5B211">#F5B211</a>
+         <a href="https://codigrate.com/tools/color/DEA51D">#DEA51D</a>
       </td>
    </tr>
    <tr>
@@ -1090,7 +1090,7 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/8E8276.png?width=30&height=30" alt="#8E8276"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/8E8276">#8E8276</a>
@@ -1211,7 +1211,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/C66439.png?width=30&height=30" alt="#C66439"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/C66439">#C66439</a>
@@ -1334,7 +1334,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30" alt="#DC8395"></td>
       <td>
-         Attributes
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/DC8395">#DC8395</a>
@@ -1352,7 +1352,7 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/D5B3F4.png?width=30&height=30" alt="#D5B3F4"></td>
       <td>
-         Alternate Background
+         Search Match
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/D5B3F4">#D5B3F4</a>
@@ -1696,30 +1696,12 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/739E4B.png?width=30&height=30" alt="#739E4B"></td>
+      <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
       <td>
-         Metadata
+         Secondary Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/739E4B">#739E4B</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/E6C41A.png?width=30&height=30" alt="#E6C41A"></td>
-      <td>
-         Alternate Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/E6C41A">#E6C41A</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
-      <td>
-         Instance Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
+         <a href="https://codigrate.com/tools/color/2287D5">#2287D5</a>
       </td>
    </tr>
    <tr>
@@ -1738,6 +1720,24 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/1065B8">#1065B8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A3860A">#A3860A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Search Match
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ECDA61">#ECDA61</a>
       </td>
    </tr>
 </table>
@@ -1847,7 +1847,7 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
-         Alternate Background
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/5E7BB3">#5E7BB3</a>
@@ -2178,7 +2178,7 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/0F91C7.png?width=30&height=30" alt="#0F91C7"></td>
       <td>
-         Keywords
+         Secondary Accent
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/0F91C7">#0F91C7</a>
@@ -2196,7 +2196,7 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/ECD268.png?width=30&height=30" alt="#ECD268"></td>
       <td>
-         Alternate Background
+         Search Match
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/ECD268">#ECD268</a>
@@ -2575,7 +2575,7 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/902926.png?width=30&height=30" alt="#902926"></td>
       <td>
-         Alternate Background
+         Active Border
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/902926">#902926</a>
