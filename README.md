@@ -2564,21 +2564,21 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B84440.png?width=30&height=30" alt="#B84440"></td>
+      <td><img src="https://codigrate.com/util/color/B9381B.png?width=30&height=30" alt="#B9381B"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/B84440">#B84440</a>
+         <a href="https://codigrate.com/tools/color/B9381B">#B9381B</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/8C2724.png?width=30&height=30" alt="#8C2724"></td>
+      <td><img src="https://codigrate.com/util/color/B84440.png?width=30&height=30" alt="#B84440"></td>
       <td>
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/8C2724">#8C2724</a>
+         <a href="https://codigrate.com/tools/color/B84440">#B84440</a>
       </td>
    </tr>
    <tr>
