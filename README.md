@@ -2194,12 +2194,12 @@ sunlit feel.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F3D799.png?width=30&height=30" alt="#F3D799"></td>
+      <td><img src="https://codigrate.com/util/color/ECD268.png?width=30&height=30" alt="#ECD268"></td>
       <td>
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F3D799">#F3D799</a>
+         <a href="https://codigrate.com/tools/color/ECD268">#ECD268</a>
       </td>
    </tr>
    <tr>
