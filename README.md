@@ -1332,12 +1332,12 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/BD7070.png?width=30&height=30" alt="#BD7070"></td>
+      <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30" alt="#DC8395"></td>
       <td>
          Attributes
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/BD7070">#BD7070</a>
+         <a href="https://codigrate.com/tools/color/DC8395">#DC8395</a>
       </td>
    </tr>
    <tr>
@@ -1350,12 +1350,12 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30" alt="#DC8395"></td>
+      <td><img src="https://codigrate.com/util/color/DDCBF1.png?width=30&height=30" alt="#DDCBF1"></td>
       <td>
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/DC8395">#DC8395</a>
+         <a href="https://codigrate.com/tools/color/DDCBF1">#DDCBF1</a>
       </td>
    </tr>
    <tr>
