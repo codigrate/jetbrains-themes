@@ -2176,12 +2176,12 @@ sunlit feel.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/2E89A6.png?width=30&height=30" alt="#2E89A6"></td>
+      <td><img src="https://codigrate.com/util/color/0F91C7.png?width=30&height=30" alt="#0F91C7"></td>
       <td>
          Keywords
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/2E89A6">#2E89A6</a>
+         <a href="https://codigrate.com/tools/color/0F91C7">#0F91C7</a>
       </td>
    </tr>
    <tr>
@@ -2194,12 +2194,12 @@ sunlit feel.
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0F91C7.png?width=30&height=30" alt="#0F91C7"></td>
+      <td><img src="https://codigrate.com/util/color/F3D799.png?width=30&height=30" alt="#F3D799"></td>
       <td>
          Alternate Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/0F91C7">#0F91C7</a>
+         <a href="https://codigrate.com/tools/color/F3D799">#F3D799</a>
       </td>
    </tr>
    <tr>
