@@ -37,12 +37,12 @@ So, to not have that issue, please follow the steps below:
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-    <img src="nature/everest-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/everest-theme/icon.png" alt="Everest" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Everest
+   Everest
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22653-everest-theme)
@@ -51,13 +51,11 @@ Everest
 
 ## Description
 
-Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and
-focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke
-the golden hues of dawn breaking over snow-capped peaks.
+Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
 
 ## Screenshots
 
-<img src="nature/everest-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/everest-theme/screenshot-1.png" alt="Everest screenshot">
 
 ## Color Palette
 
@@ -188,12 +186,12 @@ the golden hues of dawn breaking over snow-capped peaks.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-    <img src="nature/aurora-borealis-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/aurora-borealis-theme/icon.png" alt="Aurora Borealis" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Aurora Borealis
+   Aurora Borealis
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme)
@@ -202,13 +200,11 @@ Aurora Borealis
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
-night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern
-Lights. The palette is designed to be straightforward on the eyes, helping you focus and code efficiently.
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
 
 ## Screenshots
 
-<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/aurora-borealis-theme/screenshot-1.png" alt="Aurora Borealis screenshot">
 
 ## Color Palette
 
@@ -339,12 +335,12 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme">
-    <img src="nature/sakura-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/sakura-theme/icon.png" alt="Sakura" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Sakura
+   Sakura
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22872-sakura-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22872-sakura-theme)
@@ -353,14 +349,11 @@ Sakura
 
 ## Description
 
-Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
-Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as
-complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura
-garden, is designed to be straightforward on the eyes, aiding focus and efficient coding.
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
-<img src="nature/sakura-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/sakura-theme/screenshot-1.png" alt="Sakura screenshot">
 
 ## Color Palette
 
@@ -491,12 +484,12 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
-    <img src="nature/sequoia-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/sequoia-theme/icon.png" alt="Sequoia" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Sequoia
+   Sequoia
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22826-sequoia-theme)
@@ -505,14 +498,11 @@ Sequoia
 
 ## Description
 
-Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks
-and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly,
-mirroring the vitality of these magnificent trees. Venture into the digital woods and let its
-grounded, tranquil palette guide you through the logical forest of your code efficiently.
+Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its grounded, tranquil palette guide you through the logical forest of your code efficiently.
 
 ## Screenshots
 
-<img src="nature/sequoia-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/sequoia-theme/screenshot-1.png" alt="Sequoia screenshot">
 
 ## Color Palette
 
@@ -643,12 +633,12 @@ grounded, tranquil palette guide you through the logical forest of your code eff
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-    <img src="nature/autumn-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/autumn-theme/icon.png" alt="Autumn" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Autumn
+   Autumn
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/22700-autumn-theme)
@@ -657,13 +647,11 @@ Autumn
 
 ## Description
 
-Inspired by the warm hues and rustic feel of autumn, this light theme aims to evoke a sense of comfort and
-tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late
-afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
 
 ## Screenshots
 
-<img src="nature/autumn-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/autumn-theme/screenshot-1.png" alt="Autumn screenshot">
 
 ## Color Palette
 
@@ -794,8 +782,8 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme">
-    <img src="nature/roraima-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/roraima-theme/icon.png" alt="Roraima" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -808,14 +796,11 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
 
 ## Description
 
-Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of
-blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day
-transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and
-focused coding experience.
+Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.
 
 ## Screenshots
 
-<img src="nature/roraima-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/roraima-theme/screenshot-1.png" alt="Roraima screenshot">
 
 ## Color Palette
 
@@ -946,8 +931,8 @@ focused coding experience.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="nature/salda-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/salda-theme/icon.png" alt="Salda" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -962,15 +947,11 @@ focused coding experience.
 
 ## Description
 
-Inspired by the crystalline waters and bright white shores of Salda Lake, this light theme brings fresh, airy calm to
-your IDE.
-Clean lake blues and vibrant turquoise tones create a clear, spacious backdrop, while soft beige keeps everything crisp
-and readable.
-The palette is designed to be gentle on the eyes, helping you stay focused and code with clarity.
+
 
 ## Screenshots
 
-<img src="nature/salda-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/salda-theme/screenshot-1.png" alt="Salda screenshot">
 
 ## Color Palette
 
@@ -1101,8 +1082,8 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="nature/ocean-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/ocean-theme/icon.png" alt="Ocean" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -1117,14 +1098,11 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
 
 ## Description
 
-Inspired by the deep and tranquil world of the ocean, this dark theme seamlessly blends layered dark teal tones with
-soft
-cyan highlights and subtle bioluminescent accents. This balanced palette offers a calm and immersive backdrop,
-ensuring an optimal and focused coding experience.
+
 
 ## Screenshots
 
-<img src="nature/ocean-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/ocean-theme/screenshot-1.png" alt="Ocean screenshot">
 
 ## Color Palette
 
@@ -1255,8 +1233,8 @@ ensuring an optimal and focused coding experience.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="nature/reynisfjara-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/reynisfjara-theme/icon.png" alt="Reynisfjara" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -1271,13 +1249,11 @@ ensuring an optimal and focused coding experience.
 
 ## Description
 
-Inspired by the dramatic and windswept shores of Reynisfjara, this dark theme blends deep charcoal surfaces with cool 
-steel-blue tones and subtle icy highlights. The layered contrast between shadowy backgrounds and soft gray-blue accents 
-creates a calm yet striking visual balance, offering a focused and immersive coding environment.
+
 
 ## Screenshots
 
-<img src="nature/reynisfjara-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/reynisfjara-theme/screenshot-1.png" alt="Reynisfjara screenshot">
 
 ## Color Palette
 
@@ -1408,8 +1384,8 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="nature/etna-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/etna-theme/icon.png" alt="Etna" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -1428,7 +1404,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 
 ## Screenshots
 
-<img src="nature/etna-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/etna-theme/screenshot-1.png" alt="Etna screenshot">
 
 ## Color Palette
 
@@ -1559,8 +1535,8 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="nature/spring-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="nature/spring-theme/icon.png" alt="Spring" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -1575,13 +1551,11 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 
 ## Description
 
-Inspired by the vibrant and refreshing essence of the spring season, this light theme brings a sense of renewal to your 
-coding environment. Soft greens, floral pinks, and warm earth tones work together to create a bright yet soothing 
-palette, designed to enhance focus and provide a pleasant visual experience during long development sessions.
+
 
 ## Screenshots
 
-<img src="nature/spring-theme/screenshot-1.png" alt="screenshot">
+<img src="nature/spring-theme/screenshot-1.png" alt="Spring screenshot">
 
 ## Color Palette
 
@@ -1712,12 +1686,12 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-    <img src="cities/istanbul-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/istanbul-theme/icon.png" alt="Istanbul" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Istanbul
+   Istanbul
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29590-istanbul-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29590-istanbul-theme)
@@ -1726,14 +1700,11 @@ Istanbul
 
 ## Description
 
-Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm
-historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the
-editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential
-syntax elements.
+Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.
 
 ## Screenshots
 
-<img src="cities/istanbul-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/istanbul-theme/screenshot-1.png" alt="Istanbul screenshot">
 
 ## Color Palette
 
@@ -1864,12 +1835,12 @@ syntax elements.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
-    <img src="cities/miami-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/miami-theme/icon.png" alt="Miami" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Miami
+   Miami
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
@@ -1878,13 +1849,11 @@ Miami
 
 ## Description
 
-Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents
-to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals,
-and tropical teals bring energy and clarity to key syntax elements.
+Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
 
 ## Screenshots
 
-<img src="cities/miami-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/miami-theme/screenshot-1.png" alt="Miami screenshot">
 
 ## Color Palette
 
@@ -2015,12 +1984,12 @@ and tropical teals bring energy and clarity to key syntax elements.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme">
-    <img src="cities/rio-de-janeiro-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/rio-de-janeiro-theme/icon.png" alt="Rio de Janeiro" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Rio de Janeiro
+   Rio de Janeiro
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29621-rio-de-janeiro-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme)
@@ -2029,13 +1998,11 @@ Rio de Janeiro
 
 ## Description
 
-Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty
-backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and
-calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
 
 ## Screenshots
 
-<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/rio-de-janeiro-theme/screenshot-1.png" alt="Rio de Janeiro screenshot">
 
 ## Color Palette
 
@@ -2166,12 +2133,12 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29603-paris-theme">
-    <img src="cities/paris-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/paris-theme/icon.png" alt="Paris" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Paris
+   Paris
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29582-miami-theme)
@@ -2180,14 +2147,11 @@ Paris
 
 ## Description
 
-Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty
-rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve
-surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention
-across the interface.
+Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
 
 ## Screenshots
 
-<img src="cities/paris-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/paris-theme/screenshot-1.png" alt="Paris screenshot">
 
 ## Color Palette
 
@@ -2318,12 +2282,12 @@ across the interface.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
-    <img src="cities/tallinn-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/tallinn-theme/icon.png" alt="Tallinn" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Tallinn
+   Tallinn
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29671-tallinn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29671-tallinn-theme)
@@ -2332,13 +2296,11 @@ Tallinn
 
 ## Description
 
-Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool
-Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep
-ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 
 ## Screenshots
 
-<img src="cities/tallinn-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/tallinn-theme/screenshot-1.png" alt="Tallinn screenshot">
 
 ## Color Palette
 
@@ -2469,12 +2431,12 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
-    <img src="cities/tokyo-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/tokyo-theme/icon.png" alt="Tokyo" width="160">
+   </a>
 </p>
 
 <h1 align="center">
-Tokyo
+   Tokyo
 </h1>
 
 [![Version](https://img.shields.io/jetbrains/plugin/v/29646-tokyo-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/29646-tokyo-theme)
@@ -2483,14 +2445,11 @@ Tokyo
 
 ## Description
 
-Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme
-blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere.
-Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add
-clarity and energy to key syntax elements.
+Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add clarity and energy to key syntax elements.
 
 ## Screenshots
 
-<img src="cities/tokyo-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/tokyo-theme/screenshot-1.png" alt="Tokyo screenshot">
 
 ## Color Palette
 
@@ -2621,8 +2580,8 @@ clarity and energy to key syntax elements.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="cities/sydney-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/sydney-theme/icon.png" alt="Sydney" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -2637,14 +2596,11 @@ clarity and energy to key syntax elements.
 
 ## Description
 
-Inspired by Sydney’s bright harbor mornings, salt-air breezes, and soft coastal light, this theme keeps the editor clean
-and airy with porcelain whites and misty blues. Gentle ocean surfaces and clear selections preserve focus, while a deep
-teal accent and warm sandstone highlights add contrast across tabs, borders, and search matches without losing the calm,
-sunlit feel.
+
 
 ## Screenshots
 
-<img src="cities/sydney-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/sydney-theme/screenshot-1.png" alt="Sydney screenshot">
 
 ## Color Palette
 
@@ -2775,8 +2731,8 @@ sunlit feel.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="cities/prague-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/prague-theme/icon.png" alt="Prague" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -2791,14 +2747,11 @@ sunlit feel.
 
 ## Description
 
-Inspired by Prague’s midnight river reflections, gothic silhouettes, and warm lamplight on old stone, this theme pairs
-deep cobalt-navy shadows with cool steel blues for a calm, cinematic coding mood. Rich surfaces and crisp selections
-keep focus sharp, while a bright sky-blue accent and subtle golden highlights add contrast across tabs, hovers, and
-search matches.
+
 
 ## Screenshots
 
-<img src="cities/prague-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/prague-theme/screenshot-1.png" alt="Prague screenshot">
 
 ## Color Palette
 
@@ -2929,8 +2882,8 @@ search matches.
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="cities/vienna-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/vienna-theme/icon.png" alt="Vienna" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -2945,13 +2898,11 @@ search matches.
 
 ## Description
 
-Inspired by Vienna's refined elegance and cultural heritage, this theme creates a rich, immersive coding atmosphere. 
-Deep velvet reds and burgundy tones set a warm, focused stage, while subtle gold and soft rose accents add a sense of 
-quiet prestige. The result is a calm, intimate environment built for long, uninterrupted sessions.
+
 
 ## Screenshots
 
-<img src="cities/vienna-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/vienna-theme/screenshot-1.png" alt="Vienna screenshot">
 
 ## Color Palette
 
@@ -3082,8 +3033,8 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-    <img src="cities/madrid-theme/icon.png" alt="Logo" width=160>
-  </a>
+      <img src="cities/madrid-theme/icon.png" alt="Madrid" width="160">
+   </a>
 </p>
 
 <h1 align="center">
@@ -3098,13 +3049,11 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
 
 ## Description
 
-Inspired by Madrid's sunlit limestone and the carmín flash of a flamenco dress, this theme creates a warm, luminous
-coding atmosphere. Saffron surfaces and terracotta accents set a sunlit stage, while azulejo teal and bougainvillea
-touches add Spanish summer warmth. The result is an elegant, vivid environment built for long, focused sessions.
+
 
 ## Screenshots
 
-<img src="cities/madrid-theme/screenshot-1.png" alt="screenshot">
+<img src="cities/madrid-theme/screenshot-1.png" alt="Madrid screenshot">
 
 ## Color Palette
 
@@ -3231,7 +3180,7 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
 </table>
 
-## Collections
+---
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
