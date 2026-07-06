@@ -3286,8 +3286,30 @@ and atmosphere without disrupting your workflow.
 
 ## LICENSE
 
+## Contributing
+
+Issues and suggestions are welcome. Open an issue on this repository, or reach us at [info@codigrate.com](mailto:info@codigrate.com).
+
+## Contributors
+
+<a href="https://github.com/codigrate/jetbrains-themes/graphs/contributors">
+   <img src="https://contrib.rocks/image?repo=codigrate/jetbrains-themes" alt="Contributors"/>
+</a>
+
+## License
+
 The source code for this project is released under the [MIT License](LICENSE).
 
-<br/>
+## Codigrate
+
+Themes, color tools and developer experience products from [Codigrate](https://codigrate.com).
+
+<p align="center">
+   <a href="https://codigrate.com/themes">All Themes</a> ·
+   <a href="https://codigrate.com/tools">Color Tools</a> ·
+   <a href="https://codigrate.com/plugins">Plugins</a> ·
+   <a href="https://codigrate.com/blog">Blog</a> ·
+   <a href="https://github.com/codigrate">GitHub</a>
+</p>
 
 <table align="right"><tr><td><a href="https://codigrate.com"><img src="https://raw.githubusercontent.com/codigrate/codigrate.github.io/main/assets/logo/brand-logo.png" width="50px" alt="logo"/></a></td><td><b>Codigrate © 2026</b></td></tr></table>
