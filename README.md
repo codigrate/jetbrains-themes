@@ -65,6 +65,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30" alt="#FDFEFF"></td>
       <td>
+         Summit Snow
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -73,6 +76,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30" alt="#E4ECEF"></td>
+      <td>
+         Morning Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -83,6 +89,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/1A6D9F.png?width=30&height=30" alt="#1A6D9F"></td>
       <td>
+         Mountain Blue
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -91,6 +100,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/005E79.png?width=30&height=30" alt="#005E79"></td>
+      <td>
+         Blue Ice
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -101,6 +113,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/007A47.png?width=30&height=30" alt="#007A47"></td>
       <td>
+         Juniper
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -109,6 +124,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2E674F.png?width=30&height=30" alt="#2E674F"></td>
+      <td>
+         Pine Ridge
+      </td>
       <td>
          Keywords
       </td>
@@ -119,6 +137,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/83529B.png?width=30&height=30" alt="#83529B"></td>
       <td>
+         Mountain Iris
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -127,6 +148,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8C4069.png?width=30&height=30" alt="#8C4069"></td>
+      <td>
+         Rhododendron
+      </td>
       <td>
          Global Variables
       </td>
@@ -137,6 +161,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    <tr>
       <td><img src="https://codigrate.com/util/color/ED7E5A.png?width=30&height=30" alt="#ED7E5A"></td>
       <td>
+         Sunrise Flame
+      </td>
+      <td>
          Active Border Colors
       </td>
       <td>
@@ -145,6 +172,9 @@ the golden hues of dawn breaking over snow-capped peaks.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8F4446.png?width=30&height=30" alt="#8F4446"></td>
+      <td>
+         Granite Red
+      </td>
       <td>
          Parameters
       </td>
@@ -186,6 +216,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    <tr>
       <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
       <td>
+         Polar Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -193,16 +226,22 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/183240.png?width=30&height=30" alt="#183240"></td>
+      <td><img src="https://codigrate.com/util/color/123243.png?width=30&height=30" alt="#123243"></td>
+      <td>
+         Arctic Depth
+      </td>
       <td>
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/183240">#183240</a>
+         <a href="https://codigrate.com/tools/color/123243">#123243</a>
       </td>
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/549EFF.png?width=30&height=30" alt="#549EFF"></td>
+      <td>
+         Polar Blue
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -213,6 +252,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    <tr>
       <td><img src="https://codigrate.com/util/color/7ACEF5.png?width=30&height=30" alt="#7ACEF5"></td>
       <td>
+         Arctic Cyan
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -221,6 +263,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/043A33.png?width=30&height=30" alt="#043A33"></td>
+      <td>
+         Boreal Pine
+      </td>
       <td>
          Tab Colors
       </td>
@@ -231,6 +276,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    <tr>
       <td><img src="https://codigrate.com/util/color/73D379.png?width=30&height=30" alt="#73D379"></td>
       <td>
+         Northern Green
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -239,6 +287,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/05C0A6.png?width=30&height=30" alt="#05C0A6"></td>
+      <td>
+         Teal Glow
+      </td>
       <td>
          Local Variables
       </td>
@@ -249,6 +300,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    <tr>
       <td><img src="https://codigrate.com/util/color/BB719B.png?width=30&height=30" alt="#BB719B"></td>
       <td>
+         Twilight Rose
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -258,6 +312,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    <tr>
       <td><img src="https://codigrate.com/util/color/D193BB.png?width=30&height=30" alt="#D193BB"></td>
       <td>
+         Pink Aurora
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -266,6 +323,9 @@ Lights. The palette is designed to be straightforward on the eyes, helping you f
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BAA5FF.png?width=30&height=30" alt="#BAA5FF"></td>
+      <td>
+         Lavender Light
+      </td>
       <td>
          Parameters
       </td>
@@ -308,6 +368,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    <tr>
       <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
       <td>
+         Blossom White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -316,6 +379,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
+      <td>
+         Petal Veil
+      </td>
       <td>
          Surface Background
       </td>
@@ -326,6 +392,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    <tr>
       <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30" alt="#FFC9DC"></td>
       <td>
+         Full Bloom
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -334,6 +403,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/CB6B91.png?width=30&height=30" alt="#CB6B91"></td>
+      <td>
+         Rose Garden
+      </td>
       <td>
          Parameters
       </td>
@@ -344,6 +416,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    <tr>
       <td><img src="https://codigrate.com/util/color/98556C.png?width=30&height=30" alt="#98556C"></td>
       <td>
+         Plum Wine
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -352,6 +427,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBEACB.png?width=30&height=30" alt="#DBEACB"></td>
+      <td>
+         Spring Leaf
+      </td>
       <td>
          Active Background
       </td>
@@ -362,6 +440,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    <tr>
       <td><img src="https://codigrate.com/util/color/618C71.png?width=30&height=30" alt="#618C71"></td>
       <td>
+         Tea Leaf
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -370,6 +451,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/69A2BD.png?width=30&height=30" alt="#69A2BD"></td>
+      <td>
+         Spring Rain
+      </td>
       <td>
          Static Fields
       </td>
@@ -380,6 +464,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    <tr>
       <td><img src="https://codigrate.com/util/color/607FA9.png?width=30&height=30" alt="#607FA9"></td>
       <td>
+         River Stone
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -388,6 +475,9 @@ garden, is designed to be straightforward on the eyes, aiding focus and efficien
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/687788.png?width=30&height=30" alt="#687788"></td>
+      <td>
+         Morning Fog
+      </td>
       <td>
          Global Variables
       </td>
@@ -430,6 +520,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    <tr>
       <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
       <td>
+         Forest Floor
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -438,6 +531,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30" alt="#32382C"></td>
+      <td>
+         Evergreen Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -448,6 +544,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    <tr>
       <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30" alt="#405133"></td>
       <td>
+         Fern Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -456,6 +555,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6E9F56.png?width=30&height=30" alt="#6E9F56"></td>
+      <td>
+         Meadow Green
+      </td>
       <td>
          Instance Fields
       </td>
@@ -466,6 +568,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    <tr>
       <td><img src="https://codigrate.com/util/color/369772.png?width=30&height=30" alt="#369772"></td>
       <td>
+         Jade Moss
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -474,6 +579,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A68F59.png?width=30&height=30" alt="#A68F59"></td>
+      <td>
+         Golden Bark
+      </td>
       <td>
          Strings
       </td>
@@ -484,6 +592,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    <tr>
       <td><img src="https://codigrate.com/util/color/A67B5B.png?width=30&height=30" alt="#A67B5B"></td>
       <td>
+         Warm Timber
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -492,6 +603,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A86255.png?width=30&height=30" alt="#A86255"></td>
+      <td>
+         Redwood Clay
+      </td>
       <td>
          Local Variables
       </td>
@@ -502,6 +616,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    <tr>
       <td><img src="https://codigrate.com/util/color/986969.png?width=30&height=30" alt="#986969"></td>
       <td>
+         Faded Rosewood
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -510,6 +627,9 @@ grounded, tranquil palette guide you through the logical forest of your code eff
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/6C625A.png?width=30&height=30" alt="#6C625A"></td>
+      <td>
+         Driftwood
+      </td>
       <td>
          Comments
       </td>
@@ -551,6 +671,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    <tr>
       <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
       <td>
+         Pale Birch
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -559,6 +682,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F4D3BD.png?width=30&height=30" alt="#F4D3BD"></td>
+      <td>
+         Apricot Haze
+      </td>
       <td>
          Selection Background
       </td>
@@ -569,6 +695,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    <tr>
       <td><img src="https://codigrate.com/util/color/BE553E.png?width=30&height=30" alt="#BE553E"></td>
       <td>
+         Maple Rust
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -577,6 +706,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/773918.png?width=30&height=30" alt="#773918"></td>
+      <td>
+         Acorn Brown
+      </td>
       <td>
          Metadata
       </td>
@@ -587,6 +719,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    <tr>
       <td><img src="https://codigrate.com/util/color/B0633A.png?width=30&height=30" alt="#B0633A"></td>
       <td>
+         Copper Leaf
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -595,6 +730,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A87F25.png?width=30&height=30" alt="#A87F25"></td>
+      <td>
+         Harvest Gold
+      </td>
       <td>
          Instance Fields
       </td>
@@ -605,6 +743,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    <tr>
       <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
       <td>
+         Golden Leaf
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -613,6 +754,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
+      <td>
+         Pine Shadow
+      </td>
       <td>
          Strings and Numbers
       </td>
@@ -623,6 +767,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    <tr>
       <td><img src="https://codigrate.com/util/color/0E8113.png?width=30&height=30" alt="#0E8113"></td>
       <td>
+         Evergreen
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -631,6 +778,9 @@ afternoon sunlight. The palette is designed to be gentle on the eyes, promoting 
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/006E83.png?width=30&height=30" alt="#006E83"></td>
+      <td>
+         Mallard Teal
+      </td>
       <td>
          Keywords
       </td>
@@ -673,6 +823,9 @@ focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
       <td>
+         Tepui Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -681,6 +834,9 @@ focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/322628.png?width=30&height=30" alt="#322628"></td>
+      <td>
+         Canyon Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -691,6 +847,9 @@ focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/582F29.png?width=30&height=30" alt="#582F29"></td>
       <td>
+         Terracotta Shade
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -699,6 +858,9 @@ focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D17458.png?width=30&height=30" alt="#D17458"></td>
+      <td>
+         Coral Canyon
+      </td>
       <td>
          Keywords
       </td>
@@ -709,6 +871,9 @@ focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/D69568.png?width=30&height=30" alt="#D69568"></td>
       <td>
+         Amber Sand
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -717,6 +882,9 @@ focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D1BA46.png?width=30&height=30" alt="#D1BA46"></td>
+      <td>
+         Savanna Gold
+      </td>
       <td>
          Metadata
       </td>
@@ -727,6 +895,9 @@ focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/DDBE6D.png?width=30&height=30" alt="#DDBE6D"></td>
       <td>
+         Dry Grass
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -735,6 +906,9 @@ focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ED8B8B.png?width=30&height=30" alt="#ED8B8B"></td>
+      <td>
+         Pink Quartz
+      </td>
       <td>
          Static Fields
       </td>
@@ -745,6 +919,9 @@ focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/8F78B7.png?width=30&height=30" alt="#8F78B7"></td>
       <td>
+         Orchid Mist
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -753,6 +930,9 @@ focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7E6AA3.png?width=30&height=30" alt="#7E6AA3"></td>
+      <td>
+         Twilight Violet
+      </td>
       <td>
          Tag Name
       </td>
@@ -798,6 +978,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    <tr>
       <td><img src="https://codigrate.com/util/color/FDFCFA.png?width=30&height=30" alt="#FDFCFA"></td>
       <td>
+         White Sand
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -806,6 +989,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FDF6E7.png?width=30&height=30" alt="#FDF6E7"></td>
+      <td>
+         Warm Shore
+      </td>
       <td>
          Window Background
       </td>
@@ -816,6 +1002,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    <tr>
       <td><img src="https://codigrate.com/util/color/ECE1C9.png?width=30&height=30" alt="#ECE1C9"></td>
       <td>
+         Sandbank
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -824,6 +1013,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A59379.png?width=30&height=30" alt="#A59379"></td>
+      <td>
+         Lakeside Taupe
+      </td>
       <td>
          Metadata
       </td>
@@ -834,6 +1026,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    <tr>
       <td><img src="https://codigrate.com/util/color/8F6055.png?width=30&height=30" alt="#8F6055"></td>
       <td>
+         Cedar Root
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -842,6 +1037,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8E4EC.png?width=30&height=30" alt="#B8E4EC"></td>
+      <td>
+         Shallow Turquoise
+      </td>
       <td>
          Search Background
       </td>
@@ -852,6 +1050,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    <tr>
       <td><img src="https://codigrate.com/util/color/1397AE.png?width=30&height=30" alt="#1397AE"></td>
       <td>
+         Lagoon Blue
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -860,6 +1061,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/44849F.png?width=30&height=30" alt="#44849F"></td>
+      <td>
+         Evening Lake
+      </td>
       <td>
          Keywords
       </td>
@@ -870,6 +1074,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    <tr>
       <td><img src="https://codigrate.com/util/color/277878.png?width=30&height=30" alt="#277878"></td>
       <td>
+         Juniper Teal
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -878,6 +1085,9 @@ The palette is designed to be gentle on the eyes, helping you stay focused and c
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/0F9363.png?width=30&height=30" alt="#0F9363"></td>
+      <td>
+         Oasis Green
+      </td>
       <td>
          Parameters
       </td>
@@ -922,6 +1132,9 @@ ensuring an optimal and focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/102B2E.png?width=30&height=30" alt="#102B2E"></td>
       <td>
+         Deep Water
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -930,6 +1143,9 @@ ensuring an optimal and focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/18383C.png?width=30&height=30" alt="#18383C"></td>
+      <td>
+         Dark Current
+      </td>
       <td>
          Window Background
       </td>
@@ -940,6 +1156,9 @@ ensuring an optimal and focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/1C4247.png?width=30&height=30" alt="#1C4247"></td>
       <td>
+         Deep Reef
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -948,6 +1167,9 @@ ensuring an optimal and focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5AB590.png?width=30&height=30" alt="#5AB590"></td>
+      <td>
+         Kelp Green
+      </td>
       <td>
          Tags
       </td>
@@ -958,6 +1180,9 @@ ensuring an optimal and focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/3FB4D8.png?width=30&height=30" alt="#3FB4D8"></td>
       <td>
+         Surface Blue
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -966,6 +1191,9 @@ ensuring an optimal and focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B88BDA.png?width=30&height=30" alt="#B88BDA"></td>
+      <td>
+         Sea Lavender
+      </td>
       <td>
          Static Fields
       </td>
@@ -976,6 +1204,9 @@ ensuring an optimal and focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/EE8EBF.png?width=30&height=30" alt="#EE8EBF"></td>
       <td>
+         Anemone Pink
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -984,6 +1215,9 @@ ensuring an optimal and focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DC7783.png?width=30&height=30" alt="#DC7783"></td>
+      <td>
+         Coral Bloom
+      </td>
       <td>
          Instance Fields
       </td>
@@ -994,6 +1228,9 @@ ensuring an optimal and focused coding experience.
    <tr>
       <td><img src="https://codigrate.com/util/color/DC9577.png?width=30&height=30" alt="#DC9577"></td>
       <td>
+         Salmon Drift
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -1002,6 +1239,9 @@ ensuring an optimal and focused coding experience.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EAC089.png?width=30&height=30" alt="#EAC089"></td>
+      <td>
+         Shell Gold
+      </td>
       <td>
          Parameters
       </td>
@@ -1045,6 +1285,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/060709.png?width=30&height=30" alt="#060709"></td>
       <td>
+         Sea Cave
+      </td>
+      <td>
          Input Background
       </td>
       <td>
@@ -1053,6 +1296,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/151A20.png?width=30&height=30" alt="#151A20"></td>
+      <td>
+         Black Sand
+      </td>
       <td>
          Editor Background
       </td>
@@ -1063,6 +1309,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/20262C.png?width=30&height=30" alt="#20262C"></td>
       <td>
+         Basalt Column
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -1071,6 +1320,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2A3138.png?width=30&height=30" alt="#2A3138"></td>
+      <td>
+         Dark Shore
+      </td>
       <td>
          Surface Background
       </td>
@@ -1081,6 +1333,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/7D848D.png?width=30&height=30" alt="#7D848D"></td>
       <td>
+         Gull Grey
+      </td>
+      <td>
          Selection Border
       </td>
       <td>
@@ -1089,6 +1344,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/8E8276.png?width=30&height=30" alt="#8E8276"></td>
+      <td>
+         Beach Pebble
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -1099,6 +1357,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/AC8563.png?width=30&height=30" alt="#AC8563"></td>
       <td>
+         Kelp Brown
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -1107,6 +1368,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/C5A98F.png?width=30&height=30" alt="#C5A98F"></td>
+      <td>
+         Dune Grass
+      </td>
       <td>
          Local Variables
       </td>
@@ -1117,6 +1381,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    <tr>
       <td><img src="https://codigrate.com/util/color/C3B9AD.png?width=30&height=30" alt="#C3B9AD"></td>
       <td>
+         Bleached Stone
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1125,6 +1392,9 @@ creates a calm yet striking visual balance, offering a focused and immersive cod
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B1AC9B.png?width=30&height=30" alt="#B1AC9B"></td>
+      <td>
+         Lichen Stone
+      </td>
       <td>
          Tags
       </td>
@@ -1166,6 +1436,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/121111.png?width=30&height=30" alt="#121111"></td>
       <td>
+         Volcanic Ash
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1174,6 +1447,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1E1D1D.png?width=30&height=30" alt="#1E1D1D"></td>
+      <td>
+         Basalt Grey
+      </td>
       <td>
          Window Background
       </td>
@@ -1184,6 +1460,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/222121.png?width=30&height=30" alt="#222121"></td>
       <td>
+         Ash Stone
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -1192,6 +1471,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D74C57.png?width=30&height=30" alt="#D74C57"></td>
+      <td>
+         Lava Rose
+      </td>
       <td>
          Accent
       </td>
@@ -1202,6 +1484,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/F1735F.png?width=30&height=30" alt="#F1735F"></td>
       <td>
+         Ember Coral
+      </td>
+      <td>
          Global Variable
       </td>
       <td>
@@ -1210,6 +1495,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/C66439.png?width=30&height=30" alt="#C66439"></td>
+      <td>
+         Burnt Sienna
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -1220,6 +1508,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/E67748.png?width=30&height=30" alt="#E67748"></td>
       <td>
+         Molten Glow
+      </td>
+      <td>
          Search Match
       </td>
       <td>
@@ -1228,6 +1519,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/E2BF79.png?width=30&height=30" alt="#E2BF79"></td>
+      <td>
+         Ash Gold
+      </td>
       <td>
          Parameter
       </td>
@@ -1238,6 +1532,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <tr>
       <td><img src="https://codigrate.com/util/color/B3AEAE.png?width=30&height=30" alt="#B3AEAE"></td>
       <td>
+         Smoke Veil
+      </td>
+      <td>
          Secondary Foreground
       </td>
       <td>
@@ -1246,6 +1543,9 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D5CFCF.png?width=30&height=30" alt="#D5CFCF"></td>
+      <td>
+         White Ash
+      </td>
       <td>
          Primary Foreground
       </td>
@@ -1289,6 +1589,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/F4FFF1.png?width=30&height=30" alt="#F4FFF1"></td>
       <td>
+         Mint Air
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -1297,6 +1600,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/C8EAB9.png?width=30&height=30" alt="#C8EAB9"></td>
+      <td>
+         New Grass
+      </td>
       <td>
          Surface Background
       </td>
@@ -1307,6 +1613,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/559569.png?width=30&height=30" alt="#559569"></td>
       <td>
+         Garden Green
+      </td>
+      <td>
          Tags
       </td>
       <td>
@@ -1315,6 +1624,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/3C8F63.png?width=30&height=30" alt="#3C8F63"></td>
+      <td>
+         Fern Hollow
+      </td>
       <td>
          Instance Fields
       </td>
@@ -1325,6 +1637,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/BA6173.png?width=30&height=30" alt="#BA6173"></td>
       <td>
+         Peony Rose
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -1333,6 +1648,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DC8395.png?width=30&height=30" alt="#DC8395"></td>
+      <td>
+         Rosebud
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -1343,6 +1661,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/8C68AC.png?width=30&height=30" alt="#8C68AC"></td>
       <td>
+         Violet Bloom
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1351,6 +1672,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D5B3F4.png?width=30&height=30" alt="#D5B3F4"></td>
+      <td>
+         Lilac Bloom
+      </td>
       <td>
          Search Match
       </td>
@@ -1361,6 +1685,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    <tr>
       <td><img src="https://codigrate.com/util/color/527FB6.png?width=30&height=30" alt="#527FB6"></td>
       <td>
+         Rain Blue
+      </td>
+      <td>
          Local Variables
       </td>
       <td>
@@ -1369,6 +1696,9 @@ palette, designed to enhance focus and provide a pleasant visual experience duri
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5E9AAE.png?width=30&height=30" alt="#5E9AAE"></td>
+      <td>
+         Pond Blue
+      </td>
       <td>
          Parameters
       </td>
@@ -1411,6 +1741,9 @@ syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/FAFDFD.png?width=30&height=30" alt="#FAFDFD"></td>
       <td>
+         Marble White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1419,6 +1752,9 @@ syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DBF0F1.png?width=30&height=30" alt="#DBF0F1"></td>
+      <td>
+         Bosphorus Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -1429,6 +1765,9 @@ syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30" alt="#A3DDE5"></td>
       <td>
+         Sea Glass
+      </td>
+      <td>
          Selection Background
       </td>
       <td>
@@ -1437,6 +1776,9 @@ syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1190A1.png?width=30&height=30" alt="#1190A1"></td>
+      <td>
+         Bosphorus Teal
+      </td>
       <td>
          Keywords
       </td>
@@ -1447,6 +1789,9 @@ syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/0887B5.png?width=30&height=30" alt="#0887B5"></td>
       <td>
+         Marmara Blue
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1455,6 +1800,9 @@ syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EFEAD0.png?width=30&height=30" alt="#EFEAD0"></td>
+      <td>
+         Old Parchment
+      </td>
       <td>
          Active Background
       </td>
@@ -1465,6 +1813,9 @@ syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/B87958.png?width=30&height=30" alt="#B87958"></td>
       <td>
+         Copper Bazaar
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -1473,6 +1824,9 @@ syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B8514D.png?width=30&height=30" alt="#B8514D"></td>
+      <td>
+         Rooftop Red
+      </td>
       <td>
          Parameters
       </td>
@@ -1483,6 +1837,9 @@ syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/C16979.png?width=30&height=30" alt="#C16979"></td>
       <td>
+         Tulip Pink
+      </td>
+      <td>
          Tags
       </td>
       <td>
@@ -1491,6 +1848,9 @@ syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/9C6E7C.png?width=30&height=30" alt="#9C6E7C"></td>
+      <td>
+         Ottoman Rose
+      </td>
       <td>
          Metadata
       </td>
@@ -1532,6 +1892,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
       <td>
+         Midnight Vice
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1540,6 +1903,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/532033.png?width=30&height=30" alt="#532033"></td>
+      <td>
+         Plum Night
+      </td>
       <td>
          Window Background
       </td>
@@ -1550,6 +1916,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
       <td>
+         Miami Pink
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -1558,6 +1927,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/FE788C.png?width=30&height=30" alt="#FE788C"></td>
+      <td>
+         Flamingo
+      </td>
       <td>
          Tag Colors
       </td>
@@ -1568,6 +1940,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/FE8078.png?width=30&height=30" alt="#FE8078"></td>
       <td>
+         Sunset Coral
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1576,6 +1951,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F2A4A0.png?width=30&height=30" alt="#F2A4A0"></td>
+      <td>
+         Coral Haze
+      </td>
       <td>
          Keywords
       </td>
@@ -1586,6 +1964,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/92B5E8.png?width=30&height=30" alt="#92B5E8"></td>
       <td>
+         Art Deco Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1594,6 +1975,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/00D1C1.png?width=30&height=30" alt="#00D1C1"></td>
+      <td>
+         Electric Aqua
+      </td>
       <td>
          Parameters
       </td>
@@ -1604,6 +1988,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/82D59F.png?width=30&height=30" alt="#82D59F"></td>
       <td>
+         Palm Green
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -1612,6 +1999,9 @@ and tropical teals bring energy and clarity to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8D273.png?width=30&height=30" alt="#F8D273"></td>
+      <td>
+         Golden Sand
+      </td>
       <td>
          Strings
       </td>
@@ -1653,6 +2043,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    <tr>
       <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
       <td>
+         Morning Breeze
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1661,6 +2054,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D9EFD2.png?width=30&height=30" alt="#D9EFD2"></td>
+      <td>
+         Palm Shade
+      </td>
       <td>
          Window Background
       </td>
@@ -1671,6 +2067,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    <tr>
       <td><img src="https://codigrate.com/util/color/85B778.png?width=30&height=30" alt="#85B778"></td>
       <td>
+         Jungle Canopy
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -1679,6 +2078,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/13A166.png?width=30&height=30" alt="#13A166"></td>
+      <td>
+         Emerald Palm
+      </td>
       <td>
          Keywords
       </td>
@@ -1689,6 +2091,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    <tr>
       <td><img src="https://codigrate.com/util/color/028134.png?width=30&height=30" alt="#028134"></td>
       <td>
+         Deep Jungle
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1697,6 +2102,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2287D5.png?width=30&height=30" alt="#2287D5"></td>
+      <td>
+         Guanabara Blue
+      </td>
       <td>
          Secondary Accent
       </td>
@@ -1707,6 +2115,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    <tr>
       <td><img src="https://codigrate.com/util/color/0A80B3.png?width=30&height=30" alt="#0A80B3"></td>
       <td>
+         Atlantic Blue
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1715,6 +2126,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1065B8.png?width=30&height=30" alt="#1065B8"></td>
+      <td>
+         Bay Blue
+      </td>
       <td>
          Tags
       </td>
@@ -1725,6 +2139,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    <tr>
       <td><img src="https://codigrate.com/util/color/A3860A.png?width=30&height=30" alt="#A3860A"></td>
       <td>
+         Golden Samba
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1733,6 +2150,9 @@ calm for long sessions, while crisp greens and balanced accents keep syntax read
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECDA61.png?width=30&height=30" alt="#ECDA61"></td>
+      <td>
+         Ipanema Sun
+      </td>
       <td>
          Search Match
       </td>
@@ -1775,6 +2195,9 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/281D22.png?width=30&height=30" alt="#281D22"></td>
       <td>
+         Parisian Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1783,6 +2206,9 @@ across the interface.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4F303C.png?width=30&height=30" alt="#4F303C"></td>
+      <td>
+         Cabaret Shadow
+      </td>
       <td>
          Window Background
       </td>
@@ -1793,6 +2219,9 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/6A3C4D.png?width=30&height=30" alt="#6A3C4D"></td>
       <td>
+         Rosewood
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -1801,6 +2230,9 @@ across the interface.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D584A3.png?width=30&height=30" alt="#D584A3"></td>
+      <td>
+         Montmartre Rose
+      </td>
       <td>
          Keywords
       </td>
@@ -1811,6 +2243,9 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/DF7583.png?width=30&height=30" alt="#DF7583"></td>
       <td>
+         Cherry Macaron
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -1819,6 +2254,9 @@ across the interface.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F3B7A9.png?width=30&height=30" alt="#F3B7A9"></td>
+      <td>
+         Peach Macaron
+      </td>
       <td>
          Instance Fields
       </td>
@@ -1829,6 +2267,9 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/FBBA77.png?width=30&height=30" alt="#FBBA77"></td>
       <td>
+         Cafe Lights
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -1837,6 +2278,9 @@ across the interface.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F1C970.png?width=30&height=30" alt="#F1C970"></td>
+      <td>
+         Champagne Gold
+      </td>
       <td>
          Parameters
       </td>
@@ -1847,6 +2291,9 @@ across the interface.
    <tr>
       <td><img src="https://codigrate.com/util/color/5E7BB3.png?width=30&height=30" alt="#5E7BB3"></td>
       <td>
+         Seine Blue
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -1855,6 +2302,9 @@ across the interface.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/87A1D3.png?width=30&height=30" alt="#87A1D3"></td>
+      <td>
+         Twilight Blue
+      </td>
       <td>
          Local Variables
       </td>
@@ -1896,6 +2346,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    <tr>
       <td><img src="https://codigrate.com/util/color/EDF2FA.png?width=30&height=30" alt="#EDF2FA"></td>
       <td>
+         Baltic Morning
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -1904,6 +2357,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D0DCEF.png?width=30&height=30" alt="#D0DCEF"></td>
+      <td>
+         Winter Sky
+      </td>
       <td>
          Window Background
       </td>
@@ -1914,6 +2370,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    <tr>
       <td><img src="https://codigrate.com/util/color/377CC1.png?width=30&height=30" alt="#377CC1"></td>
       <td>
+         Harbor Blue
+      </td>
+      <td>
          Instance Fields
       </td>
       <td>
@@ -1922,6 +2381,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/425EB8.png?width=30&height=30" alt="#425EB8"></td>
+      <td>
+         Cobalt Spire
+      </td>
       <td>
          Keywords
       </td>
@@ -1932,6 +2394,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    <tr>
       <td><img src="https://codigrate.com/util/color/324979.png?width=30&height=30" alt="#324979"></td>
       <td>
+         Old Town Indigo
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -1940,6 +2405,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/81549C.png?width=30&height=30" alt="#81549C"></td>
+      <td>
+         Amethyst
+      </td>
       <td>
          Strings
       </td>
@@ -1950,6 +2418,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    <tr>
       <td><img src="https://codigrate.com/util/color/B6564B.png?width=30&height=30" alt="#B6564B"></td>
       <td>
+         Brick Lane
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -1958,6 +2429,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B1544B.png?width=30&height=30" alt="#B1544B"></td>
+      <td>
+         Weathered Brick
+      </td>
       <td>
          Tag Colors
       </td>
@@ -1968,6 +2442,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    <tr>
       <td><img src="https://codigrate.com/util/color/548A64.png?width=30&height=30" alt="#548A64"></td>
       <td>
+         Courtyard Green
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -1976,6 +2453,9 @@ ink accents and subtle lavender-rose highlights add clarity and warmth without l
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/1E7857.png?width=30&height=30" alt="#1E7857"></td>
+      <td>
+         Spruce Green
+      </td>
       <td>
          Local Variables
       </td>
@@ -2018,6 +2498,9 @@ clarity and energy to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
       <td>
+         Tokyo Midnight
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -2026,6 +2509,9 @@ clarity and energy to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30" alt="#2A3051"></td>
+      <td>
+         Indigo District
+      </td>
       <td>
          Window Background
       </td>
@@ -2036,6 +2522,9 @@ clarity and energy to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/7B89C8.png?width=30&height=30" alt="#7B89C8"></td>
       <td>
+         Metro Indigo
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -2044,6 +2533,9 @@ clarity and energy to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/7FA0DD.png?width=30&height=30" alt="#7FA0DD"></td>
+      <td>
+         Skyline Blue
+      </td>
       <td>
          Tag Colors
       </td>
@@ -2054,6 +2546,9 @@ clarity and energy to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
       <td>
+         Shibuya Blue
+      </td>
+      <td>
          Accent Color
       </td>
       <td>
@@ -2062,6 +2557,9 @@ clarity and energy to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/ECA1EB.png?width=30&height=30" alt="#ECA1EB"></td>
+      <td>
+         Pink Neon
+      </td>
       <td>
          Instance Fields
       </td>
@@ -2072,6 +2570,9 @@ clarity and energy to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/D3B690.png?width=30&height=30" alt="#D3B690"></td>
       <td>
+         Paper Lantern
+      </td>
+      <td>
          Static Fields
       </td>
       <td>
@@ -2080,6 +2581,9 @@ clarity and energy to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DD9B7F.png?width=30&height=30" alt="#DD9B7F"></td>
+      <td>
+         Amber Sign
+      </td>
       <td>
          Parameters
       </td>
@@ -2090,6 +2594,9 @@ clarity and energy to key syntax elements.
    <tr>
       <td><img src="https://codigrate.com/util/color/5CC19D.png?width=30&height=30" alt="#5CC19D"></td>
       <td>
+         Matcha Neon
+      </td>
+      <td>
          Variables
       </td>
       <td>
@@ -2098,6 +2605,9 @@ clarity and energy to key syntax elements.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/5DC8D6.png?width=30&height=30" alt="#5DC8D6"></td>
+      <td>
+         Cyan Sign
+      </td>
       <td>
          Strings
       </td>
@@ -2142,6 +2652,9 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/F6F9FA.png?width=30&height=30" alt="#F6F9FA"></td>
       <td>
+         Opera White
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -2150,6 +2663,9 @@ sunlit feel.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/CAE4EC.png?width=30&height=30" alt="#CAE4EC"></td>
+      <td>
+         Harbour Mist
+      </td>
       <td>
          Window Background
       </td>
@@ -2160,6 +2676,9 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/73B9D0.png?width=30&height=30" alt="#73B9D0"></td>
       <td>
+         Harbour Blue
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -2168,6 +2687,9 @@ sunlit feel.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/169DC5.png?width=30&height=30" alt="#169DC5"></td>
+      <td>
+         Reef Blue
+      </td>
       <td>
          Selection Border
       </td>
@@ -2178,6 +2700,9 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/0F91C7.png?width=30&height=30" alt="#0F91C7"></td>
       <td>
+         Pacific Blue
+      </td>
+      <td>
          Secondary Accent
       </td>
       <td>
@@ -2186,6 +2711,9 @@ sunlit feel.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/2F9383.png?width=30&height=30" alt="#2F9383"></td>
+      <td>
+         Coastal Teal
+      </td>
       <td>
          Metadata
       </td>
@@ -2196,6 +2724,9 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/ECD268.png?width=30&height=30" alt="#ECD268"></td>
       <td>
+         Bondi Sand
+      </td>
+      <td>
          Search Match
       </td>
       <td>
@@ -2204,6 +2735,9 @@ sunlit feel.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/AF8427.png?width=30&height=30" alt="#AF8427"></td>
+      <td>
+         Desert Gold
+      </td>
       <td>
          Static Fields
       </td>
@@ -2214,6 +2748,9 @@ sunlit feel.
    <tr>
       <td><img src="https://codigrate.com/util/color/D17F51.png?width=30&height=30" alt="#D17F51"></td>
       <td>
+         Outback Copper
+      </td>
+      <td>
          Active Border
       </td>
       <td>
@@ -2222,6 +2759,9 @@ sunlit feel.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BA7347.png?width=30&height=30" alt="#BA7347"></td>
+      <td>
+         Red Earth
+      </td>
       <td>
          Local Variables
       </td>
@@ -2266,6 +2806,9 @@ search matches.
    <tr>
       <td><img src="https://codigrate.com/util/color/0D1D2E.png?width=30&height=30" alt="#0D1D2E"></td>
       <td>
+         Vltava Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -2274,6 +2817,9 @@ search matches.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/123151.png?width=30&height=30" alt="#123151"></td>
+      <td>
+         Castle Night
+      </td>
       <td>
          Window Background
       </td>
@@ -2284,6 +2830,9 @@ search matches.
    <tr>
       <td><img src="https://codigrate.com/util/color/113E6B.png?width=30&height=30" alt="#113E6B"></td>
       <td>
+         Bohemian Blue
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -2292,6 +2841,9 @@ search matches.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/74ADF8.png?width=30&height=30" alt="#74ADF8"></td>
+      <td>
+         Charles Blue
+      </td>
       <td>
          Keywords
       </td>
@@ -2302,6 +2854,9 @@ search matches.
    <tr>
       <td><img src="https://codigrate.com/util/color/89C5F8.png?width=30&height=30" alt="#89C5F8"></td>
       <td>
+         Morning Vltava
+      </td>
+      <td>
          Strings
       </td>
       <td>
@@ -2310,6 +2865,9 @@ search matches.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/92A3B3.png?width=30&height=30" alt="#92A3B3"></td>
+      <td>
+         Stone Bridge
+      </td>
       <td>
          Comments
       </td>
@@ -2320,6 +2878,9 @@ search matches.
    <tr>
       <td><img src="https://codigrate.com/util/color/DF865B.png?width=30&height=30" alt="#DF865B"></td>
       <td>
+         Rooftop Copper
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -2328,6 +2889,9 @@ search matches.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EFBA5A.png?width=30&height=30" alt="#EFBA5A"></td>
+      <td>
+         Golden Lane
+      </td>
       <td>
          Instance Fields
       </td>
@@ -2338,6 +2902,9 @@ search matches.
    <tr>
       <td><img src="https://codigrate.com/util/color/E3CA77.png?width=30&height=30" alt="#E3CA77"></td>
       <td>
+         Amber Window
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -2346,6 +2913,9 @@ search matches.
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/DCCF9D.png?width=30&height=30" alt="#DCCF9D"></td>
+      <td>
+         Parchment Gold
+      </td>
       <td>
          Metadata
       </td>
@@ -2389,6 +2959,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    <tr>
       <td><img src="https://codigrate.com/util/color/2C1D1D.png?width=30&height=30" alt="#2C1D1D"></td>
       <td>
+         Mahogany Night
+      </td>
+      <td>
          Editor Background
       </td>
       <td>
@@ -2397,6 +2970,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/4B2226.png?width=30&height=30" alt="#4B2226"></td>
+      <td>
+         Opera Velvet
+      </td>
       <td>
          Window Background
       </td>
@@ -2407,6 +2983,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    <tr>
       <td><img src="https://codigrate.com/util/color/6A2F34.png?width=30&height=30" alt="#6A2F34"></td>
       <td>
+         Crimson Parlor
+      </td>
+      <td>
          Surface Background
       </td>
       <td>
@@ -2415,6 +2994,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/D7999F.png?width=30&height=30" alt="#D7999F"></td>
+      <td>
+         Vienna Rose
+      </td>
       <td>
          Accent Color
       </td>
@@ -2425,6 +3007,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    <tr>
       <td><img src="https://codigrate.com/util/color/DCA826.png?width=30&height=30" alt="#DCA826"></td>
       <td>
+         Klimt Gold
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -2433,6 +3018,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/EACF8C.png?width=30&height=30" alt="#EACF8C"></td>
+      <td>
+         Candlelight
+      </td>
       <td>
          Instance Fields
       </td>
@@ -2443,6 +3031,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    <tr>
       <td><img src="https://codigrate.com/util/color/ECC39A.png?width=30&height=30" alt="#ECC39A"></td>
       <td>
+         Cafe Cream
+      </td>
+      <td>
          Parameters
       </td>
       <td>
@@ -2451,6 +3042,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F4D8B3.png?width=30&height=30" alt="#F4D8B3"></td>
+      <td>
+         Vanilla Silk
+      </td>
       <td>
          Strings
       </td>
@@ -2461,6 +3055,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    <tr>
       <td><img src="https://codigrate.com/util/color/98A67D.png?width=30&height=30" alt="#98A67D"></td>
       <td>
+         Palace Sage
+      </td>
+      <td>
          Global Variables
       </td>
       <td>
@@ -2469,6 +3066,9 @@ quiet prestige. The result is a calm, intimate environment built for long, unint
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/B6C39C.png?width=30&height=30" alt="#B6C39C"></td>
+      <td>
+         Pale Laurel
+      </td>
       <td>
          Static Fields
       </td>
@@ -2512,6 +3112,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/FDF5DF.png?width=30&height=30" alt="#FDF5DF"></td>
       <td>
+         Golden Morning
+      </td>
+      <td>
          Window Background
       </td>
       <td>
@@ -2520,6 +3123,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/E8C25D.png?width=30&height=30" alt="#E8C25D"></td>
+      <td>
+         Madrid Gold
+      </td>
       <td>
          Surface Background
       </td>
@@ -2530,6 +3136,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/DCA225.png?width=30&height=30" alt="#DCA225"></td>
       <td>
+         Sol Gold
+      </td>
+      <td>
          Tags
       </td>
       <td>
@@ -2538,6 +3147,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/A57F02.png?width=30&height=30" alt="#A57F02"></td>
+      <td>
+         Ochre Field
+      </td>
       <td>
          Instance Fields
       </td>
@@ -2548,6 +3160,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/D37969.png?width=30&height=30" alt="#D37969"></td>
       <td>
+         Coral Facade
+      </td>
+      <td>
          Metadata
       </td>
       <td>
@@ -2556,6 +3171,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/BD503F.png?width=30&height=30" alt="#BD503F"></td>
+      <td>
+         Toledo Red
+      </td>
       <td>
          Strings
       </td>
@@ -2566,6 +3184,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/B84440.png?width=30&height=30" alt="#B84440"></td>
       <td>
+         Flamenco Red
+      </td>
+      <td>
          Keywords
       </td>
       <td>
@@ -2574,6 +3195,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/902926.png?width=30&height=30" alt="#902926"></td>
+      <td>
+         Spanish Red
+      </td>
       <td>
          Active Border
       </td>
@@ -2584,6 +3208,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    <tr>
       <td><img src="https://codigrate.com/util/color/5A91A8.png?width=30&height=30" alt="#5A91A8"></td>
       <td>
+         Azulejo Blue
+      </td>
+      <td>
          Attributes
       </td>
       <td>
@@ -2592,6 +3219,9 @@ touches add Spanish summer warmth. The result is an elegant, vivid environment b
    </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/349590.png?width=30&height=30" alt="#349590"></td>
+      <td>
+         Patio Teal
+      </td>
       <td>
          Parameters
       </td>
