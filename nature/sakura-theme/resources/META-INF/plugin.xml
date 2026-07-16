@@ -4,7 +4,7 @@
     <id>com.codigrate.sakura.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.17</version>
+    <version>2026.1.18</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -25,6 +25,32 @@
             of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues
             act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene,
             blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
+            <br/>
+            <br/>
+            <b>Features</b>
+            <ul>
+                <li>
+                    Complete IDE theming across the editor, tool windows, menus, dialogs, popups and the new UI, styled as one coherent surface
+                </li>
+                <li>
+                    Carefully tuned syntax highlighting with semantic, language-aware coloring for readable code
+                </li>
+                <li>
+                    Purposeful, distinct colors for keywords, strings, numbers, variables, parameters and comments
+                </li>
+                <li>
+                    Calm, nature-inspired palette designed for long, comfortable coding sessions
+                </li>
+                <li>
+                    Consistent look across every JetBrains IDE, from IntelliJ IDEA and PyCharm to WebStorm, CLion, GoLand and Rider
+                </li>
+                <li>
+                    Full support for the new UI and Islands
+                </li>
+                <li>
+                    Actively maintained and regularly refined
+                </li>
+            </ul>
             <br/>
             <br/>
             <b>Color Palette</b>
@@ -562,6 +588,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[ ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.18</b>
+            <ul>
+                <li>
+                    Update description
+                </li>
+            </ul>
             <b>2026.1.17</b>
             <ul>
                 <li>
