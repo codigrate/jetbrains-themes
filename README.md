@@ -1534,6 +1534,153 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 ---
 
 <p align="center">
+   <a href="https://codigrate.com/theme?product=fuji&category=nature">
+      <img src="nature/fuji-theme/icon.png" alt="Fuji" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Fuji
+   <br>
+   (Premium)
+</h1>
+
+## Description
+
+Inspired by Mount Fuji at first light, this light theme rests on the soft coral-peach glow of dawn over snow white, then lifts it with sakura pink and a lakeside torii's vermilion. The calm dawn surface keeps long sessions easy on the eyes while the blossom accents mark what matters.
+
+## Screenshots
+
+<img src="nature/fuji-theme/screenshot-1.png" alt="Fuji screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FFFCFB.png?width=30&height=30" alt="#FFFCFB"></td>
+      <td>
+         Snow White
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FFFCFB">#FFFCFB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F5D9D0.png?width=30&height=30" alt="#F5D9D0"></td>
+      <td>
+         Dawn Peach
+      </td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F5D9D0">#F5D9D0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DC5B26.png?width=30&height=30" alt="#DC5B26"></td>
+      <td>
+         Torii Orange
+      </td>
+      <td>
+         Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DC5B26">#DC5B26</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D37154.png?width=30&height=30" alt="#D37154"></td>
+      <td>
+         Terracotta
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D37154">#D37154</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DD747A.png?width=30&height=30" alt="#DD747A"></td>
+      <td>
+         Sakura Rose
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DD747A">#DD747A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ED84B0.png?width=30&height=30" alt="#ED84B0"></td>
+      <td>
+         Blossom Pink
+      </td>
+      <td>
+         Active Border
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ED84B0">#ED84B0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BF8AB3.png?width=30&height=30" alt="#BF8AB3"></td>
+      <td>
+         Mauve Plum
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BF8AB3">#BF8AB3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/39A1A5.png?width=30&height=30" alt="#39A1A5"></td>
+      <td>
+         Fuji Teal
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/39A1A5">#39A1A5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5F7D9F.png?width=30&height=30" alt="#5F7D9F"></td>
+      <td>
+         Slate Blue
+      </td>
+      <td>
+         Local Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5F7D9F">#5F7D9F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/45302B.png?width=30&height=30" alt="#45302B"></td>
+      <td>
+         Sepia Ink
+      </td>
+      <td>
+         Primary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/45302B">#45302B</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
       <img src="nature/spring-theme/icon.png" alt="Spring" width="160">
    </a>
