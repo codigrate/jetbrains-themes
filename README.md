@@ -51,7 +51,7 @@ So, to not have that issue, please follow the steps below:
 
 ## Description
 
-Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
+Inspired by the icy terraces of Mount Everest and the first light breaking over its peaks, this theme pairs cool white and pale grey backgrounds with deep glacier blues and greens to create a clear and unhurried coding environment. Bright, airy surfaces keep the editor calm, while teals, forest greens, and a warm coral accent add definition and focus to key syntax elements.
 
 ## Screenshots
 
@@ -162,7 +162,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
          Sunrise Flame
       </td>
       <td>
-         Active Border Colors
+         Active Border Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/ED7E5A">#ED7E5A</a>
@@ -200,7 +200,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
+Inspired by the Arctic night sky and the slow drift of the Northern Lights, this theme blends deep navy and teal shadows with luminous blue and green accents to create a calm yet vivid coding environment. Dark, cool backgrounds keep the editor restful, while bright cyans, fresh greens, and soft lavenders add clarity and energy to key syntax elements.
 
 ## Screenshots
 
@@ -263,7 +263,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
          Boreal Pine
       </td>
       <td>
-         Tab Colors
+         Active Background
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/043A33">#043A33</a>
@@ -349,7 +349,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
 
 ## Description
 
-Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
+Inspired by cherry blossom season and the quiet gardens beneath it, this theme pairs pale petal backgrounds with deep rose and plum accents to create a soft and unhurried coding environment. Light, gentle surfaces keep the editor calm, while muted greens and clear sky blues add balance and focus to key syntax elements.
 
 ## Screenshots
 
@@ -376,7 +376,7 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
          Petal Veil
       </td>
       <td>
-         Surface Background
+         Separator Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/F8DBE6">#F8DBE6</a>
@@ -498,7 +498,7 @@ Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates th
 
 ## Description
 
-Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its grounded, tranquil palette guide you through the logical forest of your code efficiently.
+Inspired by the towering stillness of a sequoia grove, this theme blends deep forest black and bark brown with living green and moss accents to create a grounded and focused coding environment. Dark, earthy backgrounds settle the editor, while warm tans, rusts, and a clear canopy green add contrast and clarity to key syntax elements.
 
 ## Screenshots
 
@@ -573,7 +573,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
          Golden Bark
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/A68F59">#A68F59</a>
@@ -647,7 +647,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
 
 ## Description
 
-Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
+Inspired by fallen leaves and late afternoon sunlight, this theme blends soft parchment backgrounds with rust, copper, and harvest gold to create a warm and unhurried coding environment. Light, gentle surfaces keep the editor comfortable, while deep greens and a quiet teal add contrast and focus to key syntax elements.
 
 ## Screenshots
 
@@ -656,6 +656,18 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
 ## Color Palette
 
 <table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FCFBFA.png?width=30&height=30" alt="#FCFBFA"></td>
+      <td>
+         Parchment
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FCFBFA">#FCFBFA</a>
+      </td>
+   </tr>
    <tr>
       <td><img src="https://codigrate.com/util/color/F8F4F1.png?width=30&height=30" alt="#F8F4F1"></td>
       <td>
@@ -729,18 +741,6 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/DEA51D.png?width=30&height=30" alt="#DEA51D"></td>
-      <td>
-         Golden Leaf
-      </td>
-      <td>
-         Secondary Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/DEA51D">#DEA51D</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/1B591E.png?width=30&height=30" alt="#1B591E"></td>
       <td>
          Pine Shadow
@@ -796,7 +796,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
 
 ## Description
 
-Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.
+Inspired by the sunset over Mount Roraima and the slow turn from day to night on its tabletop summit, this theme blends deep brown and clay shadows with amber, gold, and salmon accents to create a soothing yet vivid coding environment. Dark, earthy backgrounds ground the editor, while soft violets and mineral yellows add contrast and focus to key syntax elements.
 
 ## Screenshots
 
@@ -883,7 +883,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
          Dry Grass
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/DDBE6D">#DDBE6D</a>
@@ -1910,7 +1910,7 @@ Inspired by the soft daylight and sea breezes of Istanbul, this theme blends cal
          Marmara Blue
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/0887B5">#0887B5</a>
@@ -2047,7 +2047,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
          Flamingo
       </td>
       <td>
-         Tag Colors
+         Tags
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/FE788C">#FE788C</a>
@@ -2107,7 +2107,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
          Palm Green
       </td>
       <td>
-         Variables
+         Local Variables
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/82D59F">#82D59F</a>
@@ -2119,7 +2119,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
          Golden Sand
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/F8D273">#F8D273</a>
@@ -2184,7 +2184,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
          Jungle Canopy
       </td>
       <td>
-         Surface Background
+         Separator Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/85B778">#85B778</a>
@@ -2208,7 +2208,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
          Deep Jungle
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/028134">#028134</a>
@@ -2220,7 +2220,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
          Guanabara Blue
       </td>
       <td>
-         Secondary Accent
+         Secondary Accent Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/2287D5">#2287D5</a>
@@ -2268,7 +2268,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
          Ipanema Sun
       </td>
       <td>
-         Search Match
+         Search Match Background
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/ECDA61">#ECDA61</a>
@@ -2294,7 +2294,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
 
 ## Description
 
-Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
+Inspired by elegant boulevards and Paris's sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
 
 ## Screenshots
 
@@ -2333,7 +2333,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
          Rosewood
       </td>
       <td>
-         Surface Background
+         Separator Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/6A3C4D">#6A3C4D</a>
@@ -2357,7 +2357,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
          Cherry Macaron
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/DF7583">#DF7583</a>
@@ -2405,7 +2405,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
          Seine Blue
       </td>
       <td>
-         Secondary Accent
+         Secondary Accent Color
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/5E7BB3">#5E7BB3</a>
@@ -2518,7 +2518,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
          Amethyst
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/81549C">#81549C</a>
@@ -2542,7 +2542,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
          Weathered Brick
       </td>
       <td>
-         Tag Colors
+         Tags
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/B1544B">#B1544B</a>
@@ -2643,7 +2643,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
          Skyline Blue
       </td>
       <td>
-         Tag Colors
+         Tags
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/7FA0DD">#7FA0DD</a>
@@ -2703,7 +2703,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
          Matcha Neon
       </td>
       <td>
-         Variables
+         Local Variables
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/5CC19D">#5CC19D</a>
@@ -2715,7 +2715,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
          Cyan Sign
       </td>
       <td>
-         Strings
+         Strings and Numbers
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/5DC8D6">#5DC8D6</a>
