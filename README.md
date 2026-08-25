@@ -3330,6 +3330,153 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
+   <a href="https://codigrate.com/theme?product=london&category=cities">
+      <img src="cities/london-theme/icon.png" alt="London" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   London
+   <br>
+   (Premium)
+</h1>
+
+## Description
+
+Inspired by London at dusk, this dark theme rests on a slate grey base washed with twilight indigo, then lights it with the pillar box red of a K6 telephone box and the muted steel blue of the Thames. The calm grey surface keeps long sessions easy on the eyes while the red accents mark what matters.
+
+## Screenshots
+
+<img src="cities/london-theme/screenshot-1.png" alt="London screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/201F29.png?width=30&height=30" alt="#201F29"></td>
+      <td>
+         Dusk Slate
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/201F29">#201F29</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2D2B36.png?width=30&height=30" alt="#2D2B36"></td>
+      <td>
+         Fog Indigo
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2D2B36">#2D2B36</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3B3A45.png?width=30&height=30" alt="#3B3A45"></td>
+      <td>
+         Portland Shadow
+      </td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/3B3A45">#3B3A45</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D42A44.png?width=30&height=30" alt="#D42A44"></td>
+      <td>
+         Pillar Crimson
+      </td>
+      <td>
+         Search Match
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D42A44">#D42A44</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EE4B5B.png?width=30&height=30" alt="#EE4B5B"></td>
+      <td>
+         Kiosk Red
+      </td>
+      <td>
+         Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EE4B5B">#EE4B5B</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/E88790.png?width=30&height=30" alt="#E88790"></td>
+      <td>
+         Brick Rose
+      </td>
+      <td>
+         Global Variable
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/E88790">#E88790</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/5D89B0.png?width=30&height=30" alt="#5D89B0"></td>
+      <td>
+         Steel Blue
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/5D89B0">#5D89B0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/7FA3C6.png?width=30&height=30" alt="#7FA3C6"></td>
+      <td>
+         Thames Steel
+      </td>
+      <td>
+         Secondary Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/7FA3C6">#7FA3C6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A9ADC2.png?width=30&height=30" alt="#A9ADC2"></td>
+      <td>
+         Fog Grey
+      </td>
+      <td>
+         Secondary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A9ADC2">#A9ADC2</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/DDDFEA.png?width=30&height=30" alt="#DDDFEA"></td>
+      <td>
+         Portland Stone
+      </td>
+      <td>
+         Primary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/DDDFEA">#DDDFEA</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
     <img src="all-in-one-themes/icon.png" alt="Logo" width=160>
   </a>
