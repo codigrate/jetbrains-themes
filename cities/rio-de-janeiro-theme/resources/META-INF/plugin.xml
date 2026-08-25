@@ -4,7 +4,7 @@
     <id>com.codigrate.rio-de-janeiro.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.16</version>
+    <version>2026.1.17</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -179,7 +179,7 @@
             <br/>
             <b>Codigrate Theme Collection</b>
             <br/>
-            All 22 themes are available in the All In One plugin, and ten of them are
+            All 23 themes are available in the All In One plugin, and eleven of them are
             available there only.
             <br/>
             <br/>
@@ -580,6 +580,23 @@
                   <sub>Royal - Velvet - Refined</sub>
                 </td>
               </tr>
+              <tr>
+                <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/london-theme/icon.png" width="52"></td>
+                <td width="220"><a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes"><b>London</b></a><br/><sub>City - Dark</sub></td>
+                <td>
+                  <img src="https://codigrate.com/util/color/201F29.png?width=18&height=18" alt="#201F29">
+                  <img src="https://codigrate.com/util/color/2D2B36.png?width=18&height=18" alt="#2D2B36">
+                  <img src="https://codigrate.com/util/color/3B3A45.png?width=18&height=18" alt="#3B3A45">
+                  <img src="https://codigrate.com/util/color/D42A44.png?width=18&height=18" alt="#D42A44">
+                  <img src="https://codigrate.com/util/color/EE4B5B.png?width=18&height=18" alt="#EE4B5B">
+                  <img src="https://codigrate.com/util/color/E88790.png?width=18&height=18" alt="#E88790">
+                  <img src="https://codigrate.com/util/color/5D89B0.png?width=18&height=18" alt="#5D89B0">
+                  <img src="https://codigrate.com/util/color/7FA3C6.png?width=18&height=18" alt="#7FA3C6">
+                  <img src="https://codigrate.com/util/color/A9ADC2.png?width=18&height=18" alt="#A9ADC2">
+                  <img src="https://codigrate.com/util/color/DDDFEA.png?width=18&height=18" alt="#DDDFEA"><br/>
+                  <sub>Royal - Atmospheric - Steel</sub>
+                </td>
+              </tr>
             </table>
             <br/>
             <br/>
@@ -611,6 +628,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[ ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.17</b>
+            <ul>
+                <li>
+                    Theme collection updated
+                </li>
+            </ul>
             <b>2026.1.16</b>
             <ul>
                 <li>
