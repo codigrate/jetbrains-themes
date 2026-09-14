@@ -191,6 +191,23 @@
             <br/>
             <table width="100%">
               <tr>
+                <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/icon.png" width="52"></td>
+                <td width="220"><a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes"><b>All In One Themes</b></a><br/><sub>Multicolor - Dark/Light</sub></td>
+                <td>
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="18" height="18" alt="Everest">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="18" height="18" alt="Aurora Borealis">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="18" height="18" alt="Sakura">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="18" height="18" alt="Ocean">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="18" height="18" alt="Autumn">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="18" height="18" alt="Istanbul">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="18" height="18" alt="Tokyo">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="18" height="18" alt="Paris">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="18" height="18" alt="Miami">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/london-theme/icon.png" width="18" height="18" alt="London"><br/>
+                  <sub>Collection - Bundle - Package</sub>
+                </td>
+              </tr>
+              <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22653-everest-theme"><b>Everest</b></a><br/><sub>Nature - Light &middot; This Plugin</sub></td>
                 <td>
