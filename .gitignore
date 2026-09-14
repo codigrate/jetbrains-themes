@@ -22,3 +22,8 @@ madrid.*
 etna.*
 fuji.*
 london.*
+
+# standalone PAID plugins of premium themes: plugin.xml + .iml stay local (theme json/xml already covered by <key>.* above)
+nature/ocean-theme/resources/META-INF/plugin.xml
+nature/ocean-theme/ocean-theme.iml
+nature/ocean-theme/License.md
