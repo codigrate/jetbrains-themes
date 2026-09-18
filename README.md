@@ -930,7 +930,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34265-salda-theme">
       <img src="nature/salda-theme/icon.png" alt="Salda" width="160">
    </a>
 </p>
@@ -941,9 +941,9 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34265-salda-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34265-salda-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34265-salda-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
 
 ## Description
 
@@ -1081,7 +1081,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34257-ocean-theme">
       <img src="nature/ocean-theme/icon.png" alt="Ocean" width="160">
    </a>
 </p>
@@ -1092,9 +1092,9 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34257-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34257-ocean-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34257-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
 
 ## Description
 
@@ -1232,7 +1232,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme">
       <img src="nature/reynisfjara-theme/icon.png" alt="Reynisfjara" width="160">
    </a>
 </p>
@@ -1243,9 +1243,9 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34268-reynisfjara-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34268-reynisfjara-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34268-reynisfjara-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
 
 ## Description
 
@@ -1383,7 +1383,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34272-etna-theme">
       <img src="nature/etna-theme/icon.png" alt="Etna" width="160">
    </a>
 </p>
@@ -1394,9 +1394,9 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34272-etna-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34272-etna-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34272-etna-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
 
 ## Description
 
@@ -1534,7 +1534,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=fuji&category=nature">
+   <a href="https://plugins.jetbrains.com/plugin/34273-fuji-theme">
       <img src="nature/fuji-theme/icon.png" alt="Fuji" width="160">
    </a>
 </p>
@@ -1544,6 +1544,10 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    <br>
    (Premium)
 </h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/34273-fuji-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34273-fuji-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34273-fuji-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
 
 ## Description
 
@@ -1681,7 +1685,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34269-spring-theme">
       <img src="nature/spring-theme/icon.png" alt="Spring" width="160">
    </a>
 </p>
@@ -1692,9 +1696,9 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34269-spring-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34269-spring-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34269-spring-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
 
 ## Description
 
@@ -2726,7 +2730,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34267-sydney-theme">
       <img src="cities/sydney-theme/icon.png" alt="Sydney" width="160">
    </a>
 </p>
@@ -2737,9 +2741,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34267-sydney-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34267-sydney-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34267-sydney-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
 
 ## Description
 
@@ -2877,7 +2881,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34266-prague-theme">
       <img src="cities/prague-theme/icon.png" alt="Prague" width="160">
    </a>
 </p>
@@ -2888,9 +2892,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34266-prague-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34266-prague-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34266-prague-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
 
 ## Description
 
@@ -3028,7 +3032,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34270-vienna-theme">
       <img src="cities/vienna-theme/icon.png" alt="Vienna" width="160">
    </a>
 </p>
@@ -3039,9 +3043,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34270-vienna-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34270-vienna-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34270-vienna-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
 
 ## Description
 
@@ -3179,7 +3183,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34271-madrid-theme">
       <img src="cities/madrid-theme/icon.png" alt="Madrid" width="160">
    </a>
 </p>
@@ -3190,9 +3194,9 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
-[![Version](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains)
-[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)](https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34271-madrid-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34271-madrid-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34271-madrid-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
 
 ## Description
 
@@ -3330,7 +3334,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 ---
 
 <p align="center">
-   <a href="https://codigrate.com/theme?product=london&category=cities">
+   <a href="https://plugins.jetbrains.com/plugin/34274-london-theme">
       <img src="cities/london-theme/icon.png" alt="London" width="160">
    </a>
 </p>
@@ -3340,6 +3344,10 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <br>
    (Premium)
 </h1>
+
+[![Version](https://img.shields.io/jetbrains/plugin/v/34274-london-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34274-london-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34274-london-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
 
 ## Description
 
