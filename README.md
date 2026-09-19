@@ -947,7 +947,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 
 ## Description
 
-
+Inspired by the white shores and turquoise shallows of Lake Salda, this theme pairs warm sand and soft cream backgrounds with clear lagoon blues and teals to create a bright and unhurried coding environment. Pale, airy surfaces keep the editor calm, while lagoon blues, shaded teals, and a fresh reed green add definition and focus to key syntax elements.
 
 ## Screenshots
 
@@ -1098,7 +1098,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 
 ## Description
 
-
+Inspired by the deep sea and the quiet glow of life far below the surface, this theme layers dark teal and blue-green shadows with bioluminescent cyan, coral pink, and sea glass accents to create a calm and immersive coding environment. Deep, cool backgrounds keep the editor restful, while bright cyans, soft pinks, and warm sandbar tones add clarity and focus to key syntax elements.
 
 ## Screenshots
 
@@ -1249,7 +1249,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
 
 ## Description
 
-
+Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise over the wet shore and the last light fades on the North Atlantic, this theme layers charcoal and slate shadows with driftwood, pebble, and bleached sand accents to create a calm and cinematic coding environment. Deep, muted backgrounds keep the editor restful, while warm timbers, pale driftwoods, and soft sands add clarity and focus to key syntax elements.
 
 ## Screenshots
 
@@ -1702,7 +1702,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
 
 ## Description
 
-
+Inspired by a spring garden in full bloom, from tulip beds and crocus to the first new grass under a clear sky, this theme pairs airy mint and soft green backgrounds with foxglove, violet, and cornflower accents to create a fresh and unhurried coding environment. Bright, open surfaces keep the editor calm, while clover greens, crocus violets, and robin egg blues add definition and focus to key syntax elements.
 
 ## Screenshots
 
@@ -2747,7 +2747,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 ## Description
 
-
+Inspired by Sydney Harbour at midday, from the white sails of the Opera House to the sandstone glowing along the shore, this theme pairs airy white and pale mist backgrounds with harbour blues, jade teals, and outback golds to create a bright and vibrant coding environment. Light, open surfaces keep the editor clear, while Pacific blues, warm coppers, and desert clays add definition and focus to key syntax elements.
 
 ## Screenshots
 
@@ -2898,7 +2898,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 ## Description
 
-
+Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamps glowing along its bridges, this theme layers midnight navy and castle blue shadows with amber, copper, and straw gold accents to create a warm and cinematic coding environment. Deep, cool backgrounds keep the editor restful, while pale river blues, lantern ambers, and rooftop coppers add clarity and focus to key syntax elements.
 
 ## Screenshots
 
@@ -3049,7 +3049,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 ## Description
 
-
+Inspired by a Viennese evening at the opera, from velvet seats and candlelit boxes to gilded balconies and the sheet music on the stands, this theme layers mahogany and crimson shadows with imperial gold, candlelight, and marzipan accents to create a warm and cinematic coding environment. Deep, rich backgrounds keep the editor restful, while golds, pastry creams, and palace olives add clarity and focus to key syntax elements.
 
 ## Screenshots
 
@@ -3200,7 +3200,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
 
 ## Description
 
-
+Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings to the claveles spilling over the railings, this theme pairs warm golden and cream backgrounds with flamenco reds, sangria, and azulejo blues to create a bright and vibrant coding environment. Light, sun-warmed surfaces keep the editor clear, while Toledo golds, Spanish reds, and Andalusian teals add definition and focus to key syntax elements.
 
 ## Screenshots
 
