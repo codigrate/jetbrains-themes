@@ -3522,7 +3522,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C2EFD7.png?width=30&height=30" alt="#C2EFD7"></td>
+      <td><img src="https://codigrate.com/util/color/D3F3E2.png?width=30&height=30" alt="#D3F3E2"></td>
       <td>
          Liffey Mist
       </td>
@@ -3530,7 +3530,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/C2EFD7">#C2EFD7</a>
+         <a href="https://codigrate.com/tools/color/D3F3E2">#D3F3E2</a>
       </td>
    </tr>
    <tr>
