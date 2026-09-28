@@ -3486,6 +3486,155 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
 
 <p align="center">
    <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+      <img src="cities/dublin-theme/icon.png" alt="Dublin" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Dublin
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – All In One Themes](https://img.shields.io/badge/Premium-All%20In%20One%20Themes-00B4FF?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/30132-all-in-one-themes)
+
+## Description
+
+Inspired by Dublin on a bright morning, this light theme rests on a fresh park green base, then lights it with shamrock green and the orange of the autumn trees around the castle tower. The soft green surface keeps long sessions easy on the eyes while the green and orange accents mark what matters.
+
+## Screenshots
+
+<img src="cities/dublin-theme/screenshot-1.png" alt="Dublin screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F3F8F5.png?width=30&height=30" alt="#F3F8F5"></td>
+      <td>
+         Ha'penny White
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F3F8F5">#F3F8F5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C6E4D0.png?width=30&height=30" alt="#C6E4D0"></td>
+      <td>
+         Liffey Mist
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/C6E4D0">#C6E4D0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/87C4AA.png?width=30&height=30" alt="#87C4AA"></td>
+      <td>
+         Castle Sky
+      </td>
+      <td>
+         Surface Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/87C4AA">#87C4AA</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2E7F87.png?width=30&height=30" alt="#2E7F87"></td>
+      <td>
+         Castle Window
+      </td>
+      <td>
+         Local Variable
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2E7F87">#2E7F87</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1B6B3A.png?width=30&height=30" alt="#1B6B3A"></td>
+      <td>
+         Stephen's Green
+      </td>
+      <td>
+         Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1B6B3A">#1B6B3A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/3D8B21.png?width=30&height=30" alt="#3D8B21"></td>
+      <td>
+         Park Lawn
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/3D8B21">#3D8B21</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FACA73.png?width=30&height=30" alt="#FACA73"></td>
+      <td>
+         Path Gold
+      </td>
+      <td>
+         Search Match
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FACA73">#FACA73</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/EC7803.png?width=30&height=30" alt="#EC7803"></td>
+      <td>
+         Autumn Blaze
+      </td>
+      <td>
+         Secondary Accent
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/EC7803">#EC7803</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/CF6106.png?width=30&height=30" alt="#CF6106"></td>
+      <td>
+         Tricolour Orange
+      </td>
+      <td>
+         Keywords
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/CF6106">#CF6106</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A34C08.png?width=30&height=30" alt="#A34C08"></td>
+      <td>
+         Copper Leaf
+      </td>
+      <td>
+         Static Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A34C08">#A34C08</a>
+      </td>
+   </tr>
+</table>
+
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
     <img src="all-in-one-themes/icon.png" alt="Logo" width=160>
   </a>
 </p>
