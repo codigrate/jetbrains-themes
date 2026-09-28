@@ -3546,15 +3546,15 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/2E7F87.png?width=30&height=30" alt="#2E7F87"></td>
+      <td><img src="https://codigrate.com/util/color/A38063.png?width=30&height=30" alt="#A38063"></td>
       <td>
-         Castle Window
+         Milky Coffee
       </td>
       <td>
          Parameters
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/2E7F87">#2E7F87</a>
+         <a href="https://codigrate.com/tools/color/A38063">#A38063</a>
       </td>
    </tr>
    <tr>
