@@ -3510,7 +3510,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F3F8F5.png?width=30&height=30" alt="#F3F8F5"></td>
+      <td><img src="https://codigrate.com/util/color/F1F9F4.png?width=30&height=30" alt="#F1F9F4"></td>
       <td>
          Ha'penny White
       </td>
@@ -3518,11 +3518,11 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Editor Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F3F8F5">#F3F8F5</a>
+         <a href="https://codigrate.com/tools/color/F1F9F4">#F1F9F4</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/C6E4D0.png?width=30&height=30" alt="#C6E4D0"></td>
+      <td><img src="https://codigrate.com/util/color/C2EFD7.png?width=30&height=30" alt="#C2EFD7"></td>
       <td>
          Liffey Mist
       </td>
@@ -3530,11 +3530,11 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Window Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/C6E4D0">#C6E4D0</a>
+         <a href="https://codigrate.com/tools/color/C2EFD7">#C2EFD7</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/87C4AA.png?width=30&height=30" alt="#87C4AA"></td>
+      <td><img src="https://codigrate.com/util/color/6AC69A.png?width=30&height=30" alt="#6AC69A"></td>
       <td>
          Castle Sky
       </td>
@@ -3542,7 +3542,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Surface Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/87C4AA">#87C4AA</a>
+         <a href="https://codigrate.com/tools/color/6AC69A">#6AC69A</a>
       </td>
    </tr>
    <tr>
@@ -3551,7 +3551,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Castle Window
       </td>
       <td>
-         Local Variable
+         Parameters
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/2E7F87">#2E7F87</a>
@@ -3570,15 +3570,15 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/3D8B21.png?width=30&height=30" alt="#3D8B21"></td>
+      <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30" alt="#169B62"></td>
       <td>
-         Park Lawn
+         Tricolour Green
       </td>
       <td>
-         Strings and Numbers
+         Instance Fields
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/3D8B21">#3D8B21</a>
+         <a href="https://codigrate.com/tools/color/169B62">#169B62</a>
       </td>
    </tr>
    <tr>
@@ -3618,15 +3618,15 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A34C08.png?width=30&height=30" alt="#A34C08"></td>
+      <td><img src="https://codigrate.com/util/color/BD7135.png?width=30&height=30" alt="#BD7135"></td>
       <td>
-         Copper Leaf
+         Autumn Haze
       </td>
       <td>
-         Static Fields
+         Strings and Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/A34C08">#A34C08</a>
+         <a href="https://codigrate.com/tools/color/BD7135">#BD7135</a>
       </td>
    </tr>
 </table>
