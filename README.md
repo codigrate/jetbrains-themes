@@ -3558,18 +3558,6 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1B6B3A.png?width=30&height=30" alt="#1B6B3A"></td>
-      <td>
-         Stephen's Green
-      </td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/1B6B3A">#1B6B3A</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30" alt="#169B62"></td>
       <td>
          Tricolour Green
@@ -3579,6 +3567,18 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/169B62">#169B62</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1F9140.png?width=30&height=30" alt="#1F9140"></td>
+      <td>
+         Shamrock Green
+      </td>
+      <td>
+         Strings and Numbers
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1F9140">#1F9140</a>
       </td>
    </tr>
    <tr>
@@ -3594,27 +3594,27 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EC7803.png?width=30&height=30" alt="#EC7803"></td>
+      <td><img src="https://codigrate.com/util/color/E26B03.png?width=30&height=30" alt="#E26B03"></td>
       <td>
          Autumn Blaze
       </td>
       <td>
-         Secondary Accent
+         Accent
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/EC7803">#EC7803</a>
+         <a href="https://codigrate.com/tools/color/E26B03">#E26B03</a>
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1F9140.png?width=30&height=30" alt="#1F9140"></td>
+      <td><img src="https://codigrate.com/util/color/CF6106.png?width=30&height=30" alt="#CF6106"></td>
       <td>
-         Shamrock Green
+         Tricolour Orange
       </td>
       <td>
-         Strings and Numbers
+         Tags
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/1F9140">#1F9140</a>
+         <a href="https://codigrate.com/tools/color/CF6106">#CF6106</a>
       </td>
    </tr>
    <tr>
