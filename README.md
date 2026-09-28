@@ -3546,18 +3546,6 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A38063.png?width=30&height=30" alt="#A38063"></td>
-      <td>
-         Milky Coffee
-      </td>
-      <td>
-         Parameters
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/A38063">#A38063</a>
-      </td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/169B62.png?width=30&height=30" alt="#169B62"></td>
       <td>
          Tricolour Green
@@ -3594,6 +3582,30 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
+      <td><img src="https://codigrate.com/util/color/A38063.png?width=30&height=30" alt="#A38063"></td>
+      <td>
+         Milky Coffee
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A38063">#A38063</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/BD7135.png?width=30&height=30" alt="#BD7135"></td>
+      <td>
+         Autumn Haze
+      </td>
+      <td>
+         Instance Fields
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/BD7135">#BD7135</a>
+      </td>
+   </tr>
+   <tr>
       <td><img src="https://codigrate.com/util/color/E26B03.png?width=30&height=30" alt="#E26B03"></td>
       <td>
          Autumn Blaze
@@ -3615,18 +3627,6 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
       <td>
          <a href="https://codigrate.com/tools/color/CF6106">#CF6106</a>
-      </td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/BD7135.png?width=30&height=30" alt="#BD7135"></td>
-      <td>
-         Autumn Haze
-      </td>
-      <td>
-         Instance Fields
-      </td>
-      <td>
-         <a href="https://codigrate.com/tools/color/BD7135">#BD7135</a>
       </td>
    </tr>
 </table>
