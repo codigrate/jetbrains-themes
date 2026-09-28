@@ -3606,15 +3606,15 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
       </td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CF6106.png?width=30&height=30" alt="#CF6106"></td>
+      <td><img src="https://codigrate.com/util/color/2C6E2F.png?width=30&height=30" alt="#2C6E2F"></td>
       <td>
-         Tricolour Orange
+         Forest Green
       </td>
       <td>
          Strings and Numbers
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/CF6106">#CF6106</a>
+         <a href="https://codigrate.com/tools/color/2C6E2F">#2C6E2F</a>
       </td>
    </tr>
    <tr>
