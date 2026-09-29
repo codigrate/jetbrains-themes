@@ -3485,7 +3485,7 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
 ---
 
 <p align="center">
-   <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
+   <a href="https://plugins.jetbrains.com/plugin/34642-dublin-theme">
       <img src="cities/dublin-theme/icon.png" alt="Dublin" width="160">
    </a>
 </p>
@@ -3496,7 +3496,9 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
    (Premium)
 </h1>
 
-[![Premium – All In One Themes](https://img.shields.io/badge/Premium-All%20In%20One%20Themes-00B4FF?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/30132-all-in-one-themes)
+[![Version](https://img.shields.io/jetbrains/plugin/v/34642-dublin-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/34642-dublin-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34642-dublin-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
 
 ## Description
 
