@@ -200,13 +200,13 @@
       "Button": {
         "installBorderColor": "accentColor",
         "installForeground": "accentColor",
-        "installBackground": "windowBackground",
+        "installBackground": "inputBackground",
         "installFillForeground": "accentColor",
-        "installFillBackground": "windowBackground",
+        "installFillBackground": "inputBackground",
         "installFocusedBackground": "selectionBackground",
         "updateBorderColor": "accentColor",
         "updateForeground": "accentColor",
-        "updateBackground": "windowBackground"
+        "updateBackground": "inputBackground"
       },
       "Tab": {
         "selectedBackground": "hoverBackground",
