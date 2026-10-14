@@ -10,6 +10,10 @@ all-in-one-themes/License.txt
 all-in-one-themes/all-in-one-themes.iml
 all-in-one-themes/resources/META-INF/plugin.xml
 all-in-one-themes/resources/META-INF/pluginIcon.svg
+# the All In One bundle is premium: its theme files and its code (the loaders) stay local
+all-in-one-themes/resources/theme/
+all-in-one-themes/src/
+all-in-one-themes/classes/
 
 ocean.*
 salda.*
