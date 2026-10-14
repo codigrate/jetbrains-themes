@@ -106,6 +106,7 @@
       "endBackground": "inputBackground",
       "focusedBorderColor": "selectionBorderColor",
       "disabledBorderColor": "borderColor",
+      "disabledText": "primaryForeground",
       "default": {
         "foreground": "primaryForeground",
         "startBackground": "inputBackground",
