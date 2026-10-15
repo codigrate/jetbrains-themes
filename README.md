@@ -941,6 +941,7 @@ Inspired by the sunset over Mount Roraima and the slow turn from day to night on
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34265-salda-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34265-salda-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34265-salda-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34265-salda-theme)
@@ -1092,6 +1093,7 @@ Inspired by the white shores and turquoise shallows of Lake Salda, this theme pa
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34257-ocean-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34257-ocean-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34257-ocean-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34257-ocean-theme)
@@ -1243,6 +1245,7 @@ Inspired by the deep sea and the quiet glow of life far below the surface, this 
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34268-reynisfjara-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34268-reynisfjara-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34268-reynisfjara-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme)
@@ -1394,6 +1397,7 @@ Inspired by the black sand of Reynisfjara at dusk, where basalt columns rise ove
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34272-etna-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34272-etna-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34272-etna-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34272-etna-theme)
@@ -1545,6 +1549,7 @@ Inspired by Mount Etna's nighttime eruptions, this dark theme builds on an ashen
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34273-fuji-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34273-fuji-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34273-fuji-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34273-fuji-theme)
@@ -1696,6 +1701,7 @@ Inspired by Mount Fuji at first light, this light theme rests on the soft coral-
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34269-spring-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34269-spring-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34269-spring-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34269-spring-theme)
@@ -2741,6 +2747,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34267-sydney-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34267-sydney-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34267-sydney-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34267-sydney-theme)
@@ -2892,6 +2899,7 @@ Inspired by Sydney Harbour at midday, from the white sails of the Opera House to
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34266-prague-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34266-prague-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34266-prague-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34266-prague-theme)
@@ -3043,6 +3051,7 @@ Inspired by Prague after dark, from the deep blues of the Vltava to the gas lamp
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34270-vienna-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34270-vienna-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34270-vienna-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34270-vienna-theme)
@@ -3194,6 +3203,7 @@ Inspired by a Viennese evening at the opera, from velvet seats and candlelit box
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34271-madrid-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34271-madrid-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34271-madrid-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34271-madrid-theme)
@@ -3345,6 +3355,7 @@ Inspired by a Madrid balcony at midday, from sunlit facades and saffron awnings 
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34274-london-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34274-london-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34274-london-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34274-london-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34274-london-theme)
@@ -3496,6 +3507,7 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
    (Premium)
 </h1>
 
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
 [![Version](https://img.shields.io/jetbrains/plugin/v/34642-dublin-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/34642-dublin-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
 [![Rating](https://img.shields.io/jetbrains/plugin/r/rating/34642-dublin-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/34642-dublin-theme)
