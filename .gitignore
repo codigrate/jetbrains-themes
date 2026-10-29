@@ -28,6 +28,7 @@ etna.*
 fuji.*
 london.*
 dublin.*
+bioluminescence.*
 
 # standalone PAID plugins of premium themes: plugin.xml + .iml stay local (theme json/xml already covered by <key>.* above)
 nature/ocean-theme/resources/META-INF/plugin.xml
@@ -66,3 +67,6 @@ cities/london-theme/License.md
 cities/dublin-theme/resources/META-INF/plugin.xml
 cities/dublin-theme/dublin-theme.iml
 cities/dublin-theme/License.md
+nature/bioluminescence-theme/resources/META-INF/plugin.xml
+nature/bioluminescence-theme/bioluminescence-theme.iml
+nature/bioluminescence-theme/License.md

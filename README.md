@@ -1839,6 +1839,158 @@ Inspired by a spring garden in full bloom, from tulip beds and crocus to the fir
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme">
+      <img src="nature/bioluminescence-theme/icon.png" alt="Bioluminescence" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Bioluminescence
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on JetBrains Marketplace](https://img.shields.io/badge/Premium-Buy%20on%20JetBrains%20Marketplace-00B4FF?style=for-the-badge)](https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme)
+[![Version](https://img.shields.io/jetbrains/plugin/v/35642-bioluminescence-theme.svg?label=Version&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/35642-bioluminescence-theme.svg?style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme)
+[![Rating](https://img.shields.io/jetbrains/plugin/r/rating/35642-bioluminescence-theme?label=Rating&style=for-the-badge&logo=jetbrains)](https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme)
+
+## Description
+
+Inspired by a bioluminescent shore at night, where every wave breaking on the sand lights up in electric blue, this dark theme rests on a near-black ocean base tinted with midnight navy, then lights it with glowing cyan, plankton blue, and violet accents. The deep water surface keeps long sessions calm, while the luminous cold accents draw the eye to what matters.
+
+## Screenshots
+
+<img src="nature/bioluminescence-theme/screenshot-1.png" alt="Bioluminescence screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/06080F.png?width=30&height=30" alt="#06080F"></td>
+      <td>
+         Deep Tide
+      </td>
+      <td>
+         Editor Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/06080F">#06080F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0D1220.png?width=30&height=30" alt="#0D1220"></td>
+      <td>
+         Midnight Water
+      </td>
+      <td>
+         Window Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0D1220">#0D1220</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E1526.png?width=30&height=30" alt="#0E1526"></td>
+      <td>
+         Dark Current
+      </td>
+      <td>
+         Separator Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0E1526">#0E1526</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/2F7BFF.png?width=30&height=30" alt="#2F7BFF"></td>
+      <td>
+         Electric Tide
+      </td>
+      <td>
+         Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/2F7BFF">#2F7BFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/A6B4FF.png?width=30&height=30" alt="#A6B4FF"></td>
+      <td>
+         Periwinkle Glow
+      </td>
+      <td>
+         Global Variables
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/A6B4FF">#A6B4FF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/8F7CFF.png?width=30&height=30" alt="#8F7CFF"></td>
+      <td>
+         Violet Depth
+      </td>
+      <td>
+         Secondary Accent Color
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/8F7CFF">#8F7CFF</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/36D4F0.png?width=30&height=30" alt="#36D4F0"></td>
+      <td>
+         Noctiluca
+      </td>
+      <td>
+         Search Match Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/36D4F0">#36D4F0</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/ACDAF6.png?width=30&height=30" alt="#ACDAF6"></td>
+      <td>
+         Shallow Glow
+      </td>
+      <td>
+         Parameters
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/ACDAF6">#ACDAF6</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/9CB0C8.png?width=30&height=30" alt="#9CB0C8"></td>
+      <td>
+         Sea Mist
+      </td>
+      <td>
+         Secondary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/9CB0C8">#9CB0C8</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/D7E3F2.png?width=30&height=30" alt="#D7E3F2"></td>
+      <td>
+         Moonlit Foam
+      </td>
+      <td>
+         Primary Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/D7E3F2">#D7E3F2</a>
+      </td>
+   </tr>
+</table>
+
 ## Cities
 
 <p align="center">
