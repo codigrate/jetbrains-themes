@@ -4,7 +4,7 @@
     <id>com.codigrate.everest.theme</id>
 
     <!-- SemVer -->
-    <version>2026.1.29</version>
+    <version>2026.1.30</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -193,469 +193,261 @@
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/main/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes"><b>All In One Themes</b></a><br/><sub>Multicolor - Dark/Light</sub></td>
-                <td>
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/salda-theme/icon.png" width="18" height="18" alt="Salda">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/spring-theme/icon.png" width="18" height="18" alt="Spring">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/fuji-theme/icon.png" width="18" height="18" alt="Fuji">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="18" height="18" alt="Ocean">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/reynisfjara-theme/icon.png" width="18" height="18" alt="Reynisfjara">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/etna-theme/icon.png" width="18" height="18" alt="Etna">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/sydney-theme/icon.png" width="18" height="18" alt="Sydney">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/madrid-theme/icon.png" width="18" height="18" alt="Madrid">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/prague-theme/icon.png" width="18" height="18" alt="Prague">
-                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/vienna-theme/icon.png" width="18" height="18" alt="Vienna"><br/>
+                <td width="216">
+                  <img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/assets/collection/all-in-one-icons.png" width="216" height="20" alt="All 25 Themes"><br/>
                   <sub>Collection - Bundle - Package</sub>
                 </td>
+                <td></td>
               </tr>
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/everest-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22653-everest-theme"><b>Everest</b></a><br/><sub>Nature - Light &middot; This Plugin</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FDFEFF.png?width=18&height=18" alt="#FDFEFF">
-                  <img src="https://codigrate.com/util/color/E4ECEF.png?width=18&height=18" alt="#E4ECEF">
-                  <img src="https://codigrate.com/util/color/1A6D9F.png?width=18&height=18" alt="#1A6D9F">
-                  <img src="https://codigrate.com/util/color/005E79.png?width=18&height=18" alt="#005E79">
-                  <img src="https://codigrate.com/util/color/007A47.png?width=18&height=18" alt="#007A47">
-                  <img src="https://codigrate.com/util/color/2E674F.png?width=18&height=18" alt="#2E674F">
-                  <img src="https://codigrate.com/util/color/83529B.png?width=18&height=18" alt="#83529B">
-                  <img src="https://codigrate.com/util/color/8C4069.png?width=18&height=18" alt="#8C4069">
-                  <img src="https://codigrate.com/util/color/ED7E5A.png?width=18&height=18" alt="#ED7E5A">
-                  <img src="https://codigrate.com/util/color/8F4446.png?width=18&height=18" alt="#8F4446"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FDFEFF-E4ECEF-1A6D9F-005E79-007A47-2E674F-83529B-8C4069-ED7E5A-8F4446.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Calm - Icy - Sunrise</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sakura-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22872-sakura-theme"><b>Sakura</b></a><br/><sub>Nature - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FEFCFC.png?width=18&height=18" alt="#FEFCFC">
-                  <img src="https://codigrate.com/util/color/F8DBE6.png?width=18&height=18" alt="#F8DBE6">
-                  <img src="https://codigrate.com/util/color/FFC9DC.png?width=18&height=18" alt="#FFC9DC">
-                  <img src="https://codigrate.com/util/color/CB6B91.png?width=18&height=18" alt="#CB6B91">
-                  <img src="https://codigrate.com/util/color/98556C.png?width=18&height=18" alt="#98556C">
-                  <img src="https://codigrate.com/util/color/DBEACB.png?width=18&height=18" alt="#DBEACB">
-                  <img src="https://codigrate.com/util/color/618C71.png?width=18&height=18" alt="#618C71">
-                  <img src="https://codigrate.com/util/color/69A2BD.png?width=18&height=18" alt="#69A2BD">
-                  <img src="https://codigrate.com/util/color/607FA9.png?width=18&height=18" alt="#607FA9">
-                  <img src="https://codigrate.com/util/color/687788.png?width=18&height=18" alt="#687788"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FEFCFC-F8DBE6-FFC9DC-CB6B91-98556C-DBEACB-618C71-69A2BD-607FA9-687788.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Pastel - Soft - Elegant</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/autumn-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme"><b>Autumn</b></a><br/><sub>Nature - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FCFBFA.png?width=18&height=18" alt="#FCFBFA">
-                  <img src="https://codigrate.com/util/color/F8F4F1.png?width=18&height=18" alt="#F8F4F1">
-                  <img src="https://codigrate.com/util/color/F4D3BD.png?width=18&height=18" alt="#F4D3BD">
-                  <img src="https://codigrate.com/util/color/BE553E.png?width=18&height=18" alt="#BE553E">
-                  <img src="https://codigrate.com/util/color/773918.png?width=18&height=18" alt="#773918">
-                  <img src="https://codigrate.com/util/color/B0633A.png?width=18&height=18" alt="#B0633A">
-                  <img src="https://codigrate.com/util/color/A87F25.png?width=18&height=18" alt="#A87F25">
-                  <img src="https://codigrate.com/util/color/1B591E.png?width=18&height=18" alt="#1B591E">
-                  <img src="https://codigrate.com/util/color/0E8113.png?width=18&height=18" alt="#0E8113">
-                  <img src="https://codigrate.com/util/color/006E83.png?width=18&height=18" alt="#006E83"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FCFBFA-F8F4F1-F4D3BD-BE553E-773918-B0633A-A87F25-1B591E-0E8113-006E83.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Cozy - Warm - Earthy</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/salda-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34265-salda-theme"><b>Salda</b></a><br/><sub>Nature - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FDFCFA.png?width=18&height=18" alt="#FDFCFA">
-                  <img src="https://codigrate.com/util/color/FDF6E7.png?width=18&height=18" alt="#FDF6E7">
-                  <img src="https://codigrate.com/util/color/ECE1C9.png?width=18&height=18" alt="#ECE1C9">
-                  <img src="https://codigrate.com/util/color/A59379.png?width=18&height=18" alt="#A59379">
-                  <img src="https://codigrate.com/util/color/8F6055.png?width=18&height=18" alt="#8F6055">
-                  <img src="https://codigrate.com/util/color/B8E4EC.png?width=18&height=18" alt="#B8E4EC">
-                  <img src="https://codigrate.com/util/color/1397AE.png?width=18&height=18" alt="#1397AE">
-                  <img src="https://codigrate.com/util/color/44849F.png?width=18&height=18" alt="#44849F">
-                  <img src="https://codigrate.com/util/color/277878.png?width=18&height=18" alt="#277878">
-                  <img src="https://codigrate.com/util/color/0F9363.png?width=18&height=18" alt="#0F9363"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FDFCFA-FDF6E7-ECE1C9-A59379-8F6055-B8E4EC-1397AE-44849F-277878-0F9363.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Airy - Fresh - Coastal</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/spring-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34269-spring-theme"><b>Spring</b></a><br/><sub>Nature - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/F4FFF1.png?width=18&height=18" alt="#F4FFF1">
-                  <img src="https://codigrate.com/util/color/C8EAB9.png?width=18&height=18" alt="#C8EAB9">
-                  <img src="https://codigrate.com/util/color/559569.png?width=18&height=18" alt="#559569">
-                  <img src="https://codigrate.com/util/color/3C8F63.png?width=18&height=18" alt="#3C8F63">
-                  <img src="https://codigrate.com/util/color/BA6173.png?width=18&height=18" alt="#BA6173">
-                  <img src="https://codigrate.com/util/color/DC8395.png?width=18&height=18" alt="#DC8395">
-                  <img src="https://codigrate.com/util/color/8C68AC.png?width=18&height=18" alt="#8C68AC">
-                  <img src="https://codigrate.com/util/color/D5B3F4.png?width=18&height=18" alt="#D5B3F4">
-                  <img src="https://codigrate.com/util/color/527FB6.png?width=18&height=18" alt="#527FB6">
-                  <img src="https://codigrate.com/util/color/5E9AAE.png?width=18&height=18" alt="#5E9AAE"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/F4FFF1-C8EAB9-559569-3C8F63-BA6173-DC8395-8C68AC-D5B3F4-527FB6-5E9AAE.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Floral - Refreshing - Gentle</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/fuji-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34273-fuji-theme"><b>Fuji</b></a><br/><sub>Nature - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FFFCFB.png?width=18&height=18" alt="#FFFCFB">
-                  <img src="https://codigrate.com/util/color/F5D9D0.png?width=18&height=18" alt="#F5D9D0">
-                  <img src="https://codigrate.com/util/color/DC5B26.png?width=18&height=18" alt="#DC5B26">
-                  <img src="https://codigrate.com/util/color/D37154.png?width=18&height=18" alt="#D37154">
-                  <img src="https://codigrate.com/util/color/DD747A.png?width=18&height=18" alt="#DD747A">
-                  <img src="https://codigrate.com/util/color/ED84B0.png?width=18&height=18" alt="#ED84B0">
-                  <img src="https://codigrate.com/util/color/BF8AB3.png?width=18&height=18" alt="#BF8AB3">
-                  <img src="https://codigrate.com/util/color/39A1A5.png?width=18&height=18" alt="#39A1A5">
-                  <img src="https://codigrate.com/util/color/5F7D9F.png?width=18&height=18" alt="#5F7D9F">
-                  <img src="https://codigrate.com/util/color/45302B.png?width=18&height=18" alt="#45302B"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FFFCFB-F5D9D0-DC5B26-D37154-DD747A-ED84B0-BF8AB3-39A1A5-5F7D9F-45302B.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Sunrise - Pastel - Warm</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/aurora-borealis-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme"><b>Aurora Borealis</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/142B37.png?width=18&height=18" alt="#142B37">
-                  <img src="https://codigrate.com/util/color/123243.png?width=18&height=18" alt="#123243">
-                  <img src="https://codigrate.com/util/color/549EFF.png?width=18&height=18" alt="#549EFF">
-                  <img src="https://codigrate.com/util/color/7ACEF5.png?width=18&height=18" alt="#7ACEF5">
-                  <img src="https://codigrate.com/util/color/043A33.png?width=18&height=18" alt="#043A33">
-                  <img src="https://codigrate.com/util/color/73D379.png?width=18&height=18" alt="#73D379">
-                  <img src="https://codigrate.com/util/color/05C0A6.png?width=18&height=18" alt="#05C0A6">
-                  <img src="https://codigrate.com/util/color/BB719B.png?width=18&height=18" alt="#BB719B">
-                  <img src="https://codigrate.com/util/color/D193BB.png?width=18&height=18" alt="#D193BB">
-                  <img src="https://codigrate.com/util/color/BAA5FF.png?width=18&height=18" alt="#BAA5FF"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/142B37-123243-549EFF-7ACEF5-043A33-73D379-05C0A6-BB719B-D193BB-BAA5FF.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Arctic - Cinematic - Luminous</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/sequoia-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme"><b>Sequoia</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/20231C.png?width=18&height=18" alt="#20231C">
-                  <img src="https://codigrate.com/util/color/32382C.png?width=18&height=18" alt="#32382C">
-                  <img src="https://codigrate.com/util/color/405133.png?width=18&height=18" alt="#405133">
-                  <img src="https://codigrate.com/util/color/6E9F56.png?width=18&height=18" alt="#6E9F56">
-                  <img src="https://codigrate.com/util/color/369772.png?width=18&height=18" alt="#369772">
-                  <img src="https://codigrate.com/util/color/A68F59.png?width=18&height=18" alt="#A68F59">
-                  <img src="https://codigrate.com/util/color/A67B5B.png?width=18&height=18" alt="#A67B5B">
-                  <img src="https://codigrate.com/util/color/A86255.png?width=18&height=18" alt="#A86255">
-                  <img src="https://codigrate.com/util/color/986969.png?width=18&height=18" alt="#986969">
-                  <img src="https://codigrate.com/util/color/6C625A.png?width=18&height=18" alt="#6C625A"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/20231C-32382C-405133-6E9F56-369772-A68F59-A67B5B-A86255-986969-6C625A.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Forest - Earthy - Calm</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/roraima-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/22961-roraima-theme"><b>Roraima</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/1E1A1B.png?width=18&height=18" alt="#1E1A1B">
-                  <img src="https://codigrate.com/util/color/322628.png?width=18&height=18" alt="#322628">
-                  <img src="https://codigrate.com/util/color/582F29.png?width=18&height=18" alt="#582F29">
-                  <img src="https://codigrate.com/util/color/D17458.png?width=18&height=18" alt="#D17458">
-                  <img src="https://codigrate.com/util/color/D69568.png?width=18&height=18" alt="#D69568">
-                  <img src="https://codigrate.com/util/color/D1BA46.png?width=18&height=18" alt="#D1BA46">
-                  <img src="https://codigrate.com/util/color/DDBE6D.png?width=18&height=18" alt="#DDBE6D">
-                  <img src="https://codigrate.com/util/color/ED8B8B.png?width=18&height=18" alt="#ED8B8B">
-                  <img src="https://codigrate.com/util/color/8F78B7.png?width=18&height=18" alt="#8F78B7">
-                  <img src="https://codigrate.com/util/color/7E6AA3.png?width=18&height=18" alt="#7E6AA3"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/1E1A1B-322628-582F29-D17458-D69568-D1BA46-DDBE6D-ED8B8B-8F78B7-7E6AA3.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Sunset - Mystical - Atmospheric</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/ocean-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34257-ocean-theme"><b>Ocean</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/102B2E.png?width=18&height=18" alt="#102B2E">
-                  <img src="https://codigrate.com/util/color/18383C.png?width=18&height=18" alt="#18383C">
-                  <img src="https://codigrate.com/util/color/1C4247.png?width=18&height=18" alt="#1C4247">
-                  <img src="https://codigrate.com/util/color/5AB590.png?width=18&height=18" alt="#5AB590">
-                  <img src="https://codigrate.com/util/color/3FB4D8.png?width=18&height=18" alt="#3FB4D8">
-                  <img src="https://codigrate.com/util/color/B88BDA.png?width=18&height=18" alt="#B88BDA">
-                  <img src="https://codigrate.com/util/color/EE8EBF.png?width=18&height=18" alt="#EE8EBF">
-                  <img src="https://codigrate.com/util/color/DC7783.png?width=18&height=18" alt="#DC7783">
-                  <img src="https://codigrate.com/util/color/DC9577.png?width=18&height=18" alt="#DC9577">
-                  <img src="https://codigrate.com/util/color/EAC089.png?width=18&height=18" alt="#EAC089"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/102B2E-18383C-1C4247-5AB590-3FB4D8-B88BDA-EE8EBF-DC7783-DC9577-EAC089.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Deep - Tranquil - Immersive</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/reynisfjara-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34268-reynisfjara-theme"><b>Reynisfjara</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/060709.png?width=18&height=18" alt="#060709">
-                  <img src="https://codigrate.com/util/color/151A20.png?width=18&height=18" alt="#151A20">
-                  <img src="https://codigrate.com/util/color/20262C.png?width=18&height=18" alt="#20262C">
-                  <img src="https://codigrate.com/util/color/2A3138.png?width=18&height=18" alt="#2A3138">
-                  <img src="https://codigrate.com/util/color/7D848D.png?width=18&height=18" alt="#7D848D">
-                  <img src="https://codigrate.com/util/color/8E8276.png?width=18&height=18" alt="#8E8276">
-                  <img src="https://codigrate.com/util/color/AC8563.png?width=18&height=18" alt="#AC8563">
-                  <img src="https://codigrate.com/util/color/C5A98F.png?width=18&height=18" alt="#C5A98F">
-                  <img src="https://codigrate.com/util/color/C3B9AD.png?width=18&height=18" alt="#C3B9AD">
-                  <img src="https://codigrate.com/util/color/B1AC9B.png?width=18&height=18" alt="#B1AC9B"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/060709-151A20-20262C-2A3138-7D848D-8E8276-AC8563-C5A98F-C3B9AD-B1AC9B.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Nordic - Muted - Cinematic</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/etna-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34272-etna-theme"><b>Etna</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/121111.png?width=18&height=18" alt="#121111">
-                  <img src="https://codigrate.com/util/color/1E1D1D.png?width=18&height=18" alt="#1E1D1D">
-                  <img src="https://codigrate.com/util/color/222121.png?width=18&height=18" alt="#222121">
-                  <img src="https://codigrate.com/util/color/D74C57.png?width=18&height=18" alt="#D74C57">
-                  <img src="https://codigrate.com/util/color/F1735F.png?width=18&height=18" alt="#F1735F">
-                  <img src="https://codigrate.com/util/color/C66439.png?width=18&height=18" alt="#C66439">
-                  <img src="https://codigrate.com/util/color/E67748.png?width=18&height=18" alt="#E67748">
-                  <img src="https://codigrate.com/util/color/E2BF79.png?width=18&height=18" alt="#E2BF79">
-                  <img src="https://codigrate.com/util/color/B3AEAE.png?width=18&height=18" alt="#B3AEAE">
-                  <img src="https://codigrate.com/util/color/D5CFCF.png?width=18&height=18" alt="#D5CFCF"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/121111-1E1D1D-222121-D74C57-F1735F-C66439-E67748-E2BF79-B3AEAE-D5CFCF.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Ember - Earthy - Cinematic</sub>
                 </td>
+                <td></td>
               </tr>
 
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/nature/bioluminescence-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/35642-bioluminescence-theme"><b>Bioluminescence</b></a><br/><sub>Nature - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/06080F.png?width=18&height=18" alt="#06080F">
-                  <img src="https://codigrate.com/util/color/0D1220.png?width=18&height=18" alt="#0D1220">
-                  <img src="https://codigrate.com/util/color/0E1526.png?width=18&height=18" alt="#0E1526">
-                  <img src="https://codigrate.com/util/color/2F7BFF.png?width=18&height=18" alt="#2F7BFF">
-                  <img src="https://codigrate.com/util/color/A6B4FF.png?width=18&height=18" alt="#A6B4FF">
-                  <img src="https://codigrate.com/util/color/8F7CFF.png?width=18&height=18" alt="#8F7CFF">
-                  <img src="https://codigrate.com/util/color/36D4F0.png?width=18&height=18" alt="#36D4F0">
-                  <img src="https://codigrate.com/util/color/ACDAF6.png?width=18&height=18" alt="#ACDAF6">
-                  <img src="https://codigrate.com/util/color/9CB0C8.png?width=18&height=18" alt="#9CB0C8">
-                  <img src="https://codigrate.com/util/color/D7E3F2.png?width=18&height=18" alt="#D7E3F2"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/06080F-0D1220-0E1526-2F7BFF-A6B4FF-8F7CFF-36D4F0-ACDAF6-9CB0C8-D7E3F2.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Neon - Luminous - Tranquil</sub>
                 </td>
+                <td></td>
               </tr>
 
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/istanbul-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme"><b>Istanbul</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FAFDFD.png?width=18&height=18" alt="#FAFDFD">
-                  <img src="https://codigrate.com/util/color/DBF0F1.png?width=18&height=18" alt="#DBF0F1">
-                  <img src="https://codigrate.com/util/color/A3DDE5.png?width=18&height=18" alt="#A3DDE5">
-                  <img src="https://codigrate.com/util/color/1190A1.png?width=18&height=18" alt="#1190A1">
-                  <img src="https://codigrate.com/util/color/0887B5.png?width=18&height=18" alt="#0887B5">
-                  <img src="https://codigrate.com/util/color/EFEAD0.png?width=18&height=18" alt="#EFEAD0">
-                  <img src="https://codigrate.com/util/color/B87958.png?width=18&height=18" alt="#B87958">
-                  <img src="https://codigrate.com/util/color/B8514D.png?width=18&height=18" alt="#B8514D">
-                  <img src="https://codigrate.com/util/color/C16979.png?width=18&height=18" alt="#C16979">
-                  <img src="https://codigrate.com/util/color/9C6E7C.png?width=18&height=18" alt="#9C6E7C"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FAFDFD-DBF0F1-A3DDE5-1190A1-0887B5-EFEAD0-B87958-B8514D-C16979-9C6E7C.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Mediterranean - Historic - Airy</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/rio-de-janeiro-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29621-rio-de-janeiro-theme"><b>Rio de Janeiro</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/F7FAF6.png?width=18&height=18" alt="#F7FAF6">
-                  <img src="https://codigrate.com/util/color/D9EFD2.png?width=18&height=18" alt="#D9EFD2">
-                  <img src="https://codigrate.com/util/color/85B778.png?width=18&height=18" alt="#85B778">
-                  <img src="https://codigrate.com/util/color/13A166.png?width=18&height=18" alt="#13A166">
-                  <img src="https://codigrate.com/util/color/028134.png?width=18&height=18" alt="#028134">
-                  <img src="https://codigrate.com/util/color/2287D5.png?width=18&height=18" alt="#2287D5">
-                  <img src="https://codigrate.com/util/color/0A80B3.png?width=18&height=18" alt="#0A80B3">
-                  <img src="https://codigrate.com/util/color/1065B8.png?width=18&height=18" alt="#1065B8">
-                  <img src="https://codigrate.com/util/color/A3860A.png?width=18&height=18" alt="#A3860A">
-                  <img src="https://codigrate.com/util/color/ECDA61.png?width=18&height=18" alt="#ECDA61"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/F7FAF6-D9EFD2-85B778-13A166-028134-2287D5-0A80B3-1065B8-A3860A-ECDA61.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Tropical - Coastal - Energetic</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tallinn-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme"><b>Tallinn</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/EDF2FA.png?width=18&height=18" alt="#EDF2FA">
-                  <img src="https://codigrate.com/util/color/D0DCEF.png?width=18&height=18" alt="#D0DCEF">
-                  <img src="https://codigrate.com/util/color/377CC1.png?width=18&height=18" alt="#377CC1">
-                  <img src="https://codigrate.com/util/color/425EB8.png?width=18&height=18" alt="#425EB8">
-                  <img src="https://codigrate.com/util/color/324979.png?width=18&height=18" alt="#324979">
-                  <img src="https://codigrate.com/util/color/81549C.png?width=18&height=18" alt="#81549C">
-                  <img src="https://codigrate.com/util/color/B6564B.png?width=18&height=18" alt="#B6564B">
-                  <img src="https://codigrate.com/util/color/B1544B.png?width=18&height=18" alt="#B1544B">
-                  <img src="https://codigrate.com/util/color/548A64.png?width=18&height=18" alt="#548A64">
-                  <img src="https://codigrate.com/util/color/1E7857.png?width=18&height=18" alt="#1E7857"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/EDF2FA-D0DCEF-377CC1-425EB8-324979-81549C-B6564B-B1544B-548A64-1E7857.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Nordic - Icy - Cool</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/sydney-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34267-sydney-theme"><b>Sydney</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/F6F9FA.png?width=18&height=18" alt="#F6F9FA">
-                  <img src="https://codigrate.com/util/color/CAE4EC.png?width=18&height=18" alt="#CAE4EC">
-                  <img src="https://codigrate.com/util/color/73B9D0.png?width=18&height=18" alt="#73B9D0">
-                  <img src="https://codigrate.com/util/color/169DC5.png?width=18&height=18" alt="#169DC5">
-                  <img src="https://codigrate.com/util/color/0F91C7.png?width=18&height=18" alt="#0F91C7">
-                  <img src="https://codigrate.com/util/color/2F9383.png?width=18&height=18" alt="#2F9383">
-                  <img src="https://codigrate.com/util/color/ECD268.png?width=18&height=18" alt="#ECD268">
-                  <img src="https://codigrate.com/util/color/AF8427.png?width=18&height=18" alt="#AF8427">
-                  <img src="https://codigrate.com/util/color/D17F51.png?width=18&height=18" alt="#D17F51">
-                  <img src="https://codigrate.com/util/color/BA7347.png?width=18&height=18" alt="#BA7347"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/F6F9FA-CAE4EC-73B9D0-169DC5-0F91C7-2F9383-ECD268-AF8427-D17F51-BA7347.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Coastal - Bright - Modern</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/madrid-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34271-madrid-theme"><b>Madrid</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/FDF5DF.png?width=18&height=18" alt="#FDF5DF">
-                  <img src="https://codigrate.com/util/color/E8C25D.png?width=18&height=18" alt="#E8C25D">
-                  <img src="https://codigrate.com/util/color/DCA225.png?width=18&height=18" alt="#DCA225">
-                  <img src="https://codigrate.com/util/color/A57F02.png?width=18&height=18" alt="#A57F02">
-                  <img src="https://codigrate.com/util/color/D37969.png?width=18&height=18" alt="#D37969">
-                  <img src="https://codigrate.com/util/color/BD503F.png?width=18&height=18" alt="#BD503F">
-                  <img src="https://codigrate.com/util/color/B84440.png?width=18&height=18" alt="#B84440">
-                  <img src="https://codigrate.com/util/color/902926.png?width=18&height=18" alt="#902926">
-                  <img src="https://codigrate.com/util/color/5A91A8.png?width=18&height=18" alt="#5A91A8">
-                  <img src="https://codigrate.com/util/color/349590.png?width=18&height=18" alt="#349590"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/FDF5DF-E8C25D-DCA225-A57F02-D37969-BD503F-B84440-902926-5A91A8-349590.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Warm - Energetic - Mediterranean</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/dublin-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34642-dublin-theme"><b>Dublin</b></a><br/><sub>City - Light</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/F1F9F3.png?width=18&height=18" alt="#F1F9F3">
-                  <img src="https://codigrate.com/util/color/D3F3DB.png?width=18&height=18" alt="#D3F3DB">
-                  <img src="https://codigrate.com/util/color/6CC682.png?width=18&height=18" alt="#6CC682">
-                  <img src="https://codigrate.com/util/color/169B62.png?width=18&height=18" alt="#169B62">
-                  <img src="https://codigrate.com/util/color/1F9140.png?width=18&height=18" alt="#1F9140">
-                  <img src="https://codigrate.com/util/color/E26B03.png?width=18&height=18" alt="#E26B03">
-                  <img src="https://codigrate.com/util/color/CF6106.png?width=18&height=18" alt="#CF6106">
-                  <img src="https://codigrate.com/util/color/BD7135.png?width=18&height=18" alt="#BD7135">
-                  <img src="https://codigrate.com/util/color/FACA73.png?width=18&height=18" alt="#FACA73">
-                  <img src="https://codigrate.com/util/color/A38063.png?width=18&height=18" alt="#A38063"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/F1F9F3-D3F3DB-6CC682-169B62-1F9140-E26B03-CF6106-BD7135-FACA73-A38063.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Forest - Fresh - Historic</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/miami-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29582-miami-theme"><b>Miami</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/33121D.png?width=18&height=18" alt="#33121D">
-                  <img src="https://codigrate.com/util/color/532033.png?width=18&height=18" alt="#532033">
-                  <img src="https://codigrate.com/util/color/FF5FA2.png?width=18&height=18" alt="#FF5FA2">
-                  <img src="https://codigrate.com/util/color/FE788C.png?width=18&height=18" alt="#FE788C">
-                  <img src="https://codigrate.com/util/color/FE8078.png?width=18&height=18" alt="#FE8078">
-                  <img src="https://codigrate.com/util/color/F2A4A0.png?width=18&height=18" alt="#F2A4A0">
-                  <img src="https://codigrate.com/util/color/92B5E8.png?width=18&height=18" alt="#92B5E8">
-                  <img src="https://codigrate.com/util/color/00D1C1.png?width=18&height=18" alt="#00D1C1">
-                  <img src="https://codigrate.com/util/color/82D59F.png?width=18&height=18" alt="#82D59F">
-                  <img src="https://codigrate.com/util/color/F8D273.png?width=18&height=18" alt="#F8D273"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/33121D-532033-FF5FA2-FE788C-FE8078-F2A4A0-92B5E8-00D1C1-82D59F-F8D273.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Neon - Tropical - Sunset</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/paris-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29603-paris-theme"><b>Paris</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/281D22.png?width=18&height=18" alt="#281D22">
-                  <img src="https://codigrate.com/util/color/4F303C.png?width=18&height=18" alt="#4F303C">
-                  <img src="https://codigrate.com/util/color/6A3C4D.png?width=18&height=18" alt="#6A3C4D">
-                  <img src="https://codigrate.com/util/color/D584A3.png?width=18&height=18" alt="#D584A3">
-                  <img src="https://codigrate.com/util/color/DF7583.png?width=18&height=18" alt="#DF7583">
-                  <img src="https://codigrate.com/util/color/F3B7A9.png?width=18&height=18" alt="#F3B7A9">
-                  <img src="https://codigrate.com/util/color/FBBA77.png?width=18&height=18" alt="#FBBA77">
-                  <img src="https://codigrate.com/util/color/F1C970.png?width=18&height=18" alt="#F1C970">
-                  <img src="https://codigrate.com/util/color/5E7BB3.png?width=18&height=18" alt="#5E7BB3">
-                  <img src="https://codigrate.com/util/color/87A1D3.png?width=18&height=18" alt="#87A1D3"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/281D22-4F303C-6A3C4D-D584A3-DF7583-F3B7A9-FBBA77-F1C970-5E7BB3-87A1D3.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Romantic - Elegant - Sunset</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/tokyo-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme"><b>Tokyo</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/1A1F35.png?width=18&height=18" alt="#1A1F35">
-                  <img src="https://codigrate.com/util/color/2A3051.png?width=18&height=18" alt="#2A3051">
-                  <img src="https://codigrate.com/util/color/7B89C8.png?width=18&height=18" alt="#7B89C8">
-                  <img src="https://codigrate.com/util/color/7FA0DD.png?width=18&height=18" alt="#7FA0DD">
-                  <img src="https://codigrate.com/util/color/7285DC.png?width=18&height=18" alt="#7285DC">
-                  <img src="https://codigrate.com/util/color/ECA1EB.png?width=18&height=18" alt="#ECA1EB">
-                  <img src="https://codigrate.com/util/color/D3B690.png?width=18&height=18" alt="#D3B690">
-                  <img src="https://codigrate.com/util/color/DD9B7F.png?width=18&height=18" alt="#DD9B7F">
-                  <img src="https://codigrate.com/util/color/5CC19D.png?width=18&height=18" alt="#5CC19D">
-                  <img src="https://codigrate.com/util/color/5DC8D6.png?width=18&height=18" alt="#5DC8D6"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/1A1F35-2A3051-7B89C8-7FA0DD-7285DC-ECA1EB-D3B690-DD9B7F-5CC19D-5DC8D6.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Neon - Futuristic - Energetic</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/prague-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34266-prague-theme"><b>Prague</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/0D1D2E.png?width=18&height=18" alt="#0D1D2E">
-                  <img src="https://codigrate.com/util/color/123151.png?width=18&height=18" alt="#123151">
-                  <img src="https://codigrate.com/util/color/113E6B.png?width=18&height=18" alt="#113E6B">
-                  <img src="https://codigrate.com/util/color/74ADF8.png?width=18&height=18" alt="#74ADF8">
-                  <img src="https://codigrate.com/util/color/89C5F8.png?width=18&height=18" alt="#89C5F8">
-                  <img src="https://codigrate.com/util/color/92A3B3.png?width=18&height=18" alt="#92A3B3">
-                  <img src="https://codigrate.com/util/color/DF865B.png?width=18&height=18" alt="#DF865B">
-                  <img src="https://codigrate.com/util/color/EFBA5A.png?width=18&height=18" alt="#EFBA5A">
-                  <img src="https://codigrate.com/util/color/E3CA77.png?width=18&height=18" alt="#E3CA77">
-                  <img src="https://codigrate.com/util/color/DCCF9D.png?width=18&height=18" alt="#DCCF9D"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/0D1D2E-123151-113E6B-74ADF8-89C5F8-92A3B3-DF865B-EFBA5A-E3CA77-DCCF9D.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Gothic - Historic - Timeless</sub>
                 </td>
+                <td></td>
               </tr>
 
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/vienna-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34270-vienna-theme"><b>Vienna</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/2C1D1D.png?width=18&height=18" alt="#2C1D1D">
-                  <img src="https://codigrate.com/util/color/4B2226.png?width=18&height=18" alt="#4B2226">
-                  <img src="https://codigrate.com/util/color/6A2F34.png?width=18&height=18" alt="#6A2F34">
-                  <img src="https://codigrate.com/util/color/D7999F.png?width=18&height=18" alt="#D7999F">
-                  <img src="https://codigrate.com/util/color/DCA826.png?width=18&height=18" alt="#DCA826">
-                  <img src="https://codigrate.com/util/color/EACF8C.png?width=18&height=18" alt="#EACF8C">
-                  <img src="https://codigrate.com/util/color/ECC39A.png?width=18&height=18" alt="#ECC39A">
-                  <img src="https://codigrate.com/util/color/F4D8B3.png?width=18&height=18" alt="#F4D8B3">
-                  <img src="https://codigrate.com/util/color/98A67D.png?width=18&height=18" alt="#98A67D">
-                  <img src="https://codigrate.com/util/color/B6C39C.png?width=18&height=18" alt="#B6C39C"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/2C1D1D-4B2226-6A2F34-D7999F-DCA826-EACF8C-ECC39A-F4D8B3-98A67D-B6C39C.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Royal - Velvet - Refined</sub>
                 </td>
+                <td></td>
               </tr>
               <tr>
                 <td width="72"><img src="https://raw.githubusercontent.com/codigrate/jetbrains-themes/refs/heads/main/cities/london-theme/icon.png" width="52"></td>
                 <td width="220"><a href="https://plugins.jetbrains.com/plugin/34274-london-theme"><b>London</b></a><br/><sub>City - Dark</sub></td>
-                <td>
-                  <img src="https://codigrate.com/util/color/201F29.png?width=18&height=18" alt="#201F29">
-                  <img src="https://codigrate.com/util/color/2D2B36.png?width=18&height=18" alt="#2D2B36">
-                  <img src="https://codigrate.com/util/color/3B3A45.png?width=18&height=18" alt="#3B3A45">
-                  <img src="https://codigrate.com/util/color/D42A44.png?width=18&height=18" alt="#D42A44">
-                  <img src="https://codigrate.com/util/color/EE4B5B.png?width=18&height=18" alt="#EE4B5B">
-                  <img src="https://codigrate.com/util/color/E88790.png?width=18&height=18" alt="#E88790">
-                  <img src="https://codigrate.com/util/color/5D89B0.png?width=18&height=18" alt="#5D89B0">
-                  <img src="https://codigrate.com/util/color/7FA3C6.png?width=18&height=18" alt="#7FA3C6">
-                  <img src="https://codigrate.com/util/color/A9ADC2.png?width=18&height=18" alt="#A9ADC2">
-                  <img src="https://codigrate.com/util/color/DDDFEA.png?width=18&height=18" alt="#DDDFEA"><br/>
+                <td width="180">
+                  <img src="https://codigrate.com/util/color/201F29-2D2B36-3B3A45-D42A44-EE4B5B-E88790-5D89B0-7FA3C6-A9ADC2-DDDFEA.png?width=36&amp;height=36" width="180" height="18" alt="Color Palette"><br/>
                   <sub>Royal - Atmospheric - Steel</sub>
                 </td>
+                <td></td>
               </tr>
             </table>
             <br/>
@@ -682,6 +474,12 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[ ]]> tags. -->
     <change-notes>
         <![CDATA[
+            <b>2026.1.30</b>
+            <ul>
+                <li>
+                    Fix description
+                </li>
+            </ul>
             <b>2026.1.29</b>
             <ul>
                 <li>
